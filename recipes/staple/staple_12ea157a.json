@@ -1,0 +1,29 @@
+{
+  "id": "staple_12ea157a",
+  "name": "电饭煲三文鱼炊饭",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "images": [
+    "images/staple/staple_12ea157a_0.webp"
+  ],
+  "ingredients": [
+    "米 50g / 人",
+    "三文鱼 300g / 人",
+    "水",
+    "牛油一汤匙 / 人"
+  ],
+  "tools": [],
+  "steps": [
+    "三文鱼去鳞，去骨",
+    "金菇、冬菇切碎",
+    "洗米三次",
+    "把三文鱼、米、牛油放入电饭煲",
+    "想口感浓厚一点，可以加多一汤匙牛油",
+    "根据电饭煲的刻度放水",
+    "把电饭煲調較至煲飯模式，等待大約 30 - 45 分鐘"
+  ],
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "41b0d01e00dea1bea217c7d20505fb27dcf7d7e1206dfd77bb78e7c36c0df4cd"
+}
