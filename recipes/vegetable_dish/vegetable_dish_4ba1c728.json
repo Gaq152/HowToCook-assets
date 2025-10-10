@@ -1,0 +1,27 @@
+{
+  "id": "vegetable_dish_4ba1c728",
+  "name": "洋葱炒鸡蛋",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "images": [
+    "images/vegetable_dish/vegetable_dish_4ba1c728_0.webp"
+  ],
+  "ingredients": [
+    "鸡蛋 2 个",
+    "洋葱 50 g",
+    "食用油 50 ml",
+    "盐 2 g",
+    "葱 半 根",
+    "料酒 2 ml"
+  ],
+  "tools": [],
+  "steps": [
+    "鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S",
+    "起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-3 分钟 后散上料酒出锅",
+    "鸡蛋装盘，散上葱花"
+  ],
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "30916899d12e1d68fcb1f0384ef72afb846a4d113fc7fe07dd9b9f3a2bfbac93"
+}

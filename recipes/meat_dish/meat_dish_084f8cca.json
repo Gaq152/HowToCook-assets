@@ -1,0 +1,52 @@
+{
+  "id": "meat_dish_084f8cca",
+  "name": "水煮牛肉",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "images": [
+    "images/meat_dish/meat_dish_084f8cca_0.webp",
+    "images/meat_dish/meat_dish_084f8cca_1.webp",
+    "images/meat_dish/meat_dish_084f8cca_2.webp",
+    "images/meat_dish/meat_dish_084f8cca_3.webp",
+    "images/meat_dish/meat_dish_084f8cca_4.webp",
+    "images/meat_dish/meat_dish_084f8cca_5.webp",
+    "images/meat_dish/meat_dish_084f8cca_6.webp",
+    "images/meat_dish/meat_dish_084f8cca_7.webp",
+    "images/meat_dish/meat_dish_084f8cca_8.webp",
+    "images/meat_dish/meat_dish_084f8cca_9.webp",
+    "images/meat_dish/meat_dish_084f8cca_10.webp",
+    "images/meat_dish/meat_dish_084f8cca_11.webp"
+  ],
+  "ingredients": [
+    "牛肉 300g",
+    "豆芽 100g",
+    "鸡蛋 1 个",
+    "香菜 5 根",
+    "豆瓣酱 10g",
+    "料酒 10ml",
+    "淀粉 15g",
+    "干辣椒粉 5g",
+    "姜 20g",
+    "蒜 3 瓣",
+    "红辣椒 1 根",
+    "蚝油 8g"
+  ],
+  "tools": [],
+  "steps": [
+    "牛肉洗干净切片。",
+    "加入 15g 姜丝，1 个鸡蛋，15g 淀粉，8g 蚝油，10ml 料酒搅拌均匀，腌制 15 分钟。",
+    "香菜洗干净切好。",
+    "锅里倒油，加入豆瓣酱，5g 姜丝，蒜片。",
+    "倒入开水，煮成红汤。",
+    "豆芽洗干净去掉尾须，放进开水里焯熟。",
+    "将豆芽铺入碗底。",
+    "将牛肉片一片一片的放进红汤中，煮熟以后捞出。",
+    "将牛肉铺在豆芽上，撒上香菜梗。",
+    "撒上香菜叶，辣椒粉，辣椒圈。",
+    "另起锅烧热油，将热油淋在菜上面，就完成了。"
+  ],
+  "tips": "- 参考: [水煮牛肉的详细步骤](https://www.zhms.cn/recipe/blrqm.html?source=2)\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "1611ae232f7b8c1ac024f834a082116b81b43907b0c5a3df35b95d4ecdfa0e20"
+}

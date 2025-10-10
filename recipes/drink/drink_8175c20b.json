@@ -1,0 +1,21 @@
+{
+  "id": "drink_8175c20b",
+  "name": "可乐桶",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "威士忌 100 毫升",
+    "可口可乐 500 毫升",
+    "柠檬 1 个",
+    "冰块 300 克"
+  ],
+  "tools": [
+    "手动压汁器"
+  ],
+  "steps": [],
+  "tips": "可乐桶因冰块和可乐的口感掩盖了威士忌的酒味，因此不善酒力的人也容易在不知不觉中过量饮酒，请在保证个人与饮酒者的安全下调配。\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "e9de8bcfd33707eda96277e6035326f154b3cc63e9042a12be07986fda39a2d5"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "meat_dish_6412ed06",
+  "name": "黔式腊肠娃娃菜",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 1,
+  "images": [
+    "images/meat_dish/meat_dish_6412ed06_0.webp"
+  ],
+  "ingredients": [
+    "黔式腊肠 200g",
+    "娃娃菜 300g",
+    "水 750ml"
+  ],
+  "tools": [],
+  "steps": [
+    "锅内放入 750ml 水，开火加热至沸腾",
+    "放入腊肠，计时 13 分钟",
+    "放入娃娃菜，计时 2 分钟",
+    "关火，夹出腊肠及娃娃菜",
+    "娃娃菜切段、腊肠切片，装盘"
+  ],
+  "tips": "- 根据锅的大小，建议以水量没过食材为宜，宁多勿少\n- 如果没有刀具，娃娃菜和腊肠不切也可以\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "28b92c9bcb8fa60a5fb9be8d71637efd15ed1e2344130217792d46960fedb4f0"
+}

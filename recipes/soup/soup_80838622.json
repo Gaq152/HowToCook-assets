@@ -1,0 +1,18 @@
+{
+  "id": "soup_80838622",
+  "name": "金针菇汤",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "金针菇 400-500 克 （市场里面售卖的一袋即可）",
+    "食盐 15 克",
+    "味精 5 克"
+  ],
+  "tools": [],
+  "steps": [],
+  "tips": "- 如果喜欢在汤里加入鸡蛋，可在步骤 3 中水沸腾之后将打散的鸡蛋液倒入锅中。\n- 出锅后可加入 3-4 滴香油（或者麻油）增香。\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "b158df902869e2409e6dfd8e4cdc57d3b41d93fca92ef5bfea4ec82976e54c32"
+}

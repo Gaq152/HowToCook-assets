@@ -1,0 +1,49 @@
+{
+  "id": "staple_8de7954b",
+  "name": "凉粉",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "images": [
+    "images/staple/staple_8de7954b_0.webp",
+    "images/staple/staple_8de7954b_1.webp",
+    "images/staple/staple_8de7954b_2.webp",
+    "images/staple/staple_8de7954b_3.webp",
+    "images/staple/staple_8de7954b_4.webp",
+    "images/staple/staple_8de7954b_5.webp",
+    "images/staple/staple_8de7954b_6.webp",
+    "images/staple/staple_8de7954b_7.webp",
+    "images/staple/staple_8de7954b_8.webp",
+    "images/staple/staple_8de7954b_9.webp",
+    "images/staple/staple_8de7954b_10.webp"
+  ],
+  "ingredients": [
+    "豌豆淀粉  100g",
+    "大蒜   3 瓣",
+    "小米辣  3 颗",
+    "辣椒粉  10g",
+    "酱油   10ml",
+    "醋   10ml",
+    "白糖  3ml",
+    "鸡精  3g",
+    "盐  3g",
+    "花生碎  5g",
+    "香菜  5g"
+  ],
+  "tools": [],
+  "steps": [
+    "准备食材。",
+    "把豌豆淀粉和水各 100 克混合搅拌。",
+    "往锅中倒入 600g 水，大火煮开后转为小火。",
+    "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀。",
+    "找一个容器，在容器中刷一层薄薄的食用油。",
+    "将煮好的淀粉倒入容器中冷藏 2-4 小时。",
+    "冷藏后取出，脱模，切条。",
+    "大蒜和小米辣剁成沫，放上 10g 辣椒粉，5g 花生碎，热油搅拌均匀。",
+    "再加入 10ml 酱油，10ml 醋，5g 白糖，3g 鸡精，3g 盐搅拌均匀。",
+    "将调味料倒在凉粉上，然后撒上香菜即可。"
+  ],
+  "tips": "- 参考: [制作凉粉的详细步骤](https://www.zhms.cn/recipe/mzvyy.html?source=2)\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "179f6d6f7b0209b02b291fc9169652c23ed724887378b2cd8d9a58fb9b28621b"
+}

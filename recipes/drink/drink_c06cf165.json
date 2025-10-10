@@ -1,0 +1,27 @@
+{
+  "id": "drink_c06cf165",
+  "name": "柠檬水",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "images": [
+    "images/drink/drink_c06cf165_0.webp"
+  ],
+  "ingredients": [
+    "柠檬 40~45 克",
+    "果蜜 40~45 克",
+    "冰几块（可选）"
+  ],
+  "tools": [],
+  "steps": [
+    "称 40~45 克柠檬，放入雪克杯中",
+    "雪克杯盖盖子锤大约 10 次",
+    "加入果蜜 40~45 克",
+    "补水",
+    "摇晃均匀",
+    "最后根据喜好加冰"
+  ],
+  "tips": "- 参考资料：[柠檬水教程](https://v.douyin.com/TVNTcXDi46I)\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "2e8baae7e7440b8146691a3c2cf5b487a8ec2070b71314ec4d3c85d798d15026"
+}

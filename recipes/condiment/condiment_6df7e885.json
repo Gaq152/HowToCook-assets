@@ -1,0 +1,25 @@
+{
+  "id": "condiment_6df7e885",
+  "name": "蒜香酱油",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "蒜头 2 瓣",
+    "白芝麻 5 克",
+    "花生油 15 毫升",
+    "酱油 30 毫升",
+    "蘸料碟 1 个"
+  ],
+  "tools": [],
+  "steps": [
+    "拍碎蒜头",
+    "往蘸料碟中加入酱油",
+    "起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟",
+    "半分钟后，关火，把热油倒入蘸料碟，用筷子搅拌即可"
+  ],
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "7be8357909d88ac37ed036f7d9d417dd70193e67550747c95db18ac015b77f5e"
+}

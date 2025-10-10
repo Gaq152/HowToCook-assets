@@ -1,0 +1,24 @@
+{
+  "id": "vegetable_dish_9db3e8b3",
+  "name": "白灼菜心",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "images": [
+    "images/vegetable_dish/vegetable_dish_9db3e8b3_0.webp"
+  ],
+  "ingredients": [
+    "新鲜菜心 250g",
+    "食用油 10g",
+    "调一个灵魂料汁儿",
+    "生抽 5g",
+    "蚝油 5g",
+    "盐、糖 5g",
+    "大蒜四五瓣、小米辣一两根"
+  ],
+  "tools": [],
+  "steps": [],
+  "tips": "- 选择菜心一定要比较新鲜！新鲜！\n- 锅内烧清水要加油和盐\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "fdb78c1cfdf6696ee57ce11bd16b0fa6ddd5f7e70c405650dc5096e042617753"
+}

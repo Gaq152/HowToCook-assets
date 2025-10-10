@@ -1,0 +1,22 @@
+{
+  "id": "condiment_f276bc66",
+  "name": "蔗糖糖浆",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 1,
+  "images": [
+    "images/condiment/condiment_f276bc66_0.webp"
+  ],
+  "ingredients": [
+    "建议比例=>糖 : 水 = 1 : 1，这样方便进行糖量控制，比如想要 15 克糖，就量取 30 克的糖浆",
+    "水 100 克",
+    "白砂糖 100 克"
+  ],
+  "tools": [
+    "可密封容器（建议使用高硼硅试剂瓶，便宜）"
+  ],
+  "steps": [],
+  "tips": "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆。\n配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的。\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "07cd362d05326235c1842e8ee1e84102076ad816609e2f8f40521e4342711dd1"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "staple_b2db871d",
+  "name": "鲣鱼海苔玉米饭",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "images": [
+    "images/staple/staple_b2db871d_0.webp"
+  ],
+  "ingredients": [
+    "鲣鱼海苔碎 20g",
+    "玉米粒 80g/袋"
+  ],
+  "tools": [
+    "必备：东北米（金龙鱼 30 元 5kg 的就行，推荐使用米家 IH 电饭煲煮，教程用的是米家小饭煲，**不推荐使用高压锅煮饭**）"
+  ],
+  "steps": [
+    "盛好米饭，放入玉米粒拌好",
+    "放入鲣鱼海苔碎"
+  ],
+  "tips": "- 使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "9efe0595e122344b3f02f3d11d0e4767d42d346d0da17020339301e3f9c3d242"
+}

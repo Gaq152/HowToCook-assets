@@ -1,0 +1,25 @@
+{
+  "id": "condiment_491d23fe",
+  "name": "糖醋汁",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "清水(50ml)",
+    "生抽(40ml)",
+    "白糖(30g)",
+    "白醋(20ml)",
+    "料酒(10ml)"
+  ],
+  "tools": [],
+  "steps": [
+    "按照比例将各调料在小碗中搅拌均匀",
+    "按不同菜肴的方式处理完毕后，将配制好的糖醋汁倒入锅中",
+    "根据各菜肴的不同，烹制 5-10 分钟",
+    "大火收汁，可增加菜的浓度、香味和光泽"
+  ],
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "d55dce80704a74175e0b7e2bc6c1bcae34162d719678efaa3d9dc056a3a475bf"
+}

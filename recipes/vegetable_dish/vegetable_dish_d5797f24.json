@@ -1,0 +1,26 @@
+{
+  "id": "vegetable_dish_d5797f24",
+  "name": "炒滑蛋",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "images": [
+    "images/vegetable_dish/vegetable_dish_d5797f24_0.webp"
+  ],
+  "ingredients": [
+    "鸡蛋 4 颗",
+    "牛奶 30ml",
+    "食用油 10ml"
+  ],
+  "tools": [],
+  "steps": [
+    "鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用",
+    "大火烧热平底锅约 30s, 加入 5ml 食用油",
+    "烧 30s 转小火, 并且放入搅拌好的鸡蛋",
+    "在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间",
+    "翻炒至鸡蛋大致凝固后关火，装盘"
+  ],
+  "tips": "- 最后可根据个人口味撒些黑胡椒或者盐来调味。\n参考资料\n- [甜琛廚房](http://sweetheartkitchen.com/recipes/scrambled-egg/)\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "6b7e4971b12c53ebbd3a6474c189c2599d4d588af8a08be1f09d53539e209a82"
+}

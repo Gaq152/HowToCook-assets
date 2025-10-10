@@ -1,0 +1,24 @@
+{
+  "id": "drink_f6a7c72d",
+  "name": "金菲士",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "images": [
+    "images/drink/drink_f6a7c72d_0.webp"
+  ],
+  "ingredients": [
+    "金酒 30~40 毫升",
+    "苏打气泡水 1 罐",
+    "柠檬 1 个",
+    "1 : 1 蔗糖糖浆 30~40 克",
+    "冰块 100 克"
+  ],
+  "tools": [
+    "手动压汁器"
+  ],
+  "steps": [],
+  "tips": "### 成品\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "a5b378620d342ef44dec7a8853aaaf6f64186a7440131513778dafd7183f1943"
+}

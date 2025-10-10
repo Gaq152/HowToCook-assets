@@ -1,0 +1,19 @@
+{
+  "id": "dessert_d1eb32ee",
+  "name": "龟苓膏",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 2,
+  "images": [
+    "images/dessert/dessert_d1eb32ee_0.webp"
+  ],
+  "ingredients": [],
+  "tools": [
+    "小锅",
+    "模具或碗"
+  ],
+  "steps": [],
+  "tips": "- 龟苓膏冷却过程中不可随意移动容器，否则可能影响成型。\n- 加热时应避免使用大火，防止结块或糊底。\n- 可根据个人口味添加蜂蜜、炼乳或水果食用。\n- 不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。\n---\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "25b96c0391f4291da3e66862eda16c21782c8cf7f18cfe5dc626affb24999154"
+}

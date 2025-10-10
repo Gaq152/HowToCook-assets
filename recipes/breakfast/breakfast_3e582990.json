@@ -1,0 +1,34 @@
+{
+  "id": "breakfast_3e582990",
+  "name": "苏格兰蛋",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 3,
+  "images": [
+    "images/breakfast/breakfast_3e582990_0.webp",
+    "images/breakfast/breakfast_3e582990_1.webp",
+    "images/breakfast/breakfast_3e582990_2.webp"
+  ],
+  "ingredients": [
+    "鸡蛋 50g（约 1 颗）",
+    "手抓饼 1 份-2 份（看鸡蛋大小）",
+    "芝士片 1-2 片",
+    "培根片 1-2 片"
+  ],
+  "tools": [
+    "空气炸锅或者油锅"
+  ],
+  "steps": [
+    "用冷水下锅水开 3 分钟后捞出",
+    "鸡蛋捞出，放入冰水中剥壳更快速也更完整",
+    "用芝士片包裹鸡蛋",
+    "培根片包裹鸡蛋",
+    "手抓饼两端切除以矩形包裹鸡蛋",
+    "油温 6 成下锅（油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度） 炸制金黄即可",
+    "空气炸锅 160 度 15 分钟",
+    "切开即可食用"
+  ],
+  "tips": "- 芝士片、培根片、手抓饼直接淘宝购买即可\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "0fd48fa7d22c92055e5241f705b559a97307438077ef47e2a93fc49d0464a5ff"
+}

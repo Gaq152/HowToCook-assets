@@ -1,0 +1,21 @@
+{
+  "id": "soup_92395d98",
+  "name": "西红柿鸡蛋汤",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "西红柿 1 个",
+    "鸡蛋 1-2 个（依照自己的口味而定，喜欢吃鸡蛋就放 2 个，一般就放 1 个）",
+    "香油 2 滴",
+    "味素 5 克（可选）",
+    "盐 15 克",
+    "葱、姜、蒜共 15 克"
+  ],
+  "tools": [],
+  "steps": [],
+  "tips": "味素可加可不加。\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "ac990adcac052ae9c7943848f2fa0b4c11343b6242dc3fb45ce8aadbbe7a6077"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "vegetable_dish_b7d3f0b0",
+  "name": "话梅煮毛豆",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "images": [
+    "images/vegetable_dish/vegetable_dish_b7d3f0b0_0.webp"
+  ],
+  "ingredients": [
+    "毛豆 300 g",
+    "话梅 6 颗",
+    "食用盐 2 g"
+  ],
+  "tools": [],
+  "steps": [
+    "清水加入食用盐，毛豆浸泡 15 分钟",
+    "加入开水，倒入毛豆、话梅，水煮 20-30 分钟",
+    "起锅开吃"
+  ],
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "dda247a04c468bdd695a17efb7e85aaabf510b42912d2cd1fd619fa0f805b42f"
+}

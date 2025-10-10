@@ -1,0 +1,38 @@
+{
+  "id": "staple_b2f26072",
+  "name": "茄子肉煎饼",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "images": [
+    "images/staple/staple_b2f26072_0.webp",
+    "images/staple/staple_b2f26072_1.webp",
+    "images/staple/staple_b2f26072_2.webp",
+    "images/staple/staple_b2f26072_3.webp",
+    "images/staple/staple_b2f26072_4.webp",
+    "images/staple/staple_b2f26072_5.webp",
+    "images/staple/staple_b2f26072_6.webp",
+    "images/staple/staple_b2f26072_7.webp"
+  ],
+  "ingredients": [
+    "米粉 250g",
+    "面粉 50g",
+    "鸡蛋 1 个",
+    "煮熟的腊肉 100g",
+    "茄子 1 根（约 10-15cm 长）",
+    "食用油 10-15ml",
+    "食盐 1-2g"
+  ],
+  "tools": [],
+  "steps": [
+    "将茄子去皮后切成片，将腊肉切成片，备用",
+    "依次向盆中加入 250g 米粉（大米研磨成的粉）、50g 面粉和 1 个鸡蛋",
+    "边用筷子搅拌，边加入清水（**清水用于调节粘稠度**），使米粉、面粉、鸡蛋混合成面糊,当面糊能够附着在茄片、肉片上而不掉落时停止加水，而后将所有茄片和肉片放入面糊中，用面糊充分包裹",
+    "平底锅加入食用油**10-30ml**，开小火",
+    "用筷子或勺子把裹了面糊的茄片、肉片放入锅中，先煎至两面金黄，再煎**3-6分钟**（**煎的过程中，食用油会变少，可再添加食用油**）",
+    "撒盐，翻炒均匀，起锅装盘"
+  ],
+  "tips": "* 用小火煎\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "a988ec63eee18231bd8f143895f5a0714833039b113cb5975eab69d5044a7811"
+}

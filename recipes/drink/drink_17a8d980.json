@@ -1,0 +1,19 @@
+{
+  "id": "drink_17a8d980",
+  "name": "冬瓜茶",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "images": [],
+  "ingredients": [
+    "冬瓜 1000g",
+    "冰糖 300g"
+  ],
+  "tools": [
+    "大锅"
+  ],
+  "steps": [],
+  "tips": "- **口感调整**：冰糖的用量可以调整，以达到个人喜好的甜度。\n- **保存方法**：冷藏保存，建议 1 周内喝完。\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "hash": "33a31ef24ee361e38902828dc4ebbca1ba0564d43021885bd20b385d1c9153e9"
+}
