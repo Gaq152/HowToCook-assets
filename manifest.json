@@ -1,0 +1,3130 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-10-09T18:21:00.382Z",
+  "totalRecipes": 326,
+  "totalTips": 18,
+  "categories": {
+    "aquatic": {
+      "name": "水产",
+      "count": 24
+    },
+    "breakfast": {
+      "name": "早餐",
+      "count": 22
+    },
+    "condiment": {
+      "name": "调料",
+      "count": 9
+    },
+    "dessert": {
+      "name": "甜品",
+      "count": 18
+    },
+    "drink": {
+      "name": "饮料",
+      "count": 21
+    },
+    "meat_dish": {
+      "name": "荤菜",
+      "count": 98
+    },
+    "semi-finished": {
+      "name": "半成品",
+      "count": 10
+    },
+    "soup": {
+      "name": "汤粥",
+      "count": 20
+    },
+    "staple": {
+      "name": "主食",
+      "count": 48
+    },
+    "template": {
+      "name": "template",
+      "count": 1
+    },
+    "vegetable_dish": {
+      "name": "素菜",
+      "count": 55
+    }
+  },
+  "tipsCategories": {
+    "advanced": {
+      "name": "进阶知识",
+      "count": 4
+    },
+    "learn": {
+      "name": "基础技法",
+      "count": 11
+    },
+    "general": {
+      "name": "基础知识",
+      "count": 3
+    }
+  },
+  "recipes": [
+    {
+      "id": "aquatic_97b24536",
+      "name": "咖喱炒蟹",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "e86d8208bd319336fa62e266a4cf8d3f4a60d308e7f9b7c74dd02f88b88575b6",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_2749d071",
+      "name": "小龙虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "b5fd3f56aa03d7a9b7024fa319aaab2a46b1811b1ddf1958af9fbf95556e95df",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_5ee1668c",
+      "name": "干煎阿根廷红虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "0e8a441bd397b24527676a810ff49a963f3b184b4c2c8feec675c066fe4b0c9e",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_3c11a1ee",
+      "name": "微波葱姜黑鳕鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "0745c1aece4b50347de9eb4f685c2ec3074082017fc847080a64fe7c6a7889bb",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_cde57a22",
+      "name": "水煮鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "8c43b0f6fe06221491a95c23a2e35fe496ef3749d160110a554e41bdd6e8d431",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_9b178156",
+      "name": "油焖大虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "b67c847a698c4666ed79afc62bf1880ee1f80d20a36d885cea59059a04c25420",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_706ce316",
+      "name": "烤鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "6ccb32b4225d6a05c9874e95164bd22e893e4a0c753ecdc3637d166d041b854a",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_d10b5ae7",
+      "name": "清蒸生蚝",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "560596fb2692b9463af065c65188843973754ca7a8e1dd88fcc2548536027138",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_849a47d1",
+      "name": "清蒸鲈鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 0,
+      "hash": "106874dbc30d29e79906240ab71fbd06784033674a0327690b3f8d9798d8405b",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_28c3c7c3",
+      "name": "白灼虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "hash": "594e66de6917fd7e9daea96cfc761d2de8d88cdfbef0a72cd93f8e62879319b2",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_8bfd57d8",
+      "name": "糖醋鲤鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 0,
+      "hash": "4965f52dca54138db095fdfa84554718f93c9710c176ea6dcd4ffaef4065d2ad",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_a7a91bd9",
+      "name": "红烧鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "34dd4145dbc9949f9c08a8475f93abc40b25cd288c0dd4fd91dd5ebf4dafa63d",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_8e3251fb",
+      "name": "红烧鱼头",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "8f3fe93ae68957a2680e16749e49c6b175d1e449ba593b3eb05ee43b78220423",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_28c2e3b4",
+      "name": "红烧鲤鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "fe87a2639deeb8c2dd220931916c74cc5de155c3db5615ba152e9f0eb42a48c2",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_5603da82",
+      "name": "芥末黄油罗氏虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "352272516c1fd11ae66d1e2e3605ac4df96e83a532ab16117fd04f194b576c56",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_e47c3c99",
+      "name": "葱油桂鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "541bcfe347c75cfe14a4db6986d9f67d4997cfb39cf23b40fca5e156f54ae617",
+      "hasImages": false
+    },
+    {
+      "id": "aquatic_376efe24",
+      "name": "葱烧海参",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "5070bc71efb98111055b85d429247f680b0d37b2436c9d738f4dd441d581d44f",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_c2b2b20e",
+      "name": "蒜蓉虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "hash": "36d8e05ce0d3e31e581e1493753fade3450522239b2f1f7e54b5593a6cf9432c",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_17b4109a",
+      "name": "蒜香黄油虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "hash": "9272917954ca5137e2f96476d329ea83b05444a9faf82015289595712caae6f5",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_43c732f1",
+      "name": "蛏抱蛋",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "db52ae4a536d687e291e25e3e778de8c6ca88bb524b81308b5a867e4fe74191a",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_7093e3ab",
+      "name": "香煎翘嘴鱼",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "hash": "ad1fdd68bf8add39509f8a256b43e0d91a275b0759977dbef803c83ce188db77",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_d63cc518",
+      "name": "鲤鱼炖白菜",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "a85581b4865e4ba912a62e0a7e3b07a68b19f993c70568fca6331245f9d08203",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_d4c3eb44",
+      "name": "鳊鱼炖豆腐",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "97a5c432782b71cc347c31f627485f4268b863d8b2073b3a950212106a605570",
+      "hasImages": true
+    },
+    {
+      "id": "aquatic_45c4788b",
+      "name": "黄油煎虾",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "hash": "79b36386cfe2173835276052df16b5e1c448cde0f62465b0c0b13e09a2e9d6cf",
+      "hasImages": true
+    },
+    {
+      "id": "breakfast_fc251fde",
+      "name": "吐司果酱",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "941a19a0a61ef126a409850ec584f0548a5741a0cdb0664ef0972be90972fe0a",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_f46d05b8",
+      "name": "太阳蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "a9c05afb2074f89dced402da15fd8525ec5fafd0fb6af21dcca3b2dcae7ef5a8",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_45c75ea6",
+      "name": "完美水煮蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 5,
+      "hash": "f1cb40e4abe009205992d7240dc3968700af78d177630fa078738c3588831200",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_3850601a",
+      "name": "微波炉荷包蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "cb1ffd74f1f4547229222e6ba987d97db9aa0a05b2b5ee6fee400837481cddf2",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_efd07d35",
+      "name": "微波炉蛋糕",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "57d15eacd56d74c05f945480d9e88e3f10687cfdb3325741e740273849f0af90",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_1990d584",
+      "name": "手抓饼",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "69d2f2139ff6ea6acef71ef0b2c0fc44c9551fe448b25ecca3ad2aa7f0e4ddb3",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_e892f89c",
+      "name": "桂圆红枣粥",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "d88f1631810b75ad27a7772655ce4424b08951a2d84c449d90fdfad7638a01e7",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_a04cfccc",
+      "name": "水煮玉米",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "b485b17451c15ea3bbfa41881e865e4381559b1335c76a01f0760b75067c1749",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_6bcc5369",
+      "name": "温泉蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "hash": "72f3cc6de7c29e07598aa61e8091bfa8437e0c1848c8e862acc0496732feb405",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_1376754e",
+      "name": "溏心蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "hash": "c8270c57dcd9dca6f2a6c09637eba4912eb3c3742431e63c53b12c643b53b41f",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_af382287",
+      "name": "煎饺",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "8c7f5914a104e0408942f8b5a0f286a964320df865420ed858ca0f6639439a98",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_86643b0a",
+      "name": "燕麦鸡蛋饼",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "ed9c680ccbdbefc9a7623566506d3be20bd351f31d84a3c154f67b1317f5c0f8",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_317b5386",
+      "name": "牛奶燕麦",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "6703b7f8bb702ae8ccfa01a5c409b5169b47cc03e975d4d951d81a6949d2c9ad",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_74832fb6",
+      "name": "空气炸锅面包片",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "5b458868be8946fca5e0880d2b1a0c6babf1306c0e7b2590f09d756e19b46f52",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_eb6189c2",
+      "name": "美式炒蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "75debd4dfa1e6b7af58e1303a79654a9d4285bd4f5340971e0a69e80ac0456a5",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_3e582990",
+      "name": "苏格兰蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "hash": "0fd48fa7d22c92055e5241f705b559a97307438077ef47e2a93fc49d0464a5ff",
+      "hasImages": true
+    },
+    {
+      "id": "breakfast_72f84032",
+      "name": "茶叶蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "hash": "f4af13d0f34f06d69faeb39e52d80388bb87aa8271e3b3d9d140c7ea50332937",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_6f83af1c",
+      "name": "蒸水蛋",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "999adebd2c7b0307b690a123791fa862ed9616dd30d1dd7723f8f79dfbb96495",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_8df15267",
+      "name": "蒸花卷",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "bd60daae4b9c06c31f1ef5244f4cc1b4130c0bf9b073d6beb6a18e126d6129af",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_c7c510a4",
+      "name": "蛋煎糍粑",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "e3d36fe5c67d187cfd9cbad1787686768942c9050b7fa3d140f4c161d31d8f6e",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_a065206f",
+      "name": "金枪鱼酱三明治",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "hash": "45d7eae556b088e0270fc7e8810033f347c6d5f5db63e56c939b3a3222c771b3",
+      "hasImages": false
+    },
+    {
+      "id": "breakfast_c3d2a2fd",
+      "name": "鸡蛋三明治",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "hash": "acaa9ed92eae8cae84fcb94e9b9059b2d7fbe5d77e238702aae21587733b2a60",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_3b554f0d",
+      "name": "油泼辣子",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 3,
+      "hash": "a37791340241657b6ed148a7fa4cca8267460c068e1d2793ce50bb2757aa6b17",
+      "hasImages": true
+    },
+    {
+      "id": "condiment_2499dc8b",
+      "name": "油酥",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "hash": "d31242a1e4164357a80d94810ff8724295184ba08a58994d06c24f2e5b88ba44",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_28d7cc43",
+      "name": "炸串酱料",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "hash": "ee5295b7829bcc68385d754c227576f72ae89f96aa67c27fa53b31c3eec04442",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_7d5996ac",
+      "name": "简易版炒糖色",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 4,
+      "hash": "facc6f69f18f092d011388359afb7157ab75ccd6c5fa983bc1089bc1a2f02eca",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_491d23fe",
+      "name": "糖醋汁",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "hash": "d55dce80704a74175e0b7e2bc6c1bcae34162d719678efaa3d9dc056a3a475bf",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_241627f2",
+      "name": "草莓酱",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "hash": "80e50503b8828dbabbee93acc54fdee83ae5d20ac0dbb4175213dd476940c04c",
+      "hasImages": true
+    },
+    {
+      "id": "condiment_231c5b16",
+      "name": "葱油",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 3,
+      "hash": "98ddf8854745ae974e396e6bd01cb038fa68b6c231db68c9fff4fc39eb3bafb5",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_6df7e885",
+      "name": "蒜香酱油",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "hash": "7be8357909d88ac37ed036f7d9d417dd70193e67550747c95db18ac015b77f5e",
+      "hasImages": false
+    },
+    {
+      "id": "condiment_f276bc66",
+      "name": "蔗糖糖浆",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 1,
+      "hash": "07cd362d05326235c1842e8ee1e84102076ad816609e2f8f40521e4342711dd1",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_07c13985",
+      "name": "反沙芋头",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "e6ce45722b10e27508f176947f556b66bb75670ce9b6c2e69da501142e6684fa",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_d1ccc72e",
+      "name": "咖啡椰奶冻",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "hash": "22658add8bb6600404acaa1e0a6bd7cd13325257a48cccfe59899a7c726a6cbe",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_6bbb6512",
+      "name": "奥利奥冰淇淋",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "c7990c169d73390f7029f4de09255ab64fe56de9cbf2991f3c1e3d4bd2797774",
+      "hasImages": false
+    },
+    {
+      "id": "dessert_ab78a496",
+      "name": "戚风蛋糕",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "hash": "84b403910e6f26b62fe42c492a8a71c069ed84cc72e75993b6e212db69128dd6",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_6b3856a6",
+      "name": "提拉米苏",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "hash": "06ec4e264fbe650e1a7521b22f180b8df41224d6dd70212e32e2b9837a61ec81",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_dd04e783",
+      "name": "无厨师机蜂蜜面包",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "hash": "3d287cab40a63188e26953743f3fd54600119e48b82576b80dc992c303bf812c",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_41a0ab6c",
+      "name": "炸鲜奶",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "7305ddaf7ca31e304209a85e51c35469b922d9efc3c0d8010dc6b04cbeafcbf7",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_448181d9",
+      "name": "烤箱版巴斯克芝士蛋糕",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "hash": "7d9f4b5036c173a7c80d719746fbbbff4fde33d4ccfe1942d4ce79790a8f5d10",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_a784e7c5",
+      "name": "烤蛋挞",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "hash": "004e87bafa4ca90f945940b4706c3af345be3bf88a491487ea3c932f79856f94",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_394b4614",
+      "name": "玛格丽特饼干",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 0,
+      "hash": "5e79403820d1922c26b7f477067f309bf465b79d89166ed99ef197318b62a3a7",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_11ac695f",
+      "name": "红柚蛋糕",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "357b4e752e89a9acd231a602f7a035bcdb2ea2659b322d27c5e4545acac20912",
+      "hasImages": false
+    },
+    {
+      "id": "dessert_ceec2289",
+      "name": "芋泥雪媚娘",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "hash": "5cdd71b674f09e61d2e1d74e37d2e5b3fd22a868dba46f5628fe26179074b5e6",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_f4064f61",
+      "name": "英式司康",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "0206e73c89fffe5ebcfa281876f78ddb0f0beb2607622281515ec5cecdf3c348",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_b25b5b03",
+      "name": "草莓冰淇淋",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "hash": "caf8993484adce32e2d858cd1ecab973e8e6e6533acbb8e3c2a3d65f4e63a8b1",
+      "hasImages": false
+    },
+    {
+      "id": "dessert_48708a65",
+      "name": "酸奶意式奶冻",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "hash": "a1be52db993b954147409f3992420818bbeacd59fb51c73252be1ab00f9166e6",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_6b0341a7",
+      "name": "雪花酥",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "hash": "dd66981fbbe97f55b4930974c76489210e014dfcf1cc3ff6a4229eb6d121859f",
+      "hasImages": true
+    },
+    {
+      "id": "dessert_cd984466",
+      "name": "魔芋蛋糕",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "hash": "80e70aaf157296d02e5fba96afd8fa31dfd01c3f5110503746fa65c27cbdbcc6",
+      "hasImages": false
+    },
+    {
+      "id": "dessert_d1eb32ee",
+      "name": "龟苓膏",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "hash": "25b96c0391f4291da3e66862eda16c21782c8cf7f18cfe5dc626affb24999154",
+      "hasImages": true
+    },
+    {
+      "id": "drink_56393998",
+      "name": "B52轰炸机",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "4e2e353cdb741480c92202c117bd5c39b36a000222250642456b555b486ba580",
+      "hasImages": false
+    },
+    {
+      "id": "drink_a3cda7a8",
+      "name": "Mojito莫吉托",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "2e7171f953f9efa6084fdd85a9669a87fbc25b9b094a6a313d95fc932713d73d",
+      "hasImages": false
+    },
+    {
+      "id": "drink_17a8d980",
+      "name": "冬瓜茶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "33a31ef24ee361e38902828dc4ebbca1ba0564d43021885bd20b385d1c9153e9",
+      "hasImages": false
+    },
+    {
+      "id": "drink_c658432d",
+      "name": "冰粉",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "bd35412a6b7cc616ba88d0623d19d9414f34fb871919617ad1713b6e71ae16d0",
+      "hasImages": false
+    },
+    {
+      "id": "drink_8175c20b",
+      "name": "可乐桶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "e9de8bcfd33707eda96277e6035326f154b3cc63e9042a12be07986fda39a2d5",
+      "hasImages": false
+    },
+    {
+      "id": "drink_75684b66",
+      "name": "奇异果菠菜特调",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "hash": "33270333329a49c45f6b0e343bc08d116ba8c6c17183e22410660b2430f23601",
+      "hasImages": true
+    },
+    {
+      "id": "drink_0e3331c9",
+      "name": "奶茶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "127d4f43f0fb433ee25217a8822b2c3e1f10c6021445c8f5459abdf5f2b9c9d1",
+      "hasImages": false
+    },
+    {
+      "id": "drink_a8ab9cf7",
+      "name": "杨枝甘露",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "436e484bb3336feebd736d1e876c39b54df71e8b5179d1c3a546f78015f9407b",
+      "hasImages": false
+    },
+    {
+      "id": "drink_c06cf165",
+      "name": "柠檬水",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "hash": "2e8baae7e7440b8146691a3c2cf5b487a8ec2070b71314ec4d3c85d798d15026",
+      "hasImages": true
+    },
+    {
+      "id": "drink_9270dca7",
+      "name": "泰国手标红茶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "601e1fbecd3f7ea97f99e6a472a5c81afa34eb16593c192583ccbcb786db0492",
+      "hasImages": true
+    },
+    {
+      "id": "drink_5274087c",
+      "name": "海边落日",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "b5d492545b7f19b4c5c69ba8a367a3c8d7d6af4af7fcf9e2f2da131aae1a7eab",
+      "hasImages": true
+    },
+    {
+      "id": "drink_db3b0b04",
+      "name": "百香果橙子特调",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "3f587337936521a1415be900ce2a3ec9d1c0cf8d584ad40458fe3af4d4448fa3",
+      "hasImages": true
+    },
+    {
+      "id": "drink_207d7850",
+      "name": "砂糖椰子冰沙",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "hash": "c75be303d5fce6ffc43b6e0751235afe5b49d03a1910a2648ba1947d460b7dba",
+      "hasImages": true
+    },
+    {
+      "id": "drink_d4f5d31d",
+      "name": "耙耙柑茶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "4985b1d6459d1e8e51d5186d05ea8cf8b2aaef54099ed84804a120fc33d56d49",
+      "hasImages": true
+    },
+    {
+      "id": "drink_37772636",
+      "name": "菠萝咖啡特调",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "hash": "e3e54324e8fbb7f5ae22b78658f5268a0482510bbb411569bd4591442278d5ff",
+      "hasImages": true
+    },
+    {
+      "id": "drink_6cd87843",
+      "name": "酒酿醪糟",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 4,
+      "hash": "6f5361f503e5354525ff288628febe05d8f146b3a1787af66962398742f62cad",
+      "hasImages": true
+    },
+    {
+      "id": "drink_7269c4a9",
+      "name": "酸梅汤",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 4,
+      "hash": "2f5d76c50c07ae3e8ee2deee19870c99d7ce5249cd170c96d0085402e48b99c6",
+      "hasImages": true
+    },
+    {
+      "id": "drink_f7b9c13a",
+      "name": "酸梅汤（半成品加工）",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "hash": "fb81ee7fbc0cc55b008b6e2294ad9e9196e718fec24c7b986cf64defc7310b8f",
+      "hasImages": false
+    },
+    {
+      "id": "drink_9e3b1e0b",
+      "name": "金汤力",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "2c3fd7ce33fbd3fa8189c5c3b5143e0413ed28d39a44ccaf74b7afbb2699e76a",
+      "hasImages": true
+    },
+    {
+      "id": "drink_f6a7c72d",
+      "name": "金菲士",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "a5b378620d342ef44dec7a8853aaaf6f64186a7440131513778dafd7183f1943",
+      "hasImages": true
+    },
+    {
+      "id": "drink_d439d193",
+      "name": "长岛冰茶",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "hash": "984e5bf8494ad016fdf189c634cfe1fb9a8d18e4709009f9af490888767513f5",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_bc5b39f0",
+      "name": "乡村啤酒鸭",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "3b751091e15f4ce9d92d14377734f288481ff00914e57541e72340ddaf0c2ed0",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_a4ad82bb",
+      "name": "农家一碗香",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "4e9dbb6017b58a65913852ca073da0d40af388bf0bd68cf7267a557d73fe8d1c",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_3d4beeb5",
+      "name": "冬瓜酿肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "187f1827baec8cf01f606d0cd22c75d0f0c1711494837289b1128cf5fe3cb6a9",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_729e078b",
+      "name": "冷吃兔",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "2ca50e93204df1a2f48a12bf8543cdaaf3c98ab871c56de5d4706ea74c9e5e92",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_ae21bab1",
+      "name": "凉拌鸡丝",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "ed5e79d9e566d855aa4e29eeeb55013fdf93141bcd951d7c3e02ad393536cbc8",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_47781bb0",
+      "name": "卤菜",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "7235e03d13a2bc4896e92bdb075f246a3ad912b833c32d97205734eac6e46cc3",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_0d68f3cc",
+      "name": "口水鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "960a0a6f105e94390b50f00c7c29129ef138be2322025c77cc4c23f75a1d82ec",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_36033c14",
+      "name": "可乐鸡翅",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "a967eb277e7183c40172e1efa16a422e2e2c01601c7197b93eb138f50e413e66",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_4cb5520b",
+      "name": "台式卤肉饭",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "3f205b9a7b9394f7f8cdb0ac355233ca5592ad2ba891b0348494549b0c55734a",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_8af007ba",
+      "name": "咕噜肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "073aa55b8e5dec4249664cab69861175590b5774f335ea531e1bf6f327d69de5",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_bf17c0af",
+      "name": "咖喱肥牛",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "21ff4c2a561d6c14ad40244477dfc06511eb53beeaebb233189cb2aee0ca0af5",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_af71c9ca",
+      "name": "商芝肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "430dc7d9f078560bc929f0c60e13e722ce6385a689c79bf2f3345f96e9cbd93e",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_d5104e31",
+      "name": "啤酒鸭",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "c314c50617e5c3983b0b09806a6e814ccaa3854683868bb35ccbb4192d5dd42f",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_2e95ad17",
+      "name": "回锅肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "c03275905a358191fa9797b1b5e7bd66f7a0c43e8e745d958b6a6ba662b9d509",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_49d5e1bf",
+      "name": "土豆炖排骨",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 0,
+      "hash": "20e669693fd1ed15fc59bafcdfaac4c7148e1b8ea573e539a82973ce919b0cb6",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_961cfd00",
+      "name": "奶酪培根通心粉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "ac3c6d599410a031bacd3d10afb5b98c9f9eeb138372ec9dfa5a994778971c21",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_bcba4438",
+      "name": "姜炒鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "18e0e5615b1e6ea40ceeca8fad00ff921c026af94ecd4419d3f270da2184f297",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_416b2f4f",
+      "name": "姜葱捞鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "b1cc092215cb13f41f581fa77c5bd30be4afca96f0d19625e5e813ccefe4bcd3",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_e4a18a12",
+      "name": "孜然牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "7164b6197985a40eaf109ad165a3761cb6e51d9e017a3011c2807156bb3e6235",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_c1e02e44",
+      "name": "宫保鸡丁",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "2a0add2f5a5c179f925b71a50cf6c0c967877b777accc77ef40549250feda89b",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_d6fb088d",
+      "name": "小炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "5b0d6a0f6ac5fbfbb4b0facfaf16e5871f90ea52a72b7e6ddbe622927b5df1e6",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_4bfb3820",
+      "name": "小炒鸡肝",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "8126d6d6e5d3712dc4d349bbd45ead84e1c0a6ee3a2e7be525dddb1059c96162",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_f841899b",
+      "name": "小炒黄牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "5eedadd82af04046c4839a8b9b85483160e1064665989a538b8af481c7769b5a",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_958b437b",
+      "name": "小米辣炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "db8f2bf6419f734395b06a62275bed8bb0e7c056950c4b57f893d9fae6062e74",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_dd46b330",
+      "name": "小酥肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "add7a0b7155fbdac03a3e8718349ac9e749aa193c7c985fbd5723ded7d65e026",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_80c5aed8",
+      "name": "尖叫牛蛙",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "3a6032bfeb29bc05be2dbcddab98c62e84a2fff30cbeee9d1d93d3ca8685dc79",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_3048f1f9",
+      "name": "尖椒炒牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "791d7f01f4da2780688b4202a5861220dbfdbe2473df7ab741f1b043933ef971",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_81f950f4",
+      "name": "山西过油肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "f77a6952dc423de3e7d8f0a50108ea8b30d2c07fae583d96cad3f1578d5d7548",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_57c87c3f",
+      "name": "巴基斯坦牛肉咖喱",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "de2f6c73ec9503dd670309abfc003aa61f947d9394edadeb87d979e66bfc0477",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_e9abca43",
+      "name": "带把肘子",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "b0ba610b2572dbcfb3a7deb3819eccc37b3154804259c28035183c0e9563d1d1",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_3ca3f659",
+      "name": "干煸仔鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "963e02d0daf82384f1b71cb29eb26bd44f7ec8a40e6d5e63cf06fba5a1258928",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_00560d1c",
+      "name": "广式萝卜牛腩",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "c080a4a67318ee71f33504b22efd0223de2ec0fd429c814a93ff64e42b6a7115",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_7175adfc",
+      "name": "徽派红烧肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "d6a4e2f873277858d1c16b602130cf812f148010b987c844e8d20ec77634a833",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_28a28bc6",
+      "name": "意式烤鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "e592094e378cc576607c5e0e9425ab83f30824b3999c401c64fdaf7a6ae4566d",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_b7cffd5d",
+      "name": "新疆大盘鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "8d86f070d174eec56b7e256eb76f77b639b520db92b14c612ac77b5b488caf71",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_09b7f756",
+      "name": "无骨鸡爪",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "12070d5a371de3097779d745cd193d39c31751275acd76af1e6e11ae86acdac6",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_f850fc61",
+      "name": "杀猪菜",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "51e1c13e30705ba51d2996f375f144aa84ddd8d706e2ea04ff45a1dca69961e7",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_003ec59b",
+      "name": "枝竹羊腩煲",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "5fc1fa9d66b2be2b5fa5b3dca5dca30f89f30ee32b55705e9b60938725c860fb",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_ab906096",
+      "name": "柱候牛腩",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "7ac4b2676e299e3cf438191aaf589b8fd36bf1d077e0ba7a33bab3b10d4fc466",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_34f34b23",
+      "name": "梅菜扣肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "7e5d985755019f0276bf6cd55430ae6c9fd8dc66d8976d96f458e3000a0faf1b",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_5ba6c453",
+      "name": "椒盐排条",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "1f05cdd2eb8aabf487a46f13645b0d518aca5b5d9438a3288c40f4124e897cf1",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_084f8cca",
+      "name": "水煮牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "1611ae232f7b8c1ac024f834a082116b81b43907b0c5a3df35b95d4ecdfa0e20",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_8e08b242",
+      "name": "水煮肉片",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "ec0becd6843de33a7c2f49fe4732cddc99060ebf492577904006891862ae899a",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_31e10602",
+      "name": "洋葱炒猪肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "13a2806caf87220e443d17d8963535a48baa48871e110bcf69e7742370466c51",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_19771810",
+      "name": "清蒸鳜鱼",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "3239985c3bb00d2a042a6dee3b3aaaa2a6d8fa87c013711ea4629aa36619771f",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_4193001d",
+      "name": "湖南家常红烧肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "bd123f0593a453c6f0f8688c06514f71891b130af79f5349107c8442dfea620b",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_986fb362",
+      "name": "湘祁米夫鸭",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "ba0e99e72fdd53ae23966d1eb1299a453a769c3f54f8bc3a84511aae8c7aad20",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_9e1bc5ae",
+      "name": "烤鸡翅",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "3d75699ca360f54bf3682f987418b586e98331e7cafafeaa78656fff8ffcbd23",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_1b1e4405",
+      "name": "煎烤羊排",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "f0eb6c5e131f84eb2fd84fec94af92e54bf1499d6a84adb2dc9e1d88ea025209",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_1a794fd7",
+      "name": "牛排",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "7b0f01779cfaefaaf75569cf204ad32434c6b33dd09386610237ad7d3800300b",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_3dcc00ec",
+      "name": "猪皮冻",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "9622501acd28fed6d4ea60b64ad1992c111bd036883572ce683c92c2b6f4a7f3",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_862866d2",
+      "name": "猪肉烩酸菜",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "5ee1f8975ba968d8da8861b6ed328525df5e3a0a19858a11487bb7b7498138b6",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_e77fbcc3",
+      "name": "甜辣烤全翅",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "71ad54e0f651742cf48e86f85d52b7b65bf4c7a4637dca54395333ec5d716a44",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_397dfb8e",
+      "name": "番茄红酱",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "3642c25e36996de6120f0344b4facb2d5e4e0411a3058e0cd0bb737d67b3a690",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_4610a4c2",
+      "name": "瘦肉土豆片",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "56e2bd906653c3c801911fbcb3142996daf6657ad9527a6a0122ff12ceaf0b82",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_54f909ad",
+      "name": "白菜猪肉炖粉条",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "b00983d2c6ff7612dc61d3c2d282c9e93dfd695e129e853c9a700dcbdbd088d3",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_a6142d4e",
+      "name": "粉蒸肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "c14093b8a801b8067f9fcf32eab2456c51007978f3cf95ed039c17c0dec8eed9",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_f8a5fa31",
+      "name": "糖醋排骨",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "b42cd3c87338845b2e1eccf1184e325a0dd66c10c6454834cb382aeeaaec49db",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_5542a24a",
+      "name": "糖醋里脊",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "ff52e5737606002a3e289858a7f7d1df1affa2679fe812b1455b2d261451f4a7",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_89adeae2",
+      "name": "红烧猪蹄",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "edf0369d3d8c1f3c8d7074414719affe145aefe46385b2d008a7b3bffbb35dc1",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_03899e47",
+      "name": "南派红烧肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "01a9712bc27ed87fcee92d7844a3a844d30934180c73c17e40ecd942068f72b9",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_31376e9b",
+      "name": "简易红烧肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "b1d3c50b3da2aa7934d6229b6df939bdfc98a80a22b90ed5b87aa3de38ae9c84",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_f1f2077d",
+      "name": "羊排焖面",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "414258a3201e4b246e3c19121e56185ce5cf2c559c23ff84bda2bdd2c1b12fb4",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_434c23ca",
+      "name": "老妈蹄花",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "573bb0ffbe856382d12b380e8b5bd26f68d80abe55e0cc0928eba666a5d62313",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_fb72a88d",
+      "name": "老式锅包肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "b19c2d157261df5b347699f2e8606a17cb94d5cc06afad656a8481ba5ff53aaf",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_edfdae61",
+      "name": "肉饼炖蛋",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "de23b016888858ec7b7ee15929947984c0582b2e9efa518f806c8cfd433288a3",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_3f206910",
+      "name": "芥末罗氏虾",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "312da53e392ca0c18ce56b9570ea3151bb652fd1d361dcb30257ceb81b374b3a",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_38608d65",
+      "name": "茭白炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "c453feccadf0fdf05e95733fdf1ed80c9b7aaa2fde6232763fc6eec956bee6ee",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_636dd586",
+      "name": "荔枝肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "b0633e9406314559198f1657b59c8d2abfe329482bd27cfdcb7501b35ca4815d",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_75c92169",
+      "name": "荷兰豆炒腊肠",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "hash": "f6763894359642cb65a0e900960481a4c85f02ca1e010680987e3d847d3421d3",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_508da0e4",
+      "name": "萝卜炖羊排",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "517564ac8c2e1c116d6650b5973189ee2d47abce07d278132a435f561009eb01",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_71197600",
+      "name": "蒜苔炒肉末",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "hash": "faf7a0f291d187926cdadd757da5fb9571120c30520d61f4538099c9fef493cf",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_ee019d33",
+      "name": "虎皮肘子",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "b8bf9a0f64ba267794e87c23770fc4808e944089ced37f3d7ea2f2f71c01b872",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_6161ffca",
+      "name": "蚂蚁上树",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "b56658392be447a70614bb987ea7a9ae3b45ae1a90ac9056a013af0f5d93be06",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_7ad1b139",
+      "name": "血浆鸭",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "6de0b81fae7036707178fcf283be4e56e17199873ffdc2266ba36cc1db006ea9",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_bba098ff",
+      "name": "西红柿土豆炖牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "8dfee70a2d15ab5b9a9d8f205e57292cab3060823133486dc31c2459221f482d",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_098bb293",
+      "name": "西红柿牛腩",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "58a12e9c50de1a19bd5401c28a9053335fe0d929433c93cdb0fe0c98fc775ffc",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_681edd4d",
+      "name": "豆豉鲮鱼油麦菜",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "hash": "0f59b46e2efe2a7e20ccf17063c7e90d8e813ba782a419d7a5f0ce9d44461696",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_d2a7aa78",
+      "name": "豉汁蒸白鱔",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "81cd488eac20fe309353d5d3cdbdbf4be186cadba149640f1f769ad0bfc893c6",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_5aaba9a1",
+      "name": "贵州辣子鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "513ede96130fe60e2cb42b6c8755a9d321963dec3fdea73a08653784623c4580",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_5ba24ca7",
+      "name": "辣椒炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "6eec5feebc3fa53cdb7d85d5b9300b7bb45d6fe361fdfbea9232f83d1a496633",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_20fa43aa",
+      "name": "酱排骨",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "648f5eac2b1ebc253b9f88b2ef662800758b327683425e7063c16c6922d3b7fb",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_f1f10752",
+      "name": "酱牛肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "hash": "e44a7ca899179658e8bae7e74e2d6f89dac0422bb7bcb6148d2483ec89bcbe1f",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_fd11a11f",
+      "name": "醉排骨",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "7bcf6df5ea14f48e42c79593606cd6e5704770ba7320de5645311b677c5d50d9",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_a5693a08",
+      "name": "青椒土豆炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "fc6d88032e704b49bdbc07ae6035029b5499aedf266fd57cb2a8ca3ed1913890",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_0ef2a9ee",
+      "name": "香干肉丝",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "4d83950a46e9e6b5627a9a94f13e7066869462138c9805fce83d74ec28ee194a",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_2262770f",
+      "name": "香干芹菜炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "f6a4fa3fd97da4d85cef1fe878289415d878ec8ea6f486a94fbfd95e4c400362",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_55461f37",
+      "name": "香煎五花肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "41eba690cf0c7f2630e4e6f6e2c93131deda7a53c57772ac522af3536ef964f1",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_64e44d83",
+      "name": "香菇滑鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "e9f554611e5a2e5ff04a15fff9dd2b75bfa19abf1732a843f3330bbd75714d8e",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_3098f98f",
+      "name": "香辣鸡爪煲",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "2fc6cc314bc68066465f22d740871036b53c7e98f6a50db1ae1c4d2849526fe7",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_06dbad58",
+      "name": "鱼香肉丝",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "39b0aa9365e981f133113b2d618d7cbef336c430b8f8906e7affb576cb20e045",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_4c4e57de",
+      "name": "鱼香茄子",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "69277ab7cc9e59f3deba65e5d118511727a25a4d57befe1b89d60847d254ae44",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_8a77749e",
+      "name": "麻婆豆腐",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "941dab46a2e931842dc0964ba5060c54652fa489c8ebf6334fc395fb3642e4e1",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_99855032",
+      "name": "麻辣香锅",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "f4dc26cb3a71d924d0284af059ffd626e87eefb86521647f91422f3cf6675ec3",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_2eb1a2a9",
+      "name": "黄焖鸡",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 0,
+      "hash": "77dcaab2c6cd9fe7bfe569ec5040c1c9107ed497cea00aa5f0540c6c9f1c56da",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_c1ef9da3",
+      "name": "黄瓜炒肉",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "hash": "14b7eaec4ce44931b8d2739fa71c2819096ab788f21c62d014ed364b826eee0e",
+      "hasImages": false
+    },
+    {
+      "id": "meat_dish_44f4ad30",
+      "name": "黑椒牛柳",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "hash": "47cea5cbd94b9077004d3d4e833d1a6b1cbb5a6bbbb8b1b423d892d9e5a971b6",
+      "hasImages": true
+    },
+    {
+      "id": "meat_dish_6412ed06",
+      "name": "黔式腊肠娃娃菜",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 1,
+      "hash": "28b92c9bcb8fa60a5fb9be8d71637efd15ed1e2344130217792d46960fedb4f0",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_06007ff7",
+      "name": "凉皮",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "hash": "d8c757f9874f56b234d847941f0b306c74babc05f2006c2e23df76879ee173dc",
+      "hasImages": false
+    },
+    {
+      "id": "semi-finished_007a3967",
+      "name": "半成品意面",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "hash": "a8331e095d26a8b761b537a78107fd791dc30d156227fe372249c6961fc14ef6",
+      "hasImages": false
+    },
+    {
+      "id": "semi-finished_97c9158e",
+      "name": "懒人蛋挞",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "hash": "780e7ae05bf27d653deca8f55debf693dabe38bda0168cee15ac5b3241d9c069",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_3338e9eb",
+      "name": "炸薯条",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "hash": "d5e66037c33e76bae4c6dde827ffd64d9f223361df3e658f4b20ca862a182fe6",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_6f634d4b",
+      "name": "牛油火锅底料",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 5,
+      "hash": "e3ee2cdeedb4912ecbba03c1ce4bc79b855e4108b8eb75bf8152d217196b499d",
+      "hasImages": false
+    },
+    {
+      "id": "semi-finished_0b36bd6b",
+      "name": "空气炸锅羊排",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "hash": "c9b86605f010363f3f12835c39ac520f2e11f4692b57dd6b79a2ac83c1ad0355",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_a8e716f9",
+      "name": "空气炸锅鸡翅中",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "hash": "cd7f5306ef6b38673cc9b203726cde90b69a3b63ca0c4d2b6edaf922a1cd697c",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_1a33daed",
+      "name": "速冻水饺",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "hash": "843d137671cb4a4174712706c23ee2504dad3abc1989a5b8f51e3dc52998f9d8",
+      "hasImages": false
+    },
+    {
+      "id": "semi-finished_1163d186",
+      "name": "速冻汤圆",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "hash": "37004b98f10a062da514505f7e7c946783cddd0e4c557d48c49e00e4eff12421",
+      "hasImages": true
+    },
+    {
+      "id": "semi-finished_1a3f71a6",
+      "name": "速冻馄饨",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "hash": "304fef8b0ec9b8b13d18b81ed6fa383b495f60990ec8cefc0843edc06d6215aa",
+      "hasImages": false
+    },
+    {
+      "id": "soup_c43fdbeb",
+      "name": "勾芡香菇汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "b3f0c61d73336313f987d7946793fb6f39a290ec0a3bc09956290b48359e4fa4",
+      "hasImages": true
+    },
+    {
+      "id": "soup_653aa229",
+      "name": "奶油蘑菇汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 1,
+      "hash": "4f41d61f120b60456ca08a0babe45dfbc76134242398cfa9a8a7e237903513df",
+      "hasImages": false
+    },
+    {
+      "id": "soup_6e1a34c6",
+      "name": "小米粥",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "hash": "979cae96261b030f8c167a81ae5f3dee178ab44f72addb32a0ab5b5f68508a1b",
+      "hasImages": false
+    },
+    {
+      "id": "soup_9f67a0b4",
+      "name": "排骨苦瓜汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "75f8568a5a83fb3501a088e20fe204de7c7ee3e43aa7c9e0faeb0210ad55fd75",
+      "hasImages": false
+    },
+    {
+      "id": "soup_fb933150",
+      "name": "昂刺鱼豆腐汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "44c2580b8c4e98ea8393b7bbce9c0f7090ce74b93263ff471d0fb5c74008e76c",
+      "hasImages": true
+    },
+    {
+      "id": "soup_677af26e",
+      "name": "朱雀汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 1,
+      "hash": "ca333fd1153d6beadba6c187f97223cd0843d07d0bbc90e3ab5b239bdeae1164",
+      "hasImages": true
+    },
+    {
+      "id": "soup_b2467519",
+      "name": "玉米排骨汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "f75a549f564e782629239a4977aa6195c39c38df6d5d8a0244f2edf6b28a0c78",
+      "hasImages": true
+    },
+    {
+      "id": "soup_caabf3d3",
+      "name": "生汆丸子汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "a361ae4501fb848c02090346dd31fd0b770b40a010462f01bd0631e3c5352985",
+      "hasImages": false
+    },
+    {
+      "id": "soup_06a69c63",
+      "name": "番茄牛肉蛋花汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "4e1adbe9f30d63891458d44fc9133807936b1471aad3d48862ea63a24cf4b7c2",
+      "hasImages": false
+    },
+    {
+      "id": "soup_2943fbd7",
+      "name": "皮蛋瘦肉粥",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "d207539e7da5d47fe88bc8d3d19548f5d6ae8d61191dc6173803b49dc351f3ed",
+      "hasImages": false
+    },
+    {
+      "id": "soup_2d791764",
+      "name": "米粥",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "hash": "6df31e71fd1fedba22423b66c987c49d5d8c013719344179f43afaf7ec7801c8",
+      "hasImages": false
+    },
+    {
+      "id": "soup_6ab42daf",
+      "name": "紫菜蛋花汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "hash": "5bcbf94bf5932a02a9e1044de2dd89ef141350b263182d83eeca6e20b10ecc68",
+      "hasImages": false
+    },
+    {
+      "id": "soup_45e226fc",
+      "name": "罗宋汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "3502b0bee8489dbc82dfe440a5d4e721f7014d82d1313cb9da744bdaeafada77",
+      "hasImages": false
+    },
+    {
+      "id": "soup_6d327a99",
+      "name": "羊肉汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "d15be1e7c277b6500b52565796aa9f8903ca9ed13fb96c471c9c4f443197fc70",
+      "hasImages": true
+    },
+    {
+      "id": "soup_a5a476c6",
+      "name": "腊八粥",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "a9ce3b27172ae77878f8613f9081433ffb9710f4729016f0511ec638526d0d29",
+      "hasImages": false
+    },
+    {
+      "id": "soup_57a75a8a",
+      "name": "菌菇炖乳鸽",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "f9049e9a1a1e67b8bdd226bafc6c23f9450740837a9815a13f746f3806ad2d3f",
+      "hasImages": true
+    },
+    {
+      "id": "soup_92395d98",
+      "name": "西红柿鸡蛋汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "hash": "ac990adcac052ae9c7943848f2fa0b4c11343b6242dc3fb45ce8aadbbe7a6077",
+      "hasImages": false
+    },
+    {
+      "id": "soup_80838622",
+      "name": "金针菇汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "hash": "b158df902869e2409e6dfd8e4cdc57d3b41d93fca92ef5bfea4ec82976e54c32",
+      "hasImages": false
+    },
+    {
+      "id": "soup_d0b872ce",
+      "name": "银耳莲子粥",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "hash": "16ff8976e0ce6375486c30e274a807659ac0f597eb5e92225666cc5f2138ae94",
+      "hasImages": true
+    },
+    {
+      "id": "soup_b942dbb7",
+      "name": "陈皮排骨汤",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "hash": "de07f31575d6a43e65a997dca3ef88ed0b86c3421ff21ed45d71a6cb71545bd6",
+      "hasImages": true
+    },
+    {
+      "id": "staple_3f5fd253",
+      "name": "中式馅饼",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "036fd825b702baeac9229ac2286d7308dcbcb5e115a2173f224d39c5658e890e",
+      "hasImages": false
+    },
+    {
+      "id": "staple_8de7954b",
+      "name": "凉粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "179f6d6f7b0209b02b291fc9169652c23ed724887378b2cd8d9a58fb9b28621b",
+      "hasImages": true
+    },
+    {
+      "id": "staple_d92e76bc",
+      "name": "基础牛奶面包",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "hash": "72ce7b5a6e04dafc38a67833c6cd39752b128bce294141494fecf80773e637ad",
+      "hasImages": true
+    },
+    {
+      "id": "staple_262c78e6",
+      "name": "微波炉腊肠煲仔饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "c956451f3af3e953061ef19edb2a4c73b62fa89259a5ed77e1d8f45e0dfe32ee",
+      "hasImages": true
+    },
+    {
+      "id": "staple_5b8e7b4c",
+      "name": "意式肉酱面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "767ee07eaea23b4df078ad897001e89b8ce950978ad939c074a19fd88aa057d7",
+      "hasImages": true
+    },
+    {
+      "id": "staple_6abcc2f3",
+      "name": "手工水饺",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "hash": "c82fbea30f4e469260412f5578f6ae8c1501bac8ccfb0f72286095743d482405",
+      "hasImages": false
+    },
+    {
+      "id": "staple_0473e652",
+      "name": "扬州炒饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "64bdcd1c1890faefb0e9b7735709aaa2cec3439838edc601cc49cf0421a8e004",
+      "hasImages": true
+    },
+    {
+      "id": "staple_04eb8c97",
+      "name": "披萨饼皮",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "0b637184c977548eeeae95665fc1f74e54ccf6ba2f62356a62fd935ccbc7bd36",
+      "hasImages": true
+    },
+    {
+      "id": "staple_bbe73a88",
+      "name": "日式咖喱饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "82b219a54cea16637f2e05e97acd4b7f1b5500211a9e97bf434e47ad4315f231",
+      "hasImages": true
+    },
+    {
+      "id": "staple_f92443e0",
+      "name": "日式肥牛丼饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "86aab7726c8ab761bc54fcdc7f74779c5465ff275b73732ff6e855a78a3c39bc",
+      "hasImages": true
+    },
+    {
+      "id": "staple_d10ca7ec",
+      "name": "汤面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "e7344cacb2dad4e217c252d11661d69b910cb2d077d9d40881e2b9baeca169cb",
+      "hasImages": false
+    },
+    {
+      "id": "staple_e03d57aa",
+      "name": "河南蒸面条",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "da60e74ce0d34874ab2d79960548b5dfb7a027d5e1ae7dba93e38681791f10a6",
+      "hasImages": true
+    },
+    {
+      "id": "staple_1eb80185",
+      "name": "火腿饭团",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "06d626cc2779ea1a9420028fabdac97d0cf438fe915444c07fe9b3bab10a7c3d",
+      "hasImages": true
+    },
+    {
+      "id": "staple_2b2ce621",
+      "name": "炒凉粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "d3af4408333d8ac606fbd35f11f6b238ea3f063670950158bbc1eee9c56d0cca",
+      "hasImages": true
+    },
+    {
+      "id": "staple_9fbf6ff3",
+      "name": "炒年糕",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "c87fd41c2dd20cfaa922fd9a60b299e0b771accc7de75f2767ad562f62f24a04",
+      "hasImages": false
+    },
+    {
+      "id": "staple_999f6d62",
+      "name": "炒意大利面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "947c29e79ad53dec1e895e340aa507bda2dcc91fcb65a76865c2e3fef635a7a8",
+      "hasImages": true
+    },
+    {
+      "id": "staple_a7520caa",
+      "name": "炒方便面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "4a94c4662b28f59550f9831e184ea86e00e138b67f8277cdc043fe0aa6ff0a8f",
+      "hasImages": false
+    },
+    {
+      "id": "staple_670f34b7",
+      "name": "炒河粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "c170895097a81401c73cc29d5f68dbaa3acad6e45fa96f450d04257702d68d99",
+      "hasImages": false
+    },
+    {
+      "id": "staple_96435ae4",
+      "name": "炒馍",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "0e2a0033798fdb2a4ca5bdf8b78997d5114c8b02cef767641d6ed72a9fda95cc",
+      "hasImages": false
+    },
+    {
+      "id": "staple_ab754a08",
+      "name": "炸酱面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "b5c4c6526ac9aff05c78263a326e2d78774644d8b4a3759d77bde901312e5cc8",
+      "hasImages": false
+    },
+    {
+      "id": "staple_4b64abee",
+      "name": "烙饼",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "8eb1115fd8235685a14590e2d476175f7f3177c5bdc85c383cc71bdc6933f1f1",
+      "hasImages": true
+    },
+    {
+      "id": "staple_0694cdeb",
+      "name": "芝麻烧饼",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "d2aa7fcde0972a55401fddcd1fb240c8cd797e37b0c721fa65130fe50229a832",
+      "hasImages": true
+    },
+    {
+      "id": "staple_f66fc662",
+      "name": "热干面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "c76e039c60f681fd0f50eebc263dfe8374c041766c35aa02e87fd2f3338a7eeb",
+      "hasImages": false
+    },
+    {
+      "id": "staple_179b8ad7",
+      "name": "煮泡面加蛋",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "b454db173f2000913dcb972a654dd16e1cad609ab47ca727537a55f67e6c255c",
+      "hasImages": false
+    },
+    {
+      "id": "staple_12ea157a",
+      "name": "电饭煲三文鱼炊饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "41b0d01e00dea1bea217c7d20505fb27dcf7d7e1206dfd77bb78e7c36c0df4cd",
+      "hasImages": true
+    },
+    {
+      "id": "staple_36dd07ed",
+      "name": "空气炸锅照烧鸡饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "d8d60b2e78126f198f0dfb0af8b1bdcd76da2cf2359bf1bd19f4dceed88a64af",
+      "hasImages": true
+    },
+    {
+      "id": "staple_e4f7a374",
+      "name": "煮锅蒸米饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "5c11c2d47d0ab6724f367b0b6d90774ddc45eeadae281b2a778365ec1ca23626",
+      "hasImages": true
+    },
+    {
+      "id": "staple_d8f08766",
+      "name": "电饭煲蒸米饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "5d7a2b203859eeb7b115c2c811d94740e93accf88712c7f087c15ef9952533bf",
+      "hasImages": false
+    },
+    {
+      "id": "staple_dd81a330",
+      "name": "老友猪肉粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "c2662fbf50c6c1fd6cc4f1bb762050ee552f6f2fc5e80d57dc0930311efafb32",
+      "hasImages": true
+    },
+    {
+      "id": "staple_c6933182",
+      "name": "老干妈拌面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "567ec76839a4df71497a9c3187ff557eb9b73b494676ca0d645024f462a699c6",
+      "hasImages": false
+    },
+    {
+      "id": "staple_397be2b0",
+      "name": "肉蛋盖饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "4654b2388f95b1d02b0de32715ddd39ae20d052be0d27f3ba6b64a7ff6ca0a81",
+      "hasImages": false
+    },
+    {
+      "id": "staple_b2f26072",
+      "name": "茄子肉煎饼",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "a988ec63eee18231bd8f143895f5a0714833039b113cb5975eab69d5044a7811",
+      "hasImages": true
+    },
+    {
+      "id": "staple_7a00e41e",
+      "name": "葱油拌面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "09f85b3843cb75fc9b8d38e8cfa318ac0ee6fa0eb60a4a399cce0c15fe9bfd52",
+      "hasImages": false
+    },
+    {
+      "id": "staple_76eda847",
+      "name": "蒸卤面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "hash": "2c8e875a11f2b0e85ca852b158ddddcf8970d3660b7aacd71bd9db3455737dc1",
+      "hasImages": false
+    },
+    {
+      "id": "staple_4de2502c",
+      "name": "蛋包饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "2f38ee0281368a3ec6f722de4a354301d8e09ff14233ef39d17f093964258933",
+      "hasImages": false
+    },
+    {
+      "id": "staple_e0de9c26",
+      "name": "蛋炒饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "c6fcdae4f60f4fd5f452e8777c9941a52bb68278baff1236bdd354d39e1d41cd",
+      "hasImages": false
+    },
+    {
+      "id": "staple_693aee62",
+      "name": "螺蛳粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "356c672cb446e23c0e28250bcc19b397ef8c8f4e01be69c12db393d77abe1169",
+      "hasImages": false
+    },
+    {
+      "id": "staple_07dd9e62",
+      "name": "西红柿鸡蛋挂面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "1bc49921fb6c8d84f56b771753ca0bc98dbf4ef10108bd628af4f360004dcf23",
+      "hasImages": true
+    },
+    {
+      "id": "staple_12c809c7",
+      "name": "豆角焖面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "da16eadc473defca50489a2ff4769955684559caf272193eb87cb10ef5aaff76",
+      "hasImages": false
+    },
+    {
+      "id": "staple_50491397",
+      "name": "酱拌荞麦面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "2f07e7e0f6ae7a79dc0df111a0a462aa5d318cdbc4dd10e137511b3efc51fa9a",
+      "hasImages": true
+    },
+    {
+      "id": "staple_aea9ae4a",
+      "name": "酸辣蕨根粉",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "31d4a6740b6374d0ff4d0934a7f7a81cdcafb7935c44f33564bf609086709745",
+      "hasImages": false
+    },
+    {
+      "id": "staple_bc665093",
+      "name": "醪糟小汤圆",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "170641526fd62de29dc4350ba7c1f324af207886eef82bdc0f4fe6b11da5e199",
+      "hasImages": false
+    },
+    {
+      "id": "staple_4c5b7982",
+      "name": "陕西油泼面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "5c1669cd9095ebd80bfce1e5ab0eb2195ef301dd1e4f5efdfa592f556b28f25f",
+      "hasImages": true
+    },
+    {
+      "id": "staple_b6d28a64",
+      "name": "韩式拌饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "d19aa30ba83931b7c2411d0d96265067680aec8527946a40601aa67c29b4c361",
+      "hasImages": true
+    },
+    {
+      "id": "staple_45415bbf",
+      "name": "韭菜盒子",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "hash": "6c3b1e281aa97faa3247d30ca6610359d5031e27803aee917b231d7a4aa36708",
+      "hasImages": false
+    },
+    {
+      "id": "staple_b2db871d",
+      "name": "鲣鱼海苔玉米饭",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "9efe0595e122344b3f02f3d11d0e4767d42d346d0da17020339301e3f9c3d242",
+      "hasImages": true
+    },
+    {
+      "id": "staple_53d8ce09",
+      "name": "麻油拌面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "hash": "35c0baecf61753b615035dbcb795d2f2e07b237419747e3abd948fdd1c36d6f8",
+      "hasImages": false
+    },
+    {
+      "id": "staple_6cc3231a",
+      "name": "麻辣减脂荞麦面",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "hash": "8b53cd676a889c4df294edd20a78c96f47495aab8c78a0a2d1c36c10602cc8ab",
+      "hasImages": false
+    },
+    {
+      "id": "template_594a4345",
+      "name": "示例菜",
+      "category": "template",
+      "categoryName": "template",
+      "difficulty": 4,
+      "hash": "fd3f451ceb00b93dbf64f26200f90c80ada340741cdcf245e0a2dd5ebcf7856b",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_7c982b8e",
+      "name": "上汤娃娃菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "a08d49cdd7b40f0b74dd5d673f5819927daa1595e11ce0f1a7b9724bf8c620d4",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_3248b36a",
+      "name": "凉拌木耳",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "aaf75a1030246a068e219a9c89ea3d855c424b2034d025fad9243674fe1feab5",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_ab718bbb",
+      "name": "凉拌油麦菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "hash": "4f4d9dc13f8657e8e4ccbf1591d6358a0f9bf3fe57dc9b8a2409c2c350a977ab",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_20cca943",
+      "name": "凉拌莴笋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "22925211231ee563456888945ac37be43757bda1fe1fbcb0c8a0e61f9d4c299b",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_222c2eed",
+      "name": "凉拌豆腐",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "dde1eaf94f14bffb9384dff7d2edff3de9461d762af4b2af42ac6049cb066462",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_52c78242",
+      "name": "凉拌金针菇",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "7f7ba8610e7a669efe5e17b64ac7bfb0931d76e7d01e83a0fec3563c45624ac6",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_7e19aaf5",
+      "name": "凉拌黄瓜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "hash": "895b1612f7156b0809e18ca74ae4cf46429bade5632ec11b92a66cd7719a5d89",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_fa2b187c",
+      "name": "包菜炒鸡蛋粉丝",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "421db2d9de52d6303378e0bb4758c126ce0c4c5c2cdc8773dd64d0972d546e08",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_cd042334",
+      "name": "地三鲜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "6d9afdd0e6b9ba187434c3879d3ec150218d767e8ee4b2b928f273b019aedefb",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_68e6de93",
+      "name": "小炒藕丁",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "0d49de19bbb89475fa05d541ed801172674bd7bb9b7aca026ef7da8b3cbedd4c",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_ddf35bd4",
+      "name": "干锅花菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "41336d3f40c68f82980d5fdcadcb68ad4ced9f477b47f6f2f84e8cd4d8d648dd",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_b8a552e4",
+      "name": "手撕包菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "05009b6a0a5dd62e879a05b36436229fa75d0663a76747322f15274dd915ab01",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_17333c69",
+      "name": "拔丝土豆",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "e53025f26fd17a38c9befa28c0027e725f3c74bdeb1f13250f3e5a3e2eaa8e08",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_707c735b",
+      "name": "松仁玉米",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "cc363ca0aad6d4eebc586a8944896ed346d159d58d21788cf0eb385870c43b1c",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_9411cc9e",
+      "name": "椒盐玉米",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "bd0c790ed337362e4b67aa547228c6e932c79efbedd15e6bf77fd0e39e6234bf",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_be313e6e",
+      "name": "榄菜肉末四季豆",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "f2f61a4605f8f7f6e4674108c00659f9266a11b1da981de24f0428cdd234164b",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_849db323",
+      "name": "水油焖蔬菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "be8602fd020eb68f540fbe5c499c0f166a0df42178059d52c813755f7f2426cd",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_8461cd0d",
+      "name": "油醋爆蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "171302a3c0995bd9f5ab0e42d2893c7e8184183e0fa64023257fe486ef84719c",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_4ba1c728",
+      "name": "洋葱炒鸡蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "30916899d12e1d68fcb1f0384ef72afb846a4d113fc7fe07dd9b9f3a2bfbac93",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_e1eb3209",
+      "name": "清炒花菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "5a483ae3d9b6f1712e6722d6f56806de0f037783039142ba0b3862630dba6aa9",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_6a816343",
+      "name": "清蒸南瓜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "hash": "9ee3a247140f8676ecc8065fe27083852bd5844fdedd8771b3cea54e8371991b",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_d5797f24",
+      "name": "炒滑蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "hash": "6b7e4971b12c53ebbd3a6474c189c2599d4d588af8a08be1f09d53539e209a82",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_176efb96",
+      "name": "炒茄子",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "a5bacccfa41c82a592f39b47f5fa87a326f17006ceb922e081201eaef01066ef",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_2522b448",
+      "name": "炒青菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "59e75b99070df53baf0557d436bad865cb80894dd0ce3b67b52e0e94b55e5f8a",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_275fbd17",
+      "name": "烤茄子",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "59eff471c7e0c25225ae3186c17fd6585ae13e826f07b2b9ad3b2e0f0ce64dcd",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_9db3e8b3",
+      "name": "白灼菜心",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "fdb78c1cfdf6696ee57ce11bd16b0fa6ddd5f7e70c405650dc5096e042617753",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_efb666d9",
+      "name": "糖拌西红柿",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "a75434bd005a15eb677ad03149b2c95f0fe8352db1c9d7064f1212a9f9529f4a",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_43f0a330",
+      "name": "素炒豆角",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "69ee6cc16b88d5b262469cd3b353b2b4012f355249b19ade0319bede98be2e85",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_e376aaf7",
+      "name": "红烧冬瓜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "ded90e366ac1d0999bb7455f3c2bfe5a63c74afd2b9e460e82457cf2f5e22260",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_6815ec92",
+      "name": "红烧茄子",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 4,
+      "hash": "3673a856224a28963708286c592f6e0d24f7c476efed7d24dba2eb5b83b26110",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_6d092c28",
+      "name": "脆皮豆腐",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "c9e18272f7fe22b7339672829e230b2f6be7a65842d592af3b6b5b6637ba9faa",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_c802865b",
+      "name": "芹菜拌茶树菇",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "4b43d881e80c704d36faa18876d21817f75e70ca0b1294463c58fa437744af44",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_eaadc904",
+      "name": "茄子炖土豆",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "62c831ee24af35f9998e6b4077eef536fad3831b5818e96af002da6e63e05f9f",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_38609c21",
+      "name": "莴笋叶煎饼",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "3a4c7bf3c81de2b53bab0778381d2f0687bf96bb3d97d50a11c7ea3e7539879b",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_0112ec98",
+      "name": "菠菜炒鸡蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "f851d0d16e8b13c4d2aa304f82ae2a76412e19c1298630ec1d67476f4736ec17",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_82f297df",
+      "name": "葱煎豆腐",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "7ce209dfea79a447009f13c8d8ed55401fb09c587b00e94f50e7326666ef1765",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_8301a7b3",
+      "name": "蒜蓉空心菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "1949946928405298d6e4d16c3698c367bbc57860d711fe96ff3527e3bef411f0",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_81a3a7b8",
+      "name": "蒜蓉西兰花",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "4acc7a2f284e92581b33c73d7e6ed7e6aa9fbfa16a27e01ef544a9d8721abebc",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_dca37e25",
+      "name": "蒲烧茄子",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "f13e7e3343f1422f7268237fe2552744c9292e4b05d23e11e4537d0302eb6b31",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_a9895d68",
+      "name": "虎皮青椒",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "ac9fd7afb8540087978cebd847fb03a0a6654b363e2177dc9d9563059e98a8e6",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_ed1125b8",
+      "name": "蚝油三鲜菇",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "aaf1f0f3582981f0786d1f050d815776b97173538d6e9546e7b42992748b4e55",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_d55a92f5",
+      "name": "蚝油生菜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "a24fb9eadee19b9995758a98cc3f5f2542ae2fc425716affd300e8b5f5849e8e",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_94504627",
+      "name": "西红柿炒鸡蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "9774488b4177bb828c805c5847bd830c068ae32a4e7d2aa70e64c0948946c9d6",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_9be9b313",
+      "name": "西红柿豆腐汤羹",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "67eaf872e75fc6ba384ede9b6f0ececc06294b19a57f84154896133d9852e1b5",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_766fa6e4",
+      "name": "西葫芦炒鸡蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "2051580846f580914655ac4c65f8dca6516ab9872a5a7ad1cda1abd5f34bd063",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_b7d3f0b0",
+      "name": "话梅煮毛豆",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "dda247a04c468bdd695a17efb7e85aaabf510b42912d2cd1fd619fa0f805b42f",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_506d310c",
+      "name": "酸辣土豆丝",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "86b05cb65b0e2b0ac2fc60b9f709d39a330074145c6c8826dde5a608c972346f",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_3d4f47b4",
+      "name": "金针菇日本豆腐煲",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "e52253de16233eab336c0cdebc4aeea3b0bd001e79fd3309a243fd9d0203cbaa",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_6af9ab96",
+      "name": "陕北熬豆角",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "74cf4402a9ef99cdf4b1c485cb029bb57d64ec933f1fbae94ef549cf5867c31e",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_d4dd30fc",
+      "name": "雷椒皮蛋",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "0fe9dad4fdb00a7bde9ca661e71fe65f725a7cf868196951d2c41af20189aa09",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_f29b01cd",
+      "name": "鸡蛋火腿炒黄瓜",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "795dfc8bd0fbffa6e20cabf630ff10e1320af43f573c424c4d49e058bb824591",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_5ddd10d5",
+      "name": "微波炉鸡蛋羹",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "58b015c0e66431a37f61628b89699f03d57355b34b0f1fb5d8e3118cac43d8cd",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_dc28d501",
+      "name": "蒸箱鸡蛋羹",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "hash": "b13f28efcf6ed706d93d21cfe464867daf7895e5d035410aa05cbc79ee5788b4",
+      "hasImages": false
+    },
+    {
+      "id": "vegetable_dish_b663bdad",
+      "name": "鸡蛋羹",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "hash": "ed23c66f398eb78f45cd77cbb1311a0bbf90049496132b6002054e32b40d77ff",
+      "hasImages": true
+    },
+    {
+      "id": "vegetable_dish_2291424d",
+      "name": "鸡蛋花",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "hash": "f7e1b9d8437832b2a87d93ebb79760d76b2a030d7c956cb7a34e06034ee28590",
+      "hasImages": false
+    }
+  ],
+  "tips": [
+    {
+      "id": "tips_advanced_baf16ff3",
+      "title": "油温判断技巧及常见温度和单位换算表",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "2118fe266a09345a18a0475a06ab6f1b298cf3b73f8d774155946cd45dcf4f74"
+    },
+    {
+      "id": "tips_advanced_643e6941",
+      "title": "糖色的炒制",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "960d33c6660817f764115bc6f3a5e94ff745deafd5ec87d880e1f85a4ec15ce5"
+    },
+    {
+      "id": "tips_advanced_120ea12c",
+      "title": "辅料技巧",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "8a02b7e05125c336fe93e4204c0c1275879140c464ab40d6b3505b8575b2eb16"
+    },
+    {
+      "id": "tips_advanced_86e4b143",
+      "title": "做菜专业术语",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "21d181b9d493bdbf8017015f03904dfdca990ee4598744f282cb77ad025f6ef6"
+    },
+    {
+      "id": "tips_learn_5f8b33ae",
+      "title": "去腥",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "d403da24a0ef7f77246e08055d3aa36b40ae5786876a62a4db3807ca2bd72560"
+    },
+    {
+      "id": "tips_learn_2cafb838",
+      "title": "凉拌",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "651218efd9d96cbe47ea1a2b31240bebf4b9157da0c0ce8b15f783d7f5264482"
+    },
+    {
+      "id": "tips_learn_18a7f609",
+      "title": "炒/煎",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "c2a4fcd9426899bca464d52b6112673a2fa47025191a4678eb44819a9c49a95f"
+    },
+    {
+      "id": "tips_learn_bfb8a52d",
+      "title": "焯水",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "8fb8517f8f41f48ba7318a2974959c880bdbf3019532a0ce5042417da37f833c"
+    },
+    {
+      "id": "tips_learn_db109b60",
+      "title": "煮",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "2af1b8109d717f2a5d9b81ff3b7269ea87b5f1b9a86d9891439d31dbcb8bd771"
+    },
+    {
+      "id": "tips_learn_50ddd8bd",
+      "title": "腌（肉）",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "3f98bb2c9a04b436c0c07c97154e8ed13d311c63c0a7d79ce2cbdc8631b611c9"
+    },
+    {
+      "id": "tips_learn_8cedf993",
+      "title": "蒸",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "fa4b4bb2fcd7e09459d337e4517bd4ae00bf98c7a4f279adf18bad580ebdfdae"
+    },
+    {
+      "id": "tips_learn_5bc00924",
+      "title": "使用微波炉",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "bae900111d6d0f50322b9410c4396ad284adb58148422a3d265a9a8c8c73096c"
+    },
+    {
+      "id": "tips_learn_da10c0fb",
+      "title": "使用空气炸锅",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "efdb57d719c70cac82b4203072a7f70ec3b138d61305632cedd243b59c78e07e"
+    },
+    {
+      "id": "tips_learn_50d892d9",
+      "title": "食品安全",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "a70501925d6ceaf4b42324429fb416262fbde88fc987864f0a0f1bdfda34fe14"
+    },
+    {
+      "id": "tips_learn_ca3c962e",
+      "title": "蒸（米）/炖（使用电饭煲/高压锅/电压力锅）",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "cac469d1f794a16c6f7b931140e332600d55c5b416261d45c5325c4cb318f854"
+    },
+    {
+      "id": "tips_general_437ff646",
+      "title": "厨房准备",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "97f7b0881204aa14999f563b4c6a70c22b3d8cf3c2e90db1eaf9bd55656463ff"
+    },
+    {
+      "id": "tips_general_31cf7819",
+      "title": "如何决策吃什么",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "3d14c574ee54038c16a214e15570eec59e3a8bc659e0f6f6902d27c90e1d98c7"
+    },
+    {
+      "id": "tips_general_0288c2a7",
+      "title": "揭秘食材搭配的智慧：这些食物不宜同食",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "3b59fc6d32005f61c63bd2dcdd679f67ac6428c4bcbac34fe4a27371678bea9e"
+    }
+  ]
+}
