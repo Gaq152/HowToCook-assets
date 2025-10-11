@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2025-10-10T16:22:47.602Z",
+  "generatedAt": "2025-10-11T12:00:12.579Z",
   "totalRecipes": 325,
   "totalTips": 18,
   "categories": {
@@ -102,7 +102,7 @@
       "category": "aquatic",
       "categoryName": "水产",
       "difficulty": 4,
-      "hash": "1ba7e3b70369d7e02ad75aa1fa079f31d58ca76061b700d4cc26c73c4c819e49",
+      "hash": "df156ea595fec19d63f2031725d1b86cb8cd9db74598d26033797dca200284d8",
       "hasImages": false
     },
     {
@@ -174,7 +174,7 @@
       "category": "aquatic",
       "categoryName": "水产",
       "difficulty": 4,
-      "hash": "48997f9f9c244fd5db41975eda7e780422be259a68ec0c1dc01c4251b8946647",
+      "hash": "51294e338a0c3223757b7838d4e3a9f6d9a8d8eb647707b59794e4c4e67a2a40",
       "hasImages": false
     },
     {
@@ -1074,7 +1074,7 @@
       "category": "meat_dish",
       "categoryName": "荤菜",
       "difficulty": 3,
-      "hash": "a170d092f813181079721c448fcfee54f51db51b3c66b8fdc99453f5ad9e5baa",
+      "hash": "1c8115c58e0a2a9b4025f495e21f7c14a71d3382008baa8044a32225bdf62bb9",
       "hasImages": false
     },
     {
@@ -1353,7 +1353,7 @@
       "category": "meat_dish",
       "categoryName": "荤菜",
       "difficulty": 4,
-      "hash": "f2d5089979af1ff9566ba9bc85f308e0ea7ca0430d2f40b81abfbdd05a698053",
+      "hash": "b5c3fc788fde27aa31af811e3f44c084ca76bb541611ca6de9edda4d6cb132f3",
       "hasImages": true
     },
     {
@@ -1560,7 +1560,7 @@
       "category": "meat_dish",
       "categoryName": "荤菜",
       "difficulty": 5,
-      "hash": "045da65acadb12ce049d7f981a9b3bdcd320355a1579b15301605ec11f269fcb",
+      "hash": "6f2d3f045c7af3da4fbae0f5a5b8aed703df96d46913459e20a198641a681561",
       "hasImages": false
     },
     {
@@ -1596,7 +1596,7 @@
       "category": "meat_dish",
       "categoryName": "荤菜",
       "difficulty": 5,
-      "hash": "ccd9d3c82817cde38528dac66a0020936628fef7b7cd4bd3d0f36877918c1727",
+      "hash": "b1ba591b2316e2a69af8360a459b6c101baeefbeec19db11daecda83169fb038",
       "hasImages": false
     },
     {
@@ -1722,7 +1722,7 @@
       "category": "meat_dish",
       "categoryName": "荤菜",
       "difficulty": 4,
-      "hash": "89b4e2ee4181dfbc15da1a7cabece4c5fc97f44fa2ab1520f1ef1ffdadb8153c",
+      "hash": "40ba33a2f597b30e0b1c6d4e267b440e6b416e4de531e56edf7db3fee05825d0",
       "hasImages": false
     },
     {
@@ -2118,7 +2118,7 @@
       "category": "staple",
       "categoryName": "主食",
       "difficulty": 4,
-      "hash": "f608c52d887195051bcaa4178bf53fe57c8c1bc306be5eb6831f44eba3293a65",
+      "hash": "8b358f979618fb3c0f9cadae074e1a257c0546ec0071ab0c0dd5d96b8f7b24ce",
       "hasImages": true
     },
     {
