@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "id": "37a08712-3b0e-4194-93f0-45acaacb010f",
+  "legacyIds": [
+    "meat_dish_3048f1f9"
+  ],
+  "name": "尖椒炒牛肉",
+  "description": "一道家常小炒，咸香微辣，牛肉滑嫩入味，尖椒清脆爽口。牛肉提供优质蛋白和铁，尖椒富含维生素 C，搭配起来营养均衡。虽然腌制需要一些耐心，但操作步骤明确，新手也能上手，难度适中。从备料到出锅大约需要 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 449,
+  "requirements": [
+    {
+      "text": "牛肉",
+      "markdown": "牛肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱、姜、蒜",
+      "markdown": "葱、姜、蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "尖椒",
+      "markdown": "尖椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 牛肉\r\n* 葱、姜、蒜\r\n* 尖椒\r\n* 酱油\r\n* 盐\r\n* 糖",
+  "ingredients": [
+    {
+      "name": "牛肉用量为",
+      "text": "牛肉用量为 250 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱的用量为",
+      "text": "葱的用量为 0.5 根/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜的用量为",
+      "text": "姜的用量为 1 个/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐的用量为",
+      "text": "盐的用量为 3 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖的用量为",
+      "text": "糖的用量为 1.5 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油的用量为",
+      "text": "酱油的用量为 9 ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 牛肉用量为 250 g/人\r\n* 葱的用量为 0.5 根/人\r\n* 姜的用量为 1 个/人\r\n* 盐的用量为 3 g/人\r\n* 糖的用量为 1.5 g/人\r\n* 酱油的用量为 9 ml/人\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "配菜处理",
+      "description": "### 配菜处理"
+    },
+    {
+      "kind": "step",
+      "description": "蒜剁成蒜泥"
+    },
+    {
+      "kind": "step",
+      "description": "葱切段"
+    },
+    {
+      "kind": "step",
+      "description": "姜切成姜片"
+    },
+    {
+      "kind": "step",
+      "description": "尖椒切成段"
+    },
+    {
+      "kind": "section",
+      "title": "牛肉的预处理",
+      "description": "### 牛肉的预处理"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "加姜、盐、酱油、糖进行腌制 30-40 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "腌制完姜可以去掉"
+    },
+    {
+      "kind": "section",
+      "title": "炒熟",
+      "description": "### 炒熟"
+    },
+    {
+      "kind": "step",
+      "description": "冷油下锅，待油变热至偶有气泡"
+    },
+    {
+      "kind": "step",
+      "description": "加入蒜泥"
+    },
+    {
+      "kind": "step",
+      "description": "蒜泥变金黄后加入尖椒"
+    },
+    {
+      "kind": "step",
+      "description": "待尖椒表皮微皱，加入腌制好的牛肉翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒变熟之前加入葱，继续翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒至牛肉变熟，关火出锅"
+    }
+  ],
+  "operationMarkdown": "### 配菜处理\r\n\r\n1. 蒜剁成蒜泥\r\n2. 葱切段\r\n3. 姜切成姜片\r\n4. 尖椒切成段\r\n\r\n### 牛肉的预处理\r\n\r\n1. 牛肉放入碗中\r\n2. 加姜、盐、酱油、糖进行腌制 30-40 分钟\r\n3. 腌制完姜可以去掉\r\n\r\n### 炒熟\r\n\r\n1. 冷油下锅，待油变热至偶有气泡\r\n2. 加入蒜泥\r\n3. 蒜泥变金黄后加入尖椒\r\n4. 待尖椒表皮微皱，加入腌制好的牛肉翻炒\r\n5. 翻炒变熟之前加入葱，继续翻炒\r\n6. 翻炒至牛肉变熟，关火出锅",
+  "tips": "* 腌制可以加入小苏打使牛肉变嫩，牛肉苏打比例为 500g：3g。\r\n* 腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 腌制可以加入小苏打使牛肉变嫩，牛肉苏打比例为 500g：3g。\r\n* 腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/尖椒炒牛肉.md"
+  },
+  "hash": "43395725cae7749ee78c075f866a929473fbd17479acdf6b4a0d4ea440b1daac"
+}

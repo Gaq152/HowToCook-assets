@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "fba1859d-c58b-4174-bc70-87e74731213a",
+  "legacyIds": [
+    "semi-finished_007a3967"
+  ],
+  "name": "半成品意面",
+  "description": "这是一道利用市售半成品快速完成的西式简餐，面条弹韧有嚼劲，搭配现成酱料风味浓郁。以碳水化合物为主，能迅速补充能量，并含有蛋白质。制作难度极低，新手也能零失误，从开火到装盘仅需约 2 分钟。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 578,
+  "requirements": [
+    {
+      "text": "1 袋 半成品意大利面（推荐品牌圃美多）",
+      "markdown": "1 袋 半成品意大利面（推荐品牌圃美多）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "50 ml 清水",
+      "markdown": "50 ml 清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底锅 或 微波炉",
+      "markdown": "平底锅 或 微波炉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 1 袋 半成品意大利面（推荐品牌圃美多）\r\n* 50 ml 清水\r\n* 平底锅 或 微波炉\r\n\r\n> 不同类型的意面烧制时长有所不同，这里是意大利直面的标准。",
+  "ingredients": [
+    {
+      "name": "2 人",
+      "text": "2 人 1 顿 520g（以半成品为准）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 2 人 1 顿 520g（以半成品为准）\r\n\r\n> 使用上述条件，按需求（包括但不限于日常食量、心情和饭前运动情况）计算材料用量。",
+  "calculationNotes": [
+    "> 使用上述条件，按需求（包括但不限于日常食量、心情和饭前运动情况）计算材料用量。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "方法一 - 平底锅",
+      "description": "### 方法一 - 平底锅"
+    },
+    {
+      "kind": "step",
+      "description": "热锅"
+    },
+    {
+      "kind": "step",
+      "description": "将 50 ml 清水倒入平底锅"
+    },
+    {
+      "kind": "step",
+      "description": "将面条放入，炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将酱料倒入，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "装盘即可"
+    },
+    {
+      "kind": "section",
+      "title": "方法二 - 微波炉",
+      "description": "### 方法二 - 微波炉"
+    },
+    {
+      "kind": "step",
+      "description": "将面条放入「可用于微波炉加热」的盘子中"
+    },
+    {
+      "kind": "step",
+      "description": "将附带的酱料倒在面条上"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 50 ml 清水"
+    },
+    {
+      "kind": "step",
+      "description": "700W 加热 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出拌匀即可"
+    }
+  ],
+  "operationMarkdown": "### 方法一 - 平底锅\r\n\r\n1. 热锅\r\n2. 将 50 ml 清水倒入平底锅\r\n3. 将面条放入，炒 1 分钟\r\n4. 将酱料倒入，翻炒 1 分钟\r\n5. 装盘即可\r\n\r\n### 方法二 - 微波炉\r\n\r\n1. 将面条放入「可用于微波炉加热」的盘子中\r\n2. 将附带的酱料倒在面条上\r\n3. 倒入 50 ml 清水\r\n4. 700W 加热 2 分钟\r\n5. 取出拌匀即可",
+  "tips": "- 传统意大利面非常长。20 世纪下半叶开始流行短的意大利粉，典型长度 25–30 cm。\r\n- “Spaghettoni”是较厚的意大利粉。“Spaghettini”较细的意大利面。“capellini”是更细版的意大利面。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 传统意大利面非常长。20 世纪下半叶开始流行短的意大利粉，典型长度 25–30 cm。\r\n- “Spaghettoni”是较厚的意大利粉。“Spaghettini”较细的意大利面。“capellini”是更细版的意大利面。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/半成品意面.md"
+  },
+  "hash": "dfe2857e4fc386885e2eee259146231bc476f124580150b08138250115bc67b3"
+}

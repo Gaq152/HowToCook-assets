@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "id": "ee419a19-80f3-4a74-8de5-e98ff61c0e02",
+  "legacyIds": [
+    "breakfast_45c75ea6"
+  ],
+  "name": "完美水煮蛋",
+  "description": "这是一道通过科学家研发的循环水煮法制成的鸡蛋，蛋黄绵密细腻，蛋白均匀凝固，口感层次分明。它保留了更多营养素，多酚含量比传统煮法高 23%，蛋白质丰富。制作难度较高，需精准控温并反复转移，预计制作时长约 35 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 86,
+  "requirements": [
+    {
+      "text": "新鲜鸡蛋（推荐 AA 级）",
+      "markdown": "新鲜鸡蛋（推荐 AA 级）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "100°C 沸水锅（直径≥ 15cm）",
+      "markdown": "100°C 沸水锅（直径≥ 15cm）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "30°C 温水锅（直径≥ 15cm）",
+      "markdown": "30°C 温水锅（直径≥ 15cm）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "定时器",
+      "markdown": "定时器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "漏勺",
+      "markdown": "漏勺",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜鸡蛋（推荐 AA 级）\r\n- 100°C 沸水锅（直径≥ 15cm）\r\n- 30°C 温水锅（直径≥ 15cm）\r\n- 定时器\r\n- 漏勺",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（约 60g ）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "100°C 沸水",
+      "text": "100°C 沸水 1500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "30°C 温水",
+      "text": "30°C 温水 1500ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鸡蛋 1 个（约 60g ）\r\n- 100°C 沸水 1500ml\r\n- 30°C 温水 1500ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "准备两锅水： A 锅维持 100°C 沸水， B 锅维持 30°C 温水"
+    },
+    {
+      "kind": "step",
+      "description": "用漏勺将鸡蛋放入 A 锅，启动定时器"
+    },
+    {
+      "kind": "step",
+      "description": "精准**每 2 分钟**将鸡蛋转移至另一锅水"
+    },
+    {
+      "kind": "step",
+      "description": "重复转移操作共 16 次（总时长 32 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "最后一次转移后，在 B 锅静置 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "立即放入冰水（ 0 摄氏度）终止加热（维持 30 秒）"
+    },
+    {
+      "kind": "step",
+      "description": "剥壳时从钝端气室处开始，沿纵轴剥离蛋膜"
+    }
+  ],
+  "operationMarkdown": "1. 准备两锅水： A 锅维持 100°C 沸水， B 锅维持 30°C 温水\r\n2. 用漏勺将鸡蛋放入 A 锅，启动定时器\r\n3. 精准**每 2 分钟**将鸡蛋转移至另一锅水\r\n4. 重复转移操作共 16 次（总时长 32 分钟）\r\n5. 最后一次转移后，在 B 锅静置 30 秒\r\n6. 立即放入冰水（ 0 摄氏度）终止加热（维持 30 秒）\r\n7. 剥壳时从钝端气室处开始，沿纵轴剥离蛋膜",
+  "tips": "- 关键参数：\r\n  - 蛋黄中心温度：67±1°C\r\n  - 蛋白分层温度：\r\n    - 外层：100°C→87°C\r\n    - 中层：87°C→55°C\r\n    - 内层：55°C→30°C\r\n- 营养优势：多酚含量比传统煮法高 23%\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 关键参数：\r\n  - 蛋黄中心温度：67±1°C\r\n  - 蛋白分层温度：\r\n    - 外层：100°C→87°C\r\n    - 中层：87°C→55°C\r\n    - 内层：55°C→30°C\r\n- 营养优势：多酚含量比传统煮法高 23%\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [
+    "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1yBdnK.img?w=768&h=512&m=6"
+  ],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/完美水煮蛋.md"
+  },
+  "hash": "4381f10ddb11f394e2629674792f1bcfb04fa0dc5042aa5c1cc15171c00f5a6b"
+}

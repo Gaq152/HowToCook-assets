@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "id": "55ed76f3-5608-47ef-851b-c947ff11ef56",
+  "legacyIds": [
+    "condiment_2499dc8b"
+  ],
+  "name": "油酥",
+  "description": "这是一道中式面点配料，常用于烙饼，能让成品层次分明、外酥里软。主要提供碳水化合物和脂肪，为身体补充能量。做法十分简单，新手友好，预计只需 3 分钟就能调好。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 111,
+  "requirements": [
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 面粉\r\n- 油\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "油",
+      "text": "油 = （要烙饼的张数 * 10ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = （要烙饼的张数 / 2）g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 = （要烙饼的张数 / 0.13）g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 油 = （要烙饼的张数 * 10ml）\r\n- 盐 = （要烙饼的张数 / 2）g\r\n- 面粉 = （要烙饼的张数 / 0.13）g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "面粉盛小碗里，加入盐"
+    },
+    {
+      "kind": "step",
+      "description": "加入 200 度的热油"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子将其搅拌成无固状物体的糊状。"
+    }
+  ],
+  "operationMarkdown": "1. 面粉盛小碗里，加入盐\r\n2. 加入 200 度的热油\r\n3. 用筷子将其搅拌成无固状物体的糊状。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/油酥.md"
+  },
+  "hash": "473d3edf94a8032f57afbc8595474ed7d0a043586cb5ae65ade5fd810491b4d4"
+}

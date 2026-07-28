@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 2,
+  "id": "568ed81b-25f7-410e-8e77-9b700df780c9",
+  "legacyIds": [],
+  "name": "肉蟹煲",
+  "description": "这道菜酱香浓郁，蟹肉鲜甜微辣，土豆软糯、年糕 Q 弹，汤汁拌饭格外过瘾，属于一道适合聚餐的硬菜。它富含优质蛋白和多种微量元素，营养丰富。制作有一定难度，需处理活蟹、把控火候和调味比例，对新手略具挑战，预计全程约需 1 小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 2111,
+  "requirements": [
+    {
+      "text": "肉蟹（推荐优先级从高到低：缅甸黑蟹、青蟹、梭子蟹、大闸蟹）",
+      "markdown": "肉蟹（推荐优先级从高到低：缅甸黑蟹、青蟹、梭子蟹、大闸蟹）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "虾（可选）",
+      "markdown": "虾（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "年糕（推荐硬年糕，新鲜年糕亦可）",
+      "markdown": "年糕（推荐硬年糕，新鲜年糕亦可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红椒",
+      "markdown": "红椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "海鲜酱（可选）",
+      "markdown": "海鲜酱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄豆酱（可选）",
+      "markdown": "黄豆酱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "甜面酱（或烧烤酱，可选）",
+      "markdown": "甜面酱（或烧烤酱，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱（没有就挤半颗番茄碾碎）",
+      "markdown": "番茄酱（没有就挤半颗番茄碾碎）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉（玉米淀粉或土豆淀粉）",
+      "markdown": "淀粉（玉米淀粉或土豆淀粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒（可使用黄酒替代）",
+      "markdown": "料酒（可使用黄酒替代）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 肉蟹（推荐优先级从高到低：缅甸黑蟹、青蟹、梭子蟹、大闸蟹）\r\n- 虾（可选）\r\n- 土豆\r\n- 年糕（推荐硬年糕，新鲜年糕亦可）\r\n- 洋葱\r\n- 大蒜\r\n- 生姜\r\n- 干辣椒\r\n- 青椒\r\n- 红椒\r\n- 蚝油\r\n- 海鲜酱（可选）\r\n- 黄豆酱（可选）\r\n- 甜面酱（或烧烤酱，可选）\r\n- 番茄酱（没有就挤半颗番茄碾碎）\r\n- 淀粉（玉米淀粉或土豆淀粉）\r\n- 冰糖\r\n- 鸡精\r\n- 白胡椒粉\r\n- 料酒（可使用黄酒替代）\r\n- 生抽\r\n- 老抽\r\n- 啤酒\r\n- 清水",
+  "ingredients": [
+    {
+      "name": "肉蟹",
+      "text": "肉蟹 500 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "虾",
+      "text": "虾 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 450 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "年糕",
+      "text": "年糕 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 20 g（如果放了虾，追加 10 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红椒",
+      "text": "红椒 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30-50 ml（如果放了虾，追加 10 ml；油炸另需 500 mL）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "海鲜酱",
+      "text": "海鲜酱 15 g（替代：蚝油 12 g + 白砂糖 3 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆酱",
+      "text": "黄豆酱 15 g（替代：生抽 12 ml + 老抽 2 ml + 白糖 1 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甜面酱",
+      "text": "甜面酱 10 g（替代：白糖 5.5 g + 生抽 4 ml + 老抽 0.5 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 40 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 2 g（如果放了虾，追加 1 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 200 ml（如果放了虾，追加 50-100 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 800 ml（如果放了虾，追加 200 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 3-4 个人吃。\r\n\r\n每份：\r\n\r\n- 肉蟹 500 g\r\n- 虾 200 g\r\n- 土豆 450 g\r\n- 年糕 200 g\r\n- 洋葱 100 g\r\n- 大蒜 20 g（如果放了虾，追加 10 g）\r\n- 生姜 15 g\r\n- 干辣椒 5 g\r\n- 青椒 30 g\r\n- 红椒 30 g\r\n- 蚝油 20 g\r\n- 食用油 30-50 ml（如果放了虾，追加 10 ml；油炸另需 500 mL）\r\n- 海鲜酱 15 g（替代：蚝油 12 g + 白砂糖 3 g）\r\n- 黄豆酱 15 g（替代：生抽 12 ml + 老抽 2 ml + 白糖 1 g）\r\n- 甜面酱 10 g（替代：白糖 5.5 g + 生抽 4 ml + 老抽 0.5 ml）\r\n- 番茄酱 10 g\r\n- 淀粉 40 g\r\n- 冰糖 10 g\r\n- 鸡精 3 g\r\n- 白胡椒粉 2 g（如果放了虾，追加 1 g）\r\n- 料酒 15 ml\r\n- 生抽 20 ml\r\n- 老抽 5 ml\r\n- 啤酒 200 ml（如果放了虾，追加 50-100 ml）\r\n- 清水 800 ml（如果放了虾，追加 200 ml）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 3-4 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "土豆切块为各边均为 3 cm 的立方体，青/红椒切成边长 4 cm 的菱形片，洋葱切成 3 cm 宽的月牙瓣，年糕切成 1 cm 厚片"
+    },
+    {
+      "kind": "step",
+      "description": "螃蟹切成 50-80 g 的块，裹薄淀粉，180 °C 油温炸 1 分钟捞出"
+    },
+    {
+      "kind": "step",
+      "description": "锅中放油，蒜姜干辣椒爆香，放所有酱料 + 冰糖小火炒出红油，注意别糊底"
+    },
+    {
+      "kind": "step",
+      "description": "加螃蟹、土豆、啤酒和清水，烧开转小火炖 12 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "放年糕和青红椒，开大火收汁到汤汁可以附着在物品表面，最后撒白胡椒粉"
+    }
+  ],
+  "operationMarkdown": "1. 土豆切块为各边均为 3 cm 的立方体，青/红椒切成边长 4 cm 的菱形片，洋葱切成 3 cm 宽的月牙瓣，年糕切成 1 cm 厚片\r\n2. 螃蟹切成 50-80 g 的块，裹薄淀粉，180 °C 油温炸 1 分钟捞出\r\n3. 锅中放油，蒜姜干辣椒爆香，放所有酱料 + 冰糖小火炒出红油，注意别糊底\r\n4. 加螃蟹、土豆、啤酒和清水，烧开转小火炖 12 分钟\r\n5. 放年糕和青红椒，开大火收汁到汤汁可以附着在物品表面，最后撒白胡椒粉",
+  "tips": "- 建议冷冻 20 分钟让螃蟹昏迷（别冻硬！），或用筷子从口器插入破坏神经\r\n- 如果使用的是冷冻蟹，完全解冻蟹脚容易掉，并且容易造成肉质流失。建议半解冻后裹粉油炸，并将油炸时间延长至 2 分钟\r\n- 如果灶具功率较小，食材下油锅后容易迅速降温，建议油温预热到 200 °C，并且分多批次油炸\r\n- 务必去掉蟹胃（三角包）、蟹腮、蟹心（六角形白片）\r\n- 裹淀粉的螃蟹下锅前务必擦干，热油遇水容易飞溅\r\n- 死蟹绝对不能用（买来的就是冷冻的除外，但是解冻后未及时使用的也不行）\r\n- 不与柿子、浓茶同食\r\n- 痛风患者慎食\r\n- 年糕切片后泡冷水，下锅前冲洗不容易粘锅，下锅后放在表面，沉入锅底容易糊锅\r\n- 要是被螃蟹夹了或者烫伤了，先用冷水冲 15 分钟，严重的话及时就医，如果伤口比较深务必就医\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 建议冷冻 20 分钟让螃蟹昏迷（别冻硬！），或用筷子从口器插入破坏神经\r\n- 如果使用的是冷冻蟹，完全解冻蟹脚容易掉，并且容易造成肉质流失。建议半解冻后裹粉油炸，并将油炸时间延长至 2 分钟\r\n- 如果灶具功率较小，食材下油锅后容易迅速降温，建议油温预热到 200 °C，并且分多批次油炸\r\n- 务必去掉蟹胃（三角包）、蟹腮、蟹心（六角形白片）\r\n- 裹淀粉的螃蟹下锅前务必擦干，热油遇水容易飞溅\r\n- 死蟹绝对不能用（买来的就是冷冻的除外，但是解冻后未及时使用的也不行）\r\n- 不与柿子、浓茶同食\r\n- 痛风患者慎食\r\n- 年糕切片后泡冷水，下锅前冲洗不容易粘锅，下锅后放在表面，沉入锅底容易糊锅\r\n- 要是被螃蟹夹了或者烫伤了，先用冷水冲 15 分钟，严重的话及时就医，如果伤口比较深务必就医\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/肉蟹煲.md"
+  },
+  "hash": "254dfdcb5bcbaee6aefe2358111d8a0bc2755123186cf03103172503d5e61513"
+}

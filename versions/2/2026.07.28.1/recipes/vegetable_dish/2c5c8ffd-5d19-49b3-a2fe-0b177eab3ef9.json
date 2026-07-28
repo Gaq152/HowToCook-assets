@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "id": "2c5c8ffd-5d19-49b3-a2fe-0b177eab3ef9",
+  "legacyIds": [
+    "vegetable_dish_8301a7b3"
+  ],
+  "name": "蒜蓉空心菜",
+  "description": "蒜蓉空心菜是一道清脆爽口、蒜香浓郁的家常快手菜，属于典型的川式小炒风味。空心菜富含膳食纤维、维生素和钙质，有助于促进肠道蠕动。做法非常简单，对新手十分友好，从备料到出锅大约只需 15 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 440,
+  "requirements": [
+    {
+      "text": "空心菜",
+      "markdown": "空心菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜末",
+      "markdown": "蒜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "筷子",
+      "markdown": "筷子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "铲子",
+      "markdown": "铲子",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 空心菜\r\n* 蒜末\r\n* 盐\r\n* 生抽\r\n* 筷子\r\n* 铲子",
+  "ingredients": [
+    {
+      "name": "新鲜空心菜",
+      "text": "新鲜空心菜 250 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜半个",
+      "text": "大蒜半个，切碎为蒜末",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 45 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 8 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 新鲜空心菜 250 g\r\n* 大蒜半个，切碎为蒜末\r\n* 食用油 45 ml\r\n* 盐 2 g\r\n* 白糖 3 g\r\n* 生抽 8 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "空心菜洗净，去掉烂叶或者老梗，均匀切成 2 段或者 3 段（防止过长不好炒）"
+    },
+    {
+      "kind": "step",
+      "description": "锅里先倒少量油，烧至微微冒烟，此时拿起锅将国内的热油向四周浸润，让油均匀覆盖锅底，然后再倒入剩余的油([热锅凉油法](https://cook.aiursoft.com/tips/learn/%E5%AD%A6%E4%B9%A0%E7%82%92%E4%B8%8E%E7%85%8E/?h=%E7%83%AD%E9%94%85#_5))。"
+    },
+    {
+      "kind": "step",
+      "description": "放入蒜末，小火炒 10 到 15 秒煸香"
+    },
+    {
+      "kind": "step",
+      "description": "尽快均匀地放入空心菜，**开大火**，左手拿铲子，右手拿筷子，配合将空心菜不停翻动，**直至软化变绿**。"
+    },
+    {
+      "kind": "step",
+      "description": "接着不需使用筷子，而是使用铲子快速翻炒已软化的空心菜 15 - 20 秒，使之受热更均匀，撒入盐 2 g ，白糖 3 g，生抽 8 ml。"
+    },
+    {
+      "kind": "step",
+      "description": "继续大火翻炒 10 秒，即可出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 空心菜洗净，去掉烂叶或者老梗，均匀切成 2 段或者 3 段（防止过长不好炒）\r\n2. 锅里先倒少量油，烧至微微冒烟，此时拿起锅将国内的热油向四周浸润，让油均匀覆盖锅底，然后再倒入剩余的油([热锅凉油法](https://cook.aiursoft.com/tips/learn/%E5%AD%A6%E4%B9%A0%E7%82%92%E4%B8%8E%E7%85%8E/?h=%E7%83%AD%E9%94%85#_5))。\r\n3. 放入蒜末，小火炒 10 到 15 秒煸香\r\n4. 尽快均匀地放入空心菜，**开大火**，左手拿铲子，右手拿筷子，配合将空心菜不停翻动，**直至软化变绿**。\r\n5. 接着不需使用筷子，而是使用铲子快速翻炒已软化的空心菜 15 - 20 秒，使之受热更均匀，撒入盐 2 g ，白糖 3 g，生抽 8 ml。\r\n6. 继续大火翻炒 10 秒，即可出锅。\r\n\r\n![蒜蓉空心菜-预览图-1](./1.JPG)",
+  "tips": "* 空心菜尽量选择新鲜，鲜嫩的，否则炒出来口感可能会比较老\r\n* 实际放入空心菜的量可以根据锅的大小决定，建议不超过一个锅，否则太多的话开始的翻动阶段和后续的翻炒，容易掉出少量空心菜到灶台\r\n* 炒空心菜时，一定要**开大火**，这样空心菜才能快速变软的同时保持脆嫩的口感，大火也有利于炒出生抽的香味。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 空心菜尽量选择新鲜，鲜嫩的，否则炒出来口感可能会比较老\r\n* 实际放入空心菜的量可以根据锅的大小决定，建议不超过一个锅，否则太多的话开始的翻动阶段和后续的翻炒，容易掉出少量空心菜到灶台\r\n* 炒空心菜时，一定要**开大火**，这样空心菜才能快速变软的同时保持脆嫩的口感，大火也有利于炒出生抽的香味。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/2c5c8ffd-5d19-49b3-a2fe-0b177eab3ef9_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md"
+  },
+  "hash": "b4e15ebf47101ff22cde93a85b9821faf4a0a21b2f89f98d0e2c0cff99cfe6c9"
+}

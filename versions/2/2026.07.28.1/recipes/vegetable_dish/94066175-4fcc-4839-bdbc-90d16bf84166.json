@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "94066175-4fcc-4839-bdbc-90d16bf84166",
+  "legacyIds": [
+    "vegetable_dish_4ba1c728"
+  ],
+  "name": "洋葱炒鸡蛋",
+  "description": "洋葱炒鸡蛋是一道咸香适口、葱香浓郁的家常菜肴，鸡蛋嫩滑，洋葱清甜，属于国民下饭菜。鸡蛋富含优质蛋白质和多种维生素，洋葱含有膳食纤维和抗氧化物质，是一道营养均衡的快手菜。这道菜操作极其简单，对新手非常友好，从备料到出锅只需约 5 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 562,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 鸡蛋\r\n* 洋葱\r\n* 食用油\r\n* 盐\r\n* 葱\r\n* 料酒",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 50 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱 半 根",
+      "text": "葱 半 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 2 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 鸡蛋 2 个\r\n* 洋葱 50 g\r\n* 食用油 50 ml\r\n* 盐 2 g\r\n* 葱 半 根\r\n* 料酒 2 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-3 分钟 后散上料酒出锅"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋装盘，散上葱花"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋打入大碗中，加入洋葱片、盐后搅拌 60 S\r\n2. 起锅烧油，倒入鸡蛋，一面煎炸 30-45 S ，翻面继续翻炒，反复 2-3 分钟 后散上料酒出锅\r\n3. 鸡蛋装盘，散上葱花\r\n\r\n![洋葱炒鸡蛋-预览图-1](./1.jpeg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/94066175-4fcc-4839-bdbc-90d16bf84166_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md"
+  },
+  "hash": "51845c965f4124623ff53c291ee2adb1e2f65514ddb012418d320b0f5bbb366f"
+}

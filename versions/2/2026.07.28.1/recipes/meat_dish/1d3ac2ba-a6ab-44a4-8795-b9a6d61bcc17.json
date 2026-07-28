@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "id": "1d3ac2ba-a6ab-44a4-8795-b9a6d61bcc17",
+  "legacyIds": [
+    "meat_dish_bc5b39f0"
+  ],
+  "name": "乡村啤酒鸭",
+  "description": "鸭肉与啤酒同炖，汤汁浓郁，肉质鲜香软烂，还带有一股淡淡的啤酒清香，是一道风味独特的家常菜。鸭肉本身滋补，富含蛋白质、B 族维生素和多种矿物质，搭配啤酒炖煮后更易入味。这道菜步骤虽稍多，但操作并不复杂，一般初学者只需 大约 1 小时即可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1324,
+  "requirements": [
+    {
+      "text": "鸭肉",
+      "markdown": "鸭肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "32 厘米以上的炒锅一个(锅太小难炒",
+      "markdown": "32 厘米以上的炒锅一个(锅太小难炒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红椒",
+      "markdown": "红椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "草果",
+      "markdown": "草果",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸭肉\r\n- 啤酒\r\n- 32 厘米以上的炒锅一个(锅太小难炒\r\n- 青椒\r\n- 红椒\r\n- 大蒜\r\n- 生姜\r\n- 小米椒\r\n- 蒜苗\r\n- 大葱\r\n- 草果\r\n- 桂皮\r\n- 八角\r\n- 香叶\r\n- 干辣椒",
+  "ingredients": [
+    {
+      "name": "鸭肉（半只",
+      "text": "鸭肉（半只,1 kg,让市场老板剁成小块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 1000 ml （可以买 500 ml 的罐装啤酒两瓶）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 2 条，红椒 1 条 （ 长度 10 厘米到 15 厘米 之间都可以）（切段 或者切片都可以， 2 厘米一段）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 颗 ,拍散备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 3 厘米长，拍散备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 3 颗，切两段即可(不吃辣的可以不用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗",
+      "text": "蒜苗 2 根 切段备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 2 根 1 根切段,1 根备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "草果 两颗",
+      "text": "草果 两颗，拍散去仔备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 4 厘米一小片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 6 条 (不吃辣可以不用",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸭肉（半只,1 kg,让市场老板剁成小块）\r\n- 啤酒 1000 ml （可以买 500 ml 的罐装啤酒两瓶）\r\n- 青椒 2 条，红椒 1 条 （ 长度 10 厘米到 15 厘米 之间都可以）（切段 或者切片都可以， 2 厘米一段）\r\n\r\n### 辅料\r\n\r\n- 大蒜 4 颗 ,拍散备用\r\n- 生姜 3 厘米长，拍散备用\r\n- 小米辣 3 颗，切两段即可(不吃辣的可以不用\r\n- 蒜苗 2 根 切段备用\r\n- 大葱 2 根  1 根切段,1 根备用\r\n\r\n### 香料\r\n\r\n- 草果 两颗，拍散去仔备用\r\n- 桂皮 4 厘米一小片\r\n- 八角 3 颗\r\n- 香叶 3 片\r\n- 干辣椒 6 条 (不吃辣可以不用",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "鸭肉焯水以去腥去血水",
+      "description": "### 鸭肉焯水以去腥去血水"
+    },
+    {
+      "kind": "step",
+      "description": "鸭肉清洗一遍放进锅中"
+    },
+    {
+      "kind": "step",
+      "description": "加清水淹没鸭肉"
+    },
+    {
+      "kind": "step",
+      "description": "加 20 ml 料酒"
+    },
+    {
+      "kind": "step",
+      "description": "加备用的 1 根 大葱"
+    },
+    {
+      "kind": "step",
+      "description": "加生姜 ,拍散的 2 厘米"
+    },
+    {
+      "kind": "step",
+      "description": "开火烧滚"
+    },
+    {
+      "kind": "step",
+      "description": "捞出浮沫"
+    },
+    {
+      "kind": "step",
+      "description": "鸭肉捞出，清水洗干净备用"
+    },
+    {
+      "kind": "section",
+      "title": "开始煮",
+      "description": "### 开始煮"
+    },
+    {
+      "kind": "step",
+      "description": "锅清洗干净烧热，加 60ml 的花生油"
+    },
+    {
+      "kind": "step",
+      "description": "油温到 60 度的时候，加一把花椒（ 30 颗）"
+    },
+    {
+      "kind": "step",
+      "description": "加鸭肉翻炒 4 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "2 分钟后加入所有的香料"
+    },
+    {
+      "kind": "step",
+      "description": "3 分钟的时候加入所有的料头（生姜，大蒜，小米辣）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 1000 ml 的啤酒"
+    },
+    {
+      "kind": "step",
+      "description": "烧鸭肉 30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "10 分钟的时候加 盐 （3 克） 生抽( 10 ml ) 老抽( 5 ml)"
+    },
+    {
+      "kind": "step",
+      "description": "20 分钟 加入所有的辅料 （青椒和红椒段）"
+    },
+    {
+      "kind": "step",
+      "description": "29 分钟加入 蒜苗段 和 大葱段"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "出锅"
+    }
+  ],
+  "operationMarkdown": "### 鸭肉焯水以去腥去血水\r\n\r\n1. 鸭肉清洗一遍放进锅中\r\n2. 加清水淹没鸭肉\r\n3. 加 20 ml 料酒\r\n4. 加备用的 1 根 大葱\r\n5. 加生姜 ,拍散的 2 厘米\r\n6. 开火烧滚\r\n7. 捞出浮沫\r\n8. 鸭肉捞出，清水洗干净备用\r\n\r\n### 开始煮\r\n\r\n1. 锅清洗干净烧热，加 60ml 的花生油\r\n2. 油温到 60 度的时候，加一把花椒（ 30 颗）\r\n3. 加鸭肉翻炒 4 分钟\r\n\r\n  - 2 分钟后加入所有的香料\r\n  - 3 分钟的时候加入所有的料头（生姜，大蒜，小米辣）\r\n\r\n4. 加入 1000 ml 的啤酒\r\n5. 烧鸭肉 30 分钟\r\n\r\n  - 10 分钟的时候加 盐 （3 克） 生抽( 10 ml ) 老抽( 5 ml)\r\n  - 20 分钟 加入所有的辅料 （青椒和红椒段）\r\n  - 29 分钟加入 蒜苗段 和 大葱段\r\n  - 翻炒 1 分钟\r\n\r\n6. 出锅",
+  "tips": "- 操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒。\r\n\r\n- [厨师长：用土灶烧“乡村啤酒鸭”，味道安逸得不摆了](https://www.bilibili.com/video/BV1R4411u7po?spm_id_from=333.999.0.0)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒。\r\n\r\n- [厨师长：用土灶烧“乡村啤酒鸭”，味道安逸得不摆了](https://www.bilibili.com/video/BV1R4411u7po?spm_id_from=333.999.0.0)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/乡村啤酒鸭.md"
+  },
+  "hash": "3be44db4e4e861ea4da011cb6631e1fa29f182797ae8ab73faf134877136e599"
+}

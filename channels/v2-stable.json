@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "channel": "stable",
+  "dataVersion": "2026.07.28.1",
+  "manifestPath": "versions/2/2026.07.28.1/manifest.json",
+  "sourceCommit": "c05758fa661ac4efa0361a987b700a351a22159b",
+  "publishedAt": "2026-07-28T03:59:55.843Z",
+  "compatibility": {
+    "legacyRootSchemaVersion": 1,
+    "legacyRootUnchanged": true
+  }
+}

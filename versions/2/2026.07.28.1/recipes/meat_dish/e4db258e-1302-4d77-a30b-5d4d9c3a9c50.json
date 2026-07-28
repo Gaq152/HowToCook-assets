@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "id": "e4db258e-1302-4d77-a30b-5d4d9c3a9c50",
+  "legacyIds": [
+    "meat_dish_3d4beeb5"
+  ],
+  "name": "冬瓜酿肉",
+  "description": "冬瓜酿肉是一道荤素搭配的家常蒸菜，口感鲜嫩爽滑，肉馅的咸香与冬瓜的清甜相互融合，清爽不腻。猪肉末提供优质蛋白质和必需氨基酸，冬瓜则有助于清热利尿、补充水分。做法简单，即使是新手也能轻松上手，只需稍加练习卷肉技巧即可。从备料到出锅，大约需要 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 578,
+  "requirements": [
+    {
+      "text": "冬瓜",
+      "markdown": "冬瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉末",
+      "markdown": "猪肉末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱姜末",
+      "markdown": "葱姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 冬瓜\r\n- 猪肉末\r\n- 鸡蛋\r\n- 葱\r\n- 葱姜末\r\n- 胡椒粉\r\n- 生抽\r\n- 淀粉",
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "text": "猪肉末 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（可选,不习惯的人可能会有点腥）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冬瓜",
+      "text": "冬瓜 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花（一根",
+      "text": "葱花（一根,约 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水淀粉",
+      "text": "水淀粉 25g（淀粉 25g,水 50ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱姜末（姜",
+      "text": "葱姜末（姜 3-4 片约 30g, 取上面一根葱花中的葱白部分即可）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 猪肉末 300g\r\n- 鸡蛋 1 个（可选,不习惯的人可能会有点腥）\r\n- 冬瓜 200g\r\n- 葱花（一根,约 20g）\r\n- 胡椒粉 5g\r\n- 生抽 10ml\r\n- 淀粉 5g\r\n- 水淀粉 25g（淀粉 25g,水 50ml）\r\n- 葱姜末（姜 3-4 片约 30g, 取上面一根葱花中的葱白部分即可）\r\n- 盐 20g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "冬瓜去皮，切成 25cm 长 3cm 厚的片"
+    },
+    {
+      "kind": "step",
+      "description": "将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉"
+    },
+    {
+      "kind": "step",
+      "description": "使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约 2 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "将腌制好的冬瓜（会变软）使用清水洗三遍"
+    },
+    {
+      "kind": "step",
+      "description": "拿出 1 片冬瓜片卷起来，并把肉塞进去"
+    },
+    {
+      "kind": "step",
+      "description": "放入碟子中摆到碟子的边缘"
+    },
+    {
+      "kind": "step",
+      "description": "打入 1 个鸡蛋到中间圆圈处"
+    },
+    {
+      "kind": "step",
+      "description": "放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖"
+    },
+    {
+      "kind": "step",
+      "description": "开盖，取出蒸好的冬瓜酿肉"
+    },
+    {
+      "kind": "step",
+      "description": "将冬瓜酿肉碟子的水倒入锅中，放入水淀粉，加入 50ml 清水倒入锅中烧开"
+    },
+    {
+      "kind": "step",
+      "description": "淋到冬瓜酿肉上"
+    }
+  ],
+  "operationMarkdown": "1. 冬瓜去皮，切成 25cm 长 3cm 厚的片\r\n\r\n![冬瓜形状](./冬瓜形状.jpg)\r\n\r\n2. 将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟\r\n3. 放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉\r\n4. 使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约 2 分钟）\r\n5. 将腌制好的冬瓜（会变软）使用清水洗三遍\r\n\r\n![腌制好的冬瓜](./腌制好的冬瓜.jpg)\r\n\r\n6. 拿出 1 片冬瓜片卷起来，并把肉塞进去\r\n\r\n![卷肉](./卷肉.jpg)\r\n\r\n7. 放入碟子中摆到碟子的边缘\r\n\r\n![冬瓜酿肉-预览图-5](./摆盘.jpg)\r\n\r\n8. 打入 1 个鸡蛋到中间圆圈处\r\n\r\n![打鸡蛋](./打鸡蛋.jpg)\r\n\r\n9. 放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖\r\n10. 开盖，取出蒸好的冬瓜酿肉\r\n11. 将冬瓜酿肉碟子的水倒入锅中，放入水淀粉，加入 50ml 清水倒入锅中烧开\r\n12. 淋到冬瓜酿肉上",
+  "tips": "- 操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。\r\n- 参考资料：[b站视频](https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。\r\n- 参考资料：[b站视频](https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_0.webp",
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_1.webp",
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_2.webp",
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_3.webp",
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_4.webp",
+    "images/meat_dish/e4db258e-1302-4d77-a30b-5d4d9c3a9c50_5.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md"
+  },
+  "hash": "1a2379333145ebed3a0c0791bced17ac5f4be8735be48abfa71430f1f07034d3"
+}

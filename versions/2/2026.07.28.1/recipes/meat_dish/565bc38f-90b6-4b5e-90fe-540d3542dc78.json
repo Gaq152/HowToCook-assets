@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "565bc38f-90b6-4b5e-90fe-540d3542dc78",
+  "legacyIds": [
+    "meat_dish_44f4ad30"
+  ],
+  "name": "黑椒牛柳",
+  "description": "黑椒牛柳是一道广受欢迎的家常小炒，黑椒风味浓郁，牛柳嫩滑，搭配甜脆的洋葱和彩椒，荤素均衡，口味老少咸宜。牛肉富含优质蛋白和铁，彩椒和洋葱能补充多种维生素。这道菜对新手十分友好，从备料到出锅，通常一小时以内就能完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 216,
+  "requirements": [
+    {
+      "text": "牛肉（可以用牛里脊肉或者牛排肉）",
+      "markdown": "牛肉（可以用牛里脊肉或者牛排肉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜椒（红/黄椒）",
+      "markdown": "菜椒（红/黄椒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒（粉）",
+      "markdown": "黑胡椒（粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑椒（腌料）",
+      "markdown": "黑椒（腌料）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生油",
+      "markdown": "花生油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛肉（可以用牛里脊肉或者牛排肉）\r\n- 洋葱\r\n- 菜椒（红/黄椒）\r\n- 淀粉\r\n- 黑胡椒（粉）\r\n- 黑椒（腌料）\r\n- 盐\r\n- 花生油\r\n\r\n注：粉与腌料可相互替代，具体用量请参照您购买的食品包装上的说明。\r\n\r\n建议使用不粘锅。",
+  "ingredients": [
+    {
+      "name": "牛肉量",
+      "text": "牛肉量 = 份数 * 100 克 （视就餐者胃容量和锅容量酌情增减）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱量",
+      "text": "洋葱量 = 份数 * 1/12 个（即 3 人时约切 1/4 ）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜椒量",
+      "text": "菜椒量 = 份数 * 1/12 个（即 3 人时约切 1/4 ）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐量",
+      "text": "盐量 = 份数 * 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 = 份数 * 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑椒腌料",
+      "text": "黑椒腌料 = 参照所购商品的说明按比例腌制",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒粉",
+      "text": "黑胡椒粉 = 份数 * 1 克（实际上是随便撒）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生油",
+      "text": "花生油 = 份数 * 10ml （实际上油量是依据菜量变动的，如对牛肉的量有增减请按对应比例变动）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用\r\n\r\n总量：\r\n\r\n- 牛肉量 = 份数 * 100 克 （视就餐者胃容量和锅容量酌情增减）\r\n- 洋葱量 = 份数 * 1/12 个（即 3 人时约切 1/4 ）\r\n- 菜椒量 = 份数 * 1/12 个（即 3 人时约切 1/4 ）\r\n- 盐量 = 份数 * 1 克\r\n- 淀粉 = 份数 * 3 克\r\n- 黑椒腌料 = 参照所购商品的说明按比例腌制\r\n- 黑胡椒粉 = 份数 * 1 克（实际上是随便撒）\r\n- 花生油 = 份数 * 10ml （实际上油量是依据菜量变动的，如对牛肉的量有增减请按对应比例变动）\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将牛肉切条，长度最好控制在 8 厘米以下，厚度约 5-10 毫米，宽度约 1 厘米（要求不严格）"
+    },
+    {
+      "kind": "step",
+      "description": "利用腌料腌制牛肉，混合均匀后静置，用量与时间请参照商品说明，可以延长不能缩短。"
+    },
+    {
+      "kind": "step",
+      "description": "如果使用液态腌料，可以在腌制结束前三分钟撒一层黑胡椒粉，然后再加入淀粉，再次混合均匀后静置 20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "开火，热锅，加入花生油。"
+    },
+    {
+      "kind": "step",
+      "description": "当能看到锅里的油冒出一丝烟时，放入牛肉，翻炒。"
+    },
+    {
+      "kind": "step",
+      "description": "开中火偏大，翻炒 2 分钟至牛肉外表变色（即不出现明显血色，有血色部分说明翻炒不到位）（此处应小心油滴溅射）。"
+    },
+    {
+      "kind": "step",
+      "description": "放入洋葱和菜椒，翻炒 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入盐，再次撒一份黑胡椒粉，翻炒 30 秒，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "观察洋葱已经变软即可关火，出锅，盛盘。"
+    }
+  ],
+  "operationMarkdown": "1. 将牛肉切条，长度最好控制在 8 厘米以下，厚度约 5-10 毫米，宽度约 1 厘米（要求不严格）\r\n2. 利用腌料腌制牛肉，混合均匀后静置，用量与时间请参照商品说明，可以延长不能缩短。\r\n3. 如果使用液态腌料，可以在腌制结束前三分钟撒一层黑胡椒粉，然后再加入淀粉，再次混合均匀后静置 20 分钟。\r\n4. 开火，热锅，加入花生油。\r\n5. 当能看到锅里的油冒出一丝烟时，放入牛肉，翻炒。\r\n6. 开中火偏大，翻炒 2 分钟至牛肉外表变色（即不出现明显血色，有血色部分说明翻炒不到位）（此处应小心油滴溅射）。\r\n7. 放入洋葱和菜椒，翻炒 2 分钟。\r\n8. 加入盐，再次撒一份黑胡椒粉，翻炒 30 秒，搅拌均匀。\r\n9. 观察洋葱已经变软即可关火，出锅，盛盘。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/565bc38f-90b6-4b5e-90fe-540d3542dc78_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md"
+  },
+  "hash": "dafc694ab276b746128f692b30d80b5e4a60f928ca83081b97d275310e87fd1e"
+}

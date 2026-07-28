@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "id": "66d92835-250b-4ee4-9eb8-4bca25423df0",
+  "legacyIds": [
+    "staple_4c5b7982"
+  ],
+  "name": "陕西油泼面",
+  "description": "这道西北传统面食以筋道的扯面和热油泼出的香辣风味著称，是陕西家喻户晓的日常主食。面条富含碳水化合物，搭配青菜和豆芽，能快速补充能量，膳食搭配合理。整个流程简单明了，对新手十分友好，从备料到出锅大约只需 30 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 771,
+  "requirements": [
+    {
+      "text": "鲜面条（扯面尤佳）扯面",
+      "markdown": "鲜面条（扯面尤佳）![扯面](./chemian.png)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒面（或秦椒面）",
+      "markdown": "干辣椒面（或秦椒面）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青菜（油菜或菠菜均可）",
+      "markdown": "青菜（油菜或菠菜均可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "锅",
+      "markdown": "锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鲜面条（扯面尤佳）![扯面](./chemian.png)\r\n- 盐\r\n- 葱\r\n- 蒜\r\n- 干辣椒面（或秦椒面）\r\n- 食用油\r\n- 生抽\r\n- 香醋\r\n- 青菜（油菜或菠菜均可）\r\n- 锅",
+  "ingredients": [
+    {
+      "name": "盐",
+      "text": "盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒面",
+      "text": "干辣椒面 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 50ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青菜",
+      "text": "青菜 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆芽",
+      "text": "豆芽 50g（选配）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "男生一般 4 根，女生 3 根即可，量大者可适当增加\r\n\r\n- 盐 2g\r\n- 葱 1 根\r\n- 大蒜 3 瓣\r\n- 干辣椒面 15g\r\n- 食用油 50ml\r\n- 生抽 10ml\r\n- 香醋 5ml\r\n- 青菜 50g\r\n- 豆芽 50g（选配）",
+  "calculationNotes": [
+    "男生一般 4 根，女生 3 根即可，量大者可适当增加"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "备料",
+      "description": "### 备料"
+    },
+    {
+      "kind": "step",
+      "description": "扯面的话，用擀面杖（没有擀面杖，用手也行）上下两边轻压，两手拽住左侧和右侧两端，轻轻拉开"
+    },
+    {
+      "kind": "step",
+      "description": "葱切成葱花，蒜切成蒜末备用"
+    },
+    {
+      "kind": "step",
+      "description": "青菜洗净，豆芽洗净备用（如使用）"
+    },
+    {
+      "kind": "section",
+      "title": "煮面与调味",
+      "description": "### 煮面与调味"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入足量清水，大火烧开后加入 1g 盐"
+    },
+    {
+      "kind": "step",
+      "description": "放入面条，用筷子轻轻搅动防止粘连，煮至面条浮起后再煮 1-2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "在煮面的最后 1 分钟，放入青菜和豆芽焯水"
+    },
+    {
+      "kind": "step",
+      "description": "将煮好的面条和青菜、豆芽捞出，沥干水分后放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "在面条上依次加入生抽、香醋、葱花、蒜末和干辣椒面, 也可放点芝麻"
+    },
+    {
+      "kind": "section",
+      "title": "泼油",
+      "description": "### 泼油"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅中倒入食用油，同时放入花椒、八角、桂皮、香叶（如使用），小火炸出香味后捞出香料"
+    },
+    {
+      "kind": "step",
+      "description": "待油温升至七成热（微微冒烟）时，迅速均匀地泼在碗中的干辣椒面上，听到“滋啦”声即可"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子将所有调料和面条充分拌匀即可食用"
+    }
+  ],
+  "operationMarkdown": "### 备料\r\n\r\n1. 扯面的话，用擀面杖（没有擀面杖，用手也行）上下两边轻压，两手拽住左侧和右侧两端，轻轻拉开\r\n2. 葱切成葱花，蒜切成蒜末备用\r\n3. 青菜洗净，豆芽洗净备用（如使用）\r\n\r\n### 煮面与调味\r\n\r\n1. 锅中加入足量清水，大火烧开后加入 1g 盐\r\n2. 放入面条，用筷子轻轻搅动防止粘连，煮至面条浮起后再煮 1-2 分钟\r\n3. 在煮面的最后 1 分钟，放入青菜和豆芽焯水\r\n4. 将煮好的面条和青菜、豆芽捞出，沥干水分后放入碗中\r\n5. 在面条上依次加入生抽、香醋、葱花、蒜末和干辣椒面, 也可放点芝麻\r\n\r\n### 泼油\r\n\r\n1. 炒锅中倒入食用油，同时放入花椒、八角、桂皮、香叶（如使用），小火炸出香味后捞出香料\r\n2. 待油温升至七成热（微微冒烟）时，迅速均匀地泼在碗中的干辣椒面上，听到“滋啦”声即可\r\n3. 用筷子将所有调料和面条充分拌匀即可食用",
+  "tips": "- 技术总结\r\n  - 辣椒面的选择很关键，建议使用陕西秦椒面，香而不辣; 陕西八大怪之一: 油泼辣子一道菜😂\r\n  - 泼油的油温是成败关键，油温过低辣椒不香，油温过高容易糊\r\n  - 喜欢吃肉的可以加入肉末做成肉臊子油泼面\r\n  - 传统陕西油泼面讲究“一青二白三红四绿”，即面条、蒜末、辣椒、葱花的颜色搭配\r\n\r\n### 成品\r\n\r\n![陕西油泼面](./成品.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 技术总结\r\n  - 辣椒面的选择很关键，建议使用陕西秦椒面，香而不辣; 陕西八大怪之一: 油泼辣子一道菜😂\r\n  - 泼油的油温是成败关键，油温过低辣椒不香，油温过高容易糊\r\n  - 喜欢吃肉的可以加入肉末做成肉臊子油泼面\r\n  - 传统陕西油泼面讲究“一青二白三红四绿”，即面条、蒜末、辣椒、葱花的颜色搭配\r\n\r\n### 成品\r\n\r\n![陕西油泼面](./成品.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/66d92835-250b-4ee4-9eb8-4bca25423df0_0.webp",
+    "images/staple/66d92835-250b-4ee4-9eb8-4bca25423df0_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/陕西油泼面/陕西油泼面.md"
+  },
+  "hash": "1c36e3d3a1a7b58a4f62065f5cbe6bec019f1e64ea2831f3400df243b6a2f7ea"
+}

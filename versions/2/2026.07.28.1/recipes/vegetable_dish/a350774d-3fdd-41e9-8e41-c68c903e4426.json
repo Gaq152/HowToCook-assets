@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 2,
+  "id": "a350774d-3fdd-41e9-8e41-c68c903e4426",
+  "legacyIds": [],
+  "name": "家常日本豆腐",
+  "description": "家常日本豆腐是一道外酥里嫩的家常快手菜，金黄脆壳包裹着柔滑的玉子豆腐，搭配青椒、胡萝卜等时蔬，可调成咸鲜或酸甜风味，脆嫩咸香。日本豆腐以鸡蛋为主要原料，富含优质蛋白，加上木耳和蔬菜，营养均衡。需要一点煎豆腐的技巧，难度适中，新手也能尝试，全程大约 30 分钟即可上桌。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 946,
+  "requirements": [
+    {
+      "text": "日本豆腐（玉子豆腐）",
+      "markdown": "日本豆腐（玉子豆腐）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿肠（可选）",
+      "markdown": "火腿肠（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑木耳（可选）",
+      "markdown": "黑木耳（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱（可选）",
+      "markdown": "洋葱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油（煎豆腐用，能没过一大半就行）",
+      "markdown": "油（煎豆腐用，能没过一大半就行）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽 8 ml",
+      "markdown": "生抽 8 ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油 15 ml",
+      "markdown": "蚝油 15 ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐（咸鲜口）",
+      "markdown": "盐（咸鲜口）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精（咸鲜口，可选）",
+      "markdown": "鸡精（咸鲜口，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱（酸甜口）",
+      "markdown": "番茄酱（酸甜口）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖（酸甜口）",
+      "markdown": "白砂糖（酸甜口）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 日本豆腐（玉子豆腐）\r\n- 青椒\r\n- 胡萝卜\r\n- 火腿肠（可选）\r\n- 黑木耳（可选）\r\n- 洋葱（可选）\r\n- 生粉\r\n- 蒜\r\n- 油（煎豆腐用，能没过一大半就行）\r\n- 生抽 8 ml\r\n- 蚝油 15 ml\r\n- 盐（咸鲜口）\r\n- 鸡精（咸鲜口，可选）\r\n- 番茄酱（酸甜口）\r\n- 白砂糖（酸甜口）",
+  "ingredients": [
+    {
+      "name": "日本豆腐",
+      "text": "日本豆腐 300 g（约 3 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 120 g（中等大小 1 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿肠",
+      "text": "火腿肠 50 g（约 1 根）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑木耳",
+      "text": "黑木耳 30 g（干黑木耳约 10 g 泡发）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 80 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 10 g（约 2 瓣）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 160-165 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 8 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g（如果添加了鸡精，只放 0.5g 或不放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 日本豆腐 300 g（约 3 个）  \r\n- 青椒 120 g（中等大小 1 个）\r\n- 胡萝卜 50 g\r\n- 火腿肠 50 g（约 1 根）\r\n- 黑木耳 30 g（干黑木耳约 10 g 泡发）\r\n- 生粉 80 g\r\n- 洋葱 30 g\r\n- 蒜 10 g（约 2 瓣）\r\n- 油 160-165 ml\r\n- 生抽 8 ml\r\n- 蚝油 15 ml\r\n- 盐 2 g（如果添加了鸡精，只放 0.5g 或不放）\r\n- 鸡精 3 g\r\n- 白砂糖 10 g\r\n- 番茄酱 15 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "胡萝卜切片，尖椒切薄块，葱蒜碎切好"
+    },
+    {
+      "kind": "step",
+      "description": "把买好的日本豆腐打开袋子切好，切成大概 1 cm 厚的圆柱体"
+    },
+    {
+      "kind": "step",
+      "description": "生粉放到平盘中，准备给豆腐裹面"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻把豆腐放到面粉上，上下两面和周边都裹上面粉，注意不要包裹的太厚"
+    },
+    {
+      "kind": "step",
+      "description": "在平底锅里放 150 ml 油，油能没过豆腐一大半即可，看边缘颜色变成金黄，翻面煎就可以了"
+    },
+    {
+      "kind": "step",
+      "description": "两边都煎好的时候捞出来放在干净的盘里备用"
+    },
+    {
+      "kind": "step",
+      "description": "在炒锅中倒入 10-15 ml 油，放入葱蒜，爆香后放入青椒、胡萝卜、火腿肠、黑木耳"
+    },
+    {
+      "kind": "step",
+      "description": "加入蚝油、生抽、盐、鸡精、白砂糖、番茄酱"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻翻炒至颜色均匀"
+    }
+  ],
+  "operationMarkdown": "1. 胡萝卜切片，尖椒切薄块，葱蒜碎切好\r\n2. 把买好的日本豆腐打开袋子切好，切成大概 1 cm 厚的圆柱体\r\n3. 生粉放到平盘中，准备给豆腐裹面\r\n4. 轻轻把豆腐放到面粉上，上下两面和周边都裹上面粉，注意不要包裹的太厚\r\n5. 在平底锅里放 150 ml 油，油能没过豆腐一大半即可，看边缘颜色变成金黄，翻面煎就可以了\r\n6. 两边都煎好的时候捞出来放在干净的盘里备用\r\n7. 在炒锅中倒入 10-15 ml 油，放入葱蒜，爆香后放入青椒、胡萝卜、火腿肠、黑木耳\r\n8. 加入蚝油、生抽、盐、鸡精、白砂糖、番茄酱\r\n9. 轻轻翻炒至颜色均匀",
+  "tips": "- 煎好的豆腐不要放太久，提前准备好配料\r\n- 参考资料：[【步骤图】家常红烧日本豆腐～超级下饭菜！🎊的做法_家常红烧日本豆腐～超级下饭菜！🎊的做法步骤_下饭菜_下厨房](https://www.xiachufang.com/recipe/104370279/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 煎好的豆腐不要放太久，提前准备好配料\r\n- 参考资料：[【步骤图】家常红烧日本豆腐～超级下饭菜！🎊的做法_家常红烧日本豆腐～超级下饭菜！🎊的做法步骤_下饭菜_下厨房](https://www.xiachufang.com/recipe/104370279/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/家常日本豆腐.md"
+  },
+  "hash": "03ffda4ac1cf35d48c908bff02ff8c0038f8f04b8a240f821fefc1332d867371"
+}

@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 2,
+  "id": "dda5cba3-b8f6-41f9-841b-689db20f05ca",
+  "legacyIds": [
+    "meat_dish_729e078b"
+  ],
+  "name": "冷吃兔",
+  "description": "这是一道经典的四川自贡盐帮菜，麻辣干香，兔肉紧实有嚼劲，入口先辣后鲜，回味悠长。兔肉高蛋白低脂肪，富含卵磷脂和多种氨基酸，营养丰富且易于消化。制作过程需处理多种香料并严格控制火候，对新手有一定挑战。从备料到炒制完成约需 1.5 小时，但放置一夜后风味更佳，值得提前准备。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 590,
+  "requirements": [
+    {
+      "text": "兔肉",
+      "markdown": "兔肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱/大葱/洋葱",
+      "markdown": "小葱/大葱/洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青花椒",
+      "markdown": "青花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "山奈",
+      "markdown": "山奈",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白蔻",
+      "markdown": "白蔻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小茴香",
+      "markdown": "小茴香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 兔肉\r\n- 盐\r\n- 味精\r\n- 蚝油\r\n- 料酒\r\n- 蒜\r\n- 姜\r\n- 小葱/大葱/洋葱\r\n- 干辣椒\r\n- 青花椒\r\n- 八角\r\n- 桂皮\r\n- 香叶\r\n- 山奈\r\n- 白蔻\r\n- 小茴香\r\n- 白芝麻",
+  "ingredients": [
+    {
+      "name": "盐量",
+      "text": "盐量 = 兔肉斤数 * 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精量",
+      "text": "味精量 = 兔肉斤数 * 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油量",
+      "text": "蚝油量 = 兔肉斤数 * 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒量",
+      "text": "料酒量 = 兔肉斤数 * 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油量",
+      "text": "油量 = 兔肉斤数 * 0.9 ～ 1 升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜量",
+      "text": "蒜量 = 兔肉斤数 * 二分之一头蒜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜量",
+      "text": "姜量 = 蒜量",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱/大葱/洋葱总量",
+      "text": "小葱/大葱/洋葱总量 = 兔肉斤数 * 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒量",
+      "text": "干辣椒量 = 辣椒段的总体积等于兔肉的总体积",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青花椒量",
+      "text": "青花椒量 = 3 斤兔肉对应吃饭用的小碗，一整碗花椒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角量",
+      "text": "八角量 = 兔肉斤数 * 1 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮量",
+      "text": "桂皮量 = 兔肉斤数 * 大拇指长短的一块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶量",
+      "text": "香叶量 = 兔肉斤数 * 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "山奈量",
+      "text": "山奈量 = 兔肉斤数 * 黄豆大小的一块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白蔻量",
+      "text": "白蔻量 = 兔肉斤数 * 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小茴香量",
+      "text": "小茴香量 = 兔肉斤数 * 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻量",
+      "text": "白芝麻量 = 兔肉斤数 * 25 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 盐量 = 兔肉斤数 * 2 克\r\n- 味精量 = 兔肉斤数 * 1 克\r\n- 蚝油量 = 兔肉斤数 * 5 克\r\n- 料酒量 = 兔肉斤数 * 10 克\r\n- 油量 = 兔肉斤数 * 0.9 ～ 1 升\r\n- 蒜量 = 兔肉斤数 * 二分之一头蒜\r\n- 姜量 = 蒜量\r\n- 小葱/大葱/洋葱总量 = 兔肉斤数 * 15 克\r\n- 干辣椒量 = 辣椒段的总体积等于兔肉的总体积\r\n- 青花椒量 = 3 斤兔肉对应吃饭用的小碗，一整碗花椒\r\n- 八角量 = 兔肉斤数 * 1 粒\r\n- 桂皮量 = 兔肉斤数 * 大拇指长短的一块\r\n- 香叶量 = 兔肉斤数 * 5 片\r\n- 山奈量 = 兔肉斤数 * 黄豆大小的一块\r\n- 白蔻量 = 兔肉斤数 * 2 颗\r\n- 小茴香量 = 兔肉斤数 * 15 克\r\n- 白芝麻量 = 兔肉斤数 * 25 克\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "蒜、姜扒皮并剁碎备用，八角、桂皮、香叶、山奈、白蔻、小茴香洗净备用。"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒剪成 2 厘米的小段，洗净备用。"
+    },
+    {
+      "kind": "step",
+      "description": "小葱/大葱/洋葱洗净，洋葱切成小块。"
+    },
+    {
+      "kind": "step",
+      "description": "兔肉剁成 2 厘米的小块，加入盐、料酒、味精调味，腌制 15 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒油，油温 4 成热下小葱/大葱/洋葱，中小火煸炒出香味，待到小葱/大葱/洋葱微焦，将其捞出。"
+    },
+    {
+      "kind": "step",
+      "description": "开大火升高油温，油温 8 成热时下入兔肉，炸制过程转中小火，炸至兔肉微微焦黄时捞出兔肉。"
+    },
+    {
+      "kind": "step",
+      "description": "升高油温，倒入干辣椒、青花椒、八角、桂皮、香叶、山奈、白蔻、小茴香；转小火将辣椒段炸脆。"
+    },
+    {
+      "kind": "step",
+      "description": "重新倒入兔肉，加入蚝油、翻炒几分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，加入蒜、姜、白芝麻，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "放置一夜更加入味。"
+    }
+  ],
+  "operationMarkdown": "1. 蒜、姜扒皮并剁碎备用，八角、桂皮、香叶、山奈、白蔻、小茴香洗净备用。\r\n2. 干辣椒剪成 2 厘米的小段，洗净备用。\r\n3. 小葱/大葱/洋葱洗净，洋葱切成小块。\r\n4. 兔肉剁成 2 厘米的小块，加入盐、料酒、味精调味，腌制 15 分钟。\r\n5. 锅中倒油，油温 4 成热下小葱/大葱/洋葱，中小火煸炒出香味，待到小葱/大葱/洋葱微焦，将其捞出。\r\n6. 开大火升高油温，油温 8 成热时下入兔肉，炸制过程转中小火，炸至兔肉微微焦黄时捞出兔肉。\r\n7. 升高油温，倒入干辣椒、青花椒、八角、桂皮、香叶、山奈、白蔻、小茴香；转小火将辣椒段炸脆。\r\n8. 重新倒入兔肉，加入蚝油、翻炒几分钟。\r\n9. 关火，加入蒜、姜、白芝麻，翻炒均匀。\r\n10. 放置一夜更加入味。",
+  "tips": "在操作的第 6 步骤中要注意：油量应该淹没兔肉，若未淹没需要及时补充。\r\n\r\n在操作的第 7 步骤中要注意：辣椒极容易炸糊，炸糊会变成黑色，这个过程非常快，所以一定要小火，基本等到没太多水气蒸发时，就可以下兔肉了。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "在操作的第 6 步骤中要注意：油量应该淹没兔肉，若未淹没需要及时补充。\r\n\r\n在操作的第 7 步骤中要注意：辣椒极容易炸糊，炸糊会变成黑色，这个过程非常快，所以一定要小火，基本等到没太多水气蒸发时，就可以下兔肉了。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/冷吃兔.md"
+  },
+  "hash": "57ad946ea34cb7772d5107e71df5e4de320fce1419d40e26609ad0940751ef02"
+}

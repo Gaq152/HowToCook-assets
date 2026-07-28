@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 2,
+  "id": "b01b4231-5bc8-4102-90a4-7bbeb709b642",
+  "legacyIds": [
+    "aquatic_2749d071"
+  ],
+  "name": "小龙虾",
+  "description": "这道菜麻辣鲜香，虾肉细嫩多汁，是经典的川湘风味下酒菜，在家自制干净又实惠。小龙虾富含优质蛋白和多种微量元素，但汤汁含油盐较多，适合偶尔享用。处理活虾和多种香料对新手有一定挑战，不过不去虾线可明显降低难度。从备料到出锅大约需要 45 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 571,
+  "requirements": [
+    {
+      "text": "小龙虾",
+      "markdown": "小龙虾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青花椒",
+      "markdown": "青花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "子弹头辣椒",
+      "markdown": "子弹头辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱姜蒜",
+      "markdown": "葱姜蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "郫县豆瓣",
+      "markdown": "郫县豆瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄豆酱",
+      "markdown": "黄豆酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 小龙虾\r\n- 油\r\n- 香叶\r\n- 八角\r\n- 桂皮\r\n- 青花椒\r\n- 花椒\r\n- 子弹头辣椒\r\n- 葱姜蒜\r\n- 郫县豆瓣\r\n- 黄豆酱\r\n- 啤酒\r\n- 生抽\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "小龙虾",
+      "text": "小龙虾 = 2 斤",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 = 70 毫升（这是平时炒菜 3 倍量）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 = 两片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 = 一个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 = 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青花椒",
+      "text": "青花椒 = 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 = 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "子弹头辣椒",
+      "text": "子弹头辣椒 = 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 = 一根大葱",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 = 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 = 7 瓣大蒜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "郫县豆瓣",
+      "text": "郫县豆瓣 = 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆酱",
+      "text": "黄豆酱 = 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 = 500 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 = 30 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "以下是两斤小龙虾的量，按比例调整就好。\r\n\r\n- 小龙虾 = 2 斤\r\n- 油 = 70 毫升（这是平时炒菜 3 倍量）\r\n- 香叶 = 两片\r\n- 八角 = 一个\r\n- 桂皮 = 3 克\r\n- 青花椒 = 10 克\r\n- 花椒 = 10 克\r\n- 子弹头辣椒 = 5 克\r\n- 葱 = 一根大葱\r\n- 姜 = 30 克\r\n- 蒜 = 7 瓣大蒜\r\n- 郫县豆瓣 = 30 克\r\n- 黄豆酱 = 30 克\r\n- 啤酒 = 500 毫升\r\n- 生抽 = 30 毫升\r\n- 盐 = 10 克",
+  "calculationNotes": [
+    "以下是两斤小龙虾的量，按比例调整就好。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "小龙虾刷干净去虾线，葱切 2cm 葱段，姜蒜切末。"
+    },
+    {
+      "kind": "step",
+      "description": "烧油，油微热, 下香叶、八角、桂皮、青花椒、花椒、子弹头辣椒。"
+    },
+    {
+      "kind": "step",
+      "description": "香料出香气之后下锅葱姜蒜"
+    },
+    {
+      "kind": "step",
+      "description": "葱姜蒜爆香后，加入郫县豆瓣、黄豆酱，炒出红油。"
+    },
+    {
+      "kind": "step",
+      "description": "下小龙虾，翻炒至变色。"
+    },
+    {
+      "kind": "step",
+      "description": "加入啤酒，等啤酒烧开后加入生抽，盐。"
+    },
+    {
+      "kind": "step",
+      "description": "将小龙虾完全煮熟后出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 小龙虾刷干净去虾线，葱切 2cm 葱段，姜蒜切末。\r\n2. 烧油，油微热, 下香叶、八角、桂皮、青花椒、花椒、子弹头辣椒。\r\n3. 香料出香气之后下锅葱姜蒜\r\n4. 葱姜蒜爆香后，加入郫县豆瓣、黄豆酱，炒出红油。\r\n5. 下小龙虾，翻炒至变色。\r\n6. 加入啤酒，等啤酒烧开后加入生抽，盐。\r\n7. 将小龙虾完全煮熟后出锅。",
+  "tips": "饭店应该都是油炸一遍，家庭油炸的话，太浪费了，所以在这个菜谱里用油比炒菜油多一些煎一下，实测同样好吃。\r\n\r\n去虾线后的虾肉比不去虾线的虾肉口感差一些，并且小龙虾去虾线对新手是一个挑战，能接受虾线的情况下不去虾线也可以。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "饭店应该都是油炸一遍，家庭油炸的话，太浪费了，所以在这个菜谱里用油比炒菜油多一些煎一下，实测同样好吃。\r\n\r\n去虾线后的虾肉比不去虾线的虾肉口感差一些，并且小龙虾去虾线对新手是一个挑战，能接受虾线的情况下不去虾线也可以。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/b01b4231-5bc8-4102-90a4-7bbeb709b642_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/小龙虾/小龙虾.md"
+  },
+  "hash": "13fa9a8eb2acaa5750c0ac501bc560491f2da24cad32a6a970faf293ebcd3d9a"
+}

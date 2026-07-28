@@ -1,0 +1,70 @@
+name: Build V2 data
+
+on:
+  workflow_dispatch:
+    inputs:
+      data_version:
+        description: Immutable data version (YYYY.MM.DD.N)
+        required: true
+        type: string
+      source_ref:
+        description: Gaq152/HowToCook branch, tag, or commit
+        required: true
+        default: master
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout assets pipeline
+        uses: actions/checkout@v4
+
+      - name: Checkout source data
+        uses: actions/checkout@v4
+        with:
+          repository: Gaq152/HowToCook
+          ref: ${{ inputs.source_ref }}
+          path: origin
+          lfs: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run parser tests
+        run: npm test
+
+      - name: Build clean V2 dataset
+        env:
+          DATA_VERSION: ${{ inputs.data_version }}
+        run: >-
+          node scripts/v2/build.mjs
+          --source origin
+          --data-version "$DATA_VERSION"
+          --update-registry
+
+      - name: Validate complete dataset
+        env:
+          DATA_VERSION: ${{ inputs.data_version }}
+        run: node scripts/v2/validate.mjs --data-version "$DATA_VERSION"
+
+      - name: Upload review artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: howtocook-data-v2-${{ inputs.data_version }}
+          if-no-files-found: error
+          retention-days: 14
+          path: |
+            versions/2/${{ inputs.data_version }}
+            channels/v2-stable.json
+            data/recipe-id-registry.json
+            migrations/recipe-id-v1-to-v2.json

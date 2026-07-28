@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "id": "1c237f3a-756c-40d8-8206-3159f06a2aa7",
+  "legacyIds": [
+    "soup_06a69c63"
+  ],
+  "name": "番茄牛肉蛋花汤",
+  "description": "番茄牛肉蛋花汤是一道酸甜开胃的家常汤品，口感鲜嫩顺滑。牛肉富含优质蛋白和铁，番茄提供番茄红素和维生素 C，鸡蛋则补充卵磷脂。做法简单，新手也能轻松掌握，通常大约半 小时就能端上餐桌。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 262,
+  "requirements": [
+    {
+      "text": "牛肉",
+      "markdown": "牛肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱、姜、蒜",
+      "markdown": "葱、姜、蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛肉\r\n- 番茄\r\n- 鸡蛋\r\n- 葱、姜、蒜\r\n- 盐\r\n- 胡椒粉",
+  "ingredients": [
+    {
+      "name": "牛肉用量为",
+      "text": "牛肉用量为 150 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄用量为",
+      "text": "番茄用量为 1 个/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋用量为",
+      "text": "鸡蛋用量为 1 个/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐用量为",
+      "text": "盐用量为 2 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉用量为",
+      "text": "胡椒粉用量为 0.5 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 牛肉用量为 150 g/人\r\n- 番茄用量为 1 个/人\r\n- 鸡蛋用量为 1 个/人\r\n- 盐用量为 2 g/人\r\n- 胡椒粉用量为 0.5 g/人\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "配菜处理",
+      "description": "### 配菜处理"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉切成薄片"
+    },
+    {
+      "kind": "step",
+      "description": "番茄切成小块"
+    },
+    {
+      "kind": "step",
+      "description": "葱切成葱花"
+    },
+    {
+      "kind": "step",
+      "description": "姜切成姜片"
+    },
+    {
+      "kind": "step",
+      "description": "蒜剁成蒜泥"
+    },
+    {
+      "kind": "section",
+      "title": "牛肉的预处理",
+      "description": "### 牛肉的预处理"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "加盐、胡椒粉腌制 15-20 分钟"
+    },
+    {
+      "kind": "section",
+      "title": "煮汤",
+      "description": "### 煮汤"
+    },
+    {
+      "kind": "step",
+      "description": "加水煮开"
+    },
+    {
+      "kind": "step",
+      "description": "加入姜片和牛肉片，煮至牛肉变色"
+    },
+    {
+      "kind": "step",
+      "description": "加入番茄块，煮至番茄变软"
+    },
+    {
+      "kind": "step",
+      "description": "打散鸡蛋液，缓慢地倒入锅中，用筷子搅拌形成蛋花"
+    },
+    {
+      "kind": "step",
+      "description": "加入盐和胡椒粉调味"
+    },
+    {
+      "kind": "step",
+      "description": "最后加入葱花，即可出锅"
+    }
+  ],
+  "operationMarkdown": "### 配菜处理\r\n\r\n1. 牛肉切成薄片\r\n2. 番茄切成小块\r\n3. 葱切成葱花\r\n4. 姜切成姜片\r\n5. 蒜剁成蒜泥\r\n\r\n### 牛肉的预处理\r\n\r\n1. 牛肉放入碗中\r\n2. 加盐、胡椒粉腌制 15-20 分钟\r\n\r\n### 煮汤\r\n\r\n1. 加水煮开\r\n2. 加入姜片和牛肉片，煮至牛肉变色\r\n3. 加入番茄块，煮至番茄变软\r\n4. 打散鸡蛋液，缓慢地倒入锅中，用筷子搅拌形成蛋花\r\n5. 加入盐和胡椒粉调味\r\n6. 最后加入葱花，即可出锅",
+  "tips": "- 可以根据口味加入一定的醋或糖来调整口感\r\n- 如果喜欢辣味，可以加入一定的辣椒或辣椒酱来调味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 可以根据口味加入一定的醋或糖来调整口感\r\n- 如果喜欢辣味，可以加入一定的辣椒或辣椒酱来调味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/番茄牛肉蛋花汤.md"
+  },
+  "hash": "531189635c657db157fa3c375742d96c8f9469cccee2469a9ed89b047bff819c"
+}

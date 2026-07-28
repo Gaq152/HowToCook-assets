@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "id": "96c9b4dd-cf29-4050-9f31-1faf88b4ae6a",
+  "legacyIds": [
+    "vegetable_dish_3d4f47b4"
+  ],
+  "name": "金针菇日本豆腐煲",
+  "description": "金针菇日本豆腐煲是一道酱香浓郁的家常下饭菜，豆腐外焦里嫩，金针菇爽滑入味。金针菇富含氨基酸和膳食纤维，日本豆腐提供优质蛋白，营养开胃。这道菜步骤简单，新手也能轻松掌握，从备菜到出锅大约需要 30 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 606,
+  "requirements": [
+    {
+      "text": "金针菇",
+      "markdown": "金针菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "日本豆腐（玉子豆腐）",
+      "markdown": "日本豆腐（玉子豆腐）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 金针菇\r\n- 日本豆腐（玉子豆腐）\r\n- 小米椒\r\n- 生抽\r\n- 蚝油\r\n- 盐\r\n- 糖\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "金针菇",
+      "text": "金针菇 1-2 把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆腐",
+      "text": "豆腐 2 袋",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 3-5 根，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2-3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 3ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 金针菇 1-2 把\r\n- 豆腐 2 袋\r\n- 小米椒 3-5 根，切碎\r\n- 蒜 2-3 瓣\r\n- 生抽 15ml\r\n- 蚝油 5ml\r\n- 老抽 3ml\r\n- 糖 3g\r\n- 食用油 10-15ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "豆腐切片，小火煎到两面金黄出锅备用。"
+    },
+    {
+      "kind": "step",
+      "description": "切蒜成蒜末；将生抽，蚝油，老抽，糖，100ml 水调汁备用。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入#2 配好的料汁，焖 5 分钟，大火收汁。"
+    }
+  ],
+  "operationMarkdown": "1. 豆腐切片，小火煎到两面金黄出锅备用。\r\n2. 切蒜成蒜末；将生抽，蚝油，老抽，糖，100ml 水调汁备用。\r\n3. 热锅放油，油热放小米椒、蒜末爆香，先放金针菇，炒软，把煎好的豆腐平铺在金针菇上，倒入#2 配好的料汁，焖 5 分钟，大火收汁。",
+  "tips": "- 金针菇一定要先炒软\r\n- 豆腐尽量不要翻炒，容易碎\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 金针菇一定要先炒软\r\n- 豆腐尽量不要翻炒，容易碎\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/金针菇日本豆腐煲.md"
+  },
+  "hash": "391fb742add47b08705c2e54e87ce68cf1d28902e4c334e951e030b15e5d21fc"
+}

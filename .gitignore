@@ -1,5 +1,4 @@
 .claude
 node_modules
 origin
-package.json
-package-lock.json
+.staging

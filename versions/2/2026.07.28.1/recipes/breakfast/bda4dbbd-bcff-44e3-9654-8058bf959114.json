@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "id": "bda4dbbd-bcff-44e3-9654-8058bf959114",
+  "legacyIds": [
+    "breakfast_1990d584"
+  ],
+  "name": "手抓饼",
+  "description": "手抓饼外酥里软，层次分明，是深受喜爱的家常面点。饼皮用半烫面制作，柔韧有嚼劲，搭配鸡蛋和蔬菜，营养均衡。做法对新手很友好，从和面到出锅大约只需 40 分钟，非常适合忙碌的早晨。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1050,
+  "requirements": [
+    {
+      "text": "普通面粉",
+      "markdown": "普通面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开水",
+      "markdown": "开水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷水",
+      "markdown": "冷水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生菜",
+      "markdown": "生菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿",
+      "markdown": "火腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝士片",
+      "markdown": "芝士片",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 普通面粉  \r\n- 开水  \r\n- 冷水  \r\n- 食用油  \r\n- 盐  \r\n- 鸡蛋  \r\n- 生菜  \r\n- 火腿  \r\n- 芝士片\r\n\r\n---",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "text": "面粉 200 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水 100 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷水",
+      "text": "冷水 50 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生菜",
+      "text": "生菜 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿",
+      "text": "火腿 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝士片",
+      "text": "芝士片 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1~2 人食用。\r\n\r\n总量（按每份）：\r\n\r\n- 面粉 200 克  \r\n- 开水 100 毫升  \r\n- 冷水 50 毫升  \r\n- 食用油 15 毫升  \r\n- 盐 3 克  \r\n- 鸡蛋 1 个  \r\n- 生菜 30 克  \r\n- 火腿 30 克  \r\n- 芝士片 1 片\r\n\r\n---",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1~2 人食用。",
+    "总量（按每份）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "面粉放入碗中，加入开水搅拌成絮状，再加入冷水揉成光滑面团，覆盖湿布静置 20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "面团分成每份约 100 克，搓圆，擀成薄片。"
+    },
+    {
+      "kind": "step",
+      "description": "表面均匀涂抹食用油，撒上盐，卷成蜗牛状，松弛 10 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "面团再次擀成薄饼，厚度均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅中倒入油，小火煎至两面金黄起泡。"
+    },
+    {
+      "kind": "step",
+      "description": "煎好的饼依次铺入煎蛋、生菜、火腿、芝士片等配料，卷起即可。"
+    }
+  ],
+  "operationMarkdown": "1. 面粉放入碗中，加入开水搅拌成絮状，再加入冷水揉成光滑面团，覆盖湿布静置 20 分钟。  \r\n2. 面团分成每份约 100 克，搓圆，擀成薄片。  \r\n3. 表面均匀涂抹食用油，撒上盐，卷成蜗牛状，松弛 10 分钟。  \r\n4. 面团再次擀成薄饼，厚度均匀。  \r\n5. 热锅中倒入油，小火煎至两面金黄起泡。  \r\n6. 煎好的饼依次铺入煎蛋、生菜、火腿、芝士片等配料，卷起即可。\r\n\r\n---",
+  "tips": "- 使用开水与冷水混合和面，有助于提升饼皮柔韧度。  \r\n- 面团醒发时间不宜少于 20 分钟，否则不易擀薄。  \r\n- 可根据个人口味增减配料，建议配料总重控制在 100 克以内。  \r\n- 剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 使用开水与冷水混合和面，有助于提升饼皮柔韧度。  \r\n- 面团醒发时间不宜少于 20 分钟，否则不易擀薄。  \r\n- 可根据个人口味增减配料，建议配料总重控制在 100 克以内。  \r\n- 剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/手抓饼.md"
+  },
+  "hash": "a7e86421bf89f54af5eb3415c584bf691f698a1e837832e42cc7eaf6b06dc650"
+}

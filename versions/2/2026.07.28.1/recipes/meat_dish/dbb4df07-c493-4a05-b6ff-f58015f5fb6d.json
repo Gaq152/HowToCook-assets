@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 2,
+  "id": "dbb4df07-c493-4a05-b6ff-f58015f5fb6d",
+  "legacyIds": [
+    "meat_dish_e77fbcc3"
+  ],
+  "name": "甜辣烤全翅",
+  "description": "这道甜辣烤全翅利用空气炸锅烹制，外皮微焦、内里多汁，甜中带辣的风味很受欢迎。鸡肉富含优质蛋白质，用空气炸代替油炸大幅减少了油脂，吃起来负担更轻。制作流程清晰明了，只需提前腌制并中途翻面一次，对新手也比较友好。从处理食材到出锅大约需要 3 个小时，大部分是静置腌制的时间，实际操作并不繁琐。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 775,
+  "requirements": [
+    {
+      "text": "空气炸锅",
+      "markdown": "空气炸锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡全翅",
+      "markdown": "鸡全翅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜粉",
+      "markdown": "蒜粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "甜椒粉",
+      "markdown": "甜椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒粉",
+      "markdown": "辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "锡纸盘",
+      "markdown": "锡纸盘",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "保鲜膜",
+      "markdown": "保鲜膜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 空气炸锅\r\n- 鸡全翅\r\n- 生抽\r\n- 老抽\r\n- 蒜粉\r\n- 胡椒粉\r\n- 糖\r\n- 甜椒粉\r\n- 辣椒粉\r\n- 蚝油\r\n- 水\r\n- 油\r\n- 锡纸盘\r\n- 保鲜膜",
+  "ingredients": [
+    {
+      "name": "鸡全翅",
+      "text": "鸡全翅 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 45ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜粉",
+      "text": "蒜粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甜椒粉",
+      "text": "甜椒粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒粉",
+      "text": "辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份为一人餐，多人餐请等比例增加。\r\n\r\n一份：\r\n\r\n- 鸡全翅 4 个\r\n- 生抽 45ml\r\n- 老抽 15ml\r\n- 蒜粉 10g\r\n- 胡椒粉 5g\r\n- 糖 10g\r\n- 甜椒粉 10g\r\n- 辣椒粉 5g\r\n- 蚝油 15ml\r\n- 水 20ml\r\n- 油 10ml",
+  "calculationNotes": [
+    "一份为一人餐，多人餐请等比例增加。",
+    "一份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 4 个新鲜鸡全翅取出，在翅中两根骨头之间用刀划开表皮，正反面各一刀"
+    },
+    {
+      "kind": "step",
+      "description": "将 4 个鸡全翅放入碗中，加入生抽 45ml ， 老抽 15ml ， 蒜粉 10g ， 胡椒粉 5g ， 糖 10g ， 甜椒粉 10g ，辣椒粉 5g ， 蚝油 15ml ， 水 20ml 以及油 10ml"
+    },
+    {
+      "kind": "step",
+      "description": "用勺子将酱汁均匀的抹在鸡全翅上，尤其是翅中的刀口处，大约花费 3 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "用保鲜膜盖住防油腌制中鸡全翅的碗，放入冰箱冷藏格静置 120 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出鸡全翅，锡纸盘中放入鸡全翅 4 个，将碗中残余酱料均匀倒在鸡全翅上"
+    },
+    {
+      "kind": "step",
+      "description": "锡纸盘放入空气炸锅的烤篮上，用 200 摄氏度烤 25 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "打开空气炸锅，小心取出锡纸盘，将鸡全翅翻面"
+    },
+    {
+      "kind": "step",
+      "description": "继续 200 摄氏度烤 25 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 将 4 个新鲜鸡全翅取出，在翅中两根骨头之间用刀划开表皮，正反面各一刀\r\n2. 将 4 个鸡全翅放入碗中，加入生抽 45ml ， 老抽 15ml ， 蒜粉 10g ， 胡椒粉 5g ， 糖 10g ， 甜椒粉 10g ，辣椒粉 5g ， 蚝油 15ml ， 水 20ml 以及油 10ml\r\n3. 用勺子将酱汁均匀的抹在鸡全翅上，尤其是翅中的刀口处，大约花费 3 分钟\r\n4. 用保鲜膜盖住防油腌制中鸡全翅的碗，放入冰箱冷藏格静置 120 分钟\r\n5. 取出鸡全翅，锡纸盘中放入鸡全翅 4 个，将碗中残余酱料均匀倒在鸡全翅上\r\n6. 锡纸盘放入空气炸锅的烤篮上，用 200 摄氏度烤 25 分钟\r\n7. 打开空气炸锅，小心取出锡纸盘，将鸡全翅翻面\r\n8. 继续 200 摄氏度烤 25 分钟\r\n9. 取出即可食用",
+  "tips": "- 本例中鸡全翅口感为微辣，需增加辣度请增加辣椒粉用量，但不宜超过 30g\r\n- 鸡全翅指包含翅尖，翅中和翅根的鸡翅\r\n- 本品效果微焦，如不喜欢焦褐色外观可 不向锡纸盘中倒入残余酱汁并 每面只烤制 20 分钟\r\n- 实际烤制效果请根据自己空气炸锅的功率判断\r\n- 甜椒粉起增加色泽和风味作用，本身不能作为辣味剂\r\n- 腌制时间可自由掌控，建议在 60 分钟到 180 分钟之间为宜\r\n- 刚出锅的锡纸盘比较烫，请用夹子夹取或使用湿抹布之类的隔热材料拿取\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 本例中鸡全翅口感为微辣，需增加辣度请增加辣椒粉用量，但不宜超过 30g\r\n- 鸡全翅指包含翅尖，翅中和翅根的鸡翅\r\n- 本品效果微焦，如不喜欢焦褐色外观可 不向锡纸盘中倒入残余酱汁并 每面只烤制 20 分钟\r\n- 实际烤制效果请根据自己空气炸锅的功率判断\r\n- 甜椒粉起增加色泽和风味作用，本身不能作为辣味剂\r\n- 腌制时间可自由掌控，建议在 60 分钟到 180 分钟之间为宜\r\n- 刚出锅的锡纸盘比较烫，请用夹子夹取或使用湿抹布之类的隔热材料拿取\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/甜辣烤全翅.md"
+  },
+  "hash": "69fdf03de9bb444b1c67ba28182f8a2e313b39503de03999b7dbcff2f29f958b"
+}

@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "id": "66ac8564-eb71-4795-9b2b-18b74fd15e00",
+  "legacyIds": [
+    "vegetable_dish_b663bdad"
+  ],
+  "name": "鸡蛋羹",
+  "description": "这道菜是一道简单快手的家常蒸菜，口感嫩滑如果冻，咸鲜适口，常作为早餐或配餐出现在各地餐桌。鸡蛋提供优质蛋白质和卵磷脂，易于消化吸收。对新手十分友好，只需简单几步就能蒸出平整细腻的蛋羹，全程大约需要 15 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 168,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽 / 味极鲜",
+      "markdown": "生抽 / 味极鲜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白醋（可选）",
+      "markdown": "白醋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "藤椒油（可选）",
+      "markdown": "藤椒油（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 食用盐\r\n- 香油\r\n- 生抽 / 味极鲜\r\n- 白醋（可选）\r\n- 藤椒油（可选）",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油（或芝麻油）",
+      "text": "香油（或芝麻油） 2-4ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽 / 味极鲜",
+      "text": "生抽 / 味极鲜 8ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白醋（或料酒）",
+      "text": "白醋（或料酒） 2ml（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 人的份量：\r\n\r\n- 鸡蛋 2 个\r\n- 食用盐 3g\r\n- 香油（或芝麻油） 2-4ml\r\n- 生抽 / 味极鲜 8ml\r\n- 白醋（或料酒） 2ml（可选）",
+  "calculationNotes": [
+    "按照 1 人的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "两个鸡蛋放入碗中打散"
+    },
+    {
+      "kind": "step",
+      "description": "加入食用盐 3g"
+    },
+    {
+      "kind": "step",
+      "description": "盐起到了重要的增加底味和凝固作用"
+    },
+    {
+      "kind": "step",
+      "description": "加入 2ml 白醋，去除鸡蛋的腥味（可选）"
+    },
+    {
+      "kind": "step",
+      "description": "加入米醋也行，但米醋的颜色会使鸡蛋微微发黑"
+    },
+    {
+      "kind": "step",
+      "description": "还可以加入料酒，同样具有去腥的作用，且没有醋的酸味"
+    },
+    {
+      "kind": "step",
+      "description": "向碗中加入鸡蛋体积 1-1.5 倍的 70 度纯净水，并且搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "1 倍的水鸡蛋更弹，1.5 倍的水鸡蛋更嫩"
+    },
+    {
+      "kind": "step",
+      "description": "过滤蛋液，去掉蛋液中的浮沫（可选，不过滤蒸出来的蛋会有气泡导致不好看）"
+    },
+    {
+      "kind": "step",
+      "description": "向任意一口锅中加入 300-500ml 清水，水烧开后，放入盛有鸡蛋液的碗"
+    },
+    {
+      "kind": "step",
+      "description": "蒸碗要盖上一个盖子，倒扣一个有凹槽的铁碟子，或者使用保鲜膜来减少水汽进入，这是为了避免其变成蜂窝状"
+    },
+    {
+      "kind": "step",
+      "description": "蒸煮步骤（二选一）"
+    },
+    {
+      "kind": "step",
+      "description": "开**中火**蒸**10 分钟**, 10 分钟之后关火再闷上**5 分钟**。"
+    },
+    {
+      "kind": "step",
+      "description": "开**大火**蒸**5 分钟**，要保持锅中水一直处于沸腾状态，否则要延长时间。每隔**2 分钟**开盖一次释放水蒸气，开盖过晚蛋羹容易变成蜂窝状；开盖太早/频繁蒸的时间需要久一些。"
+    },
+    {
+      "kind": "step",
+      "description": "如何判断已经熟了？"
+    },
+    {
+      "kind": "step",
+      "description": "晃动碗，蛋羹不再处于液体状态，拥有类似果冻的 Q 弹状态即可出锅。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅"
+    },
+    {
+      "kind": "step",
+      "description": "加入香油和生抽即可享用"
+    },
+    {
+      "kind": "step",
+      "description": "也可用藤椒油代替香油，增加麻爽口感"
+    }
+  ],
+  "operationMarkdown": "1. 两个鸡蛋放入碗中打散\r\n2. 加入食用盐 3g\r\n\r\n  - 盐起到了重要的增加底味和凝固作用\r\n\r\n3. 加入 2ml 白醋，去除鸡蛋的腥味（可选）\r\n\r\n  - 加入米醋也行，但米醋的颜色会使鸡蛋微微发黑\r\n  - 还可以加入料酒，同样具有去腥的作用，且没有醋的酸味\r\n\r\n4. 向碗中加入鸡蛋体积 1-1.5 倍的 70 度纯净水，并且搅拌均匀\r\n\r\n  - 1 倍的水鸡蛋更弹，1.5 倍的水鸡蛋更嫩\r\n\r\n5. 过滤蛋液，去掉蛋液中的浮沫（可选，不过滤蒸出来的蛋会有气泡导致不好看）\r\n6. 向任意一口锅中加入 300-500ml 清水，水烧开后，放入盛有鸡蛋液的碗\r\n\r\n  - 蒸碗要盖上一个盖子，倒扣一个有凹槽的铁碟子，或者使用保鲜膜来减少水汽进入，这是为了避免其变成蜂窝状\r\n\r\n7. 蒸煮步骤（二选一）\r\n1. 开**中火**蒸**10 分钟**, 10 分钟之后关火再闷上**5 分钟**。\r\n2. 开**大火**蒸**5 分钟**，要保持锅中水一直处于沸腾状态，否则要延长时间。每隔**2 分钟**开盖一次释放水蒸气，开盖过晚蛋羹容易变成蜂窝状；开盖太早/频繁蒸的时间需要久一些。\r\n8. 如何判断已经熟了？\r\n\r\n  - 晃动碗，蛋羹不再处于液体状态，拥有类似果冻的 Q 弹状态即可出锅。\r\n\r\n9. 出锅\r\n10. 加入香油和生抽即可享用\r\n\r\n  - 也可用藤椒油代替香油，增加麻爽口感",
+  "tips": "上面介绍的是基础水蒸蛋做法，可以在此基础上派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富鸡蛋羹的口感。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "上面介绍的是基础水蒸蛋做法，可以在此基础上派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富鸡蛋羹的口感。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/66ac8564-eb71-4795-9b2b-18b74fd15e00_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md"
+  },
+  "hash": "249c06da19cb55de6bf2b8e3992f8d047bf4c7469a4586458b96a729c5ed4f47"
+}

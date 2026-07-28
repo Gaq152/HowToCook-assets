@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "id": "9f4fd315-e597-47a7-90c4-3f1ee92421cf",
+  "legacyIds": [],
+  "name": "胡萝卜甜糕",
+  "description": "胡萝卜甜糕是印度家喻户晓的冬季甜品，胡萝卜丝与牛奶慢炖浓缩，融入酥油和坚果，口感绵密香甜、色泽金红。富含胡萝卜素、钙质和优质脂肪，暖身滋养。制作过程简单，但对新手需要些耐心，全程约需 45 分钟即可完成。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 374,
+  "requirements": [
+    {
+      "text": "胡萝卜（建议选用红色胡萝卜）",
+      "markdown": "胡萝卜（建议选用红色胡萝卜）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "全脂牛奶",
+      "markdown": "全脂牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酥油(Ghee)— 可用黄油替代",
+      "markdown": "酥油(Ghee)— 可用黄油替代",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小豆蔻粉(Cardamom Powder)",
+      "markdown": "小豆蔻粉(Cardamom Powder)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "腰果",
+      "markdown": "腰果",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "杏仁",
+      "markdown": "杏仁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葡萄干",
+      "markdown": "葡萄干",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "刨丝器",
+      "markdown": "刨丝器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "厚底锅",
+      "markdown": "厚底锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 胡萝卜（建议选用红色胡萝卜）\r\n- 全脂牛奶\r\n- 糖\r\n- 酥油(Ghee)— 可用黄油替代\r\n- 小豆蔻粉(Cardamom Powder)\r\n- 腰果\r\n- 杏仁\r\n- 葡萄干\r\n- 刨丝器\r\n- 厚底锅",
+  "ingredients": [
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 500g（约 5-6 根中等大小）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "全脂牛奶",
+      "text": "全脂牛奶 500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 80g（可根据个人口味调整至 60g-100g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酥油",
+      "text": "酥油 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小豆蔻粉",
+      "text": "小豆蔻粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "腰果",
+      "text": "腰果 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "杏仁",
+      "text": "杏仁 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葡萄干",
+      "text": "葡萄干 15g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。\r\n\r\n每份：\r\n\r\n- 胡萝卜 500g（约 5-6 根中等大小）\r\n- 全脂牛奶 500ml\r\n- 糖 80g（可根据个人口味调整至 60g-100g）\r\n- 酥油 40g\r\n- 小豆蔻粉 3g\r\n- 腰果 15g\r\n- 杏仁 15g\r\n- 葡萄干 15g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将胡萝卜去皮，用刨丝器刨成细丝"
+    },
+    {
+      "kind": "step",
+      "description": "在厚底锅中倒入酥油 20g（一半量），中火加热融化"
+    },
+    {
+      "kind": "step",
+      "description": "放入胡萝卜丝，翻炒 **3-5 分钟**，直至*胡萝卜丝变软且散发香味*"
+    },
+    {
+      "kind": "step",
+      "description": "倒入全脂牛奶 500ml，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮沸后转中小火，保持*缓慢沸腾*状态"
+    },
+    {
+      "kind": "step",
+      "description": "**持续翻搅 25-30 分钟**，直至*牛奶几乎完全被胡萝卜吸收蒸发*（这是最关键的步骤，需要耐心且不断搅拌防止糊底）"
+    },
+    {
+      "kind": "step",
+      "description": "当锅中几乎没有液体时，加入糖 80g，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加糖后会重新出水，继续中小火翻炒 **5-8 分钟**，直至*水分再次蒸发*"
+    },
+    {
+      "kind": "step",
+      "description": "加入剩余的酥油 20g 和小豆蔻粉 3g，翻炒 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "在另一个小锅中，用少量酥油将腰果、杏仁片和葡萄干分别炸至*金黄*（约 1 分钟），注意葡萄干会膨胀"
+    },
+    {
+      "kind": "step",
+      "description": "将炸好的坚果和葡萄干的一半拌入胡萝卜甜糕中"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘，将剩余坚果和葡萄干撒在表面作为装饰"
+    }
+  ],
+  "operationMarkdown": "1. 将胡萝卜去皮，用刨丝器刨成细丝\r\n2. 在厚底锅中倒入酥油 20g（一半量），中火加热融化\r\n3. 放入胡萝卜丝，翻炒 **3-5 分钟**，直至*胡萝卜丝变软且散发香味*\r\n4. 倒入全脂牛奶 500ml，搅拌均匀\r\n5. 大火煮沸后转中小火，保持*缓慢沸腾*状态\r\n6. **持续翻搅 25-30 分钟**，直至*牛奶几乎完全被胡萝卜吸收蒸发*（这是最关键的步骤，需要耐心且不断搅拌防止糊底）\r\n7. 当锅中几乎没有液体时，加入糖 80g，搅拌均匀\r\n8. 加糖后会重新出水，继续中小火翻炒 **5-8 分钟**，直至*水分再次蒸发*\r\n9. 加入剩余的酥油 20g 和小豆蔻粉 3g，翻炒 2 分钟\r\n10. 在另一个小锅中，用少量酥油将腰果、杏仁片和葡萄干分别炸至*金黄*（约 1 分钟），注意葡萄干会膨胀\r\n11. 将炸好的坚果和葡萄干的一半拌入胡萝卜甜糕中\r\n12. 盛盘，将剩余坚果和葡萄干撒在表面作为装饰",
+  "tips": "- 胡萝卜甜糕可以热吃也可以冷吃，两种风味各有特色。\r\n- 使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看。\r\n- 如果想要更浓郁的口感，可以用淡奶油替代部分牛奶。\r\n- 密封冷藏可保存 4-5 天。食用前可用微波炉加热 1 分钟。\r\n- 这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 胡萝卜甜糕可以热吃也可以冷吃，两种风味各有特色。\r\n- 使用红色胡萝卜比橙色胡萝卜做出来的色泽更好看。\r\n- 如果想要更浓郁的口感，可以用淡奶油替代部分牛奶。\r\n- 密封冷藏可保存 4-5 天。食用前可用微波炉加热 1 分钟。\r\n- 这道甜品在印度几乎每个家庭都会做，是排灯节(Diwali)和婚礼上必不可少的甜品。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/胡萝卜甜糕.md"
+  },
+  "hash": "91811e4f5c453d64d3dae4cf9a378b24d47b96283f4ab9aaf718df145d35e5cf"
+}

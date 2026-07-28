@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 2,
+  "id": "e725561d-3b0e-4e15-9906-d86ad3ec3a04",
+  "legacyIds": [],
+  "name": "利提巧卡",
+  "description": "利提巧卡是印度比哈尔邦的传统主食，由烤得金黄的麦球和烟熏风味的蔬菜泥组成，口感外脆内软，香气浓郁。烤鹰嘴豆粉馅料富含植物蛋白和膳食纤维，搭配茄子、番茄、土豆等蔬菜，营养丰富。制作需要和面、包馅、烤制以及处理蔬菜，步骤较多，对新手有一定挑战，全程大约需要 60 分钟完成。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 1019,
+  "requirements": [
+    {
+      "text": "全麦面粉(Atta)",
+      "markdown": "全麦面粉(Atta)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤鹰嘴豆粉(Sattu)— 可用炒熟的鹰嘴豆磨粉替代",
+      "markdown": "烤鹰嘴豆粉(Sattu)— 可用炒熟的鹰嘴豆磨粉替代",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芥末油(Mustard Oil)— 可用其他食用油替代",
+      "markdown": "芥末油(Mustard Oil)— 可用其他食用油替代",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然籽",
+      "markdown": "孜然籽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度黑盐(Kala Namak)— 可用普通盐替代",
+      "markdown": "印度黑盐(Kala Namak)— 可用普通盐替代",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉",
+      "markdown": "红辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻",
+      "markdown": "芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酥油(Ghee)",
+      "markdown": "酥油(Ghee)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤箱或明火",
+      "markdown": "烤箱或明火",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 全麦面粉(Atta)\r\n- 烤鹰嘴豆粉(Sattu)— 可用炒熟的鹰嘴豆磨粉替代\r\n- 茄子\r\n- 番茄\r\n- 土豆\r\n- 洋葱\r\n- 大蒜\r\n- 生姜\r\n- 青辣椒\r\n- 柠檬\r\n- 香菜\r\n- 芥末油(Mustard Oil)— 可用其他食用油替代\r\n- 孜然籽\r\n- 印度黑盐(Kala Namak)— 可用普通盐替代\r\n- 红辣椒粉\r\n- 芝麻\r\n- 酥油(Ghee)\r\n- 盐\r\n- 烤箱或明火",
+  "ingredients": [
+    {
+      "name": "全麦面粉",
+      "text": "全麦面粉 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "烤鹰嘴豆粉",
+      "text": "烤鹰嘴豆粉 120g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 1 个（约 80g），切极细碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 2 根，切极细碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 5g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芥末油",
+      "text": "芥末油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁",
+      "text": "柠檬汁 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 10g，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然籽",
+      "text": "孜然籽 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻",
+      "text": "芝麻 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度黑盐",
+      "text": "印度黑盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "温水 约",
+      "text": "温水 约 100ml（用于和面）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酥油",
+      "text": "酥油 30g（烤好后涂抹用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茄子",
+      "text": "茄子 1 个（约 250g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 2 个（约 180g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 2 个（约 240g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（约 12g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芥末油",
+      "text": "芥末油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 4g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人食用。\r\n\r\n每份：\r\n\r\n**利提（面球）部分：**\r\n\r\n- 全麦面粉 200g\r\n- 烤鹰嘴豆粉 120g\r\n- 洋葱 1 个（约 80g），切极细碎\r\n- 青辣椒 2 根，切极细碎\r\n- 生姜 5g，磨碎\r\n- 芥末油 15ml\r\n- 柠檬汁 10ml\r\n- 香菜叶 10g，切碎\r\n- 孜然籽 3g\r\n- 芝麻 5g\r\n- 红辣椒粉 3g\r\n- 印度黑盐 3g\r\n- 盐 3g\r\n- 温水 约 100ml（用于和面）\r\n- 酥油 30g（烤好后涂抹用）\r\n\r\n**巧卡（蔬菜泥）部分：**\r\n\r\n- 茄子 1 个（约 250g）\r\n- 番茄 2 个（约 180g）\r\n- 土豆 2 个（约 240g）\r\n- 大蒜 4 瓣（约 12g）\r\n- 青辣椒 1 根\r\n- 芥末油 15ml\r\n- 盐 4g\r\n- 香菜叶 10g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人食用。",
+    "每份：",
+    "**利提（面球）部分：**",
+    "**巧卡（蔬菜泥）部分：**"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "制作利提馅料",
+      "description": "### 制作利提馅料"
+    },
+    {
+      "kind": "step",
+      "description": "在碗中混合烤鹰嘴豆粉 120g、切碎的洋葱、青辣椒、生姜"
+    },
+    {
+      "kind": "step",
+      "description": "加入孜然籽 3g、芝麻 5g、红辣椒粉 3g、印度黑盐 3g、盐 3g"
+    },
+    {
+      "kind": "step",
+      "description": "加入芥末油 15ml、柠檬汁 10ml、切碎的香菜叶"
+    },
+    {
+      "kind": "step",
+      "description": "充分混合均匀，馅料应呈松散但可捏合的状态，备用"
+    },
+    {
+      "kind": "section",
+      "title": "制作利提面团",
+      "description": "### 制作利提面团"
+    },
+    {
+      "kind": "step",
+      "description": "将全麦面粉 200g 放入大碗中"
+    },
+    {
+      "kind": "step",
+      "description": "逐渐加入温水，边加边揉，揉成*光滑柔软*的面团"
+    },
+    {
+      "kind": "step",
+      "description": "面团静置 **15 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "将面团分成 8 个等大的小剂子"
+    },
+    {
+      "kind": "step",
+      "description": "每个剂子用手压成一个直径约 8cm 的圆形面片（中间稍厚）"
+    },
+    {
+      "kind": "step",
+      "description": "在面片中央放入约 15g 馅料"
+    },
+    {
+      "kind": "step",
+      "description": "将面片四周收拢包住馅料，封口处捏紧，搓成圆球"
+    },
+    {
+      "kind": "section",
+      "title": "烤制利提",
+      "description": "### 烤制利提"
+    },
+    {
+      "kind": "step",
+      "description": "烤箱预热至 200°C"
+    },
+    {
+      "kind": "step",
+      "description": "将利提放在烤盘上，烤 **25-30 分钟**，期间翻面一次，直至*表面金棕色且有裂纹*"
+    },
+    {
+      "kind": "step",
+      "description": "如果使用明火：将利提直接放在炭火或煤气灶小火上烤，不断翻转，直至*均匀焦黄*"
+    },
+    {
+      "kind": "step",
+      "description": "烤好后趁热将每个利提表面涂上酥油，使其*浸润吸收*"
+    },
+    {
+      "kind": "section",
+      "title": "制作巧卡",
+      "description": "### 制作巧卡"
+    },
+    {
+      "kind": "step",
+      "description": "将茄子、番茄、土豆放在明火上直接烤，或放入 200°C 烤箱烤 **20-25 分钟**，直至*外皮焦黑、内部完全软烂*"
+    },
+    {
+      "kind": "step",
+      "description": "烤好后去皮，将茄子、番茄、土豆分别用叉子或手捣碎"
+    },
+    {
+      "kind": "step",
+      "description": "将捣碎的蔬菜混合在一起"
+    },
+    {
+      "kind": "step",
+      "description": "加入切碎的大蒜、青辣椒、盐 4g、芥末油 15ml"
+    },
+    {
+      "kind": "step",
+      "description": "充分搅拌混合均匀"
+    },
+    {
+      "kind": "step",
+      "description": "撒上香菜叶装饰"
+    },
+    {
+      "kind": "section",
+      "title": "上菜",
+      "description": "### 上菜"
+    },
+    {
+      "kind": "step",
+      "description": "将利提摆盘，旁边放上巧卡蔬菜泥"
+    },
+    {
+      "kind": "step",
+      "description": "趁热食用，用手掰开利提蘸巧卡"
+    }
+  ],
+  "operationMarkdown": "### 制作利提馅料\r\n\r\n1. 在碗中混合烤鹰嘴豆粉 120g、切碎的洋葱、青辣椒、生姜\r\n2. 加入孜然籽 3g、芝麻 5g、红辣椒粉 3g、印度黑盐 3g、盐 3g\r\n3. 加入芥末油 15ml、柠檬汁 10ml、切碎的香菜叶\r\n4. 充分混合均匀，馅料应呈松散但可捏合的状态，备用\r\n\r\n### 制作利提面团\r\n\r\n1. 将全麦面粉 200g 放入大碗中\r\n2. 逐渐加入温水，边加边揉，揉成*光滑柔软*的面团\r\n3. 面团静置 **15 分钟**\r\n4. 将面团分成 8 个等大的小剂子\r\n5. 每个剂子用手压成一个直径约 8cm 的圆形面片（中间稍厚）\r\n6. 在面片中央放入约 15g 馅料\r\n7. 将面片四周收拢包住馅料，封口处捏紧，搓成圆球\r\n\r\n### 烤制利提\r\n\r\n1. 烤箱预热至 200°C\r\n2. 将利提放在烤盘上，烤 **25-30 分钟**，期间翻面一次，直至*表面金棕色且有裂纹*\r\n3. 如果使用明火：将利提直接放在炭火或煤气灶小火上烤，不断翻转，直至*均匀焦黄*\r\n4. 烤好后趁热将每个利提表面涂上酥油，使其*浸润吸收*\r\n\r\n### 制作巧卡\r\n\r\n1. 将茄子、番茄、土豆放在明火上直接烤，或放入 200°C 烤箱烤 **20-25 分钟**，直至*外皮焦黑、内部完全软烂*\r\n2. 烤好后去皮，将茄子、番茄、土豆分别用叉子或手捣碎\r\n3. 将捣碎的蔬菜混合在一起\r\n4. 加入切碎的大蒜、青辣椒、盐 4g、芥末油 15ml\r\n5. 充分搅拌混合均匀\r\n6. 撒上香菜叶装饰\r\n\r\n### 上菜\r\n\r\n1. 将利提摆盘，旁边放上巧卡蔬菜泥\r\n2. 趁热食用，用手掰开利提蘸巧卡",
+  "tips": "- 烤鹰嘴豆粉(Sattu)是比哈尔邦的特色食材，营养价值极高，富含蛋白质和纤维。在中国可能较难购买，可以自制：将鹰嘴豆(Chana)干炒至深棕色后磨成粉。\r\n- 传统的利提用牛粪饼火(Cow dung cake fire)烤制，赋予独特的烟熏风味。家用烤箱或明火可以替代。\r\n- 芥末油是这道菜的灵魂，不建议替换。如果买不到芥末油，可以使用菜籽油作为次选。\r\n- 利提巧卡是印度最古老的食物之一，据传已有数千年历史，是古代士兵的行军食粮。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 烤鹰嘴豆粉(Sattu)是比哈尔邦的特色食材，营养价值极高，富含蛋白质和纤维。在中国可能较难购买，可以自制：将鹰嘴豆(Chana)干炒至深棕色后磨成粉。\r\n- 传统的利提用牛粪饼火(Cow dung cake fire)烤制，赋予独特的烟熏风味。家用烤箱或明火可以替代。\r\n- 芥末油是这道菜的灵魂，不建议替换。如果买不到芥末油，可以使用菜籽油作为次选。\r\n- 利提巧卡是印度最古老的食物之一，据传已有数千年历史，是古代士兵的行军食粮。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/利提巧卡.md"
+  },
+  "hash": "f0766fbd54c3b31f253bf1b931bb7521df1e432d799b5e7117e261d934f2c8da"
+}

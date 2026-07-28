@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 2,
+  "id": "197d2653-6741-4718-a85f-8afe87e1cc14",
+  "legacyIds": [],
+  "name": "印度葫芦丸子",
+  "description": "这道北印度素菜将葫芦擦丝与鹰嘴豆粉团成丸子，油炸后浸入番茄洋葱咖喱，外酥内软、酱汁浓郁香辛。瓠瓜清润、鹰嘴豆粉提供植物蛋白与膳食纤维，是一道饱腹又均衡的素食。制作涉及油炸和熬酱，步骤稍多但按序操作不难掌握，全程大约需要 40 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 571,
+  "requirements": [
+    {
+      "text": "瓠瓜（葫芦）",
+      "markdown": "瓠瓜（葫芦）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鹰嘴豆粉(Besan)",
+      "markdown": "鹰嘴豆粉(Besan)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜黄粉(Turmeric)",
+      "markdown": "姜黄粉(Turmeric)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉",
+      "markdown": "红辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜粉(Coriander Powder)",
+      "markdown": "香菜粉(Coriander Powder)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度综合香料粉(Garam Masala)",
+      "markdown": "印度综合香料粉(Garam Masala)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "深锅或炒锅",
+      "markdown": "深锅或炒锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 瓠瓜（葫芦）\r\n- 鹰嘴豆粉(Besan)\r\n- 洋葱\r\n- 番茄\r\n- 生姜\r\n- 大蒜\r\n- 青辣椒\r\n- 香菜\r\n- 姜黄粉(Turmeric)\r\n- 红辣椒粉\r\n- 香菜粉(Coriander Powder)\r\n- 孜然粉\r\n- 印度综合香料粉(Garam Masala)\r\n- 盐\r\n- 食用油\r\n- 深锅或炒锅",
+  "ingredients": [
+    {
+      "name": "瓠瓜（葫芦）1 根（约",
+      "text": "瓠瓜（葫芦）1 根（约 400g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鹰嘴豆粉",
+      "text": "鹰嘴豆粉 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜粉",
+      "text": "香菜粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油（炸丸子用）500ml",
+      "text": "食用油（炸丸子用）500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 2 个（约 200g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 3 个（约 300g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（约 12g），磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 1 根，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜黄粉",
+      "text": "姜黄粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜粉",
+      "text": "香菜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度综合香料粉",
+      "text": "印度综合香料粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 200ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶（装饰用）10g",
+      "text": "香菜叶（装饰用）10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\r\n\r\n每份：\r\n\r\n**丸子部分：**\r\n\r\n- 瓠瓜（葫芦）1 根（约 400g）\r\n- 鹰嘴豆粉 80g\r\n- 盐 3g\r\n- 红辣椒粉 3g\r\n- 香菜粉 3g\r\n- 食用油（炸丸子用）500ml\r\n\r\n**酱汁部分：**\r\n\r\n- 洋葱 2 个（约 200g），切碎\r\n- 番茄 3 个（约 300g），切碎\r\n- 生姜 10g，磨碎\r\n- 大蒜 4 瓣（约 12g），磨碎\r\n- 青辣椒 1 根，切碎\r\n- 食用油 30ml\r\n- 姜黄粉 3g\r\n- 红辣椒粉 5g\r\n- 香菜粉 5g\r\n- 孜然粉 3g\r\n- 印度综合香料粉 3g\r\n- 盐 5g\r\n- 水 200ml\r\n- 香菜叶（装饰用）10g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。",
+    "每份：",
+    "**丸子部分：**",
+    "**酱汁部分：**"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "制作丸子",
+      "description": "### 制作丸子"
+    },
+    {
+      "kind": "step",
+      "description": "将瓠瓜去皮，用刨丝器刨成细丝"
+    },
+    {
+      "kind": "step",
+      "description": "用手将瓠瓜丝中的水分挤干，*尽量挤干*，否则丸子炸不成型"
+    },
+    {
+      "kind": "step",
+      "description": "在挤干水分的瓠瓜丝中加入鹰嘴豆粉 80g、盐 3g、红辣椒粉 3g、香菜粉 3g"
+    },
+    {
+      "kind": "step",
+      "description": "用手充分混合均匀，揉成不粘手的面团状"
+    },
+    {
+      "kind": "step",
+      "description": "将混合物搓成直径约 3cm 的小丸子，备用"
+    },
+    {
+      "kind": "step",
+      "description": "在深锅中倒入 500ml 食用油，中火加热至油温约 170°C（放入一小块面团，能快速浮起且冒泡即可）"
+    },
+    {
+      "kind": "step",
+      "description": "将丸子分批放入油中，**炸 4-5 分钟**，直至*表面金黄酥脆*"
+    },
+    {
+      "kind": "step",
+      "description": "炸好的丸子用厨房纸吸去多余油分，备用"
+    },
+    {
+      "kind": "section",
+      "title": "制作酱汁",
+      "description": "### 制作酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "在炒锅中倒入 30ml 食用油，中火加热 10 秒"
+    },
+    {
+      "kind": "step",
+      "description": "放入切碎的洋葱，翻炒至*洋葱变成金棕色*（约 5-7 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入磨碎的生姜和大蒜，翻炒 1 分钟至*香味散出*"
+    },
+    {
+      "kind": "step",
+      "description": "加入切碎的番茄，翻炒至*番茄完全软烂出油*（约 5 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入姜黄粉 3g、红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 5g"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 2 分钟，使香料与番茄充分融合"
+    },
+    {
+      "kind": "step",
+      "description": "加入 200ml 水，搅拌均匀，煮沸后转小火**炖 5 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "将炸好的丸子轻轻放入酱汁中，小火**炖 3-5 分钟**，使丸子吸收酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "撒上印度综合香料粉 3g 和切碎的青辣椒"
+    },
+    {
+      "kind": "step",
+      "description": "关火，撒上香菜叶装饰，盛盘"
+    }
+  ],
+  "operationMarkdown": "### 制作丸子\r\n\r\n1. 将瓠瓜去皮，用刨丝器刨成细丝\r\n2. 用手将瓠瓜丝中的水分挤干，*尽量挤干*，否则丸子炸不成型\r\n3. 在挤干水分的瓠瓜丝中加入鹰嘴豆粉 80g、盐 3g、红辣椒粉 3g、香菜粉 3g\r\n4. 用手充分混合均匀，揉成不粘手的面团状\r\n5. 将混合物搓成直径约 3cm 的小丸子，备用\r\n6. 在深锅中倒入 500ml 食用油，中火加热至油温约 170°C（放入一小块面团，能快速浮起且冒泡即可）\r\n7. 将丸子分批放入油中，**炸 4-5 分钟**，直至*表面金黄酥脆*\r\n8. 炸好的丸子用厨房纸吸去多余油分，备用\r\n\r\n### 制作酱汁\r\n\r\n1. 在炒锅中倒入 30ml 食用油，中火加热 10 秒\r\n2. 放入切碎的洋葱，翻炒至*洋葱变成金棕色*（约 5-7 分钟）\r\n3. 加入磨碎的生姜和大蒜，翻炒 1 分钟至*香味散出*\r\n4. 加入切碎的番茄，翻炒至*番茄完全软烂出油*（约 5 分钟）\r\n5. 加入姜黄粉 3g、红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 5g\r\n6. 翻炒 2 分钟，使香料与番茄充分融合\r\n7. 加入 200ml 水，搅拌均匀，煮沸后转小火**炖 5 分钟**\r\n8. 将炸好的丸子轻轻放入酱汁中，小火**炖 3-5 分钟**，使丸子吸收酱汁\r\n9. 撒上印度综合香料粉 3g 和切碎的青辣椒\r\n10. 关火，撒上香菜叶装饰，盛盘",
+  "tips": "- 瓠瓜挤水是关键步骤，水分过多会导致丸子散开无法成型。\r\n- 丸子不宜在酱汁中炖太久，否则会变软失去口感。\r\n- 此菜在印度通常搭配印度烤饼(Naan)或蒸米饭(Chawal)食用。\r\n- \"Kofte\"一词源自波斯语/阿拉伯语，意为\"压碎、磨碎\"，广泛流传于南亚和中东地区。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 瓠瓜挤水是关键步骤，水分过多会导致丸子散开无法成型。\r\n- 丸子不宜在酱汁中炖太久，否则会变软失去口感。\r\n- 此菜在印度通常搭配印度烤饼(Naan)或蒸米饭(Chawal)食用。\r\n- \"Kofte\"一词源自波斯语/阿拉伯语，意为\"压碎、磨碎\"，广泛流传于南亚和中东地区。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/印度葫芦丸子.md"
+  },
+  "hash": "8da6d434481cfdebcda076a8eb2fdc98fb2bb7515447ea40ed8e4ceb54432d20"
+}

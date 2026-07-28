@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 2,
+  "id": "93e876c3-55f9-4b9e-b648-7ec64c065a7f",
+  "legacyIds": [
+    "condiment_28d7cc43"
+  ],
+  "name": "炸串酱料",
+  "description": "这款万能炸串酱料香辣浓郁、鲜咸适口，属于街头风味风格。主要提供脂肪和香辛料带来的芳香物质，能增进食欲。制作非常简单，对新手毫无压力，全程只需大约 10 分钟即可完成。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1826,
+  "requirements": [
+    {
+      "text": "干辣椒面（粗细都准备）",
+      "markdown": "干辣椒面（粗细都准备）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒粉",
+      "markdown": "花椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "十三香",
+      "markdown": "十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麻辣鲜",
+      "markdown": "麻辣鲜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 干辣椒面（粗细都准备）\r\n- 孜然粉\r\n- 胡椒粉\r\n- 五香粉\r\n- 花椒粉\r\n- 十三香\r\n- 麻辣鲜\r\n- 白芝麻",
+  "ingredients": [
+    {
+      "name": "干辣椒面",
+      "text": "干辣椒面 60 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒粉",
+      "text": "花椒粉 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 8 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "十三香",
+      "text": "十三香 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麻辣鲜",
+      "text": "麻辣鲜 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻",
+      "text": "白芝麻 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 干辣椒面 60 克\r\n- 孜然粉 20 克\r\n- 胡椒粉 10 克\r\n- 五香粉 15 克\r\n- 食盐 20 克\r\n- 花椒粉 15 克\r\n- 鸡精 8 克\r\n- 十三香 5 克\r\n- 麻辣鲜 5 克\r\n- 白芝麻 30 克",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "所有原料在容器内混合，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "锅里烧热油，油的用量以在容器内没过所有原材料为佳。"
+    },
+    {
+      "kind": "step",
+      "description": "分三次淋入热油，每次 1/3，同时搅拌。"
+    },
+    {
+      "kind": "step",
+      "description": "最后放入香油 10ml，生抽 10ml，花椒油 10ml，蚝油 10ml。"
+    }
+  ],
+  "operationMarkdown": "1. 所有原料在容器内混合，搅拌均匀。\r\n2. 锅里烧热油，油的用量以在容器内没过所有原材料为佳。\r\n3. 分三次淋入热油，每次 1/3，同时搅拌。\r\n4. 最后放入香油 10ml，生抽 10ml，花椒油 10ml，蚝油 10ml。",
+  "tips": "- 最后一步的调味可按自己喜好添加。\r\n- 不得一次性倒入所有热油，必须分次倒入并搅拌。\r\n- 原料可按比例缩减。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 最后一步的调味可按自己喜好添加。\r\n- 不得一次性倒入所有热油，必须分次倒入并搅拌。\r\n- 原料可按比例缩减。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/炸串酱料.md"
+  },
+  "hash": "f81d9bcd47773cb1948a9c9c10d5973d919941437b88fe71347d3e4592b49ea0"
+}

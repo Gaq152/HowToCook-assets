@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "id": "1783e502-816f-45c8-b797-f8d94b2051de",
+  "legacyIds": [
+    "dessert_394b4614"
+  ],
+  "name": "玛格丽特饼干",
+  "description": "玛格丽特饼干口感酥松，黄油香气浓郁，是一款经典的西式小甜点。它主要由蛋黄、黄油和面粉制成，含有丰富的碳水化合物与脂肪，能快速补充能量。制作难度适中，从准备到出炉大约需要 45 分钟，新手也能轻松上手。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 863,
+  "requirements": [
+    {
+      "text": "熟蛋黄",
+      "markdown": "熟蛋黄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "低筋面粉",
+      "markdown": "低筋面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米淀粉",
+      "markdown": "玉米淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤箱",
+      "markdown": "烤箱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 熟蛋黄\r\n- 黄油\r\n- 白砂糖\r\n- 盐\r\n- 低筋面粉\r\n- 玉米淀粉\r\n- 烤箱",
+  "ingredients": [
+    {
+      "name": "熟蛋黄",
+      "text": "熟蛋黄 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 50 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "低筋面粉",
+      "text": "低筋面粉 50 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米淀粉",
+      "text": "玉米淀粉 50 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "鉴于这种小甜点的高热量，每次制作前需要确定计划做几份。一份正好够一个人食用。\r\n\r\n每份：\r\n\r\n- 熟蛋黄 1 个\r\n- 黄油  50 克\r\n- 白砂糖  20 克\r\n- 盐 1 克\r\n- 低筋面粉 50 克\r\n- 玉米淀粉 50 克",
+  "calculationNotes": [
+    "鉴于这种小甜点的高热量，每次制作前需要确定计划做几份。一份正好够一个人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "黄油隔热水融化、将蛋黄磨碎备用。"
+    },
+    {
+      "kind": "step",
+      "description": "在融化的黄油中添加糖、盐、以及碾碎的鸡蛋黄，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入低筋面粉与玉米淀粉，揉成面团"
+    },
+    {
+      "kind": "step",
+      "description": "将面团均匀分割成大约 8 克重的小面团，然后将它们搓成球状。"
+    },
+    {
+      "kind": "step",
+      "description": "使用大拇指轻压在每个小面团上，以形成裂纹。"
+    },
+    {
+      "kind": "step",
+      "description": "预热烤箱至 150℃，将小面团放入烤箱中，烘烤 20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "微微放凉即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 黄油隔热水融化、将蛋黄磨碎备用。\r\n2. 在融化的黄油中添加糖、盐、以及碾碎的鸡蛋黄，搅拌均匀\r\n3. 加入低筋面粉与玉米淀粉，揉成面团\r\n4. 将面团均匀分割成大约 8 克重的小面团，然后将它们搓成球状。\r\n5. 使用大拇指轻压在每个小面团上，以形成裂纹。\r\n6. 预热烤箱至 150℃，将小面团放入烤箱中，烘烤 20 分钟。\r\n7. 微微放凉即可食用",
+  "tips": "- 可根据个人口味微调盐与糖的比例，如果喜欢其他风味可以把每份的 3 克玉米淀粉换成可可粉或抹茶粉。\r\n- 如果条件允许可以把蛋黄、低筋面粉等食材过筛，口感会更好。\r\n- 介于材料获取难度选择了白砂糖，如果条件允许可以换成糖粉 30 克。\r\n- 如果没有烤箱可使用微波炉、空气炸锅等，微波炉为高火 2-3 分钟，空气炸锅为 150℃20 分钟\r\n- 参考资料：[第一百种可邮寄的小饼干 酥酥糯糯入口即化~-哔哩哔哩](https://b23.tv/NZCsV0x)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 可根据个人口味微调盐与糖的比例，如果喜欢其他风味可以把每份的 3 克玉米淀粉换成可可粉或抹茶粉。\r\n- 如果条件允许可以把蛋黄、低筋面粉等食材过筛，口感会更好。\r\n- 介于材料获取难度选择了白砂糖，如果条件允许可以换成糖粉 30 克。\r\n- 如果没有烤箱可使用微波炉、空气炸锅等，微波炉为高火 2-3 分钟，空气炸锅为 150℃20 分钟\r\n- 参考资料：[第一百种可邮寄的小饼干 酥酥糯糯入口即化~-哔哩哔哩](https://b23.tv/NZCsV0x)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/1783e502-816f-45c8-b797-f8d94b2051de_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/玛格丽特饼干/玛格丽特饼干.md"
+  },
+  "hash": "658c606e15b2e5eee7708db479d806ca46cf42bb8c11ceebc806d7ea7d134c12"
+}

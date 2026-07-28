@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 2,
+  "id": "5d373bf0-f36f-4205-8123-90938a9152b8",
+  "legacyIds": [],
+  "name": "猪油拌饭",
+  "description": "这是一道充满南方家常气息的简单拌饭，米粒被融化的猪油包裹，透着酱油的咸鲜和葱花的清香，是许多孩子食欲不振时的安心之选。主要提供快速碳水与脂肪能量，但胆固醇较高，不宜常吃。制作毫无门槛，哪怕完全不会做饭也能轻松完成，煮好的米饭只要几分钟就能拌出一碗香喷喷的主食。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 420,
+  "requirements": [
+    {
+      "text": "米饭（推荐用粳米）",
+      "markdown": "米饭（推荐用粳米）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油",
+      "markdown": "猪油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽（推荐用李锦记或海天）",
+      "markdown": "生抽（推荐用李锦记或海天）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油（可选）",
+      "markdown": "蚝油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花（可选）",
+      "markdown": "葱花（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油渣（可选）",
+      "markdown": "猪油渣（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 米饭（推荐用粳米）\r\n- 猪油\r\n- 生抽（推荐用李锦记或海天）\r\n- 老抽\r\n- 蚝油（可选）\r\n- 葱花（可选）\r\n- 猪油渣（可选）",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "text": "米饭 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油",
+      "text": "猪油 15 g（添加蚝油时，减少到 10 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 ml（添加蚝油时，减少到 3 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 2 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 8 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 0-12 g（初始建议 5 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油渣",
+      "text": "猪油渣 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 米饭 200 g\r\n- 猪油 15 g（添加蚝油时，减少到 10 g）\r\n- 生抽 5 ml（添加蚝油时，减少到 3 ml）\r\n- 老抽 2 ml\r\n- 蚝油 8 g\r\n- 葱花 0-12 g（初始建议 5 g）\r\n- 猪油渣 5 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "碗底铺猪油"
+    },
+    {
+      "kind": "step",
+      "description": "加入米饭"
+    },
+    {
+      "kind": "step",
+      "description": "淋上酱油与蚝油"
+    },
+    {
+      "kind": "step",
+      "description": "撒上葱花和猪油渣"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌均匀"
+    }
+  ],
+  "operationMarkdown": "1. 碗底铺猪油\r\n2. 加入米饭\r\n3. 淋上酱油与蚝油\r\n4. 撒上葱花和猪油渣\r\n5. 搅拌均匀",
+  "tips": "- 建议搭配瘦肉和蔬菜食用来均衡营养\r\n- 高胆固醇，不建议经常食用\r\n- 参考资料：[猪油拌饭 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%B1%AC%E6%B2%B9%E6%8B%8C%E9%A3%AF)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 建议搭配瘦肉和蔬菜食用来均衡营养\r\n- 高胆固醇，不建议经常食用\r\n- 参考资料：[猪油拌饭 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%B1%AC%E6%B2%B9%E6%8B%8C%E9%A3%AF)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/猪油拌饭.md"
+  },
+  "hash": "2812db0a2535bd66ff900b39a3ea198c206f3b7e5ba129d12980ffc2e5e7ff27"
+}

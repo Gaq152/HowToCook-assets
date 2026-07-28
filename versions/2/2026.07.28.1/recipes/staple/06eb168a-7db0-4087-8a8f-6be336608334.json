@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "id": "06eb168a-7db0-4087-8a8f-6be336608334",
+  "legacyIds": [
+    "staple_45415bbf"
+  ],
+  "name": "韭菜盒子",
+  "description": "韭菜盒子是一道传统中式面点，外皮金黄酥脆，内馅鲜香多汁。韭菜搭配虾仁和鸡蛋，富含维生素与优质蛋白质。做法简单，对新手也很友好，从和面到出锅大约需要 2.5 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 794,
+  "requirements": [
+    {
+      "text": "韭菜",
+      "markdown": "韭菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "虾仁",
+      "markdown": "虾仁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 韭菜\r\n- 虾仁\r\n- 鸡蛋\r\n- 香油\r\n- 盐\r\n- 面粉",
+  "ingredients": [
+    {
+      "name": "韭菜",
+      "text": "韭菜 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "虾仁",
+      "text": "虾仁 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 3 枚",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 250g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 韭菜 500g\r\n- 虾仁 100g\r\n- 鸡蛋 3 枚\r\n- 香油 10ml\r\n- 盐 5g\r\n- 面粉 250g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将面粉放入大碗中，加入水，搅拌成光滑的面团，静置 30 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "韭菜洗净切碎，加入打散的鸡蛋、5g 盐，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将面团分成小剂子，擀成薄圆饼，包入韭菜、虾仁、鸡蛋液。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入食用油，放入包好的韭菜盒子，煎至两面金黄，约 3-4 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘，稍凉后即可享用。"
+    }
+  ],
+  "operationMarkdown": "1. 将面粉放入大碗中，加入水，搅拌成光滑的面团，静置 30 分钟。\r\n2. 韭菜洗净切碎，加入打散的鸡蛋、5g 盐，搅拌均匀。\r\n3. 将面团分成小剂子，擀成薄圆饼，包入韭菜、虾仁、鸡蛋液。\r\n4. 热锅，加入食用油，放入包好的韭菜盒子，煎至两面金黄，约 3-4 分钟。\r\n5. 盛盘，稍凉后即可享用。",
+  "tips": "- 制作时可根据个人口味添加豆腐干等配料。\r\n- 注意煎制时火候，避免外焦内生。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 制作时可根据个人口味添加豆腐干等配料。\r\n- 注意煎制时火候，避免外焦内生。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/韭菜盒子.md"
+  },
+  "hash": "e9eed31439ace2e2794cc0309e1d746c20212784b83a0ba28071118234706330"
+}

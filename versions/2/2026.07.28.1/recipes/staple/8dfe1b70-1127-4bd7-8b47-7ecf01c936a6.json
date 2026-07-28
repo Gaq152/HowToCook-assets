@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "id": "8dfe1b70-1127-4bd7-8b47-7ecf01c936a6",
+  "legacyIds": [
+    "staple_4de2502c"
+  ],
+  "name": "蛋包饭",
+  "description": "以嫩滑蛋皮包裹茄汁炒饭，口感丰富，酸甜开胃，是一道经典的日式家庭料理。富含蛋白质、碳水和多种维生素，营养均衡。包裹蛋皮需要一点技巧，但整体难度适中，新手也可尝试，从准备到完成约需 25 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 695,
+  "requirements": [
+    {
+      "text": "鸡蛋（建议使用土鸡蛋，口感更香）",
+      "markdown": "鸡蛋（建议使用土鸡蛋，口感更香）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米粒",
+      "markdown": "玉米粒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青豆（可选）",
+      "markdown": "青豆（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿肠或鸡胸肉",
+      "markdown": "火腿肠或鸡胸肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油（建议使用植物油）",
+      "markdown": "食用油（建议使用植物油）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶（可选，让蛋皮更嫩）",
+      "markdown": "牛奶（可选，让蛋皮更嫩）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋（建议使用土鸡蛋，口感更香）\r\n- 洋葱\r\n- 胡萝卜\r\n- 玉米粒\r\n- 青豆（可选）\r\n- 火腿肠或鸡胸肉\r\n- 米饭\r\n- 番茄酱\r\n- 食用油（建议使用植物油）\r\n- 牛奶（可选，让蛋皮更嫩）",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿肠或鸡胸肉",
+      "text": "火腿肠或鸡胸肉 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米粒和青豆总共",
+      "text": "玉米粒和青豆总共 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米饭",
+      "text": "米饭 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 10ml（与鸡蛋混合）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份适合 1 人食用。\r\n\r\n每份：\r\n\r\n- 鸡蛋 2 个\r\n- 洋葱 30g\r\n- 胡萝卜 30g\r\n- 火腿肠或鸡胸肉 50g\r\n- 玉米粒和青豆总共 30g\r\n- 米饭 200g\r\n- 番茄酱 20ml\r\n- 食用油 15ml\r\n- 牛奶 10ml（与鸡蛋混合）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份适合 1 人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "洋葱、胡萝卜、火腿肠或鸡胸肉切成小丁，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅中倒入 10ml 食用油，等待 10 秒加热"
+    },
+    {
+      "kind": "step",
+      "description": "先放入洋葱丁翻炒 1 分钟，出香味后加入胡萝卜、玉米粒、青豆继续翻炒 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入火腿肠或鸡胸肉丁，炒至变色"
+    },
+    {
+      "kind": "step",
+      "description": "加入米饭炒散后，加入番茄酱 20ml，翻炒均匀，炒饭完成，盛出备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋打散，加入 10ml 牛奶搅匀"
+    },
+    {
+      "kind": "step",
+      "description": "锅中放入 5ml 食用油，倒入蛋液，轻晃锅底让蛋液均匀铺满锅面"
+    },
+    {
+      "kind": "step",
+      "description": "用小火加热，待蛋液表面半熟状态时，将炒饭放入蛋液中央"
+    },
+    {
+      "kind": "step",
+      "description": "用铲子将蛋皮折叠包住米饭，形成椭圆形状"
+    },
+    {
+      "kind": "step",
+      "description": "用锅铲轻轻推至盘中，整理外形，可在表面挤上少量番茄酱装饰"
+    }
+  ],
+  "operationMarkdown": "1. 洋葱、胡萝卜、火腿肠或鸡胸肉切成小丁，备用\r\n2. 热锅，锅中倒入 10ml 食用油，等待 10 秒加热\r\n3. 先放入洋葱丁翻炒 1 分钟，出香味后加入胡萝卜、玉米粒、青豆继续翻炒 2 分钟\r\n4. 加入火腿肠或鸡胸肉丁，炒至变色\r\n5. 加入米饭炒散后，加入番茄酱 20ml，翻炒均匀，炒饭完成，盛出备用\r\n6. 鸡蛋打散，加入 10ml 牛奶搅匀\r\n7. 锅中放入 5ml 食用油，倒入蛋液，轻晃锅底让蛋液均匀铺满锅面\r\n8. 用小火加热，待蛋液表面半熟状态时，将炒饭放入蛋液中央\r\n9. 用铲子将蛋皮折叠包住米饭，形成椭圆形状\r\n10. 用锅铲轻轻推至盘中，整理外形，可在表面挤上少量番茄酱装饰",
+  "tips": "- 炒饭用隔夜饭不易粘锅，口感更好。\r\n- 打蛋时加入牛奶可以让蛋皮更加嫩滑。\r\n- 操作蛋皮时火力需小，避免底部焦糊。\r\n- 如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 炒饭用隔夜饭不易粘锅，口感更好。\r\n- 打蛋时加入牛奶可以让蛋皮更加嫩滑。\r\n- 操作蛋皮时火力需小，避免底部焦糊。\r\n- 如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/蛋包饭.md"
+  },
+  "hash": "def9cb556cccd12c2568ed576c5bbfcb290493da3f57bb61137181be87ca1c4a"
+}

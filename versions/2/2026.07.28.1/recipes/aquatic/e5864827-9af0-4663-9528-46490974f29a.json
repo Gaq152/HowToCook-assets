@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "id": "e5864827-9af0-4663-9528-46490974f29a",
+  "legacyIds": [
+    "aquatic_17b4109a"
+  ],
+  "name": "蒜香黄油虾",
+  "description": "蒜香黄油虾是一道经典的西式海鲜菜，虾肉鲜嫩弹牙，被浓郁的蒜香和黄油包裹，带有淡淡柠檬清香。虾肉富含优质蛋白，搭配黄油提供能量，适合快速补充营养。做法简单，只需几种常见食材，新手也能轻松上手，从备料到出锅大约二十分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 526,
+  "requirements": [
+    {
+      "text": "大虾（推荐黑虎虾或基围虾）",
+      "markdown": "大虾（推荐黑虎虾或基围虾）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "无盐黄油（推荐安佳）",
+      "markdown": "无盐黄油（推荐安佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白葡萄酒（可选）",
+      "markdown": "白葡萄酒（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底煎锅",
+      "markdown": "平底煎锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "厨房用夹",
+      "markdown": "厨房用夹",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大虾（推荐黑虎虾或基围虾）\r\n- 无盐黄油（推荐安佳）\r\n- 大蒜\r\n- 白葡萄酒（可选）\r\n- 柠檬\r\n- 平底煎锅\r\n- 厨房用夹",
+  "ingredients": [
+    {
+      "name": "大虾",
+      "text": "大虾 8-10 只（约 200g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "无盐黄油",
+      "text": "无盐黄油 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（约 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白葡萄酒",
+      "text": "白葡萄酒 15ml（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1/4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橄榄油",
+      "text": "橄榄油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1-2 人食用。\r\n\r\n每份：\r\n\r\n- 大虾 8-10 只（约 200g）\r\n- 无盐黄油 30g\r\n- 大蒜 4 瓣（约 20g）\r\n- 白葡萄酒 15ml（可选）\r\n- 柠檬 1/4 个\r\n- 橄榄油 10ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1-2 人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "大虾去头去壳留尾，用牙签挑去虾线，洗净后用厨房纸吸干水分"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜切成蒜末，备用"
+    },
+    {
+      "kind": "step",
+      "description": "中火加热平底锅，放入 10ml 橄榄油"
+    },
+    {
+      "kind": "step",
+      "description": "油热后放入大虾，每面煎 1-1.5 分钟至变色，取出备用"
+    },
+    {
+      "kind": "step",
+      "description": "同一锅中加入黄油，融化后放入蒜末，小火炒香（约 30 秒）"
+    },
+    {
+      "kind": "step",
+      "description": "如使用白葡萄酒，此时加入并煮至酒精挥发（约 1 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "将虾放回锅中，与蒜香黄油酱汁翻炒均匀（约 1 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "挤入柠檬汁，翻炒均匀后立即关火"
+    },
+    {
+      "kind": "step",
+      "description": "装盘，淋上锅中剩余酱汁"
+    }
+  ],
+  "operationMarkdown": "1. 大虾去头去壳留尾，用牙签挑去虾线，洗净后用厨房纸吸干水分\r\n2. 大蒜切成蒜末，备用\r\n3. 中火加热平底锅，放入 10ml 橄榄油\r\n4. 油热后放入大虾，每面煎 1-1.5 分钟至变色，取出备用\r\n5. 同一锅中加入黄油，融化后放入蒜末，小火炒香（约 30 秒）\r\n6. 如使用白葡萄酒，此时加入并煮至酒精挥发（约 1 分钟）\r\n7. 将虾放回锅中，与蒜香黄油酱汁翻炒均匀（约 1 分钟）\r\n8. 挤入柠檬汁，翻炒均匀后立即关火\r\n9. 装盘，淋上锅中剩余酱汁",
+  "tips": "- 虾不宜过度烹饪，否则会变硬\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 虾不宜过度烹饪，否则会变硬\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/e5864827-9af0-4663-9528-46490974f29a_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md"
+  },
+  "hash": "5f8eaad26e7ee2b78aefd036ef41cc31d6e423d14201f388ba790d90fa2612cb"
+}

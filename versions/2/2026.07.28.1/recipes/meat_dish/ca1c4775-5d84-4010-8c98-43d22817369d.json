@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "id": "ca1c4775-5d84-4010-8c98-43d22817369d",
+  "legacyIds": [
+    "meat_dish_f1f10752"
+  ],
+  "name": "酱牛肉",
+  "description": "酱牛肉是一道北派家常冷荤，酱香浓郁，口感紧实不散，嚼劲十足。牛腱子肉富含优质蛋白和多种氨基酸，慢炖后更易消化吸收。制作过程不算复杂，但包含腌制、慢炖和长时间冷藏，对新手来说需要些耐心，从头到尾大约需要 10 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 2265,
+  "requirements": [
+    {
+      "text": "牛腱子肉",
+      "markdown": "牛腱子肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄豆酱",
+      "markdown": "黄豆酱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛腱子肉\r\n- 香叶\r\n- 姜\r\n- 葱\r\n- 老抽\r\n- 桂皮\r\n- 冰糖\r\n- 花椒\r\n- 料酒\r\n- 生抽\r\n- 盐\r\n- 八角\r\n- 黄豆酱",
+  "ingredients": [
+    {
+      "name": "牛腱子肉",
+      "text": "牛腱子肉 2000 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱半根",
+      "text": "葱半根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 1 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 7-8 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 15 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 8 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆酱",
+      "text": "黄豆酱 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 牛腱子肉 2000 克\r\n- 香叶 1 片\r\n- 姜 3 片\r\n- 葱半根\r\n- 老抽 15ml\r\n- 桂皮 1 块\r\n- 冰糖 7-8 粒\r\n- 花椒 15 粒\r\n- 料酒 30ml\r\n- 生抽 15ml\r\n- 盐 8 克\r\n- 八角 4 个\r\n- 黄豆酱 15ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "牛腱子肉清洗干净，用清水浸泡 1 小时，去除血水"
+    },
+    {
+      "kind": "step",
+      "description": "用牙签或者叉子在牛腱子肉表面扎孔，加料酒、花椒、姜片后，用保鲜膜紧密包裹容器，腌制 4-6 小时"
+    },
+    {
+      "kind": "step",
+      "description": "牛腱子肉切成 8cm，不超过 10cm 的肉块"
+    },
+    {
+      "kind": "step",
+      "description": "牛腱子肉放入锅中，加入冷水至水面没过牛肉，开锅至水沸腾开始计时，同时捞出浮沫。3 分钟后停火，捞出牛肉，用温水洗净"
+    },
+    {
+      "kind": "step",
+      "description": "将洗净后的牛腱子肉放入砂锅或炖锅，加水没过牛腱子肉，开大火，放入除盐之外其他未使用的配料"
+    },
+    {
+      "kind": "step",
+      "description": "水开之后，大火转为小火，持续加热 90 分钟，加盐"
+    },
+    {
+      "kind": "step",
+      "description": "加盐后，继续小火 90 分钟（注：每 30 分钟确认水位线，要求至少达到牛肉面高度的 80%）"
+    },
+    {
+      "kind": "step",
+      "description": "加热 180 分钟后，捞出牛腱子肉，捞出牛腱子肉，用保鲜膜紧密包裹，放入冰箱冷藏数小时"
+    },
+    {
+      "kind": "step",
+      "description": "取出后沿牛肉纹路切片，上桌食用，其他牛腱子肉建议不切片冷藏"
+    }
+  ],
+  "operationMarkdown": "1. 牛腱子肉清洗干净，用清水浸泡 1 小时，去除血水\r\n2. 用牙签或者叉子在牛腱子肉表面扎孔，加料酒、花椒、姜片后，用保鲜膜紧密包裹容器，腌制 4-6 小时\r\n3. 牛腱子肉切成 8cm，不超过 10cm 的肉块\r\n4. 牛腱子肉放入锅中，加入冷水至水面没过牛肉，开锅至水沸腾开始计时，同时捞出浮沫。3 分钟后停火，捞出牛肉，用温水洗净\r\n5. 将洗净后的牛腱子肉放入砂锅或炖锅，加水没过牛腱子肉，开大火，放入除盐之外其他未使用的配料\r\n6. 水开之后，大火转为小火，持续加热 90 分钟，加盐\r\n7. 加盐后，继续小火 90 分钟（注：每 30 分钟确认水位线，要求至少达到牛肉面高度的 80%）\r\n8. 加热 180 分钟后，捞出牛腱子肉，捞出牛腱子肉，用保鲜膜紧密包裹，放入冰箱冷藏数小时\r\n9. 取出后沿牛肉纹路切片，上桌食用，其他牛腱子肉建议不切片冷藏",
+  "tips": "- 操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材（约每 30 分钟确认一次）。\r\n- 用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散。\r\n- 用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味。\r\n\r\n### 参考资料\r\n\r\n- [下厨房app中的食谱](http://www.xiachufang.com/recipe/106670199/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材（约每 30 分钟确认一次）。\r\n- 用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散。\r\n- 用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味。\r\n\r\n### 参考资料\r\n\r\n- [下厨房app中的食谱](http://www.xiachufang.com/recipe/106670199/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/ca1c4775-5d84-4010-8c98-43d22817369d_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/酱牛肉/酱牛肉.md"
+  },
+  "hash": "efa3323a4e1e653dedcc5bb59a5743c5a70def5ff354960ee7d1a278761fc4d0"
+}

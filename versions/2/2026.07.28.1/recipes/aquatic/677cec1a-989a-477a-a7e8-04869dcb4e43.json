@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 2,
+  "id": "677cec1a-989a-477a-a7e8-04869dcb4e43",
+  "legacyIds": [
+    "aquatic_849a47d1"
+  ],
+  "name": "清蒸鲈鱼",
+  "description": "清蒸鲈鱼是一道粤式经典蒸菜，鱼肉细嫩爽滑，味道清淡鲜美，能最大程度保留鲈鱼的原汁原味。鲈鱼富含优质蛋白和 DHA，营养丰富且易于消化。这道菜操作简单，对新手非常友好，从备料到出锅大约只需三十分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 385,
+  "requirements": [
+    {
+      "text": "鲈鱼（害怕杀鱼的同学可以让店家帮忙杀）",
+      "markdown": "鲈鱼（害怕杀鱼的同学可以让店家帮忙杀）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸鱼豉油",
+      "markdown": "蒸鱼豉油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鲈鱼（害怕杀鱼的同学可以让店家帮忙杀）\r\n- 香葱\r\n- 姜\r\n- 食用油\r\n- 蒸鱼豉油\r\n- 料酒\r\n- 食用盐",
+  "ingredients": [
+    {
+      "name": "鲈鱼 一条",
+      "text": "鲈鱼 一条",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱 三根",
+      "text": "香葱 三根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜 一块",
+      "text": "姜 一块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "text": "蒸鱼豉油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 5-10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鲈鱼 一条\r\n- 香葱 三根\r\n- 姜  一块\r\n- 食用油 10-15ml\r\n- 蒸鱼豉油 10-15ml\r\n- 料酒 10-15ml\r\n- 食用盐 5-10g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。"
+    },
+    {
+      "kind": "step",
+      "description": "鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。"
+    },
+    {
+      "kind": "step",
+      "description": "补充一个鲈鱼改刀和摆盘的方法，改刀后可以让鲈鱼立起来蒸，均匀受热，同时吃起来更加方便，无需翻面。"
+    },
+    {
+      "kind": "step",
+      "description": "![改刀](./改刀.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "![清蒸鲈鱼-预览图-2](./摆盘.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "鱼肚内塞上姜和葱白，鱼身也撒上姜和葱白，量为备用的一半。蒸鱼的碟子用筷子将鱼跟碟子隔开蒸"
+    },
+    {
+      "kind": "step",
+      "description": "水烧热感觉到水温后放进入鱼"
+    },
+    {
+      "kind": "step",
+      "description": "大火清蒸 10 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "蒸好的鱼，用干净的盘子装起来并去除身上姜蒜"
+    },
+    {
+      "kind": "step",
+      "description": "鱼身浇上 15ml 蒸鱼豉油"
+    },
+    {
+      "kind": "step",
+      "description": "鱼身重新撒上姜和葱丝，锅内加上 10ml 食用油并烧热，将食用油淋至鱼身即可出菜"
+    }
+  ],
+  "operationMarkdown": "1. 姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。\r\n2. 鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。\r\n3. 补充一个鲈鱼改刀和摆盘的方法，改刀后可以让鲈鱼立起来蒸，均匀受热，同时吃起来更加方便，无需翻面。\r\n4. ![改刀](./改刀.jpg)\r\n5. ![清蒸鲈鱼-预览图-2](./摆盘.jpg)\r\n6. 鱼肚内塞上姜和葱白，鱼身也撒上姜和葱白，量为备用的一半。蒸鱼的碟子用筷子将鱼跟碟子隔开蒸\r\n7. 水烧热感觉到水温后放进入鱼\r\n8. 大火清蒸 10 分钟。\r\n9. 蒸好的鱼，用干净的盘子装起来并去除身上姜蒜\r\n10. 鱼身浇上 15ml 蒸鱼豉油\r\n11. 鱼身重新撒上姜和葱丝，锅内加上 10ml 食用油并烧热，将食用油淋至鱼身即可出菜\r\n\r\n![清蒸鲈鱼-预览图-3](./清蒸鲈鱼.jpg)",
+  "tips": "- 技术总结：\r\n  - 这道菜属于有手就行，关键点在于火候，鱼的大小跟火候都会相关，太久会导致鱼肉太老极度影响口感，太短会导致部分鱼肉没熟。所以大火蒸鱼一般是 10 分钟内较佳。\r\n  - 切记蒸鱼需要用筷子隔开装鱼的盘子，这样做的好处有两点：\r\n    - 1、鱼在蒸的过程中会将水滴到盘子，如果鱼直接接触会导致鱼食用时会腥。\r\n    - 2、能够将鱼均匀受热。\r\n  - 这道菜难度系数简单，而且味道非常棒哦\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 技术总结：\r\n  - 这道菜属于有手就行，关键点在于火候，鱼的大小跟火候都会相关，太久会导致鱼肉太老极度影响口感，太短会导致部分鱼肉没熟。所以大火蒸鱼一般是 10 分钟内较佳。\r\n  - 切记蒸鱼需要用筷子隔开装鱼的盘子，这样做的好处有两点：\r\n    - 1、鱼在蒸的过程中会将水滴到盘子，如果鱼直接接触会导致鱼食用时会腥。\r\n    - 2、能够将鱼均匀受热。\r\n  - 这道菜难度系数简单，而且味道非常棒哦\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/677cec1a-989a-477a-a7e8-04869dcb4e43_0.webp",
+    "images/aquatic/677cec1a-989a-477a-a7e8-04869dcb4e43_1.webp",
+    "images/aquatic/677cec1a-989a-477a-a7e8-04869dcb4e43_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md"
+  },
+  "hash": "0f20393a99410203eea3b2d401ed176de969e4b659e70e3c8165234f4d98e5c7"
+}

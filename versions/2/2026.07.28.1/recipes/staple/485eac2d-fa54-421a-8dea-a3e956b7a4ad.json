@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 2,
+  "id": "485eac2d-fa54-421a-8dea-a3e956b7a4ad",
+  "legacyIds": [
+    "staple_96435ae4"
+  ],
+  "name": "炒馍",
+  "description": "炒馍是一道咸香酥脆的家常面食，属于北方风味。馒头丁炒至金黄，外脆里软，孜然与五香粉的加入让风味更加浓郁。可搭配鸡蛋提供蛋白质，搭配小葱增添清香，营养均衡。制作难度适中，新手也能很快上手，预计 大约 15 分钟即可出锅享用。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 767,
+  "requirements": [
+    {
+      "text": "馒头（隔天略硬更好）",
+      "markdown": "馒头（隔天略硬更好）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋（可选）",
+      "markdown": "鸡蛋（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 馒头（隔天略硬更好）\r\n* 盐\r\n* 油\r\n* 孜然粉\r\n* 五香粉\r\n* 小葱\r\n* 鸡蛋（可选）",
+  "ingredients": [
+    {
+      "name": "馒头",
+      "text": "馒头 2 个（隔天略硬更好）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 20ml（花生油或芝麻油更好）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒粉",
+      "text": "辣椒粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 棵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋 （可选",
+      "text": "鸡蛋 （可选,2 个）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 馒头 2 个（隔天略硬更好）\r\n* 盐 3g\r\n* 油 20ml（花生油或芝麻油更好）\r\n* 孜然粉 3g\r\n* 辣椒粉 3g\r\n* 五香粉 3g\r\n* 小葱 2 棵\r\n* 鸡蛋 （可选,2 个）\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将馒头切成小块或小片。"
+    },
+    {
+      "kind": "step",
+      "description": "选有鸡蛋的话将鸡蛋打进碗里，打散（可加盐和五香粉各 1g 或不加，等炒的过程中加）。"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋浇在馒头上，拌匀，鸡蛋不宜过多。"
+    },
+    {
+      "kind": "step",
+      "description": "大火热锅，倒入食用油（不锈钢锅怕伤锅的话可以先倒油，烧至油热也可也可）"
+    },
+    {
+      "kind": "step",
+      "description": "将馍丁放进去翻炒，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将火调小，炒至馍丁呈金黄色。"
+    },
+    {
+      "kind": "step",
+      "description": "放入盐，胡椒粉，五香粉。"
+    },
+    {
+      "kind": "step",
+      "description": "最后将葱花放入一起翻炒几下。"
+    },
+    {
+      "kind": "step",
+      "description": "关火出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 将馒头切成小块或小片。\r\n2. 选有鸡蛋的话将鸡蛋打进碗里，打散（可加盐和五香粉各 1g 或不加，等炒的过程中加）。\r\n3. 鸡蛋浇在馒头上，拌匀，鸡蛋不宜过多。\r\n4. 大火热锅，倒入食用油（不锈钢锅怕伤锅的话可以先倒油，烧至油热也可也可）\r\n5. 将馍丁放进去翻炒，翻炒均匀。\r\n6. 将火调小，炒至馍丁呈金黄色。\r\n7. 放入盐，胡椒粉，五香粉。\r\n8. 最后将葱花放入一起翻炒几下。\r\n9. 关火出锅。",
+  "tips": "- 炒的过程中要注意控制火候，以防炒糊\r\n- 火大补救措施将火调小，可沿锅边加油润锅或洒水，注意不要全倒在一个地方，最好分散开\r\n- 调味料可根据个人喜好放入其他香料（比如南德调味料）\r\n- 如果喜欢吃脆的，可以将火开到最小，多翻炒一会，关火后趁锅热再放置一会再倒出，更香脆\r\n- 辅料也可根据个人口味方位蒜末，蒜苗等，可以单独爆香在混合\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 炒的过程中要注意控制火候，以防炒糊\r\n- 火大补救措施将火调小，可沿锅边加油润锅或洒水，注意不要全倒在一个地方，最好分散开\r\n- 调味料可根据个人喜好放入其他香料（比如南德调味料）\r\n- 如果喜欢吃脆的，可以将火开到最小，多翻炒一会，关火后趁锅热再放置一会再倒出，更香脆\r\n- 辅料也可根据个人口味方位蒜末，蒜苗等，可以单独爆香在混合\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炒馍.md"
+  },
+  "hash": "f61e4c3facda61cd040956f716be95052fd8d67e3b8bdcc6ef9492b5e42a7ca9"
+}

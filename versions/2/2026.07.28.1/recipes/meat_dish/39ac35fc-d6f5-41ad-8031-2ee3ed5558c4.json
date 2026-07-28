@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "id": "39ac35fc-d6f5-41ad-8031-2ee3ed5558c4",
+  "legacyIds": [
+    "meat_dish_06dbad58"
+  ],
+  "name": "鱼香肉丝",
+  "description": "鱼香肉丝是一道经典川菜，口味酸甜微辣，肉丝滑嫩，配以胡萝卜、青椒和木耳，口感丰富。富含蛋白质和多种维生素，荤素搭配，营养均衡。制作有一定难度，需要调好鱼香汁并掌握翻炒火候，新手建议严格按步骤操作。预计制作时长约 40 分钟（不含木耳泡发时间）。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 421,
+  "requirements": [
+    {
+      "text": "里脊肉 200g",
+      "markdown": "里脊肉 200g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜 100g",
+      "markdown": "胡萝卜 100g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒 100g",
+      "markdown": "青椒 100g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "木耳（干） 5g",
+      "markdown": "木耳（干） 5g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽 10ml",
+      "markdown": "生抽 10ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒 5ml",
+      "markdown": "料酒 5ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蛋清 1 个",
+      "markdown": "蛋清 1 个",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉 10g",
+      "markdown": "淀粉 10g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋 15ml",
+      "markdown": "醋 15ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖 10g",
+      "markdown": "白糖 10g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐 5g",
+      "markdown": "盐 5g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜 20g",
+      "markdown": "姜 20g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱 20g",
+      "markdown": "葱 20g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜 2 瓣",
+      "markdown": "蒜 2 瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱 15g",
+      "markdown": "豆瓣酱 15g",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 里脊肉 200g\r\n* 胡萝卜 100g\r\n* 青椒 100g\r\n* 木耳（干） 5g\r\n* 生抽 10ml\r\n* 料酒 5ml\r\n* 蛋清 1 个\r\n* 淀粉 10g\r\n* 醋 15ml\r\n* 白糖 10g\r\n* 盐 5g\r\n* 姜 20g\r\n* 葱 20g\r\n* 蒜 2 瓣\r\n* 豆瓣酱 15g",
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "text": "里脊肉 200g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 100g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 100g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "木耳（干）",
+      "text": "木耳（干） 5g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5ml",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "蛋清",
+      "text": "蛋清 1 个",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "醋",
+      "text": "醋 15ml",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 10g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "姜",
+      "text": "姜 20g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "葱",
+      "text": "葱 20g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 瓣",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 15g",
+      "optional": false,
+      "source": "requirements-fallback"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，这道菜仅有足够 1-2 人食用的版本。",
+  "calculationNotes": [
+    "注意，这道菜仅有足够 1-2 人食用的版本。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "制作腌料和香碗汁",
+      "description": "### 制作腌料和香碗汁"
+    },
+    {
+      "kind": "step",
+      "description": "制作`腌料`：将下列原料混合："
+    },
+    {
+      "kind": "step",
+      "description": "生抽 5ml"
+    },
+    {
+      "kind": "step",
+      "description": "料酒 5ml"
+    },
+    {
+      "kind": "step",
+      "description": "淀粉 5g"
+    },
+    {
+      "kind": "step",
+      "description": "水 20ml"
+    },
+    {
+      "kind": "step",
+      "description": "蛋清 1 个"
+    },
+    {
+      "kind": "step",
+      "description": "制作`香汁`：将下列原料混合："
+    },
+    {
+      "kind": "step",
+      "description": "生抽 5ml"
+    },
+    {
+      "kind": "step",
+      "description": "醋 15ml"
+    },
+    {
+      "kind": "step",
+      "description": "白糖 10 克"
+    },
+    {
+      "kind": "step",
+      "description": "盐 1 克"
+    },
+    {
+      "kind": "step",
+      "description": "淀粉 5g"
+    },
+    {
+      "kind": "step",
+      "description": "水 20ml"
+    },
+    {
+      "kind": "section",
+      "title": "处理原料",
+      "description": "### 处理原料"
+    },
+    {
+      "kind": "step",
+      "description": "用`腌料`腌制里脊肉 15-30 分钟。注意将肉抓匀。"
+    },
+    {
+      "kind": "step",
+      "description": "干木耳泡 4 个小时，洗净，切成小块。"
+    },
+    {
+      "kind": "step",
+      "description": "青椒洗净，去蒂，切成丝。"
+    },
+    {
+      "kind": "step",
+      "description": "胡萝卜洗净，切成丝，将胡萝卜丝[焯水](tips://learn/tips_learn_bfb8a52d)。"
+    },
+    {
+      "kind": "step",
+      "description": "姜、蒜切沫。"
+    },
+    {
+      "kind": "step",
+      "description": "葱切成 5mm 的小段。"
+    },
+    {
+      "kind": "section",
+      "title": "炒熟各种材料",
+      "description": "### 炒熟各种材料"
+    },
+    {
+      "kind": "step",
+      "description": "将锅烧热，加入 15ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "向锅内倒入准备好的腌肉，快速滑散至变白，盛出备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将锅烧热，加入 5ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入全部`葱`、`姜`、`蒜`、`豆瓣酱`。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入全部`胡萝卜`，翻炒 20s 后，放入青椒和木耳，翻炒 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入`炒过的肉`。快速翻炒均匀。注意不要炒超过 20 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入`香汁`。快速翻炒均匀。注意不要炒超过 15 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，盛盘。"
+    }
+  ],
+  "operationMarkdown": "### 制作腌料和香碗汁\r\n\r\n1. 制作`腌料`：将下列原料混合：\r\n\r\n  * 生抽 5ml\r\n  * 料酒 5ml\r\n  * 淀粉 5g\r\n  * 水 20ml\r\n  * 蛋清 1 个\r\n\r\n2. 制作`香汁`：将下列原料混合：\r\n\r\n  * 生抽 5ml\r\n  * 醋 15ml\r\n  * 白糖 10 克\r\n  * 盐 1 克\r\n  * 淀粉 5g\r\n  * 水 20ml\r\n\r\n### 处理原料\r\n\r\n1. 用`腌料`腌制里脊肉 15-30 分钟。注意将肉抓匀。\r\n2. 干木耳泡 4 个小时，洗净，切成小块。\r\n3. 青椒洗净，去蒂，切成丝。\r\n4. 胡萝卜洗净，切成丝，将胡萝卜丝[焯水](tips://learn/tips_learn_bfb8a52d)。\r\n5. 姜、蒜切沫。\r\n6. 葱切成 5mm 的小段。\r\n\r\n### 炒熟各种材料\r\n\r\n1. 将锅烧热，加入 15ml 油。\r\n2. 向锅内倒入准备好的腌肉，快速滑散至变白，盛出备用。\r\n3. 将锅烧热，加入 5ml 油。\r\n4. 倒入全部`葱`、`姜`、`蒜`、`豆瓣酱`。\r\n5. 倒入全部`胡萝卜`，翻炒 20s 后，放入青椒和木耳，翻炒 2 分钟。\r\n6. 倒入`炒过的肉`。快速翻炒均匀。注意不要炒超过 20 秒。\r\n7. 倒入`香汁`。快速翻炒均匀。注意不要炒超过 15 秒。\r\n8. 关火，盛盘。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/鱼香肉丝.md"
+  },
+  "hash": "1204b07df900c603d104e0f8c3c9921ba77e9d2ca2dd43b619e728ef4b7a8f85"
+}

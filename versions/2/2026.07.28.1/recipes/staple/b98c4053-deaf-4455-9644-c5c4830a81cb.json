@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "id": "b98c4053-deaf-4455-9644-c5c4830a81cb",
+  "legacyIds": [
+    "staple_b2db871d"
+  ],
+  "name": "鲣鱼海苔玉米饭",
+  "description": "这是一道鲜香味美的日式简餐，米饭粒粒分明，融合了鲣鱼的咸鲜、海苔的酥香与玉米的甜脆。鲣鱼富含优质蛋白和 DHA，搭配海苔的矿物质和玉米的膳食纤维，营养均衡。做法非常简单，新手也能轻松完成，实际动手仅需 5 分钟，加上煮饭总共约 40 分钟即可享用。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 383,
+  "requirements": [
+    {
+      "text": "必备：东北米（金龙鱼 30 元 5kg 的就行，推荐使用米家 IH 电饭煲煮，教程用的是米家小饭煲，不推荐使用高压锅煮饭）",
+      "markdown": "必备：东北米（金龙鱼 30 元 5kg 的就行，推荐使用米家 IH 电饭煲煮，教程用的是米家小饭煲，**不推荐使用高压锅煮饭**）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "必备：鲣鱼海苔碎（JD 和淘宝都有，可以搜索：日式拌饭料）",
+      "markdown": "必备：鲣鱼海苔碎（JD 和淘宝都有，可以搜索：日式拌饭料）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "必备：玉米粒（淘宝搜索：玉米粒 即食）",
+      "markdown": "必备：玉米粒（淘宝搜索：玉米粒 即食）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 必备：东北米（金龙鱼 30 元 5kg 的就行，推荐使用米家 IH 电饭煲煮，教程用的是米家小饭煲，**不推荐使用高压锅煮饭**）\r\n- 必备：鲣鱼海苔碎（JD 和淘宝都有，可以搜索：日式拌饭料）\r\n- 必备：玉米粒（淘宝搜索：玉米粒 即食）",
+  "ingredients": [
+    {
+      "name": "鲣鱼海苔碎",
+      "text": "鲣鱼海苔碎 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米粒",
+      "text": "玉米粒 80g/袋",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鲣鱼海苔碎 20g\r\n- 玉米粒 80g/袋",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "盛好米饭，放入玉米粒拌好"
+    },
+    {
+      "kind": "step",
+      "description": "放入鲣鱼海苔碎"
+    }
+  ],
+  "operationMarkdown": "1. 盛好米饭，放入玉米粒拌好\r\n2. 放入鲣鱼海苔碎",
+  "tips": "- 使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/b98c4053-deaf-4455-9644-c5c4830a81cb_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md"
+  },
+  "hash": "68dd7e2ab4d68e11f7bb5d218984a6324983e26d81842dc825af3de556dddf1a"
+}

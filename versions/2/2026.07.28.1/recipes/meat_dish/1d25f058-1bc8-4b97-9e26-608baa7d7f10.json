@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 2,
+  "id": "1d25f058-1bc8-4b97-9e26-608baa7d7f10",
+  "legacyIds": [
+    "meat_dish_b7cffd5d"
+  ],
+  "name": "新疆大盘鸡",
+  "description": "新疆大盘鸡是一道风味浓郁、色彩鲜艳的新疆家常菜，鸡肉鲜嫩不柴，土豆软糯吸汁，麻辣中带着微甜回甘。富含优质蛋白质和碳水化合物，搭配彩椒还能补充维生素 C。制作过程需要炒糖色和掌握收汁火候，对新手有一定挑战，但跟随步骤细心操作并不难，整体大约 1 小时可以完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1108,
+  "requirements": [
+    {
+      "text": "花椒，香叶，香果，干线椒，大蒜，大葱",
+      "markdown": "花椒，香叶，香果，干线椒，大蒜，大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油，盐，生抽，蚝油，料酒（可拿啤酒），白糖",
+      "markdown": "油，盐，生抽，蚝油，料酒（可拿啤酒），白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡肉（鸡腿肉最好），土豆，菜椒和甜椒（可以不用，加上配色好看）",
+      "markdown": "鸡肉（鸡腿肉最好），土豆，菜椒和甜椒（可以不用，加上配色好看）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 花椒，香叶，香果，干线椒，大蒜，大葱\r\n- 油，盐，生抽，蚝油，料酒（可拿啤酒），白糖\r\n- 鸡肉（鸡腿肉最好），土豆，菜椒和甜椒（可以不用，加上配色好看）",
+  "ingredients": [
+    {
+      "name": "两个火枪腿的鸡肉（这大约是",
+      "text": "两个火枪腿的鸡肉（这大约是 1kg ）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 2 个适中大小：750g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜椒甜椒各一个",
+      "text": "菜椒甜椒各一个，各 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干线椒",
+      "text": "干线椒 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 50g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "2 人食用\r\n\r\n- 两个火枪腿的鸡肉（这大约是 1kg ）\r\n- 土豆 2 个适中大小：750g\r\n- 大葱 100g\r\n- 菜椒甜椒各一个，各 50g\r\n- 白糖 20g\r\n- 干线椒 5 个\r\n- 大蒜 4 瓣\r\n- 油 50g",
+  "calculationNotes": [
+    "2 人食用"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "肉先剁好，块状，用清水+盐浸泡 5 分钟，去除血水，去腥，然后空干水"
+    },
+    {
+      "kind": "step",
+      "description": "葱蒜辣椒土豆等洗干净，土豆削皮"
+    },
+    {
+      "kind": "step",
+      "description": "葱白切长段，长度 4cm 一段，菜椒和线椒切块状"
+    },
+    {
+      "kind": "step",
+      "description": "土豆切成滚刀土豆，即切一刀动滚动一下，一块土豆大概有 4cm*4cm 大小即可"
+    },
+    {
+      "kind": "step",
+      "description": "炒糖色：先将油加入锅中，然后将白砂糖放入，用锅铲来回搅拌，将糖炒化，然后炒出焦黄色，此时将空干水的鸡肉倒入锅中翻炒，进行上色"
+    },
+    {
+      "kind": "step",
+      "description": "放入花椒，香叶，香果，干线椒等进行翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "放入 5g 盐，生抽 7ml，蚝油 10g ，料酒 100g，倒入 1 升清水，料酒可以用啤酒代替"
+    },
+    {
+      "kind": "step",
+      "description": "调至中火，将水烧开，调制中小火慢炖入味"
+    },
+    {
+      "kind": "step",
+      "description": "当水收至鸡肉即将露出时，将土豆放在锅表面：注意不要翻动土豆，就盖在表面，不然翻到下面容易粘锅，继续盖锅盖炖，炖一会后将大葱，菜椒和甜椒放入，继续炖。"
+    },
+    {
+      "kind": "step",
+      "description": "炖到汁收的差不多时可以进行翻面，将土豆与汤汁相吸，最后关火盛出。"
+    },
+    {
+      "kind": "note",
+      "description": "**另：此做法可以吃面，买粗面剂子，将粗面剂子压扁，然后用手拉成宽面，一定要是宽面，下好后可以放入到大盘鸡中，与汤汁搅拌味道极佳！**"
+    }
+  ],
+  "operationMarkdown": "1. 肉先剁好，块状，用清水+盐浸泡 5 分钟，去除血水，去腥，然后空干水\r\n2. 葱蒜辣椒土豆等洗干净，土豆削皮\r\n3. 葱白切长段，长度 4cm 一段，菜椒和线椒切块状\r\n4. 土豆切成滚刀土豆，即切一刀动滚动一下，一块土豆大概有 4cm*4cm 大小即可\r\n5. 炒糖色：先将油加入锅中，然后将白砂糖放入，用锅铲来回搅拌，将糖炒化，然后炒出焦黄色，此时将空干水的鸡肉倒入锅中翻炒，进行上色\r\n6. 放入花椒，香叶，香果，干线椒等进行翻炒\r\n7. 放入 5g 盐，生抽 7ml，蚝油 10g ，料酒 100g，倒入 1 升清水，料酒可以用啤酒代替\r\n8. 调至中火，将水烧开，调制中小火慢炖入味\r\n9. 当水收至鸡肉即将露出时，将土豆放在锅表面：注意不要翻动土豆，就盖在表面，不然翻到下面容易粘锅，继续盖锅盖炖，炖一会后将大葱，菜椒和甜椒放入，继续炖。\r\n10. 炖到汁收的差不多时可以进行翻面，将土豆与汤汁相吸，最后关火盛出。\r\n\r\n**另：此做法可以吃面，买粗面剂子，将粗面剂子压扁，然后用手拉成宽面，一定要是宽面，下好后可以放入到大盘鸡中，与汤汁搅拌味道极佳！**\r\n\r\n![大盘鸡皮带面](./大盘鸡皮带面.jpeg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/1d25f058-1bc8-4b97-9e26-608baa7d7f10_0.webp",
+    "images/meat_dish/1d25f058-1bc8-4b97-9e26-608baa7d7f10_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
+  },
+  "hash": "bc5d936e1c448351e8ec51780e475298d10b86a8051256d071a43d0bd0e61791"
+}

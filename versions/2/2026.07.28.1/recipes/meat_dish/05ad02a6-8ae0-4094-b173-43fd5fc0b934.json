@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "id": "05ad02a6-8ae0-4094-b173-43fd5fc0b934",
+  "legacyIds": [],
+  "name": "豉汁排骨",
+  "description": "这是一道粤式茶楼里的人气蒸点，豉香醇厚，排骨滑嫩脱骨。排骨提供优质蛋白和钙质，发酵豆豉增添风味也更利吸收。做法需经过泡洗、腌制和控火蒸制，对新手稍有考验，但步骤清晰易上手，从备料到出锅大约只需 1 小时。剩余的汤汁用来拌饭或拌面格外鲜美。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1513,
+  "requirements": [
+    {
+      "text": "肋排",
+      "markdown": "肋排",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "阳江豆豉",
+      "markdown": "阳江豆豉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜蓉",
+      "markdown": "蒜蓉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜末",
+      "markdown": "姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花（可选）",
+      "markdown": "葱花（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻（可选）",
+      "markdown": "白芝麻（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 肋排\r\n- 阳江豆豉\r\n- 蒜蓉\r\n- 姜末\r\n- 生抽\r\n- 老抽\r\n- 蚝油\r\n- 白砂糖\r\n- 生粉\r\n- 食用油\r\n- 清水\r\n- 葱花（可选）\r\n- 白芝麻（可选）",
+  "ingredients": [
+    {
+      "name": "肋排",
+      "text": "肋排 500 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "阳江豆豉",
+      "text": "阳江豆豉 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜蓉",
+      "text": "蒜蓉 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 3 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 8 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 20 ml（不打算淋热油为 10 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-4 个人吃。\r\n\r\n每份：\r\n\r\n- 肋排 500 g\r\n- 阳江豆豉 15 g\r\n- 蒜蓉 10 g\r\n- 姜末 5 g\r\n- 生抽 15 ml\r\n- 老抽 3 ml\r\n- 蚝油 10 g\r\n- 白砂糖 5 g\r\n- 生粉 8 g\r\n- 食用油 20 ml（不打算淋热油为 10 ml）\r\n- 清水 30 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-4 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将排骨用冷水浸泡 10 分钟泡去血水，换水重复 2 次，用厨房纸吸干"
+    },
+    {
+      "kind": "step",
+      "description": "将豆豉放入水中浸泡 5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将所有食材混合（食用油放 10 ml），腌制 8-30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "水开后上锅蒸 18 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "焖 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒入 10 ml 热油，加热到 180-200 ℃"
+    },
+    {
+      "kind": "step",
+      "description": "均匀撒上葱花和白芝麻，热油浇在撒料上"
+    }
+  ],
+  "operationMarkdown": "1. 将排骨用冷水浸泡 10 分钟泡去血水，换水重复 2 次，用厨房纸吸干\r\n2. 将豆豉放入水中浸泡 5 分钟\r\n3. 将所有食材混合（食用油放 10 ml），腌制 8-30 分钟\r\n4. 水开后上锅蒸 18 分钟\r\n5. 焖 2 分钟\r\n6. 锅中倒入 10 ml 热油，加热到 180-200 ℃\r\n7. 均匀撒上葱花和白芝麻，热油浇在撒料上",
+  "tips": "- 豆豉浸泡后稍微剁碎会更入味\r\n- 蒸制时间随排骨大小调整，以筷子能轻松插入软骨处为准\r\n- 传统的豉汁排骨不放撒料和淋热油\r\n- 吃剩的汤汁可以用来拌饭或者拌面\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 豆豉浸泡后稍微剁碎会更入味\r\n- 蒸制时间随排骨大小调整，以筷子能轻松插入软骨处为准\r\n- 传统的豉汁排骨不放撒料和淋热油\r\n- 吃剩的汤汁可以用来拌饭或者拌面\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/豉汁排骨.md"
+  },
+  "hash": "77b0c54b4ef07bc8a6b9f3faec0601b41e39f8ff0b6b3a832b0fe5118a410d53"
+}

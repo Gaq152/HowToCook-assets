@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "id": "98ee475c-7508-411d-a9d3-e429ee000ab3",
+  "legacyIds": [
+    "breakfast_1376754e"
+  ],
+  "name": "溏心蛋",
+  "description": "这是一道用普通电锅就能轻松做出的家常蛋料理，蛋黄呈现流动的溏心状态，口感嫩滑香醇。每颗鸡蛋提供约 6 克优质蛋白质，尤其适合健身人群补充营养。制作过程简单明了，只要掌握好加热和静置的时间，新手也能快速上手，全程仅需 大约 15 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 72,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "电锅",
+      "markdown": "电锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "秒表（可选）",
+      "markdown": "秒表（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 电锅\r\n- 水\r\n- 秒表（可选）",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 颗或更多（只要您的电锅装得下，不管有几颗鸡蛋都可以）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淹过鸡蛋约",
+      "text": "淹过鸡蛋约 2 公分的冷水",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋 1 颗或更多（只要您的电锅装得下，不管有几颗鸡蛋都可以）\r\n- 淹过鸡蛋约 2 公分的冷水",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动"
+    },
+    {
+      "kind": "step",
+      "description": "倒入淹过鸡蛋约 2 公分的冷水"
+    },
+    {
+      "kind": "step",
+      "description": "开盖，使用最大功率加热至水滚起（大约 85 - 95 度，稍微滚动，不需完全沸腾）"
+    },
+    {
+      "kind": "step",
+      "description": "关火，盖上盖子，让鸡蛋静置。"
+    },
+    {
+      "kind": "step",
+      "description": "想要中央有流动的蛋黄，需静置 6 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "若想要完全煮熟的易碎蛋黄，需静置 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "沥干水分，用冷水冲洗鸡蛋约 1 分钟，即可去壳食用。"
+    }
+  ],
+  "operationMarkdown": "1. 将鸡蛋放入电锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动\r\n2. 倒入淹过鸡蛋约 2 公分的冷水\r\n3. 开盖，使用最大功率加热至水滚起（大约 85 - 95 度，稍微滚动，不需完全沸腾）\r\n4. 关火，盖上盖子，让鸡蛋静置。\r\n\r\n  - 想要中央有流动的蛋黄，需静置 6 分钟\r\n  - 若想要完全煮熟的易碎蛋黄，需静置 10 分钟\r\n\r\n5. 沥干水分，用冷水冲洗鸡蛋约 1 分钟，即可去壳食用。",
+  "tips": "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水。\r\n\r\n**警告** 溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [
+    "*警告 溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。"
+  ],
+  "additionalMarkdown": "如果觉得鸡蛋不够熟的小伙伴可以依照自己的喜好添加更多的水。\r\n\r\n**警告** 溏心蛋有沙门氏菌感染的风险。不建议静置 5 分钟以内。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/溏心蛋.md"
+  },
+  "hash": "cf58c54cf588aa5a29d4d847cac079ef829623c8e5390985a7341af066735584"
+}

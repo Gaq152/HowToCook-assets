@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "63c9c421-7bce-49ee-b356-83564f89cbe1",
+  "legacyIds": [
+    "drink_75684b66"
+  ],
+  "name": "奇异果菠菜特调",
+  "description": "这是一道清爽健康的果蔬特饮，口感酸甜细腻，带有奇异果与苹果的天然果香，菠菜味清淡不抢。富含维生素 C 和膳食纤维，有助于促进消化。制作非常简单，新手也能一次成功，全程预计只需 10 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 184,
+  "requirements": [
+    {
+      "text": "原料:奇异果苹果菠菜叶（ 2-5 片）水白砂糖",
+      "markdown": "原料:\n- 奇异果\n- 苹果\n- 菠菜叶（ 2-5 片）\n- 水\n- 白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "工具榨汁机",
+      "markdown": "工具\n- 榨汁机",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 原料:\r\n  - 奇异果\r\n  - 苹果\r\n  - 菠菜叶（ 2-5 片）\r\n  - 水\r\n  - 白砂糖\r\n- 工具\r\n  - 榨汁机",
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "text": "饮用水 700ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "奇异果",
+      "text": "奇异果 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "苹果",
+      "text": "苹果 1/2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菠菜叶",
+      "text": "菠菜叶 4 叶",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 12 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 饮用水 700ml\r\n- 奇异果 2 个\r\n- 苹果 1/2 个\r\n- 菠菜叶 4 叶\r\n- 白砂糖 12 克",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将猕猴桃切成两半，每半再分四份小块"
+    },
+    {
+      "kind": "step",
+      "description": "将苹果切丁"
+    },
+    {
+      "kind": "step",
+      "description": "将菠菜叶去梗，只留叶子部分"
+    },
+    {
+      "kind": "step",
+      "description": "将菠菜切碎"
+    },
+    {
+      "kind": "step",
+      "description": "一起倒入榨汁机搅拌杯"
+    },
+    {
+      "kind": "step",
+      "description": "注水"
+    },
+    {
+      "kind": "step",
+      "description": "加入白砂糖"
+    },
+    {
+      "kind": "step",
+      "description": "启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）"
+    }
+  ],
+  "operationMarkdown": "1. 将猕猴桃切成两半，每半再分四份小块\r\n2. 将苹果切丁\r\n3. 将菠菜叶去梗，只留叶子部分\r\n4. 将菠菜切碎\r\n5. 一起倒入榨汁机搅拌杯\r\n6. 注水\r\n7. 加入白砂糖\r\n8. 启动搅拌机，搅拌约 4 个 15 秒（每 15 秒停下看状态）",
+  "tips": "- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\r\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\r\n- 欢迎改进！\r\n\r\n### 成品\r\n\r\n![奇异果菠菜特调](kiwi-example.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整\r\n- 本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错\r\n- 欢迎改进！\r\n\r\n### 成品\r\n\r\n![奇异果菠菜特调](kiwi-example.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/63c9c421-7bce-49ee-b356-83564f89cbe1_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md"
+  },
+  "hash": "24c8129d15e05b1457476eec255389e4018b9ec923ebedf7c262f0804984f7a5"
+}

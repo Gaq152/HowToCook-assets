@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "1d748e68-a4f2-44be-a668-0048c42f0e21",
+  "legacyIds": [
+    "drink_d4f5d31d"
+  ],
+  "name": "耙耙柑茶",
+  "description": "耙耙柑茶是一款融合了柑橘清甜与茉莉花香的果茶饮品，口感清爽回甘，属于创意调饮，不限于特定菜系。耙耙柑富含维生素 C 与膳食纤维，搭配绿茶饮用能带来清新提神的体验。做法非常简单，新手友好，从泡茶到搅拌全程仅需约 15 分钟即可完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 81,
+  "requirements": [
+    {
+      "text": "原料:耙耙柑（替换物请看附加内容）茉莉绿茶冰块蔗糖糖浆（可选）",
+      "markdown": "原料:\n- 耙耙柑（替换物请看附加内容）\n- 茉莉绿茶\n- 冰块\n- [蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "工具搅拌机",
+      "markdown": "工具\n- 搅拌机",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 原料:\r\n  - 耙耙柑（替换物请看附加内容）\r\n  - 茉莉绿茶\r\n  - 冰块\r\n  - [蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)（可选）\r\n- 工具\r\n  - 搅拌机",
+  "ingredients": [
+    {
+      "name": "耙耙柑",
+      "text": "耙耙柑 1~2 个（200 克以上）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茉莉绿茶",
+      "text": "茉莉绿茶 2~4 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 60 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1",
+      "text": "1 : 1 蔗糖糖浆 10 克（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 300 毫升\r\n\r\n- 耙耙柑 1~2 个（200 克以上）\r\n- 茉莉绿茶 2~4 克\r\n- 冰块 60 克\r\n- 1 : 1 蔗糖糖浆 10 克（可选）",
+  "calculationNotes": [
+    "一杯分量，约 300 毫升"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "茉莉绿茶调配（推荐比例=>茶 : 水 : 冰 = 1~2 : 50 : 30）"
+    },
+    {
+      "kind": "step",
+      "description": "称量 2~4 克茶叶置于容器，加入 100 毫升开水，泡 6 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "往泡好的绿茶中放入 60 克冰块冷却，可搅拌加速冷却"
+    },
+    {
+      "kind": "step",
+      "description": "待冰块消失后，将茶叶过滤得到茉莉绿茶茶水约 160 毫升"
+    },
+    {
+      "kind": "step",
+      "description": "正式调配"
+    },
+    {
+      "kind": "step",
+      "description": "选择一个杯子，建议使用容量在大约 300 毫升的透明玻璃杯"
+    },
+    {
+      "kind": "step",
+      "description": "取出耙耙柑的肉瓣，并将外皮剥去，取得果肉"
+    },
+    {
+      "kind": "step",
+      "description": "取 130 克果肉和 130 毫升茉莉绿茶放入搅拌机中"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 10 克蔗糖糖浆（可选，如果喜甜可放）"
+    },
+    {
+      "kind": "step",
+      "description": "封盖启动搅拌机，搅拌 20 秒后将搅拌产物倒入杯中"
+    },
+    {
+      "kind": "step",
+      "description": "取一点果肉撕碎撒在液面上"
+    },
+    {
+      "kind": "note",
+      "description": "开始享受"
+    }
+  ],
+  "operationMarkdown": "1. 茉莉绿茶调配（推荐比例=>茶 : 水 : 冰 = 1~2 : 50 : 30）\r\n\r\n  - 称量 2~4 克茶叶置于容器，加入 100 毫升开水，泡 6 分钟\r\n  - 往泡好的绿茶中放入 60 克冰块冷却，可搅拌加速冷却\r\n  - 待冰块消失后，将茶叶过滤得到茉莉绿茶茶水约 160 毫升\r\n\r\n2. 正式调配\r\n\r\n  - 选择一个杯子，建议使用容量在大约 300 毫升的透明玻璃杯\r\n  - 取出耙耙柑的肉瓣，并将外皮剥去，取得果肉\r\n  - 取 130 克果肉和 130 毫升茉莉绿茶放入搅拌机中\r\n  - 倒入 10 克蔗糖糖浆（可选，如果喜甜可放）\r\n  - 封盖启动搅拌机，搅拌 20 秒后将搅拌产物倒入杯中\r\n  - 取一点果肉撕碎撒在液面上\r\n\r\n开始享受",
+  "tips": "- 耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘\r\n- 果肉和茶水比例为 1 : 1，如果需要配置更大的分量，可按比例提升用量\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘\r\n- 果肉和茶水比例为 1 : 1，如果需要配置更大的分量，可按比例提升用量\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/1d748e68-a4f2-44be-a668-0048c42f0e21_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/耙耙柑茶/耙耙柑茶.md"
+  },
+  "hash": "f3668ee53da21fabaf045764b4f8517d8bc978c4c7662fecc9ba26b939ab2427"
+}

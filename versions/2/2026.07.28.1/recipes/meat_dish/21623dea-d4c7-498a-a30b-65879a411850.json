@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "id": "21623dea-d4c7-498a-a30b-65879a411850",
+  "legacyIds": [
+    "meat_dish_bba098ff"
+  ],
+  "name": "西红柿土豆炖牛肉",
+  "description": "一道家常炖菜，酸甜开胃，汤汁浓郁，牛肉软烂，土豆绵密。牛肉提供优质蛋白，西红柿富含番茄红素，搭配土豆和洋葱，营养均衡。操作简单，无需复杂技巧，新手也能轻松上手。从备菜到出锅大约需要 1 至 1.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 827,
+  "requirements": [
+    {
+      "text": "牛肉",
+      "markdown": "牛肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小料",
+      "markdown": "小料",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖 or 冰糖",
+      "markdown": "白糖 or 冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油（可选）",
+      "markdown": "酱油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒粉（或白胡椒粉）",
+      "markdown": "黑胡椒粉（或白胡椒粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛肉\r\n- 小料\r\n- 葱\r\n- 姜\r\n- 料酒\r\n- 花椒\r\n- 八角\r\n- 香叶\r\n- 白糖 or 冰糖\r\n- 酱油（可选）\r\n- 老抽\r\n- 黑胡椒粉（或白胡椒粉）\r\n- 土豆\r\n- 西红柿\r\n- 洋葱",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "text": "牛肉 500-700g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小料葱一根",
+      "text": "小料葱一根，姜四片，料酒花椒 3g八角一个（半）香叶两片油 15ml （若用牛腩可根据喜好减少为 10ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "调味品白糖 or 冰糖酱油（千禾酿造生抽无添加）",
+      "text": "调味品白糖 or 冰糖酱油（千禾酿造生抽无添加），老抽黑胡椒粉（白的也行）2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆两三个（看喜好",
+      "text": "土豆两三个（看喜好，锅能盛了为准）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西红柿拳头大小中等个头两三个",
+      "text": "西红柿拳头大小中等个头两三个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "比拳头大一点的洋葱一个",
+      "text": "比拳头大一点的洋葱一个",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 牛肉 500-700g\r\n- 小料\r\n  - 葱一根，姜四片，料酒\r\n  - 花椒 3g\r\n  - 八角一个（半）\r\n  - 香叶两片\r\n  - 油 15ml （若用牛腩可根据喜好减少为 10ml）\r\n- 调味品\r\n  - 白糖 or 冰糖\r\n  - 酱油（千禾酿造生抽无添加），老抽\r\n  - 黑胡椒粉（白的也行）2g\r\n- 土豆两三个（看喜好，锅能盛了为准）\r\n- 西红柿拳头大小中等个头两三个\r\n- 比拳头大一点的洋葱一个",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "备菜:"
+    },
+    {
+      "kind": "step",
+      "description": "土豆去皮、切成 5cm 大块，备用"
+    },
+    {
+      "kind": "step",
+      "description": "西红柿切十字花刀，开水烫后去皮，把中间的芯去掉，切 3cm 小块备用"
+    },
+    {
+      "kind": "step",
+      "description": "葱切 4g 的葱花出来，剩下的掰成 5-8cm 大段"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉泡凉水半小时去血水，或凉水下锅煮至表面变白捞出，期间撇去浮末"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切 0.5-1cm 小粒"
+    },
+    {
+      "kind": "step",
+      "description": "制作"
+    },
+    {
+      "kind": "step",
+      "description": "全程中火"
+    },
+    {
+      "kind": "step",
+      "description": "凉水没过牛肉，放入高压锅，放入葱段，姜片，放入 20g 料酒，上汽压 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出牛肉后，切 5cm 大块，挑出姜，汤盛到一个大碗里一会炖煮用"
+    },
+    {
+      "kind": "step",
+      "description": "倒油，油四到五成热以后下花椒八角香叶，出香味之后糊之前挑出不用"
+    },
+    {
+      "kind": "step",
+      "description": "下入牛肉，葱姜，炒香，炒多久都无所谓，看着有点要糊可以舀 10ml 汤，此下同理"
+    },
+    {
+      "kind": "step",
+      "description": "炒香后加入生抽 15ml，料酒 15ml，胡椒粉，5-10g 番茄膏番茄酱或一个番茄罐头，加入洋葱炒至透明"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）可以加一点点盐使洋葱出水不容易糊，不要加太多，后面再调味"
+    },
+    {
+      "kind": "step",
+      "description": "加入西红柿炒至西红柿化开软烂，倒入剩下的汤"
+    },
+    {
+      "kind": "step",
+      "description": "炖煮"
+    },
+    {
+      "kind": "step",
+      "description": "中火开锅后，全程小火"
+    },
+    {
+      "kind": "step",
+      "description": "出锅前 30-40 分钟 加土豆并调味"
+    },
+    {
+      "kind": "step",
+      "description": "依据个人口味边尝边加糖盐，合适为止"
+    },
+    {
+      "kind": "step",
+      "description": "筷子戳牛肉软烂后出锅！"
+    }
+  ],
+  "operationMarkdown": "1. 备菜:\r\n\r\n  - 土豆去皮、切成 5cm 大块，备用\r\n  - 西红柿切十字花刀，开水烫后去皮，把中间的芯去掉，切 3cm 小块备用\r\n  - 葱切 4g 的葱花出来，剩下的掰成 5-8cm 大段\r\n  - 牛肉泡凉水半小时去血水，或凉水下锅煮至表面变白捞出，期间撇去浮末\r\n  - 洋葱切 0.5-1cm 小粒\r\n\r\n2. 制作\r\n\r\n  - 全程中火\r\n  - 凉水没过牛肉，放入高压锅，放入葱段，姜片，放入 20g 料酒，上汽压 20 分钟\r\n  - 取出牛肉后，切 5cm 大块，挑出姜，汤盛到一个大碗里一会炖煮用\r\n  - 倒油，油四到五成热以后下花椒八角香叶，出香味之后糊之前挑出不用\r\n  - 下入牛肉，葱姜，炒香，炒多久都无所谓，看着有点要糊可以舀 10ml 汤，此下同理\r\n  - 炒香后加入生抽 15ml，料酒 15ml，胡椒粉，5-10g 番茄膏番茄酱或一个番茄罐头，加入洋葱炒至透明\r\n  - （可选）可以加一点点盐使洋葱出水不容易糊，不要加太多，后面再调味\r\n  - 加入西红柿炒至西红柿化开软烂，倒入剩下的汤\r\n\r\n3. 炖煮\r\n\r\n  - 中火开锅后，全程小火\r\n  - 出锅前 30-40 分钟 加土豆并调味\r\n  - 依据个人口味边尝边加糖盐，合适为止\r\n  - 筷子戳牛肉软烂后出锅！",
+  "tips": "- 炖煮时保证汤加入的时候是温热的\r\n- 炖煮时不要扣盖否则土豆会烂\r\n- 炖煮时时不时翻动避免糊底\r\n- 砂锅炖煮会更好吃，可以在炒锅里炒完倒到煮锅里炖，如果用砂锅开锅之前不要用大火避免裂开\r\n- 酱油总量不要太多，汤汁浓缩的时候会变咸，稀的时候稍微淡点没事，炖煮时候觉得不够也可以再加酱油\r\n- 不要用鸡精味精，会抢夺牛肉的鲜味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 炖煮时保证汤加入的时候是温热的\r\n- 炖煮时不要扣盖否则土豆会烂\r\n- 炖煮时时不时翻动避免糊底\r\n- 砂锅炖煮会更好吃，可以在炒锅里炒完倒到煮锅里炖，如果用砂锅开锅之前不要用大火避免裂开\r\n- 酱油总量不要太多，汤汁浓缩的时候会变咸，稀的时候稍微淡点没事，炖煮时候觉得不够也可以再加酱油\r\n- 不要用鸡精味精，会抢夺牛肉的鲜味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/21623dea-d4c7-498a-a30b-65879a411850_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md"
+  },
+  "hash": "5ff1bcb9ae749f4a803b4b18780a1a11efdc9f899004364f6149c0314668f9c1"
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "id": "da2a7767-4a12-44c4-9661-1e1a58146252",
+  "legacyIds": [
+    "meat_dish_3dcc00ec"
+  ],
+  "name": "猪皮冻",
+  "description": "猪皮冻是北方年夜饭常见的传统凉菜，晶莹剔透，口感滑嫩 Q 弹，特别适合下酒。猪皮富含胶原蛋白，有美容养颜的作用。这道菜难度稍高，需要耐心处理猪皮去腥和长时间熬煮，预计制作时长约 24 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1630,
+  "requirements": [
+    {
+      "text": "猪皮",
+      "markdown": "猪皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大料、花椒、白芷、桂皮、丁香、香叶、小茴香",
+      "markdown": "大料、花椒、白芷、桂皮、丁香、香叶、小茴香",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪皮\r\n- 大料、花椒、白芷、桂皮、丁香、香叶、小茴香",
+  "ingredients": [
+    {
+      "name": "主料",
+      "text": "主料:猪皮 1kg、水 4kg",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "调料",
+      "text": "调料：盐 13g、味精 10g、鸡精 15g、生抽 50ml、老抽 20ml、葱 10g、葱 10g、姜片 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香料包",
+      "text": "香料包：八角 10g、花椒 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 主料:猪皮 1kg、水 4kg\r\n* 调料：盐 13g、味精 10g、鸡精 15g、生抽 50ml、老抽 20ml、葱 10g、葱 10g、姜片 20g\r\n* 香料包：八角 10g、花椒 5g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将猪皮，剁成不超过 10cm 小块，用清水浸泡 12 小时，然后冷水下锅，加入姜 10g、料酒 50ml 后，汆烫 5-10 分钟，捞出放入冷水中"
+    },
+    {
+      "kind": "step",
+      "description": "将焯过水的猪皮，放到案板上，将里面的白肉部分全部剔除，然后再切成成不超过 3mm 的长条，放入盆中"
+    },
+    {
+      "kind": "step",
+      "description": "加入白醋 20g，盐 5g，用力搓洗 3 分钟，再用清水洗净，这时的猪皮已经基本没什么腥味"
+    },
+    {
+      "kind": "step",
+      "description": "锅内加入 4kg 水，放入猪皮，葱 10g，姜片 10g，八角 10g，花椒 5g，大火烧开后，小火煲煮 90 分钟至猪皮软烂"
+    },
+    {
+      "kind": "step",
+      "description": "再加入盐 8g、味精 10g、鸡精 15g、生抽 50ml、老抽 20ml 调味后，倒入盘中，将葱姜，八角拣出，晾凉至果冻状"
+    },
+    {
+      "kind": "step",
+      "description": "放冰箱冷藏即可，食用时，切成小块或者厚片"
+    }
+  ],
+  "operationMarkdown": "1. 将猪皮，剁成不超过 10cm 小块，用清水浸泡 12 小时，然后冷水下锅，加入姜 10g、料酒 50ml 后，汆烫 5-10 分钟，捞出放入冷水中\r\n2. 将焯过水的猪皮，放到案板上，将里面的白肉部分全部剔除，然后再切成成不超过 3mm 的长条，放入盆中\r\n3. 加入白醋 20g，盐 5g，用力搓洗 3 分钟，再用清水洗净，这时的猪皮已经基本没什么腥味\r\n4. 锅内加入 4kg 水，放入猪皮，葱 10g，姜片 10g，八角 10g，花椒 5g，大火烧开后，小火煲煮 90 分钟至猪皮软烂\r\n5. 再加入盐 8g、味精 10g、鸡精 15g、生抽 50ml、老抽 20ml 调味后，倒入盘中，将葱姜，八角拣出，晾凉至果冻状\r\n6. 放冰箱冷藏即可，食用时，切成小块或者厚片",
+  "tips": "- 操作时，需要注意，做猪皮冻，直接下锅煮就“废”了，也是最忌讳的，一定要用白醋和盐不断搓洗猪皮，这样保证煮好的猪皮晶莹剔透，而且还没腥味\r\n- 参考资料：[铭哥说美食](https://www.bilibili.com/video/BV1hh41117TL?spm_id_from=333.999.0.0)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意，做猪皮冻，直接下锅煮就“废”了，也是最忌讳的，一定要用白醋和盐不断搓洗猪皮，这样保证煮好的猪皮晶莹剔透，而且还没腥味\r\n- 参考资料：[铭哥说美食](https://www.bilibili.com/video/BV1hh41117TL?spm_id_from=333.999.0.0)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/da2a7767-4a12-44c4-9661-1e1a58146252_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/猪皮冻/猪皮冻.md"
+  },
+  "hash": "7970feb0ac9e869ec8306839c0a902f229880dde7204df2ebafd12f2326dba75"
+}

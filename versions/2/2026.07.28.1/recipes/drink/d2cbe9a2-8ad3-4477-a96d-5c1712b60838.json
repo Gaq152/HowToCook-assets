@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "id": "d2cbe9a2-8ad3-4477-a96d-5c1712b60838",
+  "legacyIds": [
+    "drink_7269c4a9"
+  ],
+  "name": "酸梅汤",
+  "description": "酸梅汤是一道酸甜可口、清凉解暑的传统饮品，冰镇后饮用尤为沁人心脾。配方中的乌梅、山楂、甘草等原料有助于生津止渴、消食开胃。做法简单，新手友好，只需浸泡、熬煮和冷藏即可。制作全程包括浸泡、两次煎煮和冷藏，大约需要 6 小时以上，建议提前准备。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 359,
+  "requirements": [
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "乌枣",
+      "markdown": "乌枣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "乌梅",
+      "markdown": "乌梅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "山楂片（生）",
+      "markdown": "山楂片（生）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄冰糖",
+      "markdown": "黄冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "甘草",
+      "markdown": "甘草",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "陈皮",
+      "markdown": "陈皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红豆蔻",
+      "markdown": "红豆蔻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干桂花",
+      "markdown": "干桂花",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 水\r\n- 乌枣\r\n- 乌梅\r\n- 山楂片（生）\r\n- 黄冰糖\r\n- 甘草\r\n- 陈皮\r\n- 红豆蔻\r\n- 干桂花",
+  "ingredients": [
+    {
+      "name": "两升水",
+      "text": "两升水",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "乌枣",
+      "text": "乌枣 25 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "乌梅",
+      "text": "乌梅 25g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄冰糖",
+      "text": "黄冰糖 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "山楂片",
+      "text": "山楂片 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甘草",
+      "text": "甘草 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "陈皮",
+      "text": "陈皮 4 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红豆蔻",
+      "text": "红豆蔻 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干桂花",
+      "text": "干桂花 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 两升水\r\n- 乌枣 25 克\r\n- 乌梅 25g\r\n- 黄冰糖 100 克\r\n- 山楂片 30 克\r\n- 甘草 2 克\r\n- 陈皮 4 克\r\n- 红豆蔻 1 克\r\n- 干桂花 3 克\r\n\r\n上述所有用量可以等比例增加或减小。",
+  "calculationNotes": [
+    "上述所有用量可以等比例增加或减小。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "冲洗材料（干桂花和冰糖除外）， 1.5 升水常温浸泡两小时以上（干桂花和冰糖除外）"
+    },
+    {
+      "kind": "step",
+      "description": "开中大火煮沸，盖盖，转小火煮 40 分钟，为头煎"
+    },
+    {
+      "kind": "step",
+      "description": "将冰糖放入盆内，再将沥好用材的头汤趁热倒入，搅拌至冰糖融化。"
+    },
+    {
+      "kind": "step",
+      "description": "药材重新装回锅内再 600 毫升的水，开大火煮沸，盖盖，转中火，再煮 20 分钟为二煎"
+    },
+    {
+      "kind": "step",
+      "description": "最后将二煎和冰糖水趁热混合为成品。在成品 60-70℃加入干桂花（不要超过 80℃）加盖晾凉再放入冰箱冷藏 3 小时以上。"
+    },
+    {
+      "kind": "step",
+      "description": "饮用时记得将干桂花沥出。如饮茶般细啜，冰凉振齿，酸醒人、甜适度，滋味丰满而悠长"
+    }
+  ],
+  "operationMarkdown": "1. 冲洗材料（干桂花和冰糖除外）， 1.5 升水常温浸泡两小时以上（干桂花和冰糖除外）\r\n2. 开中大火煮沸，盖盖，转小火煮 40 分钟，为头煎\r\n3. 将冰糖放入盆内，再将沥好用材的头汤趁热倒入，搅拌至冰糖融化。\r\n4. 药材重新装回锅内再 600 毫升的水，开大火煮沸，盖盖，转中火，再煮 20 分钟为二煎\r\n5. 最后将二煎和冰糖水趁热混合为成品。在成品 60-70℃加入干桂花（不要超过 80℃）加盖晾凉再放入冰箱冷藏 3 小时以上。\r\n6. 饮用时记得将干桂花沥出。如饮茶般细啜，冰凉振齿，酸醒人、甜适度，滋味丰满而悠长",
+  "tips": "放入冰箱冷藏后再饮用效果更佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "放入冰箱冷藏后再饮用效果更佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/d2cbe9a2-8ad3-4477-a96d-5c1712b60838_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/酸梅汤/酸梅汤.md"
+  },
+  "hash": "8d44dec4aba7d4a3852b79227e80701307f162f8485864019b55c61c671ab20e"
+}

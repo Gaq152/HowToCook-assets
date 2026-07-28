@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "id": "b20d3e67-ffae-4c0d-b53e-33ec6be3f440",
+  "legacyIds": [
+    "meat_dish_5aaba9a1"
+  ],
+  "name": "贵州辣子鸡",
+  "description": "贵州辣子鸡是贵州地区的经典家常菜，以糍粑辣椒和多种香料烹制而成，鸡肉香糯软烂，土豆绵密入味，整体风味香辣浓郁。鸡肉富含优质蛋白质，搭配土豆等配菜，营养均衡。这道菜步骤较多，对新手有一定挑战，但按部就班也能成功。从备料到出锅，预计需要 1.大约 5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1441,
+  "requirements": [
+    {
+      "text": "农村玉米鸡",
+      "markdown": "农村玉米鸡",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒 or 麻椒",
+      "markdown": "花椒 or 麻椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糍粑辣椒（花溪党武的辣椒，遵义的子弹头，条子椒，大方的皱椒混合之后打碎的辣椒）",
+      "markdown": "糍粑辣椒（花溪党武的辣椒，遵义的子弹头，条子椒，大方的皱椒混合之后打碎的辣椒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酒糟",
+      "markdown": "酒糟",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 农村玉米鸡\r\n- 土豆\r\n- 大蒜\r\n- 香叶\r\n- 姜\r\n- 老抽\r\n- 花椒 or 麻椒\r\n- 糍粑辣椒（花溪党武的辣椒，遵义的子弹头，条子椒，大方的皱椒混合之后打碎的辣椒）\r\n- 豆瓣酱\r\n- 啤酒\r\n- 蒜苗\r\n- 酒糟\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "鸡三到四个人的量是四斤",
+      "text": "鸡三到四个人的量是四斤，人多可以依次累加",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒半瓶",
+      "text": "啤酒半瓶",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜手指头大小两个",
+      "text": "姜手指头大小两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糍粑辣椒",
+      "text": "糍粑辣椒 500g，会是拳头大小两坨",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗三根",
+      "text": "蒜苗三根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜两个",
+      "text": "大蒜两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆两个",
+      "text": "土豆两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜籽油两斤",
+      "text": "菜籽油两斤，开始炸鸡会用很多",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鸡三到四个人的量是四斤，人多可以依次累加\r\n- 啤酒半瓶\r\n- 姜手指头大小两个\r\n- 糍粑辣椒 500g，会是拳头大小两坨\r\n- 蒜苗三根\r\n- 香叶 2 片\r\n- 大蒜两个\r\n- 土豆两个\r\n- 菜籽油两斤，开始炸鸡会用很多\r\n- 老抽 20 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "在锅中加入和锅一半高度的油，将切成长条的土豆先炸至表面金黄然后捞出备用，等油温上至烤手时候将切好的鸡块放入锅中炸，并放入切好的生姜片和花椒"
+    },
+    {
+      "kind": "step",
+      "description": "刚开始炸鸡的时候，油是浑浊的，因为鸡块里面有水的原因，等到油炸至清澈，鸡块就炸好了，然后捞出备用"
+    },
+    {
+      "kind": "step",
+      "description": "现在锅里面的油可以捞三分之一出来，现在用不到这么多的油"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中剩余的油加热，加入糍粑辣椒，豆瓣酱，生姜片，炒出红油状，将炸好的鸡块翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "等到鸡块都上色，加入老抽，倒入啤酒，啤酒一定要盖过鸡块，加上香叶盖上盖，闷十分钟，期间间隔翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "然后加入土豆条，大蒜（不用切，一颗一颗的最好），然后再闷 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "最后加入酒糟翻炒均匀再加入切好的蒜苗，就可以出锅了"
+    }
+  ],
+  "operationMarkdown": "1. 在锅中加入和锅一半高度的油，将切成长条的土豆先炸至表面金黄然后捞出备用，等油温上至烤手时候将切好的鸡块放入锅中炸，并放入切好的生姜片和花椒\r\n2. 刚开始炸鸡的时候，油是浑浊的，因为鸡块里面有水的原因，等到油炸至清澈，鸡块就炸好了，然后捞出备用\r\n3. 现在锅里面的油可以捞三分之一出来，现在用不到这么多的油\r\n4. 将锅中剩余的油加热，加入糍粑辣椒，豆瓣酱，生姜片，炒出红油状，将炸好的鸡块翻炒均匀\r\n5. 等到鸡块都上色，加入老抽，倒入啤酒，啤酒一定要盖过鸡块，加上香叶盖上盖，闷十分钟，期间间隔翻炒\r\n6. 然后加入土豆条，大蒜（不用切，一颗一颗的最好），然后再闷 20 分钟\r\n7. 最后加入酒糟翻炒均匀再加入切好的蒜苗，就可以出锅了",
+  "tips": "- 操作时，需要注意翻炒，因为糍粑辣椒会糊掉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意翻炒，因为糍粑辣椒会糊掉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/b20d3e67-ffae-4c0d-b53e-33ec6be3f440_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
+  },
+  "hash": "f3fbc6b8d215a8026f596c771e6c0e6bd6d25da4f09ab37d78b35bd48f797611"
+}

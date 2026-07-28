@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "id": "80c9759a-2d63-4082-96db-6ae3cd27ec39",
+  "legacyIds": [
+    "soup_45e226fc"
+  ],
+  "name": "罗宋汤",
+  "description": "一道源自俄罗斯甜菜汤、在上海改良的海派家常汤品，以番茄和牛肉为主调，口感酸甜浓郁、醇厚鲜美。富含优质蛋白、番茄红素及多种维生素，营养均衡。制作简单，对初学者友好，全程预计 2–3 小时即可完成。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 2006,
+  "requirements": [
+    {
+      "text": "蔬菜高汤（欧芹、胡萝卜、洋葱三件套）",
+      "markdown": "蔬菜高汤（欧芹、胡萝卜、洋葱三件套）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛肉高汤（可用〇汤宝代替）",
+      "markdown": "牛肉高汤（可用〇汤宝代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛肉（可选牛腩肉或牛尾肉）",
+      "markdown": "牛肉（可选牛腩肉或牛尾肉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄（番茄膏、番茄罐头）",
+      "markdown": "番茄（番茄膏、番茄罐头）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 蔬菜高汤（欧芹、胡萝卜、洋葱三件套）\r\n- 牛肉高汤（可用〇汤宝代替）\r\n- 牛肉（可选牛腩肉或牛尾肉）\r\n- 番茄（番茄膏、番茄罐头）",
+  "ingredients": [
+    {
+      "name": "牛肉高汤",
+      "text": "牛肉高汤 500 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛肉",
+      "text": "牛肉 250 g （可选用牛腩肉或牛尾肉）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄罐头",
+      "text": "番茄罐头 2 罐 （可用番茄替代、但风味欠佳）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄膏",
+      "text": "番茄膏 5 g （增加番茄风味）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "马铃薯",
+      "text": "马铃薯 400 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "欧芹",
+      "text": "欧芹 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "包菜",
+      "text": "包菜 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红肠",
+      "text": "红肠 100 - 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橄榄油",
+      "text": "橄榄油 5 mL （橄榄油用于蔬菜的烹制，可以用植物油代替）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "植物油",
+      "text": "植物油 5 mL （植物油用于牛肉的烹制，不能用橄榄油代替）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 18 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒",
+      "text": "黑胡椒 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 牛肉高汤 500 mL\r\n- 牛肉 250 g （可选用牛腩肉或牛尾肉）\r\n- 番茄罐头 2 罐 （可用番茄替代、但风味欠佳）\r\n- 番茄膏 5 g （增加番茄风味）\r\n- 马铃薯 400 g\r\n- 洋葱 100 g\r\n- 胡萝卜 100 g\r\n- 欧芹 100 g\r\n- 包菜 200 g\r\n- 红肠 100 - 200 g\r\n- 橄榄油 5 mL （橄榄油用于蔬菜的烹制，可以用植物油代替）\r\n- 植物油 5 mL （植物油用于牛肉的烹制，不能用橄榄油代替）\r\n- 盐 18 g\r\n- 黑胡椒 3 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "切配准备",
+      "description": "### 切配准备"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱、胡萝卜、欧芹切 1cm 见方小丁"
+    },
+    {
+      "kind": "step",
+      "description": "红肠、马铃薯切 2cm 块"
+    },
+    {
+      "kind": "step",
+      "description": "包菜去梗后，手撕至 2cm 片"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉撒盐 3 g 、黑胡椒 3 g 腌制 5 分钟"
+    },
+    {
+      "kind": "section",
+      "title": "煎制过程",
+      "description": "### 煎制过程"
+    },
+    {
+      "kind": "step",
+      "description": "平底锅烧热，加入植物油"
+    },
+    {
+      "kind": "step",
+      "description": "煎制牛肉，直至表面**焦黄色**（可以带生，千万别糊了），取出备用。"
+    },
+    {
+      "kind": "section",
+      "title": "烹制过程1（前一小时）",
+      "description": "### 烹制过程1（前一小时）"
+    },
+    {
+      "kind": "step",
+      "description": "汤锅烧热，加入橄榄油、洋葱丁、胡萝卜丁、欧芹丁"
+    },
+    {
+      "kind": "step",
+      "description": "炒至**洋葱透明**，加入番茄膏、番茄罐头"
+    },
+    {
+      "kind": "step",
+      "description": "加入牛肉、马铃薯丁，翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加水没过食材，中火烹制 1 小时"
+    },
+    {
+      "kind": "section",
+      "title": "烹制过程2（后半小时）",
+      "description": "### 烹制过程2（后半小时）"
+    },
+    {
+      "kind": "step",
+      "description": "开锅加入包菜丁、红肠丁，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "中火烹制半小时"
+    },
+    {
+      "kind": "step",
+      "description": "开盖加入剩余 15 g 盐，混合均匀后盛盘"
+    }
+  ],
+  "operationMarkdown": "### 切配准备\r\n\r\n1. 洋葱、胡萝卜、欧芹切 1cm 见方小丁\r\n2. 红肠、马铃薯切 2cm 块\r\n3. 包菜去梗后，手撕至 2cm 片\r\n4. 牛肉撒盐 3 g 、黑胡椒 3 g 腌制 5 分钟\r\n\r\n### 煎制过程\r\n\r\n1. 平底锅烧热，加入植物油\r\n2. 煎制牛肉，直至表面**焦黄色**（可以带生，千万别糊了），取出备用。\r\n\r\n### 烹制过程1（前一小时）\r\n\r\n1. 汤锅烧热，加入橄榄油、洋葱丁、胡萝卜丁、欧芹丁\r\n2. 炒至**洋葱透明**，加入番茄膏、番茄罐头\r\n3. 加入牛肉、马铃薯丁，翻炒均匀\r\n4. 加水没过食材，中火烹制 1 小时\r\n\r\n### 烹制过程2（后半小时）\r\n\r\n1. 开锅加入包菜丁、红肠丁，搅拌均匀\r\n2. 中火烹制半小时\r\n3. 开盖加入剩余 15 g 盐，混合均匀后盛盘",
+  "tips": "- 番茄尽量不用新鲜番茄代替，番茄罐头+番茄膏的组合风味更足\r\n- 除了胡萝卜、洋葱、欧芹、牛肉是必备食材外，其余可自由搭配\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 番茄尽量不用新鲜番茄代替，番茄罐头+番茄膏的组合风味更足\r\n- 除了胡萝卜、洋葱、欧芹、牛肉是必备食材外，其余可自由搭配\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/罗宋汤.md"
+  },
+  "hash": "e11ac031cb227c77175eeb2cbe58fc9130a5dd6805440a9f738fe6ee0c2bfbc9"
+}

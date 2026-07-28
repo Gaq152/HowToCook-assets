@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 2,
+  "id": "a0f4e0ba-171d-4e11-a11e-f2ba31eb28b3",
+  "legacyIds": [
+    "meat_dish_31e10602"
+  ],
+  "name": "洋葱炒猪肉",
+  "description": "这是一道家常风味小炒，咸中带甜，酱香浓郁，洋葱炒软后滋味温和，搭配嫩滑猪肉片非常下饭。猪肉提供优质蛋白质和 B 族维生素，洋葱含膳食纤维和多种抗氧化物，开胃助消化。操作简单，新手也能轻松上手，预计制作时长仅需 15 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 979,
+  "requirements": [
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉片",
+      "markdown": "猪肉片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蕃茄酱",
+      "markdown": "蕃茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麻油",
+      "markdown": "麻油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 洋葱\r\n- 猪肉片\r\n- 蕃茄酱\r\n- 麻油",
+  "ingredients": [
+    {
+      "name": "洋葱 一颗 （是主角",
+      "text": "洋葱 一颗 （是主角，喜欢吃洋葱可以多半颗～一颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉 (250g)",
+      "text": "猪肉 (250g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头 （3 瓣）",
+      "text": "蒜头 （3 瓣）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油 (15ml)",
+      "text": "食用油 (15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒 (1.25g)",
+      "text": "黑胡椒 (1.25g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油 (30ml)",
+      "text": "酱油 (30ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖 (15g)",
+      "text": "糖 (15g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麻油 (5ml)",
+      "text": "麻油 (5ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱 (15ml)",
+      "text": "番茄酱 (15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒 (15ml)",
+      "text": "料酒 (15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n食材\r\n\r\n- 洋葱 一颗 （是主角，喜欢吃洋葱可以多半颗～一颗）\r\n- 猪肉 (250g)\r\n- 蒜头 （3 瓣）\r\n\r\n调味料\r\n\r\n- 食用油 (15ml)\r\n- 黑胡椒 (1.25g)\r\n- 酱油 (30ml)\r\n- 糖 (15g)\r\n- 麻油 (5ml)\r\n- 番茄酱 (15ml)\r\n- 料酒 (15ml)\r\n\r\n备注：可以考虑购买[茶匙，大匙](https://www.sohu.com/a/127293243_570657)来精准确定用料的量。",
+  "calculationNotes": [
+    "每份：",
+    "食材",
+    "调味料",
+    "备注：可以考虑购买[茶匙，大匙](https://www.sohu.com/a/127293243_570657)来精准确定用料的量。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "洋葱切片，猪肉，蒜头拍碎，以及混合上述调味料备用"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅内倒入 1 大匙食用油（等待 10 秒让油温升高），倒入猪肉"
+    },
+    {
+      "kind": "step",
+      "description": "炒至变色后下蒜头炒香盛起备用"
+    },
+    {
+      "kind": "step",
+      "description": "原锅下洋葱翻炒 3~4 分钟后加入调味料炒匀"
+    },
+    {
+      "kind": "step",
+      "description": "下刚盛起备用的猪肉翻炒至猪肉熟后"
+    },
+    {
+      "kind": "step",
+      "description": "待猪肉熟后再翻炒 1、2 分钟即可起锅"
+    }
+  ],
+  "operationMarkdown": "1. 洋葱切片，猪肉，蒜头拍碎，以及混合上述调味料备用\r\n2. 炒锅内倒入 1 大匙食用油（等待 10 秒让油温升高），倒入猪肉\r\n3. 炒至变色后下蒜头炒香盛起备用\r\n4. 原锅下洋葱翻炒 3~4 分钟后加入调味料炒匀\r\n5. 下刚盛起备用的猪肉翻炒至猪肉熟后\r\n6. 待猪肉熟后再翻炒 1、2 分钟即可起锅",
+  "tips": "- 猪肉可选猪肩肉片或是切好的肉丝看个人喜好\r\n\r\n### 参考资料\r\n\r\n- [爱料理](https://icook.tw/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 猪肉可选猪肩肉片或是切好的肉丝看个人喜好\r\n\r\n### 参考资料\r\n\r\n- [爱料理](https://icook.tw/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/洋葱炒猪肉.md"
+  },
+  "hash": "e809aa04a63a89a56c3f26c4295c191f5fe08ef6d19163f8eca65ccf203487cd"
+}

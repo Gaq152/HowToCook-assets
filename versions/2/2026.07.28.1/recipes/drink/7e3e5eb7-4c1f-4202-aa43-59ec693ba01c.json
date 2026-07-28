@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 2,
+  "id": "7e3e5eb7-4c1f-4202-aa43-59ec693ba01c",
+  "legacyIds": [
+    "drink_9270dca7"
+  ],
+  "name": "泰国手标红茶",
+  "description": "这是一道源自泰国街头的经典奶茶，茶香浓郁，口感绵密顺滑，炼乳与牛奶带来香甜奶味。茶奶结合可提供少量蛋白质和钙，但含糖量较高，适宜作为消暑解渴的饮品。制作步骤简单，但需反复过滤茶汤并等待长时间冷藏，整体耗时约 4 小时 20 分钟，对新手稍有耐心即可完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 185,
+  "requirements": [
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "茶粉",
+      "markdown": "茶粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炼乳",
+      "markdown": "炼乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "克称",
+      "markdown": "克称",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "带刻度容器",
+      "markdown": "带刻度容器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "港式奶茶过滤袋",
+      "markdown": "港式奶茶过滤袋",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 水\r\n- 茶粉\r\n- 炼乳\r\n- 白糖\r\n- 牛奶\r\n- 克称\r\n- 带刻度容器\r\n- 港式奶茶过滤袋",
+  "ingredients": [
+    {
+      "name": "水(600cc)",
+      "text": "水(600cc)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茶粉(20g)",
+      "text": "茶粉(20g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖(24g)",
+      "text": "白糖(24g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶(18ml)",
+      "text": "牛奶(18ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "炼乳(24g)",
+      "text": "炼乳(24g)",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 水(600cc)\r\n- 茶粉(20g)\r\n- 白糖(24g)\r\n- 牛奶(18ml)\r\n- 炼乳(24g)",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "600cc 水大火烧开"
+    },
+    {
+      "kind": "step",
+      "description": "在过滤袋中装入 20g 茶粉，开水倒入过滤袋中，过滤 20 遍"
+    },
+    {
+      "kind": "step",
+      "description": "使用克称量取 24g 炼乳、24g 白糖和 18ml 牛奶放入 1000ml 以上的水壶中"
+    },
+    {
+      "kind": "step",
+      "description": "将过滤好的茶水倒入水壶中搅拌，直到白糖融化"
+    },
+    {
+      "kind": "step",
+      "description": "将水壶放到冰箱 4 小时以上"
+    },
+    {
+      "kind": "step",
+      "description": "喝前可以加 6-8 颗冰块"
+    }
+  ],
+  "operationMarkdown": "1. 600cc 水大火烧开\r\n2. 在过滤袋中装入 20g 茶粉，开水倒入过滤袋中，过滤 20 遍\r\n3. 使用克称量取 24g 炼乳、24g 白糖和 18ml 牛奶放入 1000ml 以上的水壶中\r\n4. 将过滤好的茶水倒入水壶中搅拌，直到白糖融化\r\n5. 将水壶放到冰箱 4 小时以上\r\n6. 喝前可以加 6-8 颗冰块",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/7e3e5eb7-4c1f-4202-aa43-59ec693ba01c_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/泰国手标红茶/泰国手标红茶.md"
+  },
+  "hash": "f3bcab7d45d42e7deb3ce39952ac2048c6f80e38a29bb28186f16a8e16223664"
+}

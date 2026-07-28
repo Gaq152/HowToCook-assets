@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 2,
+  "id": "fe0888fe-67d4-4e30-8771-a94da2d8ba00",
+  "legacyIds": [
+    "meat_dish_636dd586"
+  ],
+  "name": "荔枝肉",
+  "description": "荔枝肉是一道酸甜酥香的福州传统闽菜，外焦里嫩的肉块裹着红亮的酱汁，搭配水果添入清爽果香。猪瘦肉富含优质蛋白质，凤梨含有膳食纤维和维生素，能帮助开胃解腻。制作过程需要切肉、挂糊和两次油炸，略有挑战但步骤明确，适合有一定下厨基础的美食爱好者尝试，大约 45 分钟就能端上餐桌。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 681,
+  "requirements": [
+    {
+      "text": "瘦肉",
+      "markdown": "瘦肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "凤梨",
+      "markdown": "凤梨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜末",
+      "markdown": "姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻",
+      "markdown": "芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 瘦肉\r\n* 凤梨\r\n* 鸡蛋\r\n* 食用油\r\n* 白砂糖\r\n* 淀粉\r\n* 生抽\r\n* 鸡精\r\n* 姜末\r\n* 芝麻\r\n* 番茄酱\r\n* 香醋",
+  "ingredients": [
+    {
+      "name": "鲜香菇",
+      "text": "鲜香菇 2 朵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蟹味菇",
+      "text": "蟹味菇 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "瘦肉",
+      "text": "瘦肉 150 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "凤梨",
+      "text": "凤梨 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 500 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻",
+      "text": "芝麻 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 2 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 鲜香菇 2 朵\r\n* 蟹味菇 30 g\r\n* 瘦肉 150 g\r\n* 凤梨 100 g\r\n* 鸡蛋 1 个\r\n* 食用油 500 ml\r\n* 白砂糖 5 g\r\n* 淀粉 100 g\r\n* 生抽 5 ml\r\n* 鸡精 5 g\r\n* 姜末 5 g\r\n* 芝麻 2 g\r\n* 番茄酱 20 g\r\n* 香醋 2 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "瘦肉切块（每块 2-3 cm ），放入大碗中，加入鸡蛋 1 个 、生粉 50 g 、生抽 3 ml 、鸡精 2 g"
+    },
+    {
+      "kind": "step",
+      "description": "充分搅拌，直至生粉包裹住瘦肉块（太稀则继续加生粉，太干则加水），然后加入 5 ml 油，在充分搅拌后备用"
+    },
+    {
+      "kind": "step",
+      "description": "在准备一个碗，加入番茄酱、鸡精 3 g 、生抽 2 ml 、姜末、白砂糖、生粉 10 g \\香醋、凉水 200 ml ,充分搅拌后备用"
+    },
+    {
+      "kind": "step",
+      "description": "切一个凤梨, 准备 6 个 （每个 1.5-2 cm）凤梨块"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入 500 ml 油，一直烧油直到听到油炸声"
+    },
+    {
+      "kind": "step",
+      "description": "将瘦肉一个一个放入锅中（切记不可以整碗倒入），保证每个肉不要粘在一起"
+    },
+    {
+      "kind": "step",
+      "description": "全部放入瘦肉后，每 30 S 用勺子来回两面翻转瘦肉块，直至瘦肉块表面金黄"
+    },
+    {
+      "kind": "step",
+      "description": "取出瘦肉，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，倒入汤汁，30 S 后倒入瘦肉块、凤梨块，充分翻炒后 出锅"
+    },
+    {
+      "kind": "step",
+      "description": "摆上芝麻"
+    }
+  ],
+  "operationMarkdown": "1. 瘦肉切块（每块 2-3 cm ），放入大碗中，加入鸡蛋 1 个 、生粉 50 g 、生抽 3 ml 、鸡精 2 g\r\n2. 充分搅拌，直至生粉包裹住瘦肉块（太稀则继续加生粉，太干则加水），然后加入 5 ml 油，在充分搅拌后备用\r\n3. 在准备一个碗，加入番茄酱、鸡精 3 g 、生抽 2 ml 、姜末、白砂糖、生粉 10 g \\香醋、凉水 200 ml ,充分搅拌后备用\r\n4. 切一个凤梨, 准备 6 个 （每个 1.5-2 cm）凤梨块\r\n5. 起锅烧油，倒入 500 ml 油，一直烧油直到听到油炸声\r\n6. 将瘦肉一个一个放入锅中（切记不可以整碗倒入），保证每个肉不要粘在一起\r\n7. 全部放入瘦肉后，每 30 S 用勺子来回两面翻转瘦肉块，直至瘦肉块表面金黄\r\n8. 取出瘦肉，一分钟后倒入油锅中继续炸，直至瘦肉块表面出现焦黄后，取出放入大碗备用\r\n9. 起锅，倒入汤汁，30 S 后倒入瘦肉块、凤梨块，充分翻炒后 出锅\r\n10. 摆上芝麻\r\n\r\n![荔枝肉-预览图-1](./1.jpeg)\r\n![荔枝肉-预览图-2](./2.jpeg)\r\n![荔枝肉-预览图-3](./3.jpeg)\r\n![荔枝肉-预览图-4](./4.jpeg)\r\n![荔枝肉-预览图-5](./5.jpeg)\r\n![荔枝肉-预览图-6](./6.jpeg)\r\n![荔枝肉-预览图-7](./7.jpeg)",
+  "tips": "* 更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨\r\n* 闽菜以甜为主，如果吃不惯的可以放弃白糖\r\n* 可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨\r\n* 闽菜以甜为主，如果吃不惯的可以放弃白糖\r\n* 可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_0.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_1.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_2.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_3.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_4.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_5.webp",
+    "images/meat_dish/fe0888fe-67d4-4e30-8771-a94da2d8ba00_6.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/荔枝肉/荔枝肉.md"
+  },
+  "hash": "8746f228bd3a6437f3d7e44964fede29be00cd03ee17183894cc5f6daf6c800d"
+}

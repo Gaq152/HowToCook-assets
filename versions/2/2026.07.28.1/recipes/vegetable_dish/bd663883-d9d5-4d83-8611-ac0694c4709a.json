@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 2,
+  "id": "bd663883-d9d5-4d83-8611-ac0694c4709a",
+  "legacyIds": [
+    "vegetable_dish_a9895d68"
+  ],
+  "name": "虎皮青椒",
+  "description": "虎皮青椒是一道家常小菜，外皮微焦起皱，口感软嫩带脆，咸鲜中透着酸甜，十分开胃下饭。青椒富含维生素 C 和膳食纤维，有助于增强免疫力、促进消化。制作过程简单明了，只需掌握按压和火候，对新手也比较友好，一般约 15 分钟就能完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 341,
+  "requirements": [
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖（灵魂）",
+      "markdown": "白糖（灵魂）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "砵或者有一定深度的碗",
+      "markdown": "砵或者有一定深度的碗",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 青椒\r\n- 大蒜\r\n- 白糖（灵魂）\r\n- 醋\r\n- 生抽\r\n- 盐\r\n- 砵或者有一定深度的碗",
+  "ingredients": [
+    {
+      "name": "青椒",
+      "text": "青椒 5 个，长度在 10-15cm 的最为合适",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 2-3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 4g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 青椒 5 个，长度在 10-15cm 的最为合适\r\n- 大蒜 2-3 瓣\r\n- 油 20ml\r\n- 白糖 15g\r\n- 生抽 15ml\r\n- 香醋 15ml\r\n- 盐 4g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "去掉青椒蒂，用自来水冲洗干净。"
+    },
+    {
+      "kind": "step",
+      "description": "青椒切长片，平均一个青椒纵向切成 3-4 片即可。"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。"
+    },
+    {
+      "kind": "step",
+      "description": "`调料 1`：拿一个小碗倒入 20ml 油，将大蒜末放入其中。"
+    },
+    {
+      "kind": "step",
+      "description": "`调料 2`：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。"
+    },
+    {
+      "kind": "step",
+      "description": "将 `调料 1` 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。"
+    },
+    {
+      "kind": "step",
+      "description": "用锅铲不停的按压青椒，合适的时候翻面。"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 `调料 2`。"
+    },
+    {
+      "kind": "step",
+      "description": "加大火候继续翻炒 30s 后即可出锅盛入盘中。"
+    }
+  ],
+  "operationMarkdown": "1. 去掉青椒蒂，用自来水冲洗干净。\r\n2. 青椒切长片，平均一个青椒纵向切成 3-4 片即可。\r\n3. 大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。\r\n4. `调料 1`：拿一个小碗倒入 20ml 油，将大蒜末放入其中。\r\n5. `调料 2`：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。\r\n6. 将 `调料 1` 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。\r\n7. 用锅铲不停的按压青椒，合适的时候翻面。\r\n8. 翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 `调料 2`。\r\n9. 加大火候继续翻炒 30s 后即可出锅盛入盘中。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n![虎皮青椒](./虎皮青椒.jpg)",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n![虎皮青椒](./虎皮青椒.jpg)",
+  "images": [
+    "images/vegetable_dish/bd663883-d9d5-4d83-8611-ac0694c4709a_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md"
+  },
+  "hash": "278596fb021bedd52e8aac252c65883512e330d4a50dd59d561cb0f4468d091f"
+}

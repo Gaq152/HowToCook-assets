@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "id": "966afb08-2e39-4540-8468-52e079f6602d",
+  "legacyIds": [
+    "drink_a8ab9cf7"
+  ],
+  "name": "杨枝甘露",
+  "description": "这是一道改良版的经典港式甜品，用奇亚籽代替西谷米，口感滑嫩又带有籽粒的细微嚼劲，芒果的香甜与葡萄柚的微酸交织，椰奶增添浓郁。富含膳食纤维、维生素 C 和优质脂肪，清爽解暑。制作非常简单，新手也能轻松完成，从备料到享用只需约 20 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 661,
+  "requirements": [
+    {
+      "text": "杯子",
+      "markdown": "杯子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水果刀",
+      "markdown": "水果刀",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "调理机/果汁机",
+      "markdown": "调理机/果汁机",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 杯子\r\n- 水果刀\r\n- 牛奶\r\n- 冰块\r\n- 调理机/果汁机",
+  "ingredients": [
+    {
+      "name": "奇亚籽",
+      "text": "奇亚籽 24g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 50ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 2 小块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芒果",
+      "text": "芒果 1 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葡萄柚",
+      "text": "葡萄柚 1/2 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "椰奶",
+      "text": "椰奶 150ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "切丝芒果干",
+      "text": "切丝芒果干 （可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "切丝柳橙干",
+      "text": "切丝柳橙干 （可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 奇亚籽 24g\r\n- 牛奶 50ml\r\n- 冰块 2 小块\r\n- 芒果 1 粒\r\n- 葡萄柚 1/2 粒\r\n- 椰奶 150ml\r\n\r\n点缀:\r\n\r\n- 切丝芒果干 （可选）\r\n- 切丝柳橙干 （可选）",
+  "calculationNotes": [
+    "每份：",
+    "点缀:"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "奇亚籽泡牛奶 10 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "泡籽之时，把半粒芒果、葡萄柚去皮切丁，放入杯中。"
+    },
+    {
+      "kind": "step",
+      "description": "半粒芒果切小块放入调理机加冰块、椰奶打成泥。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入杯中，放上点缀材料（如有）。"
+    },
+    {
+      "kind": "step",
+      "description": "一边享用一边写代码！！"
+    }
+  ],
+  "operationMarkdown": "1. 奇亚籽泡牛奶 10 分钟。\r\n2. 泡籽之时，把半粒芒果、葡萄柚去皮切丁，放入杯中。\r\n3. 半粒芒果切小块放入调理机加冰块、椰奶打成泥。\r\n4. 倒入杯中，放上点缀材料（如有）。\r\n5. 一边享用一边写代码！！",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/杨枝甘露.md"
+  },
+  "hash": "9574733af149b46a021e90dfc25b9790de28789b1409ef8773ba28c813b367d9"
+}

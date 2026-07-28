@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "id": "38237b4c-952b-4771-9b65-d4bf4e58a551",
+  "legacyIds": [
+    "vegetable_dish_7c982b8e"
+  ],
+  "name": "上汤娃娃菜",
+  "description": "这道上汤娃娃菜清甜鲜美，口感软嫩，属于家常素菜，尤其适合减肥期间食用。娃娃菜富含维生素和膳食纤维，低脂低热量，搭配皮蛋和午餐肉增添风味又不会过多增加负担。制作难度适中，新手也能尝试，从备菜到出锅大约只需 20 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 158,
+  "requirements": [
+    {
+      "text": "娃娃菜",
+      "markdown": "娃娃菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "皮蛋",
+      "markdown": "皮蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "午餐肉（火腿肠）",
+      "markdown": "午餐肉（火腿肠）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 娃娃菜\r\n- 皮蛋\r\n- 午餐肉（火腿肠）\r\n- 葱\r\n- 姜\r\n- 蒜\r\n- 盐\r\n- 糖\r\n- 淀粉",
+  "ingredients": [
+    {
+      "name": "娃娃菜",
+      "text": "娃娃菜 700g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "金针菇",
+      "text": "金针菇 10g（看个人喜好, 不喜欢 see you tomorrow 的就不放 😂）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "皮蛋 一个（没有也可以不放）",
+      "text": "皮蛋 一个（没有也可以不放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "午餐肉（火腿肠都可以替代）",
+      "text": "午餐肉（火腿肠都可以替代）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，这道菜仅有足够 2-4 人食用的版本。\r\n\r\n- 娃娃菜 700g\r\n- 金针菇 10g（看个人喜好, 不喜欢 see you tomorrow 的就不放 😂）\r\n- 皮蛋 一个（没有也可以不放）\r\n- 午餐肉（火腿肠都可以替代）",
+  "calculationNotes": [
+    "注意，这道菜仅有足够 2-4 人食用的版本。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "娃娃菜洗净, 竖着切开切成段。"
+    },
+    {
+      "kind": "step",
+      "description": "葱 3g 切 小段。蒜 10g 切片。姜 10g 切小片。"
+    },
+    {
+      "kind": "step",
+      "description": "皮蛋切成丁, 火腿肠或者午餐肉切成丁（1cm 大小的丁）"
+    },
+    {
+      "kind": "step",
+      "description": "金针菇洗净撕开"
+    },
+    {
+      "kind": "step",
+      "description": "烧热水娃娃菜放进去十秒钟出一下水捞出。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅凉油, 加热锅倒入油过一遍就倒出来, 重新倒入一点油。"
+    },
+    {
+      "kind": "step",
+      "description": "调至小火加入葱姜蒜，煎炒出香味即可。"
+    },
+    {
+      "kind": "step",
+      "description": "加入适 300g 清水（水量没过娃娃菜即可）, 放入娃娃菜, 金针菇, 午餐肉"
+    },
+    {
+      "kind": "step",
+      "description": "加入调味料蚝油、糖、盐、味精烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "煮 3 分钟, 煮开后开始装盘, 盛出娃娃菜后皮蛋放在上面把汤汁浇上去就可以了"
+    },
+    {
+      "kind": "step",
+      "description": "![上汤娃娃菜](./上汤娃娃菜.png)\n\n  拍照技术有限, 味道还是很不错的"
+    }
+  ],
+  "operationMarkdown": "1. 娃娃菜洗净, 竖着切开切成段。\r\n2. 葱 3g 切 小段。蒜 10g 切片。姜 10g 切小片。\r\n3. 皮蛋切成丁, 火腿肠或者午餐肉切成丁（1cm 大小的丁）\r\n4. 金针菇洗净撕开\r\n5. 烧热水娃娃菜放进去十秒钟出一下水捞出。\r\n6. 热锅凉油, 加热锅倒入油过一遍就倒出来, 重新倒入一点油。\r\n7. 调至小火加入葱姜蒜，煎炒出香味即可。\r\n8. 加入适 300g 清水（水量没过娃娃菜即可）, 放入娃娃菜, 金针菇, 午餐肉\r\n9. 加入调味料蚝油、糖、盐、味精烧开。\r\n10. 煮 3 分钟, 煮开后开始装盘, 盛出娃娃菜后皮蛋放在上面把汤汁浇上去就可以了\r\n11. ![上汤娃娃菜](./上汤娃娃菜.png)\r\n\r\n    拍照技术有限, 味道还是很不错的",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/38237b4c-952b-4771-9b65-d4bf4e58a551_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md"
+  },
+  "hash": "3946637eeeb44d4ccdda5d689e0576acdfe7460df25d662da39941a4fdc78bb7"
+}

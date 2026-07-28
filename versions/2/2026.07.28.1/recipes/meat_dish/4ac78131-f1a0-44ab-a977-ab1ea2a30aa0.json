@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "id": "4ac78131-f1a0-44ab-a977-ab1ea2a30aa0",
+  "legacyIds": [
+    "meat_dish_7ad1b139"
+  ],
+  "name": "血浆鸭",
+  "description": "血浆鸭是一道湖南武冈传统名菜，鸭肉香酥脆嫩，浸透醋血后连姜和辣椒都变得甜净不辣。鸭肉与鸭血提供优质蛋白和铁质，适合补血养身。制作步骤较多，需要留意火候和翻炒，但跟着步骤操作，初学者也能在 大约 2 小时完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 2482,
+  "requirements": [
+    {
+      "text": "鲜仔鸭肉",
+      "markdown": "鲜仔鸭肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鲜鸭血（宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固）",
+      "markdown": "鲜鸭血（宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜仔",
+      "markdown": "蒜仔",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒",
+      "markdown": "辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酒（或者白酒、啤酒、米酒皆可）",
+      "markdown": "酒（或者白酒、啤酒、米酒皆可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鲜仔鸭肉\r\n- 鲜鸭血（宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固）\r\n- 姜\r\n- 蒜仔\r\n- 葱\r\n- 辣椒\r\n- 酒（或者白酒、啤酒、米酒皆可）\r\n- 生抽\r\n- 料酒\r\n- 盐\r\n- 鸡精",
+  "ingredients": [
+    {
+      "name": "鲜仔鸭肉",
+      "text": "鲜仔鸭肉 2000g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鲜鸭血",
+      "text": "鲜鸭血 250ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 6 片 （根据个人吃辣喜好程度可多放 1-3 片姜）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜仔",
+      "text": "蒜仔 6 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱",
+      "text": "香葱 2 根，切好备用",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒",
+      "text": "辣椒 1000g（根据个人吃辣喜好程度可选青椒，线椒，美人椒等，喜欢吃辣可增加 5-8 个小米辣或朝天椒，切好备用）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酒（任选其一）",
+      "text": "酒（任选其一）：高度白酒 50ml + 水 150ml啤酒 200ml米酒 200ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 8g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份（建议 2-4 人份）：\r\n\r\n- 鲜仔鸭肉 2000g\r\n- 鲜鸭血 250ml\r\n- 姜 6 片 （根据个人吃辣喜好程度可多放 1-3 片姜）\r\n- 蒜仔 6 瓣\r\n- 香葱 2 根，切好备用\r\n- 辣椒 1000g（根据个人吃辣喜好程度可选青椒，线椒，美人椒等，喜欢吃辣可增加 5-8 个小米辣或朝天椒，切好备用）\r\n- 酒（任选其一）：\r\n  - 高度白酒 50ml + 水 150ml\r\n  - 啤酒 200ml\r\n  - 米酒 200ml\r\n- 生抽 10ml\r\n- 料酒 30ml\r\n- 盐 8g\r\n- 鸡精 5g",
+  "calculationNotes": [
+    "每份（建议 2-4 人份）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鲜仔鸭肉切成约 3cm 小块，加料酒、姜片，去除血水。"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅烧热，放入约 100ml 食用油，大火待油烧开，放入腌制好的鲜鸭肉，不断翻炒。"
+    },
+    {
+      "kind": "step",
+      "description": "待鸭肉完全变色（肉眼可见泛白），放入酒，再加入 200ml 开水，刚好淹没鸭肉即可，盖上锅盖中火煮 15 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "水开之后，打开锅盖放入姜蒜，翻炒一遍，盖上锅盖持续加热 10 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖放入辣椒，不断翻炒，待至肉眼可见辣椒炒软，放入鲜鸭血，此时需要不断翻炒，确保每块鸭肉和每片辣椒都有鸭血的浸润（此乃血浆鸭的精髓）。"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒至肉眼可见鸭血均为黑色，加入盐，鸡精，香葱，（喜欢食用山胡椒油的朋友也可以在此时放入 3-6 滴山胡椒油）再次翻炒一到二次即可。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅盛盘，上桌食用。"
+    }
+  ],
+  "operationMarkdown": "1. 鲜仔鸭肉切成约 3cm 小块，加料酒、姜片，去除血水。\r\n2. 炒锅烧热，放入约 100ml 食用油，大火待油烧开，放入腌制好的鲜鸭肉，不断翻炒。\r\n3. 待鸭肉完全变色（肉眼可见泛白），放入酒，再加入 200ml 开水，刚好淹没鸭肉即可，盖上锅盖中火煮 15 分钟。\r\n4. 水开之后，打开锅盖放入姜蒜，翻炒一遍，盖上锅盖持续加热 10 分钟。\r\n5. 打开锅盖放入辣椒，不断翻炒，待至肉眼可见辣椒炒软，放入鲜鸭血，此时需要不断翻炒，确保每块鸭肉和每片辣椒都有鸭血的浸润（此乃血浆鸭的精髓）。\r\n6. 翻炒至肉眼可见鸭血均为黑色，加入盐，鸡精，香葱，（喜欢食用山胡椒油的朋友也可以在此时放入 3-6 滴山胡椒油）再次翻炒一到二次即可。\r\n7. 出锅盛盘，上桌食用。",
+  "tips": "- 操作时，需要注意观察水位线，调整炉火大小，以防水烧干粘锅。\r\n- 放入鲜鸭血时，需要不断翻炒搅拌，防止鸭血抱团凝固成块。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意观察水位线，调整炉火大小，以防水烧干粘锅。\r\n- 放入鲜鸭血时，需要不断翻炒搅拌，防止鸭血抱团凝固成块。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/4ac78131-f1a0-44ab-a977-ab1ea2a30aa0_0.webp",
+    "images/meat_dish/4ac78131-f1a0-44ab-a977-ab1ea2a30aa0_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/血浆鸭/血浆鸭.md"
+  },
+  "hash": "474fed2f8b3bcfbc1097a0ae928dc29f661c36b258aa61047df15c2cee591bef"
+}

@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 2,
+  "id": "86437d6b-c2ec-404d-8ecc-ffcfb745280f",
+  "legacyIds": [
+    "staple_3f5fd253"
+  ],
+  "name": "中式馅饼",
+  "description": "这道饼外皮微脆内里松软，馅料咸香，属于家常面食。富含碳水化合物和蛋白质，搭配胡萝卜和鸡蛋更添营养。制作难度中等，新手需掌握火候，但步骤明确易上手。从备料到完成大约需要 1 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1265,
+  "requirements": [
+    {
+      "text": "面粉（非自发粉）",
+      "markdown": "面粉（非自发粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉沫",
+      "markdown": "肉沫",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "风味调料（如鸡粉、孜然、椒盐，可选）",
+      "markdown": "风味调料（如鸡粉、孜然、椒盐，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋（可选）",
+      "markdown": "鸡蛋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜（可选）",
+      "markdown": "胡萝卜（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底锅",
+      "markdown": "平底锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炒锅（可以使用同一个平底锅替代）",
+      "markdown": "炒锅（可以使用同一个平底锅替代）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 面粉（非自发粉）\r\n* 肉沫\r\n* 油\r\n* 盐\r\n* 糖\r\n* 生粉\r\n* 酱油\r\n* 风味调料（如鸡粉、孜然、椒盐，可选）\r\n* 蒜头\r\n* 大葱\r\n* 鸡蛋（可选）\r\n* 胡萝卜（可选）\r\n* 平底锅\r\n* 炒锅（可以使用同一个平底锅替代）",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "text": "面粉 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉沫",
+      "text": "肉沫 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "风味调料",
+      "text": "风味调料 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 1/4 根（靠叶部分）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋 （可选",
+      "text": "鸡蛋 （可选，1 个）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每一份含：\r\n\r\n* 面粉 200g\r\n* 肉沫 50g\r\n* 油 30ml\r\n* 盐 3g\r\n* 糖 5g\r\n* 生粉 10g\r\n* 酱油 5g\r\n* 风味调料 3g\r\n* 蒜头 2 瓣\r\n* 大葱 1/4 根（靠叶部分）\r\n* 鸡蛋 （可选，1 个）\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每一份含：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备原料",
+      "description": "### 准备原料"
+    },
+    {
+      "kind": "step",
+      "description": "取肉沫（解冻），加入 1/2 所有上述调料（油、盐、糖、酱油、风味调料）和全部的生粉，搅拌均匀，腌制 30 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将面粉加入碗中，加入鸡蛋，加入剩下 1/2 所有上述调料，加入相当于面粉 1/2 的水（使得面粉相对粘稠但可以流动），搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "蒜头切为蒜末。"
+    },
+    {
+      "kind": "step",
+      "description": "大葱切段。"
+    },
+    {
+      "kind": "step",
+      "description": "胡萝卜切末（作为馅料用，所以要求尽量细碎，可用乱刀）"
+    },
+    {
+      "kind": "section",
+      "title": "烹饪",
+      "description": "### 烹饪"
+    },
+    {
+      "kind": "step",
+      "description": "热锅冷油，宽油起锅。"
+    },
+    {
+      "kind": "step",
+      "description": "待油烧热后，放入蒜末爆香。"
+    },
+    {
+      "kind": "step",
+      "description": "加入腌制的肉沫，翻炒，直至断生。"
+    },
+    {
+      "kind": "step",
+      "description": "将胡萝卜末加入肉沫中一同翻炒，直至油被染为金黄色（这是为了萃取胡萝卜的风味）。"
+    },
+    {
+      "kind": "step",
+      "description": "关火。冷却 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将炒好的肉沫倒入生面糊中，搅匀。"
+    },
+    {
+      "kind": "step",
+      "description": "重新开火，平底锅铺底油。"
+    },
+    {
+      "kind": "step",
+      "description": "调至小火，将面糊倒入锅中均匀铺满。保证厚度不要过高。可以端起锅，让面糊流过锅底来完成这一操作。"
+    },
+    {
+      "kind": "step",
+      "description": "在饼的表面尚为液态时，撒上大葱段。"
+    },
+    {
+      "kind": "step",
+      "description": "保持小火，直到底面凝固。"
+    },
+    {
+      "kind": "step",
+      "description": "将饼翻面，继续小火煎烤，直至另一侧凝固。"
+    },
+    {
+      "kind": "step",
+      "description": "之后，每一面再额外煎 20 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "关火出锅。"
+    }
+  ],
+  "operationMarkdown": "### 准备原料\r\n\r\n1. 取肉沫（解冻），加入 1/2 所有上述调料（油、盐、糖、酱油、风味调料）和全部的生粉，搅拌均匀，腌制 30 分钟。\r\n2. 将面粉加入碗中，加入鸡蛋，加入剩下 1/2 所有上述调料，加入相当于面粉 1/2 的水（使得面粉相对粘稠但可以流动），搅拌均匀。\r\n3. 蒜头切为蒜末。\r\n4. 大葱切段。\r\n5. 胡萝卜切末（作为馅料用，所以要求尽量细碎，可用乱刀）\r\n\r\n### 烹饪\r\n\r\n1. 热锅冷油，宽油起锅。\r\n2. 待油烧热后，放入蒜末爆香。\r\n3. 加入腌制的肉沫，翻炒，直至断生。\r\n4. 将胡萝卜末加入肉沫中一同翻炒，直至油被染为金黄色（这是为了萃取胡萝卜的风味）。\r\n5. 关火。冷却 2 分钟。\r\n6. 将炒好的肉沫倒入生面糊中，搅匀。\r\n7. 重新开火，平底锅铺底油。\r\n8. 调至小火，将面糊倒入锅中均匀铺满。保证厚度不要过高。可以端起锅，让面糊流过锅底来完成这一操作。\r\n9. 在饼的表面尚为液态时，撒上大葱段。\r\n10. 保持小火，直到底面凝固。\r\n11. 将饼翻面，继续小火煎烤，直至另一侧凝固。\r\n12. 之后，每一面再额外煎 20 秒。\r\n13. 关火出锅。",
+  "tips": "- 将肉沫和胡萝卜末加入面糊后，应该尽量搅匀，保证味道扩散到饼内各处。\r\n- 肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 将肉沫和胡萝卜末加入面糊后，应该尽量搅匀，保证味道扩散到饼内各处。\r\n- 肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/中式馅饼/中式馅饼.md"
+  },
+  "hash": "22e431fba2313f67c99c58e4c92b3c98e86d8cb311599ab693400f2b4903cacc"
+}

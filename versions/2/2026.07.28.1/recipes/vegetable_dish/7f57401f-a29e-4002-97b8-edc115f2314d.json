@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "id": "7f57401f-a29e-4002-97b8-edc115f2314d",
+  "legacyIds": [
+    "vegetable_dish_ddf35bd4"
+  ],
+  "name": "干锅花菜",
+  "description": "干锅花菜是一道湘味家常菜，口感脆嫩干香，五花肉焦香四溢，带着微微辣意。花菜富含维生素 C 和膳食纤维，搭配五花肉补充蛋白质与能量。制作难度适中，只需注意焯水后充分沥干并把五花肉煸出油脂，适合有一定基础的烹饪新手。从准备到出锅大约需要 40 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 759,
+  "requirements": [
+    {
+      "text": "花菜",
+      "markdown": "花菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒",
+      "markdown": "辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 花菜\r\n- 五花肉\r\n- 辣椒\r\n- 生抽\r\n- 白糖\r\n- 蒜\r\n- 盐\r\n- 油",
+  "ingredients": [
+    {
+      "name": "花菜",
+      "text": "花菜 400 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒",
+      "text": "辣椒 1-2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 3-4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 花菜 400 g\r\n- 五花肉 100 g\r\n- 辣椒 1-2 根\r\n- 生抽 10 ml\r\n- 白糖 5g\r\n- 蒜瓣 3-4 个\r\n- 盐 2 g\r\n- 油 10 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "花菜朵朝下，没入淡盐水中浸泡 20 分钟。然后洗净用小刀拆成小朵"
+    },
+    {
+      "kind": "step",
+      "description": "入开水锅中焯水 1 分钟，捞出立即用冷水冲淋至完全凉透，沥水备用"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切成薄片，大蒜白色切下用刀背拍扁，小红辣椒切成段"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热放油，油热下大葱白爆香"
+    },
+    {
+      "kind": "step",
+      "description": "下五花肉片入锅，用中火煸炒至表面全部变色，继续煸炒一会儿，把肥肉部分的油份逼出一部分"
+    },
+    {
+      "kind": "step",
+      "description": "倒入红辣椒段和花菜，翻炒几下"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10 ml 生抽"
+    },
+    {
+      "kind": "step",
+      "description": "再加入 5 g 白糖，转大火不断翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "把大蒜叶部分切成段，放入锅中，翻炒几下后，关火盖上盖子焖 1 分钟即可"
+    }
+  ],
+  "operationMarkdown": "1. 花菜朵朝下，没入淡盐水中浸泡 20 分钟。然后洗净用小刀拆成小朵\r\n2. 入开水锅中焯水 1 分钟，捞出立即用冷水冲淋至完全凉透，沥水备用\r\n3. 五花肉切成薄片，大蒜白色切下用刀背拍扁，小红辣椒切成段\r\n4. 锅烧热放油，油热下大葱白爆香\r\n5. 下五花肉片入锅，用中火煸炒至表面全部变色，继续煸炒一会儿，把肥肉部分的油份逼出一部分\r\n6. 倒入红辣椒段和花菜，翻炒几下\r\n7. 加入 10 ml 生抽\r\n8. 再加入 5 g 白糖，转大火不断翻炒 1 分钟\r\n9. 把大蒜叶部分切成段，放入锅中，翻炒几下后，关火盖上盖子焖 1 分钟即可",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/7f57401f-a29e-4002-97b8-edc115f2314d_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md"
+  },
+  "hash": "43ff9294bc9915c28184e16b8db4f379f7497cdcb77eeaa9fadd585880f84521"
+}

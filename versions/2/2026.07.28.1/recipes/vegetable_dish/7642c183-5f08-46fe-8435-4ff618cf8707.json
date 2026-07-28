@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "id": "7642c183-5f08-46fe-8435-4ff618cf8707",
+  "legacyIds": [
+    "vegetable_dish_275fbd17"
+  ],
+  "name": "烤茄子",
+  "description": "烤茄子香气浓郁、外焦里嫩，孜然和蒜蓉的辛香完美融入软糯的茄肉，是街头烧烤风味在家轻松复刻的菜品。茄子富含维生素 P 和花青素，有助于保护心血管、抗氧化。做法需要用到烤箱，但步骤清晰，新手也能在大约半 小时完成，很适合作为家庭聚餐的快手下饭菜。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 145,
+  "requirements": [
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油（生抽）",
+      "markdown": "酱油（生抽）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜蓉",
+      "markdown": "蒜蓉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒",
+      "markdown": "辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然",
+      "markdown": "孜然",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 茄子\r\n- 食用油\r\n- 酱油（生抽）\r\n- 蒜蓉\r\n- 辣椒\r\n- 孜然\r\n- 食用盐",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "text": "茄子 1 个 （大约 200g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 20-30 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 4-6 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 1 个 （大约 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜蓉",
+      "text": "蒜蓉 3-4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然",
+      "text": "孜然 1-3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 0.5-2 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照两个人的份量：\r\n\r\n- 茄子 1 个 （大约 200g）\r\n- 食用油 20-30 毫升\r\n- 酱油 4-6 克\r\n- 小米椒 1 个 （大约 20g）\r\n- 蒜蓉 3-4 瓣\r\n- 孜然 1-3 克\r\n- 食用盐 0.5-2 克",
+  "calculationNotes": [
+    "按照两个人的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用"
+    },
+    {
+      "kind": "step",
+      "description": "茄子洗净，用纸巾擦干表面的水分"
+    },
+    {
+      "kind": "step",
+      "description": "用叉子在茄子的一侧扎 4-8 下"
+    },
+    {
+      "kind": "step",
+      "description": "使用 15-25ml 的食用油涂满茄子表面"
+    },
+    {
+      "kind": "step",
+      "description": "将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）"
+    },
+    {
+      "kind": "step",
+      "description": "取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm"
+    },
+    {
+      "kind": "step",
+      "description": "用小刀或者叉子伸入口子，竖着切割茄子内部"
+    },
+    {
+      "kind": "step",
+      "description": "将口子微微掰开，倒入第一步准备的酱料"
+    },
+    {
+      "kind": "step",
+      "description": "再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出，关闭烤箱电源"
+    }
+  ],
+  "operationMarkdown": "1. 将酱油、孜然、食用盐、蒜蓉和切碎的小米椒置于碗中，均匀搅拌备用\r\n2. 茄子洗净，用纸巾擦干表面的水分\r\n3. 用叉子在茄子的一侧扎 4-8 下\r\n4. 使用 15-25ml 的食用油涂满茄子表面\r\n5. 将烤箱温度设置为 200℃ （打开烤箱风扇 大火），预热 2 分钟\r\n6. 将茄子放入烤箱中层或者上层，烤制 12-15 分钟 （茄子表面有褶皱，且能按压 0.3-0.5cm 的深度即可）\r\n7. 取出茄子，用刀茄子上竖着划一个口子。口子居中，上下距 1-1.5cm\r\n8. 用小刀或者叉子伸入口子，竖着切割茄子内部\r\n9. 将口子微微掰开，倒入第一步准备的酱料\r\n10. 再次将茄子放入烤箱，将烤箱温度设置为 200℃ ，烤制 4-7 分钟\r\n11. 取出，关闭烤箱电源",
+  "tips": "最终成品和楼下烧烤摊的烤茄子差不多，太香了！\r\n\r\n**注意事项：**\r\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致**茄子在烤制的过程中爆裂**\r\n\r\n**可以改进的环节：**\r\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料\r\n\r\n![烤茄子-预览图-1](./烤茄子.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "最终成品和楼下烧烤摊的烤茄子差不多，太香了！\r\n\r\n**注意事项：**\r\n茄子表面有水分、未涂满食用油或未使用叉子扎孔可能导致**茄子在烤制的过程中爆裂**\r\n\r\n**可以改进的环节：**\r\n第一次用刀划口子的时候，可以直接将茄子竖直切成两半，然后切割出纹路后涂抹上酱料\r\n\r\n![烤茄子-预览图-1](./烤茄子.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/7642c183-5f08-46fe-8435-4ff618cf8707_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/烤茄子/烤茄子.md"
+  },
+  "hash": "6e0380c525cb07fb89e0fefc985759a73eaf00a0ef027efbf0a080b204bf8260"
+}

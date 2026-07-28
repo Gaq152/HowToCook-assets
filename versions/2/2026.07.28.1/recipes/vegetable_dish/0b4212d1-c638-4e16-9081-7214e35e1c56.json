@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "id": "0b4212d1-c638-4e16-9081-7214e35e1c56",
+  "legacyIds": [
+    "vegetable_dish_9be9b313"
+  ],
+  "name": "西红柿豆腐汤羹",
+  "description": "一道清淡鲜美的家常汤羹，酸甜开胃，口感嫩滑。西红柿富含维生素 C 和番茄红素，搭配鸡蛋与豆腐，能补充优质蛋白，营养均衡易吸收。做法简单，只需切配翻炒和煮制，新手也能轻松掌握，从准备到出锅大约 15 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 242,
+  "requirements": [
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆腐",
+      "markdown": "豆腐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开水",
+      "markdown": "开水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 西红柿\r\n* 鸡蛋\r\n* 豆腐\r\n* 食用油\r\n* 盐\r\n* 淀粉\r\n* 鸡精\r\n* 香葱\r\n* 姜\r\n* 开水",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "text": "西红柿 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆腐",
+      "text": "豆腐 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱",
+      "text": "香葱 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水 350 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 西红柿 1 个\r\n* 鸡蛋 1 个\r\n* 豆腐 100 g\r\n* 食用油 5 ml\r\n* 盐 2 g\r\n* 淀粉 5 g\r\n* 鸡精 2 g\r\n* 香葱 0.5 根\r\n* 姜 1 片\r\n* 开水 350 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，放入姜片 5 S 后倒入入西红柿翻炒 30 S"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入开水，汤水烧开，60 S 后到入鸡蛋液、豆腐块"
+    },
+    {
+      "kind": "step",
+      "description": "汤水重新烧开后，加入水淀粉，沿一个方向搅拌 2 圈"
+    },
+    {
+      "kind": "step",
+      "description": "加入鸡精、盐、香葱，30 S 后起锅"
+    }
+  ],
+  "operationMarkdown": "1. 西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用\r\n2. 起锅烧油，放入姜片 5 S 后倒入入西红柿翻炒 30 S\r\n3. 锅中加入开水，汤水烧开，60 S 后到入鸡蛋液、豆腐块\r\n4. 汤水重新烧开后，加入水淀粉，沿一个方向搅拌 2 圈\r\n5. 加入鸡精、盐、香葱，30 S 后起锅\r\n\r\n![西红柿豆腐汤羹-预览图-1](./1.jpeg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/0b4212d1-c638-4e16-9081-7214e35e1c56_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md"
+  },
+  "hash": "d3cf2528ad2a47e1568dcbf0707eff895b95bc881a4182ba1a3187ffd8a55fcd"
+}

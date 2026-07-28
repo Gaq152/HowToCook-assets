@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "id": "5ef724ba-9234-4350-ae4a-256a03e28dbd",
+  "legacyIds": [
+    "dessert_a784e7c5"
+  ],
+  "name": "烤蛋挞",
+  "description": "烤蛋挞是一款经典的中式甜品，外皮酥脆、内馅嫩滑，奶香浓郁。富含蛋白质、钙质和多种维生素，能提供丰富能量。制作过程十分简单，新手也能轻松上手，而且半成品可冷冻保存，随吃随取。从准备到出炉，大约需要 1 小时。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 169,
+  "requirements": [
+    {
+      "text": "蛋挞皮 品牌不限",
+      "markdown": "蛋挞皮 品牌不限",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淡奶油",
+      "markdown": "淡奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤箱 大小不限",
+      "markdown": "烤箱 大小不限",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "克数称",
+      "markdown": "克数称",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌器 包含且不限于筷子 打蛋器等工具",
+      "markdown": "搅拌器 包含且不限于筷子 打蛋器等工具",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "筛网 网孔约为 1 毫米",
+      "markdown": "筛网 网孔约为 1 毫米",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "该配方为整包蛋挞皮所需量 填充后可直接冷冻保存\r\n\r\n- 蛋挞皮 品牌不限\r\n- 鸡蛋\r\n- 牛奶\r\n- 淡奶油\r\n- 白砂糖\r\n- 烤箱 大小不限\r\n- 克数称\r\n- 搅拌器 包含且不限于筷子 打蛋器等工具\r\n- 筛网 网孔约为 1 毫米",
+  "ingredients": [
+    {
+      "name": "蛋挞皮 品牌不限 整包蛋挞皮约为",
+      "text": "蛋挞皮 品牌不限 整包蛋挞皮约为 30 只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 8 个 普通鸡蛋即可",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 200 毫升 普通袋装牛奶即可",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淡奶油",
+      "text": "淡奶油 450 毫升 烘焙店或超市即有售",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 80 克 普通砂糖即可 细砂糖更优 易于融化",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n该配方为整包蛋挞皮所需量 填充后可直接冷冻保存\r\n\r\n- 蛋挞皮 品牌不限 整包蛋挞皮约为 30 只\r\n- 鸡蛋 8 个 普通鸡蛋即可\r\n- 牛奶 200 毫升 普通袋装牛奶即可\r\n- 淡奶油 450 毫升 烘焙店或超市即有售\r\n- 白砂糖 80 克 普通砂糖即可 细砂糖更优 易于融化",
+  "calculationNotes": [
+    "每份：",
+    "该配方为整包蛋挞皮所需量 填充后可直接冷冻保存"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将碗置于克数称上 称量 450 克 淡奶油（淡奶油密度在此处记为 1 ）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 80 克白砂糖 （甜度中等 可按个人口味增减 建议范围 60-100 克）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 200 克牛奶 （牛奶密度在此处记为 1 ）"
+    },
+    {
+      "kind": "step",
+      "description": "取 8 个蛋黄加入 蛋清可留作他用"
+    },
+    {
+      "kind": "step",
+      "description": "均匀搅拌所有材料直至白砂糖全部融化"
+    },
+    {
+      "kind": "step",
+      "description": "使用网筛对搅拌完成的食材进行过滤 滤除鸡蛋黏膜 鸡蛋壳 未融化的白砂糖 结块的淡奶油"
+    },
+    {
+      "kind": "step",
+      "description": "此时请将烤箱设置 220 摄氏度开始预热（约 10 分钟） 记得拿出烤盘"
+    },
+    {
+      "kind": "step",
+      "description": "将蛋挞皮以 0.5 厘米的间隔均匀放置于烤盘中"
+    },
+    {
+      "kind": "step",
+      "description": "将过滤完成的食材倒入蛋挞皮中 液面距离蛋挞皮上沿 0.5 厘米即可不宜过多"
+    },
+    {
+      "kind": "step",
+      "description": "截止此步骤 半成品蛋挞的制作已经完成 可直接放入冰箱速冻 12 小时以上保存"
+    },
+    {
+      "kind": "step",
+      "description": "将半成品蛋挞放入烤箱中进行烤制 温度为 200 摄氏度 时间为 25 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "烤制结束后即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 将碗置于克数称上 称量 450 克 淡奶油（淡奶油密度在此处记为 1 ）\r\n2. 加入 80 克白砂糖 （甜度中等 可按个人口味增减 建议范围 60-100 克）\r\n3. 加入 200 克牛奶 （牛奶密度在此处记为 1 ）\r\n4. 取 8 个蛋黄加入 蛋清可留作他用\r\n5. 均匀搅拌所有材料直至白砂糖全部融化\r\n6. 使用网筛对搅拌完成的食材进行过滤 滤除鸡蛋黏膜 鸡蛋壳 未融化的白砂糖 结块的淡奶油\r\n7. 此时请将烤箱设置 220 摄氏度开始预热（约 10 分钟） 记得拿出烤盘\r\n8. 将蛋挞皮以 0.5 厘米的间隔均匀放置于烤盘中\r\n9. 将过滤完成的食材倒入蛋挞皮中 液面距离蛋挞皮上沿 0.5 厘米即可不宜过多\r\n10. 截止此步骤 半成品蛋挞的制作已经完成 可直接放入冰箱速冻 12 小时以上保存\r\n11. 将半成品蛋挞放入烤箱中进行烤制 温度为 200 摄氏度 时间为 25 分钟\r\n12. 烤制结束后即可食用",
+  "tips": "操作时 请务必小心烤箱高温 防止烫伤\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "操作时 请务必小心烤箱高温 防止烫伤\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/5ef724ba-9234-4350-ae4a-256a03e28dbd_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/烤蛋挞/烤蛋挞.md"
+  },
+  "hash": "2c915c5a1285ade4f286a4a4e3058d9d683e4193df1e0ebad65d4f41512cbabd"
+}

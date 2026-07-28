@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "id": "47d62a85-f258-4a58-8fcd-254e306dc05f",
+  "legacyIds": [
+    "drink_c06cf165"
+  ],
+  "name": "柠檬水",
+  "description": "这道饮品以新鲜柠檬为主角，搭配果蜜调和，酸甜平衡，冰镇后更感清凉解暑。柠檬富含维生素 C，经常饮用有助于补充营养、提神美白。制作步骤极简，只需捶打、加料、摇晃，新手也能在三五分钟内完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 141,
+  "requirements": [
+    {
+      "text": "原料柠檬果蜜冰（可选）",
+      "markdown": "原料\n- 柠檬\n- 果蜜\n- 冰（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "工具雪克杯",
+      "markdown": "工具\n- 雪克杯",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 原料\r\n  - 柠檬\r\n  - 果蜜\r\n  - 冰（可选）\r\n- 工具\r\n  - 雪克杯",
+  "ingredients": [
+    {
+      "name": "柠檬",
+      "text": "柠檬 40~45 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "果蜜",
+      "text": "果蜜 40~45 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰几块",
+      "text": "冰几块（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 500 毫升\r\n\r\n- 柠檬 40~45 克\r\n- 果蜜 40~45 克\r\n- 冰几块（可选）",
+  "calculationNotes": [
+    "一杯分量，约 500 毫升"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "称 40~45 克柠檬，放入雪克杯中"
+    },
+    {
+      "kind": "step",
+      "description": "雪克杯盖盖子锤大约 10 次"
+    },
+    {
+      "kind": "step",
+      "description": "加入果蜜 40~45 克"
+    },
+    {
+      "kind": "step",
+      "description": "补水"
+    },
+    {
+      "kind": "step",
+      "description": "摇晃均匀"
+    },
+    {
+      "kind": "step",
+      "description": "最后根据喜好加冰"
+    }
+  ],
+  "operationMarkdown": "1. 称 40~45 克柠檬，放入雪克杯中\r\n2. 雪克杯盖盖子锤大约 10 次\r\n3. 加入果蜜 40~45 克\r\n4. 补水\r\n5. 摇晃均匀\r\n6. 最后根据喜好加冰",
+  "tips": "- 参考资料：[柠檬水教程](https://v.douyin.com/TVNTcXDi46I)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 参考资料：[柠檬水教程](https://v.douyin.com/TVNTcXDi46I)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/47d62a85-f258-4a58-8fcd-254e306dc05f_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/柠檬水/柠檬水.md"
+  },
+  "hash": "eb4dc91b92932a70d1e8220a32414e1b98a027efd2e2f35dee62d529691a82ff"
+}

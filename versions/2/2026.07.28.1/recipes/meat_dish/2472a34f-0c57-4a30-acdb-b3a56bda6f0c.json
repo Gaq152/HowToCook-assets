@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "id": "2472a34f-0c57-4a30-acdb-b3a56bda6f0c",
+  "legacyIds": [
+    "meat_dish_e4a18a12"
+  ],
+  "name": "孜然牛肉",
+  "description": "孜然牛肉是一道香辣鲜嫩的家常小炒，浓郁的孜然风味与牛肉的软滑、青椒的清脆融合得恰到好处。牛肉富含优质蛋白和铁，搭配青椒还能补充维生素，营养均衡。制作需要一些刀工和火候把控，适合有一定下厨基础的爱好者尝试。算上腌肉和备菜，全程大约 45 分钟就能端上餐桌。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 612,
+  "requirements": [
+    {
+      "text": "牛柳或牛肩肉",
+      "markdown": "牛柳或牛肩肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然（颗粒>粉）",
+      "markdown": "孜然（颗粒>粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "捣药罐（可选）",
+      "markdown": "捣药罐（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 牛柳或牛肩肉\r\n* 青椒\r\n* 孜然（颗粒>粉）\r\n* 小米椒\r\n* 生抽酱油\r\n* 淀粉\r\n* 油\r\n* 盐\r\n* 葱\r\n* 捣药罐（可选）",
+  "ingredients": [
+    {
+      "name": "牛肉用量为",
+      "text": "牛肉用量为 250 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒用量为",
+      "text": "青椒用量为 2 颗/人, 每颗 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然用量为",
+      "text": "孜然用量为 20 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒用量为",
+      "text": "小米椒用量为 3 颗/人, 每颗 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽酱油用量为",
+      "text": "生抽酱油用量为 20 ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉用量为",
+      "text": "淀粉用量为 10g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油用量为",
+      "text": "油用量为 15ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐量用量为",
+      "text": "盐量用量为 3 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱用量为",
+      "text": "葱用量为 1 根/人, 每颗 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 牛肉用量为 250 g/人\r\n* 青椒用量为 2 颗/人, 每颗 100g\r\n* 孜然用量为 20 g/人\r\n* 小米椒用量为 3 颗/人, 每颗 5g\r\n* 生抽酱油用量为 20 ml/人\r\n* 淀粉用量为 10g/人\r\n* 油用量为 15ml/人\r\n* 盐量用量为 3 g/人\r\n* 葱用量为 1 根/人, 每颗 20g\r\n\r\n使用上述条件，计算出计划使用的原材料比例，依口味调整。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例，依口味调整。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "首先将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒，这样更入味。如果时间紧张可跳过捣碎步骤"
+    },
+    {
+      "kind": "step",
+      "description": "青椒切头去籽（喜欢辣的可不去），切成丝。葱切段。"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉提前解冻，过一边水洗干净，晾干或用厨用纸吸干，将牛肉顺着纹理切成片"
+    },
+    {
+      "kind": "step",
+      "description": "然后进行腌肉，加入生抽，淀粉，油，均匀搅拌，静止 30 分钟。腌肉方法也可参考[学习腌](tips://learn/tips_learn_50ddd8bd)"
+    },
+    {
+      "kind": "step",
+      "description": "热锅下油，放入葱，爆出香味后放入腌好的牛肉煸炒"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉变色后均匀放入孜然辣椒颗粒并炒熟"
+    },
+    {
+      "kind": "step",
+      "description": "然后下入青椒丝，断生后放盐"
+    },
+    {
+      "kind": "step",
+      "description": "大🔥炒 1 分钟后关火再翻炒 30 秒保证受热均匀即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 首先将小米椒切碎，和孜然粒一起放入捣药罐捣碎成颗粒，这样更入味。如果时间紧张可跳过捣碎步骤\r\n2. 青椒切头去籽（喜欢辣的可不去），切成丝。葱切段。\r\n3. 牛肉提前解冻，过一边水洗干净，晾干或用厨用纸吸干，将牛肉顺着纹理切成片\r\n4. 然后进行腌肉，加入生抽，淀粉，油，均匀搅拌，静止 30 分钟。腌肉方法也可参考[学习腌](tips://learn/tips_learn_50ddd8bd)\r\n5. 热锅下油，放入葱，爆出香味后放入腌好的牛肉煸炒\r\n6. 牛肉变色后均匀放入孜然辣椒颗粒并炒熟\r\n7. 然后下入青椒丝，断生后放盐\r\n8. 大🔥炒 1 分钟后关火再翻炒 30 秒保证受热均匀即可出锅",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/孜然牛肉.md"
+  },
+  "hash": "02706dd21fd0e01a64c0d558b6907deb6448e587970f54188750ec214cc5969b"
+}

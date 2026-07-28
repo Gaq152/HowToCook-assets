@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "id": "e1222637-48ef-48d7-8ad1-55505cc6a22d",
+  "legacyIds": [
+    "meat_dish_f850fc61"
+  ],
+  "name": "杀猪菜",
+  "description": "这是一道源自东北的经典炖菜，酸爽鲜香、暖心暖胃。酸菜富含乳酸菌和膳食纤维，排骨提供优质蛋白与钙质，血肠则能补充铁元素。制作时需要耐心处理血肠以防煮爆，对厨房新手有一定挑战。从备料到出锅，预计耗时约一小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1657,
+  "requirements": [
+    {
+      "text": "血肠",
+      "markdown": "血肠",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酸菜",
+      "markdown": "酸菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "排骨",
+      "markdown": "排骨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒",
+      "markdown": "辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱结",
+      "markdown": "葱结",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜籽油",
+      "markdown": "菜籽油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 血肠\r\n- 酸菜\r\n- 排骨\r\n- 料酒\r\n- 辣椒\r\n- 香叶\r\n- 八角\r\n- 葱结\r\n- 香油\r\n- 菜籽油\r\n- 蒜",
+  "ingredients": [
+    {
+      "name": "血肠",
+      "text": "血肠 200 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸菜",
+      "text": "酸菜 500 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "排骨",
+      "text": "排骨 400 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜粉",
+      "text": "姜粉 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱结",
+      "text": "葱结 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜籽油",
+      "text": "菜籽油 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蘸料",
+      "text": "蘸料：辣椒油 5 克、生抽 10 克、蒜蓉 5 克、香油 2 克。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "这道菜适合 2-3 人一起吃。这道菜每份应该加入的材料有：\r\n\r\n- 血肠 200 克\r\n- 酸菜 500 克\r\n- 排骨 400 克\r\n- 料酒 10 克\r\n- 蒜瓣 5 个\r\n- 姜粉 5 克\r\n- 干辣椒 5 个\r\n- 香叶 2 片\r\n- 八角 1 个\r\n- 葱结 1 个\r\n- 香油 10 克\r\n- 菜籽油 10 克\r\n- 盐 5 克\r\n- 蘸料：辣椒油 5 克、生抽 10 克、蒜蓉 5 克、香油 2 克。",
+  "calculationNotes": [
+    "这道菜适合 2-3 人一起吃。这道菜每份应该加入的材料有："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "血肠用牙签多扎一些小孔，然后放水中小火煮十分钟，不要让水烧开，保持 80 度，否则血肠非常容易爆开。"
+    },
+    {
+      "kind": "step",
+      "description": "煮好的血肠切块备用。"
+    },
+    {
+      "kind": "step",
+      "description": "排骨放料酒焯水，控干水分备用。"
+    },
+    {
+      "kind": "step",
+      "description": "锅内放入菜籽油，放蒜瓣，干辣椒，姜粉炒香。"
+    },
+    {
+      "kind": "step",
+      "description": "放入排骨翻炒至表面金黄。"
+    },
+    {
+      "kind": "step",
+      "description": "酸菜洗净拧干水分，放入锅中，加入香油翻炒，香油可以更好的去除酸味而且让酸菜更香，大火翻炒二分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 600 毫升热水。"
+    },
+    {
+      "kind": "step",
+      "description": "转入电压力锅，加香叶，八角，葱结，盐。"
+    },
+    {
+      "kind": "step",
+      "description": "浓香模式压 40 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "到时间后放气开盖。加入血肠和枸杞，盖上锅盖焖二分钟即可，血肠是熟的，不需再加热。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入盆中，按照上表调制蘸料，即可开吃。"
+    }
+  ],
+  "operationMarkdown": "1. 血肠用牙签多扎一些小孔，然后放水中小火煮十分钟，不要让水烧开，保持 80 度，否则血肠非常容易爆开。\r\n2. 煮好的血肠切块备用。\r\n3. 排骨放料酒焯水，控干水分备用。\r\n4. 锅内放入菜籽油，放蒜瓣，干辣椒，姜粉炒香。\r\n5. 放入排骨翻炒至表面金黄。\r\n6. 酸菜洗净拧干水分，放入锅中，加入香油翻炒，香油可以更好的去除酸味而且让酸菜更香，大火翻炒二分钟。\r\n7. 加入 600 毫升热水。\r\n8. 转入电压力锅，加香叶，八角，葱结，盐。\r\n9. 浓香模式压 40 分钟。\r\n10. 到时间后放气开盖。加入血肠和枸杞，盖上锅盖焖二分钟即可，血肠是熟的，不需再加热。\r\n11. 倒入盆中，按照上表调制蘸料，即可开吃。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/杀猪菜.md"
+  },
+  "hash": "db1a9f031ccffb7e88ba77e7a03a259eb48097d07cb052e13d85ce2e814338a9"
+}

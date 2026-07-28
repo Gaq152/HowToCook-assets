@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "id": "d002f6b3-80eb-4199-9e4a-9e15b0ef65e3",
+  "legacyIds": [
+    "vegetable_dish_b8a552e4"
+  ],
+  "name": "手撕包菜",
+  "description": "手撕包菜是一道酸辣脆爽的经典湘菜，成菜包菜脆嫩入味，五花肉干香不腻，开胃下饭。包菜富含维生素 C 和膳食纤维，搭配五花肉能提供蛋白质和能量。制作时需要掌握大火快炒的火候，对新手稍有挑战，但按步骤操作也能成功。从备料到出锅大约 20 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1663,
+  "requirements": [
+    {
+      "text": "包菜",
+      "markdown": "包菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 包菜\r\n* 五花肉\r\n* 小米辣\r\n* 食用油\r\n* 料酒\r\n* 生抽\r\n* 香醋\r\n* 鸡精\r\n* 姜\r\n* 蒜头\r\n* 蒜苗\r\n* 盐",
+  "ingredients": [
+    {
+      "name": "包菜",
+      "text": "包菜 1 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 60 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 2 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗",
+      "text": "蒜苗 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 包菜 1 颗\r\n* 五花肉 200 g\r\n* 小米辣 2 根\r\n* 食用油 60 ml\r\n* 料酒 5 ml\r\n* 生抽 5 ml\r\n* 香醋 5 ml\r\n* 鸡精 2 g\r\n* 姜 2 片\r\n* 蒜头 2 粒\r\n* 蒜苗 0.5 根\r\n* 盐 5 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "包菜对半切开，去掉中间白色部分【参见图一】"
+    },
+    {
+      "kind": "step",
+      "description": "手撕包菜，碗中放入 2 g 盐，清洗包菜并沥干备用【参见图二】"
+    },
+    {
+      "kind": "step",
+      "description": "姜片、蒜头、小米辣、蒜苗处理后备用【参见图三】"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切片，清水清洗后备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 30 ml 食用油，倒入包菜翻炒，大火翻炒 1 分钟 后，加入 3 g 盐 ，继续翻炒 2 分钟 后取出备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 30 ml 食用油，倒入五花肉，大火翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "倒入姜片等材料，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "倒入包菜翻炒后，加入 香醋、料酒、鸡精、料酒，大火继续翻炒，2 分钟 后出锅"
+    }
+  ],
+  "operationMarkdown": "1. 包菜对半切开，去掉中间白色部分【参见图一】\r\n2. 手撕包菜，碗中放入 2 g 盐，清洗包菜并沥干备用【参见图二】\r\n3. 姜片、蒜头、小米辣、蒜苗处理后备用【参见图三】\r\n4. 五花肉切片，清水清洗后备用\r\n5. 锅中加入 30 ml 食用油，倒入包菜翻炒，大火翻炒 1 分钟 后，加入 3 g 盐 ，继续翻炒 2 分钟 后取出备用\r\n6. 锅中加入 30 ml 食用油，倒入五花肉，大火翻炒 1 分钟\r\n7. 倒入姜片等材料，翻炒 1 分钟\r\n8. 倒入包菜翻炒后，加入 香醋、料酒、鸡精、料酒，大火继续翻炒，2 分钟 后出锅\r\n\r\n![手撕包菜-预览图-1](./1.jpeg)\r\n![手撕包菜-预览图-2](./2.jpeg)\r\n![手撕包菜-预览图-3](./3.jpeg)\r\n![手撕包菜-预览图-4](./4.jpeg)",
+  "tips": "* 步骤五中，翻炒时间需要实际情况做调整，一般是炒到包菜七分熟后即可。七分熟是指包菜已经出水质感变软\r\n* 步骤五中，加盐的作用是锁住包菜水分的同时，给包菜上一点味道\r\n* 最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 步骤五中，翻炒时间需要实际情况做调整，一般是炒到包菜七分熟后即可。七分熟是指包菜已经出水质感变软\r\n* 步骤五中，加盐的作用是锁住包菜水分的同时，给包菜上一点味道\r\n* 最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/d002f6b3-80eb-4199-9e4a-9e15b0ef65e3_0.webp",
+    "images/vegetable_dish/d002f6b3-80eb-4199-9e4a-9e15b0ef65e3_1.webp",
+    "images/vegetable_dish/d002f6b3-80eb-4199-9e4a-9e15b0ef65e3_2.webp",
+    "images/vegetable_dish/d002f6b3-80eb-4199-9e4a-9e15b0ef65e3_3.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md"
+  },
+  "hash": "699a1113f70a96503774cc00a8a427f29b443e7096009d4bded4ec1ef917966c"
+}

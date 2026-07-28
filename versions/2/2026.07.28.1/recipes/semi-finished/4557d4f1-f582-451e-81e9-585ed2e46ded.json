@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "4557d4f1-f582-451e-81e9-585ed2e46ded",
+  "legacyIds": [
+    "semi-finished_1a3f71a6"
+  ],
+  "name": "速冻馄饨",
+  "description": "速冻馄饨皮薄馅嫩，汤清味鲜，是一道便捷的家常面食。主要提供碳水化合物和蛋白质，便于快速补充能量。做法简单，对新手非常友好，使用电饭煲即可完成，从烧水到出锅大约需要 55 分钟。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 540,
+  "requirements": [
+    {
+      "text": "未过期的一袋速冻馄饨（自带调味料包更佳）",
+      "markdown": "未过期的一袋速冻馄饨（自带调味料包更佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "电饭煲（推荐品牌小米智能电饭煲）",
+      "markdown": "电饭煲（推荐品牌小米智能电饭煲）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐（速冻馄饨无调味料包时）",
+      "markdown": "盐（速冻馄饨无调味料包时）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精（速冻馄饨无调味料包时）",
+      "markdown": "鸡精（速冻馄饨无调味料包时）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉（速冻馄饨无调味料包时）",
+      "markdown": "胡椒粉（速冻馄饨无调味料包时）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油（速冻馄饨无调味料包时）",
+      "markdown": "香油（速冻馄饨无调味料包时）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜 1 根（可选）",
+      "markdown": "香菜 1 根（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 未过期的一袋速冻馄饨（自带调味料包更佳）\r\n* 电饭煲（推荐品牌小米智能电饭煲）\r\n* 盐（速冻馄饨无调味料包时）\r\n* 鸡精（速冻馄饨无调味料包时）\r\n* 胡椒粉（速冻馄饨无调味料包时）\r\n* 香油（速冻馄饨无调味料包时）\r\n* 香菜 1 根（可选）\r\n\r\n> 注意，使用的烹饪工具不同速冻馄饨可能有不同的做法，这里仅介绍使用「电饭煲」的做法。",
+  "ingredients": [
+    {
+      "name": "一般一个人一顿可以食用",
+      "text": "一般一个人一顿可以食用 12～20 个馄饨",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "当所有馄饨放入电饭煲中时",
+      "text": "当所有馄饨放入电饭煲中时，能刚好没过所有馄饨的水乘以 2~3 倍的水量（一人食用的馄饨约需要 600ml 水量）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 一般一个人一顿可以食用 12～20 个馄饨\r\n* 当所有馄饨放入电饭煲中时，能刚好没过所有馄饨的水乘以 2~3 倍的水量（一人食用的馄饨约需要 600ml 水量）",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "烧开水",
+      "description": "### 烧开水"
+    },
+    {
+      "kind": "step",
+      "description": "将水倒入电饭煲中，按炖或煮的模式运行 35 分钟，此时揭开电饭煲应看到水为沸腾状态。"
+    },
+    {
+      "kind": "section",
+      "title": "下馄饨",
+      "description": "### 下馄饨"
+    },
+    {
+      "kind": "step",
+      "description": "将速冻馄饨小心放入水中，注意不要烫伤。"
+    },
+    {
+      "kind": "step",
+      "description": "放入电饭煲前可以适当用水过一下。"
+    },
+    {
+      "kind": "step",
+      "description": "如果馄饨有调料包，此时可一并加入水中。"
+    },
+    {
+      "kind": "section",
+      "title": "煮馄饨",
+      "description": "### 煮馄饨"
+    },
+    {
+      "kind": "step",
+      "description": "盖上电饭煲，按同样炖或煮的模式运行 20 分钟。"
+    },
+    {
+      "kind": "section",
+      "title": "盛馄饨",
+      "description": "### 盛馄饨"
+    },
+    {
+      "kind": "step",
+      "description": "将所有馄饨连同能没过所有馄饨的水一同盛入碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "如果此前没有加入调料包，此时可按自身口味轻重加入盐、鸡精、胡椒粉、香油调味。"
+    },
+    {
+      "kind": "step",
+      "description": "也可撒上 5~8 片香菜叶佐味（仅适用于对香菜味道不敏感的人）。"
+    }
+  ],
+  "operationMarkdown": "### 烧开水\r\n\r\n1. 将水倒入电饭煲中，按炖或煮的模式运行 35 分钟，此时揭开电饭煲应看到水为沸腾状态。\r\n\r\n### 下馄饨\r\n\r\n1. 将速冻馄饨小心放入水中，注意不要烫伤。\r\n2. 放入电饭煲前可以适当用水过一下。\r\n3. 如果馄饨有调料包，此时可一并加入水中。\r\n\r\n### 煮馄饨\r\n\r\n1. 盖上电饭煲，按同样炖或煮的模式运行 20 分钟。\r\n\r\n### 盛馄饨\r\n\r\n1. 将所有馄饨连同能没过所有馄饨的水一同盛入碗中。\r\n2. 如果此前没有加入调料包，此时可按自身口味轻重加入盐、鸡精、胡椒粉、香油调味。\r\n3. 也可撒上 5~8 片香菜叶佐味（仅适用于对香菜味道不敏感的人）。",
+  "tips": "* 出锅后也可以加入水煮荷包蛋（[太阳蛋](../../dishes/breakfast/太阳蛋.md)）一起食用。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 出锅后也可以加入水煮荷包蛋（[太阳蛋](../../dishes/breakfast/太阳蛋.md)）一起食用。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/速冻馄饨.md"
+  },
+  "hash": "297593fdc23fd3d5877eaf27e2d26b4fedf8a1446e302103ba935d454f34df48"
+}

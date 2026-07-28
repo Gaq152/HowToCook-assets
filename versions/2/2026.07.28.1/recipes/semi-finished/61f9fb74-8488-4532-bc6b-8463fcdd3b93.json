@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "id": "61f9fb74-8488-4532-bc6b-8463fcdd3b93",
+  "legacyIds": [
+    "semi-finished_06007ff7"
+  ],
+  "name": "凉皮",
+  "description": "凉皮是一道源自陕西的家常小吃，口感筋道爽滑，酸辣开胃，带有浓郁的芝麻酱香。芝麻酱和面筋提供了丰富的植物蛋白与钙质，搭配清脆的黄瓜和绿豆芽，富含维生素和膳食纤维。整体操作难度中等，只需简单煮烫、切丝和调汁，一般初学者也能从容完成。从备料到上桌大约需要 40 分钟，非常适合夏日餐桌。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 761,
+  "requirements": [
+    {
+      "text": "凉皮、面筋",
+      "markdown": "凉皮、面筋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐、鸡精、蚝油、生抽、老抽、香油、香醋、芝麻酱（原味芝麻酱最佳）",
+      "markdown": "盐、鸡精、蚝油、生抽、老抽、香油、香醋、芝麻酱（原味芝麻酱最佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄瓜、大蒜、绿豆芽",
+      "markdown": "黄瓜、大蒜、绿豆芽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盆、碗、盘子、蒜臼",
+      "markdown": "盆、碗、盘子、蒜臼",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 凉皮、面筋\r\n* 盐、鸡精、蚝油、生抽、老抽、香油、香醋、芝麻酱（原味芝麻酱最佳）\r\n* 黄瓜、大蒜、绿豆芽\r\n* 盆、碗、盘子、蒜臼",
+  "ingredients": [
+    {
+      "name": "凉皮用量为",
+      "text": "凉皮用量为 300 g/人 向下取整。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻酱的用量为",
+      "text": "芝麻酱的用量为 30 g/人 向下取整。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄瓜",
+      "text": "黄瓜 100g/人、绿豆芽 50g/人。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 凉皮用量为 300 g/人 向下取整。\r\n* 芝麻酱的用量为 30 g/人 向下取整。\r\n* 黄瓜 100g/人、绿豆芽 50g/人。",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备工作",
+      "description": "### 准备工作"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 500ml 水。煮沸。"
+    },
+    {
+      "kind": "step",
+      "description": "将绿豆芽放入锅中，大火煮 60 秒。豆芽捞出，过凉水，放入盘中备用。"
+    },
+    {
+      "kind": "step",
+      "description": "黄瓜切丝放入盘中备用"
+    },
+    {
+      "kind": "step",
+      "description": "将 10g 蒜瓣剥皮、放入蒜臼中加入 1g 盐。锤成蒜泥，加入 10g 自来水。放置备用。"
+    },
+    {
+      "kind": "step",
+      "description": "注：超市购买来的凉皮表面一般会有食用油，可以使用自来水清洗。面筋同样。"
+    },
+    {
+      "kind": "step",
+      "description": "注：清洗面筋之后，请用手将面筋中的大量水分挤出（不需过于用力）。"
+    },
+    {
+      "kind": "section",
+      "title": "盐水调配",
+      "description": "### 盐水调配"
+    },
+    {
+      "kind": "step",
+      "description": "准备小碗，加入 3g 盐、2g 鸡精、5g 生抽、1g 老抽、1g 香油、2g 蚝油、香醋 5g、（盐、香醋均可根据个人口味酌量添加，以上数据只是大众口味）。"
+    },
+    {
+      "kind": "step",
+      "description": "以上调料加入 25-35g 温水（据个人咸淡程度），使用筷子将其拌匀、溶解。静置一旁冷却。"
+    },
+    {
+      "kind": "section",
+      "title": "芝麻酱调配",
+      "description": "### 芝麻酱调配"
+    },
+    {
+      "kind": "step",
+      "description": "注：以下计量均为一人份，如果有 n 人，请自觉将计量乘以 n"
+    },
+    {
+      "kind": "step",
+      "description": "拿出小碗，将准备好的芝麻酱放入其中。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 4g 盐、3g 鸡精、5g 生抽、1g 老抽、3g 蚝油。"
+    },
+    {
+      "kind": "step",
+      "description": "使用筷子将其调料与芝麻酱拌匀。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10g 清水将其拌匀。"
+    },
+    {
+      "kind": "step",
+      "description": "上一步骤重复 2、3 次（次数根据个人对芝麻酱的浓稠程度而定）。"
+    },
+    {
+      "kind": "section",
+      "title": "最终步骤",
+      "description": "### 最终步骤"
+    },
+    {
+      "kind": "step",
+      "description": "拿出之前准备好的小盆，加入之前准备好的凉皮。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入盐水，使用筷子将其拌匀。随之盛入小碗（盐水一并倒入碗中）。"
+    },
+    {
+      "kind": "step",
+      "description": "豆芽放置凉皮上、面筋随后放上。"
+    },
+    {
+      "kind": "step",
+      "description": "将调配好的芝麻酱从面筋上方倒下。"
+    },
+    {
+      "kind": "step",
+      "description": "撒上黄瓜丝。"
+    },
+    {
+      "kind": "step",
+      "description": "如有喜爱可以加入辣椒油。"
+    },
+    {
+      "kind": "step",
+      "description": "色香味俱全的家常凉皮出炉！"
+    }
+  ],
+  "operationMarkdown": "### 准备工作\r\n\r\n1. 锅中加入 500ml 水。煮沸。\r\n2. 将绿豆芽放入锅中，大火煮 60 秒。豆芽捞出，过凉水，放入盘中备用。\r\n3. 黄瓜切丝放入盘中备用\r\n4. 将 10g 蒜瓣剥皮、放入蒜臼中加入 1g 盐。锤成蒜泥，加入 10g 自来水。放置备用。\r\n5. 注：超市购买来的凉皮表面一般会有食用油，可以使用自来水清洗。面筋同样。\r\n6. 注：清洗面筋之后，请用手将面筋中的大量水分挤出（不需过于用力）。\r\n\r\n### 盐水调配\r\n\r\n1. 准备小碗，加入 3g 盐、2g 鸡精、5g 生抽、1g 老抽、1g 香油、2g 蚝油、香醋 5g、（盐、香醋均可根据个人口味酌量添加，以上数据只是大众口味）。\r\n2. 以上调料加入 25-35g 温水（据个人咸淡程度），使用筷子将其拌匀、溶解。静置一旁冷却。\r\n\r\n### 芝麻酱调配\r\n\r\n1. 注：以下计量均为一人份，如果有 n 人，请自觉将计量乘以 n\r\n2. 拿出小碗，将准备好的芝麻酱放入其中。\r\n3. 加入 4g 盐、3g 鸡精、5g 生抽、1g 老抽、3g 蚝油。\r\n4. 使用筷子将其调料与芝麻酱拌匀。\r\n5. 加入 10g 清水将其拌匀。\r\n6. 上一步骤重复 2、3 次（次数根据个人对芝麻酱的浓稠程度而定）。\r\n\r\n### 最终步骤\r\n\r\n1. 拿出之前准备好的小盆，加入之前准备好的凉皮。\r\n2. 倒入盐水，使用筷子将其拌匀。随之盛入小碗（盐水一并倒入碗中）。\r\n3. 豆芽放置凉皮上、面筋随后放上。\r\n4. 将调配好的芝麻酱从面筋上方倒下。\r\n5. 撒上黄瓜丝。\r\n6. 如有喜爱可以加入辣椒油。\r\n7. 色香味俱全的家常凉皮出炉！",
+  "tips": "个人口味根据地区、天气、时间均有不同，调料的具体使用量请据个人情况而定。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "个人口味根据地区、天气、时间均有不同，调料的具体使用量请据个人情况而定。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/凉皮.md"
+  },
+  "hash": "4a8a667c515740b9f816cf1d15732021554858224c04bbf1cfc65b917b0201e8"
+}

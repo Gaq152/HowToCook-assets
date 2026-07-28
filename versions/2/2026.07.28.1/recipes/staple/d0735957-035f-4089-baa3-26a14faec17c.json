@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "id": "d0735957-035f-4089-baa3-26a14faec17c",
+  "legacyIds": [
+    "staple_8de7954b"
+  ],
+  "name": "凉粉",
+  "description": "凉粉是一道源自四川的传统小吃，口感冰凉爽滑，酸辣开胃，很适合夏天消暑。主要原料是豌豆淀粉，富含碳水化合物，能为身体快速补充能量。制作过程不算复杂，但需要耐心搅煮和长时间冷藏定型，对新手来说难度适中。从煮制到完成大约需要 3-4 小时，其中大部分是等待冷藏的时间，动手操作只需大约半 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 539,
+  "requirements": [
+    {
+      "text": "豌豆淀粉",
+      "markdown": "豌豆淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒粉",
+      "markdown": "辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生碎",
+      "markdown": "花生碎",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 豌豆淀粉\r\n- 大蒜\r\n- 小米辣\r\n- 辣椒粉\r\n- 酱油\r\n- 醋\r\n- 白糖\r\n- 鸡精\r\n- 盐\r\n- 花生碎\r\n- 香菜",
+  "ingredients": [
+    {
+      "name": "豌豆淀粉",
+      "text": "豌豆淀粉 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒粉",
+      "text": "辣椒粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 3ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生碎",
+      "text": "花生碎 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "下述材料为一人份，每次制作前需要确定计划做几份。一份正好够一个人吃。\r\n\r\n- 豌豆淀粉  100g\r\n- 大蒜   3 瓣\r\n- 小米辣  3 颗\r\n- 辣椒粉  10g\r\n- 酱油   10ml\r\n- 醋   10ml\r\n- 白糖  3ml\r\n- 鸡精  3g\r\n- 盐  3g\r\n- 花生碎  5g\r\n- 香菜  5g",
+  "calculationNotes": [
+    "下述材料为一人份，每次制作前需要确定计划做几份。一份正好够一个人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "准备食材。\n\n  ![凉粉-预览图-2](./lf2.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "把豌豆淀粉和水各 100 克混合搅拌。\n\n  ![凉粉-预览图-3](./lf3.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "往锅中倒入 600g 水，大火煮开后转为小火。\n\n  ![凉粉-预览图-4](./lf4.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀。\n\n  ![凉粉-预览图-5](./lf5.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "找一个容器，在容器中刷一层薄薄的食用油。\n\n  ![凉粉-预览图-6](./lf6.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "将煮好的淀粉倒入容器中冷藏 2-4 小时。\n\n  ![凉粉-预览图-7](./lf7.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "冷藏后取出，脱模，切条。\n\n  ![凉粉-预览图-8](./lf8.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜和小米辣剁成沫，放上 10g 辣椒粉，5g 花生碎，热油搅拌均匀。\n\n  ![凉粉-预览图-9](./lf9.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "再加入 10ml 酱油，10ml 醋，5g 白糖，3g 鸡精，3g 盐搅拌均匀。\n\n  ![凉粉-预览图-10](./lf10.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "将调味料倒在凉粉上，然后撒上香菜即可。\n\n  ![凉粉-预览图-11](./lf11.jpg)"
+    }
+  ],
+  "operationMarkdown": "1. 准备食材。\r\n\r\n    ![凉粉-预览图-2](./lf2.jpg)\r\n\r\n2. 把豌豆淀粉和水各 100 克混合搅拌。\r\n\r\n    ![凉粉-预览图-3](./lf3.jpg)\r\n\r\n3. 往锅中倒入 600g 水，大火煮开后转为小火。\r\n\r\n    ![凉粉-预览图-4](./lf4.jpg)\r\n\r\n4. 倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀。\r\n\r\n    ![凉粉-预览图-5](./lf5.jpg)\r\n\r\n5. 找一个容器，在容器中刷一层薄薄的食用油。\r\n\r\n    ![凉粉-预览图-6](./lf6.jpg)\r\n\r\n6. 将煮好的淀粉倒入容器中冷藏 2-4 小时。\r\n\r\n    ![凉粉-预览图-7](./lf7.jpg)\r\n\r\n7. 冷藏后取出，脱模，切条。\r\n\r\n    ![凉粉-预览图-8](./lf8.jpg)\r\n\r\n8. 大蒜和小米辣剁成沫，放上 10g 辣椒粉，5g 花生碎，热油搅拌均匀。\r\n\r\n    ![凉粉-预览图-9](./lf9.jpg)\r\n\r\n9. 再加入 10ml 酱油，10ml 醋，5g 白糖，3g 鸡精，3g 盐搅拌均匀。\r\n\r\n    ![凉粉-预览图-10](./lf10.jpg)\r\n\r\n10. 将调味料倒在凉粉上，然后撒上香菜即可。\r\n\r\n    ![凉粉-预览图-11](./lf11.jpg)",
+  "tips": "- 参考: [制作凉粉的详细步骤](https://www.zhms.cn/recipe/mzvyy.html?source=2)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 参考: [制作凉粉的详细步骤](https://www.zhms.cn/recipe/mzvyy.html?source=2)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_0.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_1.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_2.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_3.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_4.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_5.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_6.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_7.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_8.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_9.webp",
+    "images/staple/d0735957-035f-4089-baa3-26a14faec17c_10.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/凉粉/凉粉.md"
+  },
+  "hash": "0cb42fcabe16bf2b4ae93e685865a2297eb192ae6474f87c0844c82856f652af"
+}

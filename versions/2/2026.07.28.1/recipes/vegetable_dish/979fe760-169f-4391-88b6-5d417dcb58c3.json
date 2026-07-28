@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "id": "979fe760-169f-4391-88b6-5d417dcb58c3",
+  "legacyIds": [
+    "vegetable_dish_3248b36a"
+  ],
+  "name": "凉拌木耳",
+  "description": "凉拌木耳，由于发放物资中有很多干货，木耳是较为健康的食物。且凉拌木耳的烹饪方式也相对简单。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 129,
+  "requirements": [
+    {
+      "text": "干木耳 （湿木耳也可，但不能太久之前泡发的，必须是新鲜的湿木耳）",
+      "markdown": "干木耳 （湿木耳也可，但不能太久之前泡发的，必须是新鲜的湿木耳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芥末 （可以不用）",
+      "markdown": "芥末 （可以不用）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 干木耳 （湿木耳也可，但不能太久之前泡发的，必须是新鲜的湿木耳）\r\n* 蒜瓣\r\n* 白糖\r\n* 小米辣\r\n* 盐\r\n* 香油\r\n* 生抽\r\n* 醋\r\n* 芥末 （可以不用）",
+  "ingredients": [
+    {
+      "name": "干木耳",
+      "text": "干木耳: 20g / 湿木耳: 120g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣: 2-3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣: 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐: 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖: 5-10g（依个人口味）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽: 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋: 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油: 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芥末",
+      "text": "芥末: （约 2cm）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份（1 人量）:\r\n\r\n* 干木耳: 20g / 湿木耳: 120g\r\n* 蒜瓣: 2-3 个\r\n* 小米辣: 2 个\r\n* 盐: 2 g\r\n* 糖: 5-10g（依个人口味）\r\n* 生抽: 15ml\r\n* 醋: 15ml\r\n* 香油: 5ml\r\n* 芥末: （约 2cm）",
+  "calculationNotes": [
+    "每份（1 人量）:"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "泡发干木耳, 水量约为 400ml, 泡发约 45 分钟。 （湿木耳跳过此步骤）"
+    },
+    {
+      "kind": "step",
+      "description": "将泡发好的木耳, 进行去根处理（如图 4, 5, 6）, 并彻底洗净。"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧水，水开后放入木耳, 大火煮 1.5-2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜瓣、小米辣切碎放入碗中 （可选取中大碗）, 并依次加入盐、糖、生抽、醋、香油、芥末, 用量如上。"
+    },
+    {
+      "kind": "step",
+      "description": "木耳盛出后沥水, 放入上一步碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌充分，端盘。"
+    }
+  ],
+  "operationMarkdown": "1. 泡发干木耳, 水量约为 400ml, 泡发约 45 分钟。 （湿木耳跳过此步骤）\r\n2. 将泡发好的木耳, 进行去根处理（如图 4, 5, 6）, 并彻底洗净。\r\n3. 起锅烧水，水开后放入木耳, 大火煮 1.5-2 分钟。\r\n4. 将蒜瓣、小米辣切碎放入碗中 （可选取中大碗）, 并依次加入盐、糖、生抽、醋、香油、芥末, 用量如上。\r\n5. 木耳盛出后沥水, 放入上一步碗中。\r\n6. 搅拌充分，端盘。\r\n\r\n![干木耳](1.jpg)\r\n![木耳](2.jpg)\r\n![泡发后](3.jpg)\r\n![木耳根](4.jpg)\r\n![木耳根](5.jpg)\r\n![剪去部分](6.jpg)\r\n![水煮1.5-2分钟](7.jpg)\r\n![蒜瓣和干辣椒](8.jpg)\r\n![调料拌匀](9.jpg)\r\n![凉拌木耳-预览图-10](10.jpg)",
+  "tips": "* 调味品的数量可以根据个人口味进行调整, 如果不喜欢芥末, 可以不加入。\r\n* 等木耳冷却入味后口味更佳, 约 15 分钟。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 调味品的数量可以根据个人口味进行调整, 如果不喜欢芥末, 可以不加入。\r\n* 等木耳冷却入味后口味更佳, 约 15 分钟。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_0.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_1.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_2.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_3.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_4.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_5.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_6.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_7.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_8.webp",
+    "images/vegetable_dish/979fe760-169f-4391-88b6-5d417dcb58c3_9.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
+  },
+  "hash": "88c6c54ddede535878974d9c103453469e1ce23576eefa5488586f033330c009"
+}

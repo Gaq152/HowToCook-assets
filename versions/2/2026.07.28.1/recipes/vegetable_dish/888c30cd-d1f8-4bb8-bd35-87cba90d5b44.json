@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "id": "888c30cd-d1f8-4bb8-bd35-87cba90d5b44",
+  "legacyIds": [
+    "vegetable_dish_c802865b"
+  ],
+  "name": "芹菜拌茶树菇",
+  "description": "这是一道清爽脆嫩的凉拌菜，芹菜脆嫩与茶树菇的嚼劲相得益彰，口感层次丰富。富含多种维生素和矿物质，营养又开胃。做法非常简单，新手也能轻松掌握，从备菜到完成只需约 30 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 127,
+  "requirements": [
+    {
+      "text": "闽星茶树菇",
+      "markdown": "闽星茶树菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜",
+      "markdown": "芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味极鲜",
+      "markdown": "味极鲜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 闽星茶树菇\r\n- 芹菜\r\n- 香油\r\n- 蚝油\r\n- 味极鲜\r\n- 食用盐",
+  "ingredients": [
+    {
+      "name": "闽星茶树菇",
+      "text": "闽星茶树菇 1 瓶",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芹菜",
+      "text": "芹菜 250-300g（推荐 30cm 高的芹菜苗，没有芹菜苗可以用山芹或芹菜代替但是需要稍微焯水断生）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油 大约",
+      "text": "蚝油 大约 7ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味极鲜",
+      "text": "味极鲜 3ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐 大约",
+      "text": "食用盐 大约 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份可够 1-2 人。\r\n\r\n每份：\r\n\r\n- 闽星茶树菇 1 瓶\r\n- 芹菜 250-300g（推荐 30cm 高的芹菜苗，没有芹菜苗可以用山芹或芹菜代替但是需要稍微焯水断生）\r\n- 香油 5ml\r\n- 蚝油 大约 7ml\r\n- 味极鲜 3ml\r\n- 食用盐 大约 2g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份可够 1-2 人。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "（如果是芹菜苗这一步略过）用热水壶烧一壶热水，备用"
+    },
+    {
+      "kind": "step",
+      "description": "新鲜的芹菜苗或者芹菜摘去黄叶清洗，备用"
+    },
+    {
+      "kind": "step",
+      "description": "（如果是芹菜苗这一步略过）将芹菜摘去叶子单独放一个盆中，将芹菜茎用刀划成 2-3 毫米宽的芹菜条备用，这一步的目的是让芹菜断生的更快更均匀，吃起来更脆更爽口"
+    },
+    {
+      "kind": "step",
+      "description": "芹菜苗切成 4cm 的芹菜段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "（如果是芹菜苗这一步略过）起锅开火，将热水壶的开水倒入锅中待水起泡沸腾"
+    },
+    {
+      "kind": "step",
+      "description": "（如果是芹菜苗这一步略过）将切好的芹菜条放入锅中焯水，大约 20 秒放入芹菜叶,5 秒后关火全部捞出过凉水，备用"
+    },
+    {
+      "kind": "step",
+      "description": "将盆中焯好的芹菜或者芹菜苗撒上准备好的食盐，香油，蚝油和味极鲜搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将茶树菇倒入盆中搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "装盘"
+    },
+    {
+      "kind": "step",
+      "description": "开吃"
+    }
+  ],
+  "operationMarkdown": "1. （如果是芹菜苗这一步略过）用热水壶烧一壶热水，备用\r\n2. 新鲜的芹菜苗或者芹菜摘去黄叶清洗，备用\r\n3. （如果是芹菜苗这一步略过）将芹菜摘去叶子单独放一个盆中，将芹菜茎用刀划成 2-3 毫米宽的芹菜条备用，这一步的目的是让芹菜断生的更快更均匀，吃起来更脆更爽口\r\n4. 芹菜苗切成 4cm 的芹菜段，备用\r\n5. （如果是芹菜苗这一步略过）起锅开火，将热水壶的开水倒入锅中待水起泡沸腾\r\n6. （如果是芹菜苗这一步略过）将切好的芹菜条放入锅中焯水，大约 20 秒放入芹菜叶,5 秒后关火全部捞出过凉水，备用\r\n7. 将盆中焯好的芹菜或者芹菜苗撒上准备好的食盐，香油，蚝油和味极鲜搅拌均匀\r\n8. 将茶树菇倒入盆中搅拌均匀\r\n9. 装盘\r\n10. 开吃",
+  "tips": "- 焯水时的水位需要没过芹菜\r\n- 芹菜叶太老太硬的话可以不要\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 焯水时的水位需要没过芹菜\r\n- 芹菜叶太老太硬的话可以不要\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/888c30cd-d1f8-4bb8-bd35-87cba90d5b44_0.webp",
+    "images/vegetable_dish/888c30cd-d1f8-4bb8-bd35-87cba90d5b44_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md"
+  },
+  "hash": "6d84892ab1712d6739825997fbbd4b35f52128311068b9ddb180f4b336b040fe"
+}

@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 2,
+  "id": "bfb26ac5-c1e3-4d91-a534-972274c633a2",
+  "legacyIds": [
+    "meat_dish_003ec59b"
+  ],
+  "name": "枝竹羊腩煲",
+  "description": "这是一道源自广东的传统煲仔菜，羊肉与腐竹在柱侯酱和腐乳的调和下，酱香浓郁，口感肥美而不腻口，暖身暖心，尤其适合寒冬食用。羊肉富含蛋白质和铁质，能温补气血，腐竹则提供优质植物蛋白，搭配起来营养均衡。虽然备料和炖煮步骤较多，但全程火候控制并不复杂，新手只需按部就班也能成功。预计从准备到出锅约需两个半小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 2391,
+  "requirements": [
+    {
+      "text": "羊腩",
+      "markdown": "羊腩",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "腐竹",
+      "markdown": "腐竹",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柱侯酱",
+      "markdown": "柱侯酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "腐乳",
+      "markdown": "腐乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "南乳",
+      "markdown": "南乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱段",
+      "markdown": "葱段",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜片",
+      "markdown": "姜片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菇",
+      "markdown": "香菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱或红葱头",
+      "markdown": "洋葱或红葱头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "其余配菜例如马蹄、土豆或者萝卜可依据个人喜好自行添加",
+      "markdown": "其余配菜例如马蹄、土豆或者萝卜可依据个人喜好自行添加",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 羊腩\r\n- 腐竹\r\n- 柱侯酱\r\n- 腐乳\r\n- 南乳\r\n- 老抽\r\n- 料酒\r\n- 蚝油\r\n- 清水\r\n- 冰糖\r\n- 葱段\r\n- 姜片\r\n- 香菇\r\n- 洋葱或红葱头\r\n- 蒜瓣\r\n- 香叶\r\n- 八角\r\n- 桂皮\r\n- 其余配菜例如马蹄、土豆或者萝卜可依据个人喜好自行添加",
+  "ingredients": [
+    {
+      "name": "羊腩",
+      "text": "羊腩 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "炸腐竹",
+      "text": "炸腐竹 30g-50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柱侯酱",
+      "text": "柱侯酱 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "腐乳",
+      "text": "腐乳 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "南乳",
+      "text": "南乳 35g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒油",
+      "text": "辣椒油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "砂糖",
+      "text": "砂糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片 6-8 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菇",
+      "text": "香菇 7-8 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 1 个或红葱头 4 - 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 7-8 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 4-5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 羊腩 500g\r\n- 炸腐竹 30g-50g\r\n- 柱侯酱 30g\r\n- 腐乳 40g\r\n- 南乳 35g\r\n- 老抽 5ml\r\n- 辣椒油 5ml\r\n- 清水 500ml\r\n- 冰糖 20g\r\n- 砂糖 10g\r\n- 小葱 5 根\r\n- 姜片 6-8 片\r\n- 香菇 7-8 个\r\n- 洋葱 1 个或红葱头 4 - 5 个\r\n- 蒜瓣 7-8 瓣\r\n- 香叶 1 片\r\n- 八角 4-5 个\r\n- 桂皮 10g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "准备工作: 香菇提前浸泡 2 - 3 小时至变软。腐竹提前浸泡 30 分钟至变软"
+    },
+    {
+      "kind": "step",
+      "description": "准备酱汁 1: 南乳、柱侯酱、20g 腐乳、老抽放入同个小碗中搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "准备酱汁 2: 20g 腐乳、砂糖、辣椒油放入同个小碗搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "泡好的香菇去除根部"
+    },
+    {
+      "kind": "step",
+      "description": "泡好的腐竹切成 5cm 的小段，挤干水分"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱去皮切丝。也可以用去皮红葱头进行替代，口味更佳。"
+    },
+    {
+      "kind": "step",
+      "description": "小葱切成大约 5cm 的葱段"
+    },
+    {
+      "kind": "step",
+      "description": "羊腩冷水下锅，放入 2 - 3 片姜片，倒入凉水，大火煮至水滚后关火"
+    },
+    {
+      "kind": "step",
+      "description": "捞出羊腩，放入准备好的冷水盆中放凉，使其更有嚼劲"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热后放入冷油，放入 4 - 5 片姜片、洋葱/红葱头、葱白段、7 - 8 瓣蒜瓣进行爆香"
+    },
+    {
+      "kind": "step",
+      "description": "放入冷却好的羊腩，用筷子搅拌大约 2 - 5 分钟直至出现金黄色"
+    },
+    {
+      "kind": "step",
+      "description": "放入调好的酱汁 1 ，翻炒大约 2 分钟至颜色均匀"
+    },
+    {
+      "kind": "step",
+      "description": "倒入清水至刚好没过食材"
+    },
+    {
+      "kind": "step",
+      "description": "放入香菇、冰糖、香叶、八角、桂皮"
+    },
+    {
+      "kind": "step",
+      "description": "加盖转小火炖 90 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开盖加入腐竹，加盖转中火煮 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开盖加入酱汁 2 搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "关火，出锅前加入葱绿段或香菜"
+    }
+  ],
+  "operationMarkdown": "1. 准备工作: 香菇提前浸泡 2 - 3 小时至变软。腐竹提前浸泡 30 分钟至变软\r\n2. 准备酱汁 1: 南乳、柱侯酱、20g 腐乳、老抽放入同个小碗中搅拌均匀\r\n3. 准备酱汁 2: 20g 腐乳、砂糖、辣椒油放入同个小碗搅拌均匀\r\n4. 泡好的香菇去除根部\r\n5. 泡好的腐竹切成 5cm 的小段，挤干水分\r\n6. 洋葱去皮切丝。也可以用去皮红葱头进行替代，口味更佳。\r\n7. 小葱切成大约 5cm 的葱段\r\n8. 羊腩冷水下锅，放入 2 - 3 片姜片，倒入凉水，大火煮至水滚后关火\r\n9. 捞出羊腩，放入准备好的冷水盆中放凉，使其更有嚼劲\r\n10. 锅烧热后放入冷油，放入 4 - 5 片姜片、洋葱/红葱头、葱白段、7 - 8 瓣蒜瓣进行爆香\r\n11. 放入冷却好的羊腩，用筷子搅拌大约 2 - 5 分钟直至出现金黄色\r\n12. 放入调好的酱汁 1 ，翻炒大约 2 分钟至颜色均匀\r\n13. 倒入清水至刚好没过食材\r\n14. 放入香菇、冰糖、香叶、八角、桂皮\r\n15. 加盖转小火炖 90 分钟\r\n16. 开盖加入腐竹，加盖转中火煮 20 分钟\r\n17. 开盖加入酱汁 2 搅拌均匀\r\n18. 关火，出锅前加入葱绿段或香菜",
+  "tips": "- 此菜属于粤菜，正宗做法多会添加马蹄。考虑到萝卜青菜各有所爱，也可根据个人口味替换成土豆、萝卜等其他食材\r\n- 参考资料：[枝竹羊腩煲 Lamb Stew with Bean Curd Sheet [by 點Cook Guide]](https://www.youtube.com/watch?v=ThVDpVoToDQ)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 此菜属于粤菜，正宗做法多会添加马蹄。考虑到萝卜青菜各有所爱，也可根据个人口味替换成土豆、萝卜等其他食材\r\n- 参考资料：[枝竹羊腩煲 Lamb Stew with Bean Curd Sheet [by 點Cook Guide]](https://www.youtube.com/watch?v=ThVDpVoToDQ)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
+  },
+  "hash": "5d51a51564b6d94e23dafed874832123e952ef139bdbdc190e8c0934bb31b3bb"
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "id": "c497e815-98e7-4abc-852e-1a57d9317adf",
+  "legacyIds": [
+    "meat_dish_20fa43aa"
+  ],
+  "name": "酱排骨",
+  "description": "酱排骨色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜，是一道经典的家常菜。排骨富含优质蛋白质和钙质，营养均衡。制作涉及炒糖色和较长时间炖煮，对新手有一定挑战，但只要按步骤操作，也能顺利掌握。预计从备料到出锅约需 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1351,
+  "requirements": [
+    {
+      "text": "排骨",
+      "markdown": "排骨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 排骨\r\n* 五香粉\r\n* 料酒\r\n* 食用油\r\n* 白砂糖\r\n* 老抽\r\n* 生抽\r\n* 蚝油\r\n* 小米椒\r\n* 蒜\r\n* 姜",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "text": "排骨 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 排骨 300 g\r\n* 五香粉 20 g\r\n* 料酒 10 ml\r\n* 食用油 30 ml\r\n* 白砂糖 15 g\r\n* 老抽 10 ml\r\n* 生抽 10 ml\r\n* 蚝油 5 ml\r\n* 小米椒 1 个\r\n* 蒜 2 粒\r\n* 姜 2 片",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "起锅烧热水，放入排骨、姜片、料酒，煮开后用勺子舀去白色油沫，2-3 分钟后出锅"
+    },
+    {
+      "kind": "step",
+      "description": "冷水清洗排骨，清洗 2-3 遍"
+    },
+    {
+      "kind": "step",
+      "description": "小火起锅，加入食用油，加入白砂糖 ，轻轻搅拌到糖水变成黄色"
+    },
+    {
+      "kind": "step",
+      "description": "倒入排骨翻炒 30 S 后，加入生抽、蚝油、五香粉、蒜、小米椒后翻炒 30 S 后，加入清水没过排骨"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮 30 分钟，加入老抽上色，再煮 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "起锅摆盘"
+    }
+  ],
+  "operationMarkdown": "1. 起锅烧热水，放入排骨、姜片、料酒，煮开后用勺子舀去白色油沫，2-3 分钟后出锅\r\n2. 冷水清洗排骨，清洗 2-3 遍\r\n3. 小火起锅，加入食用油，加入白砂糖 ，轻轻搅拌到糖水变成黄色\r\n4. 倒入排骨翻炒 30 S 后，加入生抽、蚝油、五香粉、蒜、小米椒后翻炒 30 S 后，加入清水没过排骨\r\n5. 大火煮 30 分钟，加入老抽上色，再煮 10 分钟\r\n6. 起锅摆盘\r\n\r\n![酱排骨-预览图-1](./1.jpeg)\r\n![酱排骨-预览图-2](./2.jpeg)",
+  "tips": "* 增加味道的可以考虑加入豆瓣酱、番茄酱等\r\n* 大火煮时间可以根据每个人情况做调整\r\n* 煮排骨期间，可以顺道放入 2-3 个 鸡蛋一起煮，做成简易版卤蛋\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 增加味道的可以考虑加入豆瓣酱、番茄酱等\r\n* 大火煮时间可以根据每个人情况做调整\r\n* 煮排骨期间，可以顺道放入 2-3 个 鸡蛋一起煮，做成简易版卤蛋\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/c497e815-98e7-4abc-852e-1a57d9317adf_0.webp",
+    "images/meat_dish/c497e815-98e7-4abc-852e-1a57d9317adf_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/酱排骨/酱排骨.md"
+  },
+  "hash": "1742276fb245291d562ee4d69472d1095ca72769439d512b5f3d013c17d33a2c"
+}

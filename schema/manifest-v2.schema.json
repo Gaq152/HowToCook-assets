@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gaq152.github.io/HowToCook-assets/schema/manifest-v2.schema.json",
+  "title": "HowToCook Manifest V2",
+  "type": "object",
+  "required": [
+    "schemaVersion", "dataVersion", "generatedAt", "source", "recipeIdFormat",
+    "basePath", "migrations", "totalRecipes", "totalTips", "totalImages",
+    "categories", "tipsCategories", "recipes", "tips", "hash"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 2 },
+    "dataVersion": { "type": "string", "pattern": "^\\d{4}\\.\\d{2}\\.\\d{2}\\.\\d+$" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "source": {
+      "type": "object",
+      "required": ["repository", "commit", "committedAt"],
+      "properties": {
+        "repository": { "type": "string", "format": "uri" },
+        "commit": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+        "committedAt": { "type": "string", "format": "date-time" }
+      },
+      "additionalProperties": false
+    },
+    "recipeIdFormat": { "const": "uuid-v4-registry" },
+    "basePath": { "type": "string" },
+    "migrations": {
+      "type": "object",
+      "required": ["recipeIdsV1ToV2"],
+      "properties": { "recipeIdsV1ToV2": { "type": "string" } },
+      "additionalProperties": false
+    },
+    "totalRecipes": { "type": "integer", "minimum": 0 },
+    "totalTips": { "type": "integer", "minimum": 0 },
+    "totalImages": { "type": "integer", "minimum": 0 },
+    "categories": { "type": "object" },
+    "tipsCategories": { "type": "object" },
+    "recipes": { "type": "array" },
+    "tips": { "type": "array" },
+    "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+  },
+  "additionalProperties": false
+}

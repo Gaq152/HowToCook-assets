@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fef2902a-5f0c-422f-9883-05435e8e60e2",
+  "legacyIds": [
+    "dessert_d1eb32ee"
+  ],
+  "name": "龟苓膏",
+  "description": "龟苓膏是一道广式传统甜品，口感嫩滑微苦回甘，常作为夏日消暑小食。龟苓膏能清热祛湿、滋阴养颜，是营养健康的一款点心。做法简单，新手也能轻松掌握，全程只需备料、搅拌和加热，冷藏等待约两小时后即可享用。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 129,
+  "requirements": [
+    {
+      "text": "龟苓膏粉 25 克",
+      "markdown": "龟苓膏粉 25 克",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷水 120 毫升",
+      "markdown": "冷水 120 毫升",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开水 500 毫升",
+      "markdown": "开水 500 毫升",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖 100 克",
+      "markdown": "白砂糖 100 克",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小锅",
+      "markdown": "小锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌工具",
+      "markdown": "搅拌工具",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "模具或碗",
+      "markdown": "模具或碗",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 龟苓膏粉 25 克  \r\n- 冷水 120 毫升  \r\n- 开水 500 毫升  \r\n- 白砂糖 100 克  \r\n- 小锅  \r\n- 搅拌工具  \r\n- 模具或碗\r\n\r\n---",
+  "ingredients": [
+    {
+      "name": "龟苓膏粉",
+      "text": "龟苓膏粉 25 克",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "冷水",
+      "text": "冷水 120 毫升",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "开水",
+      "text": "开水 500 毫升",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 100 克",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "小锅",
+      "text": "小锅",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "搅拌工具",
+      "text": "搅拌工具",
+      "optional": false,
+      "source": "requirements-fallback"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作约可获得 3-4 小碗成品，适合 2-4 人食用。\r\n\r\n---",
+  "calculationNotes": [
+    "每次制作约可获得 3-4 小碗成品，适合 2-4 人食用。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "在锅中倒入龟苓膏粉 25 克与冷水 120 毫升，充分搅拌至无颗粒感。"
+    },
+    {
+      "kind": "step",
+      "description": "在另一个容器中加入白砂糖 100 克，倒入沸水 500 毫升，搅拌至糖完全溶解。"
+    },
+    {
+      "kind": "step",
+      "description": "将糖水缓慢倒入龟苓膏粉液中，立即搅拌均匀，避免结块。"
+    },
+    {
+      "kind": "step",
+      "description": "将混合液体放入锅中，加热时保持中小火，并持续搅拌以防粘锅。"
+    },
+    {
+      "kind": "step",
+      "description": "加热至液体变粘稠并开始冒小泡，即可关火。"
+    },
+    {
+      "kind": "step",
+      "description": "快速将液体倒入模具中，自然冷却凝固。建议冷藏 1~2 小时后食用，口感更佳。"
+    }
+  ],
+  "operationMarkdown": "1. 在锅中倒入龟苓膏粉 25 克与冷水 120 毫升，充分搅拌至无颗粒感。\r\n2. 在另一个容器中加入白砂糖 100 克，倒入沸水 500 毫升，搅拌至糖完全溶解。\r\n3. 将糖水缓慢倒入龟苓膏粉液中，立即搅拌均匀，避免结块。\r\n4. 将混合液体放入锅中，加热时保持中小火，并持续搅拌以防粘锅。\r\n5. 加热至液体变粘稠并开始冒小泡，即可关火。\r\n6. 快速将液体倒入模具中，自然冷却凝固。建议冷藏 1~2 小时后食用，口感更佳。\r\n\r\n---",
+  "tips": "- 龟苓膏冷却过程中不可随意移动容器，否则可能影响成型。  \r\n- 加热时应避免使用大火，防止结块或糊底。  \r\n- 可根据个人口味添加蜂蜜、炼乳或水果食用。  \r\n- 不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 龟苓膏冷却过程中不可随意移动容器，否则可能影响成型。  \r\n- 加热时应避免使用大火，防止结块或糊底。  \r\n- 可根据个人口味添加蜂蜜、炼乳或水果食用。  \r\n- 不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/fef2902a-5f0c-422f-9883-05435e8e60e2_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/龟苓膏/龟苓膏.md"
+  },
+  "hash": "e27b2de09ac4780fda48b992f231ab548fafd208fbd85df134dd2dcc1c6a05d0"
+}

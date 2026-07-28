@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 2,
+  "id": "a7c6fb59-32da-4c27-9f63-fff5ce9c5b6d",
+  "legacyIds": [
+    "meat_dish_8e08b242"
+  ],
+  "name": "水煮肉片",
+  "description": "水煮肉片是一道麻辣鲜香、肉片滑嫩、配菜爽脆的经典川菜，极其适合下饭。猪里脊提供优质蛋白质，搭配豆芽等蔬菜，营养均衡。做法稍显繁琐，尤其需要耐心腌制肉片和制作刀口辣椒，新手大约需要 1 至 2 小时完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 361,
+  "requirements": [
+    {
+      "text": "猪里脊肉",
+      "markdown": "猪里脊肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋清",
+      "markdown": "鸡蛋清",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆淀粉",
+      "markdown": "土豆淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "植物油",
+      "markdown": "植物油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆芽",
+      "markdown": "豆芽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "凤尾",
+      "markdown": "凤尾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜",
+      "markdown": "芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红泡椒",
+      "markdown": "红泡椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青花椒",
+      "markdown": "青花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红油豆瓣",
+      "markdown": "红油豆瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜籽油",
+      "markdown": "菜籽油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪里脊肉\r\n- 食用盐\r\n- 胡椒粉\r\n- 生抽酱油\r\n- 料酒\r\n- 鸡蛋清\r\n- 土豆淀粉\r\n- 植物油\r\n- 豆芽\r\n- 凤尾\r\n- 芹菜\r\n- 蒜苗\r\n- 大蒜\r\n- 生姜\r\n- 红泡椒\r\n- 青花椒\r\n- 干辣椒\r\n- 红油豆瓣\r\n- 鸡精\r\n- 白砂糖\r\n- 小葱\r\n- 菜籽油",
+  "ingredients": [
+    {
+      "name": "里脊肉的用量为",
+      "text": "里脊肉的用量为 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红泡椒",
+      "text": "红泡椒 20g（根据受辣程度选择 0-40 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗",
+      "text": "蒜苗 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芹菜",
+      "text": "芹菜 3 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红油瓣酱",
+      "text": "红油瓣酱 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 1.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽酱油",
+      "text": "生抽酱油 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋清",
+      "text": "鸡蛋清 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆淀粉",
+      "text": "土豆淀粉 7g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "植物油",
+      "text": "植物油 280g（根据情况选择，想吃重油就多加 100g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜籽油",
+      "text": "菜籽油 200g（根据情况选择，想吃重油就多加 100g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "绿豆芽",
+      "text": "绿豆芽 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "凤尾",
+      "text": "凤尾 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣干辣椒",
+      "text": "小米辣干辣椒 20g（根据受辣程度选择 0-40g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青花椒",
+      "text": "青花椒 5g（根据情况选择，想吃麻就多 5g）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 里脊肉的用量为 300g\r\n- 小葱 2 根\r\n- 生姜 10g\r\n- 大蒜 20g\r\n- 红泡椒 20g（根据受辣程度选择 0-40 g）\r\n- 蒜苗 2 根\r\n- 芹菜 3 根\r\n- 红油瓣酱 5ml\r\n- 鸡精 1.5g\r\n- 生抽酱油 5g\r\n- 食用盐 5g\r\n- 胡椒粉 2g\r\n- 料酒 3g\r\n- 鸡蛋清  1 个\r\n- 土豆淀粉 7g\r\n- 植物油 280g（根据情况选择，想吃重油就多加 100g）\r\n- 菜籽油 200g（根据情况选择，想吃重油就多加 100g）\r\n- 绿豆芽 100g\r\n- 凤尾 1 根\r\n- 白砂糖 1g\r\n- 小米辣干辣椒 20g（根据受辣程度选择 0-40g）\r\n- 青花椒 5g（根据情况选择，想吃麻就多 5g）",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "里脊肉改刀成小块，再切成 2 毫米薄片（可根据自己的口感改进），放入碗中，加入清水清洗两遍来去除血水和杂质，捞出挤干水分备用。"
+    },
+    {
+      "kind": "step",
+      "description": "碗中加入食用盐 1.5g，胡椒粉 1g，生抽酱油 5g，料酒 3g，然后朝着一个方向搅拌 2 分钟，使其入味。"
+    },
+    {
+      "kind": "step",
+      "description": "另外准备一个碗，加入一个鸡蛋清，加入 7g 土豆淀粉，一个方向搅拌均匀，倒入肉中"
+    },
+    {
+      "kind": "step",
+      "description": "再次一个方向搅拌均匀（肉表面就形成了润滑膜，这样会使肉更加鲜嫩）"
+    },
+    {
+      "kind": "step",
+      "description": "最后再加入 30g 植物油轻轻搅拌（防止肉片粘连）。"
+    },
+    {
+      "kind": "step",
+      "description": "绿豆芽 100g，凤尾 1 根（改刀成小条），芹菜 3 根切成小段，蒜苗 2 根拍散切成小段。"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜 20g 剁碎，生姜小块剁碎，红泡椒 20g 剁碎。"
+    },
+    {
+      "kind": "step",
+      "description": "小米辣干辣椒 15g，青花椒 3g，锅内加入油滑锅，油稍许热了将多余的倒出备用留 50g 底油，下入干辣椒、花椒，开小火炒香，切记不要炒糊（颜色要变黑即可），倒出在菜板上剁细。"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热，放入 100g 植物油烧至 6 成热，加入 2g 青花椒、干辣椒爆香，配菜下锅，加入 1g 食用盐，炒至断生，盛入碗中垫底备用。"
+    },
+    {
+      "kind": "step",
+      "description": "锅洗干净，加入 150g 植物油烧至 6 成热，加入制作好的姜蒜红泡椒，爆香后加入豆瓣 10g，开小火把豆瓣爆香炒出红油即可。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 800 毫升清水（根据实际情况选择），大火烧开，转小火调味，加入食用盐 2.5g，鸡精 1.5g，1g 白砂糖提鲜，1g 胡椒粉，5g 水淀粉（根据实际情况选择）将汤汁收浓稠一点。"
+    },
+    {
+      "kind": "step",
+      "description": "汤汁开后，开小火将腌制好的肉片分开依次下锅，然后开中火将肉片烫熟，用锅铲轻轻推动一下避免粘连，待汤汁烧开，肉片熟后捞出放入碗中配菜上，再将原汤倒入（不超过菜品）。"
+    },
+    {
+      "kind": "step",
+      "description": "碗中均匀撒上刀口辣椒、蒜蓉和葱花。"
+    },
+    {
+      "kind": "step",
+      "description": "锅洗干净，加入 200g 菜籽油，烧至 7 成热，然后一次性均匀泼在碗中肉片上（注意安全），美味完成。"
+    }
+  ],
+  "operationMarkdown": "1. 里脊肉改刀成小块，再切成 2 毫米薄片（可根据自己的口感改进），放入碗中，加入清水清洗两遍来去除血水和杂质，捞出挤干水分备用。\r\n2. 碗中加入食用盐 1.5g，胡椒粉 1g，生抽酱油 5g，料酒 3g，然后朝着一个方向搅拌 2 分钟，使其入味。\r\n3. 另外准备一个碗，加入一个鸡蛋清，加入 7g 土豆淀粉，一个方向搅拌均匀，倒入肉中\r\n\r\n  - 再次一个方向搅拌均匀（肉表面就形成了润滑膜，这样会使肉更加鲜嫩）\r\n  - 最后再加入 30g 植物油轻轻搅拌（防止肉片粘连）。\r\n\r\n4. 绿豆芽 100g，凤尾 1 根（改刀成小条），芹菜 3 根切成小段，蒜苗 2 根拍散切成小段。\r\n5. 大蒜 20g 剁碎，生姜小块剁碎，红泡椒 20g 剁碎。\r\n6. 小米辣干辣椒 15g，青花椒 3g，锅内加入油滑锅，油稍许热了将多余的倒出备用留 50g 底油，下入干辣椒、花椒，开小火炒香，切记不要炒糊（颜色要变黑即可），倒出在菜板上剁细。\r\n7. 锅烧热，放入 100g 植物油烧至 6 成热，加入 2g 青花椒、干辣椒爆香，配菜下锅，加入 1g 食用盐，炒至断生，盛入碗中垫底备用。\r\n8. 锅洗干净，加入 150g 植物油烧至 6 成热，加入制作好的姜蒜红泡椒，爆香后加入豆瓣 10g，开小火把豆瓣爆香炒出红油即可。\r\n9. 加入 800 毫升清水（根据实际情况选择），大火烧开，转小火调味，加入食用盐 2.5g，鸡精 1.5g，1g 白砂糖提鲜，1g 胡椒粉，5g 水淀粉（根据实际情况选择）将汤汁收浓稠一点。\r\n10. 汤汁开后，开小火将腌制好的肉片分开依次下锅，然后开中火将肉片烫熟，用锅铲轻轻推动一下避免粘连，待汤汁烧开，肉片熟后捞出放入碗中配菜上，再将原汤倒入（不超过菜品）。\r\n11. 碗中均匀撒上刀口辣椒、蒜蓉和葱花。\r\n12. 锅洗干净，加入 200g 菜籽油，烧至 7 成热，然后一次性均匀泼在碗中肉片上（注意安全），美味完成。",
+  "tips": "- 垫底的蔬菜根据自己口味选择（蘑菇、白菜、油麦菜等）。\r\n- 刀口辣椒制作嫌麻烦也可以直接用干辣椒段和青花椒代替。\r\n- 特别注意肉的腌制（搅拌的时候朝着一个方向、血水处理干净），保证肉滑嫩（鸡蛋清、淀粉搅拌均匀）。\r\n- 水煮牛肉也可以按照这个做法。\r\n\r\n### 参考资料\r\n\r\n- [美食作家王刚R](https://www.bilibili.com/video/BV1ys411u7Z4)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 垫底的蔬菜根据自己口味选择（蘑菇、白菜、油麦菜等）。\r\n- 刀口辣椒制作嫌麻烦也可以直接用干辣椒段和青花椒代替。\r\n- 特别注意肉的腌制（搅拌的时候朝着一个方向、血水处理干净），保证肉滑嫩（鸡蛋清、淀粉搅拌均匀）。\r\n- 水煮牛肉也可以按照这个做法。\r\n\r\n### 参考资料\r\n\r\n- [美食作家王刚R](https://www.bilibili.com/video/BV1ys411u7Z4)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/水煮肉片.md"
+  },
+  "hash": "76973ff38c61911d92038e154f807afdff5648ea1a782a30d1757950512d14d1"
+}

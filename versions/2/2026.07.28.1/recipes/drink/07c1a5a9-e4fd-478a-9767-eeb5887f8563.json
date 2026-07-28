@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "id": "07c1a5a9-e4fd-478a-9767-eeb5887f8563",
+  "legacyIds": [
+    "drink_8175c20b"
+  ],
+  "name": "可乐桶",
+  "description": "可乐桶是一款简单易调的休闲鸡尾酒，口感清爽甜润，可乐的气泡和柠檬汁很好地中和了威士忌的烈感，适合聚会场合。主要提供能量，柠檬补充维生素 C。整个调配过程只需 5 分钟即可完成，新手也能轻松上手。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 450,
+  "requirements": [
+    {
+      "text": "波旁威士忌",
+      "markdown": "波旁威士忌",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可口可乐",
+      "markdown": "可口可乐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬（可选，提升口感用）",
+      "markdown": "柠檬（可选，提升口感用）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "手动压汁器",
+      "markdown": "手动压汁器",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "原料\r\n\r\n- 波旁威士忌\r\n- 可口可乐\r\n- 冰块\r\n- 柠檬（可选，提升口感用）\r\n\r\n工具\r\n\r\n- 手动压汁器",
+  "ingredients": [
+    {
+      "name": "威士忌",
+      "text": "威士忌 100 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可口可乐",
+      "text": "可口可乐 500 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 300 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 900 毫升（含冰）\r\n\r\n- 威士忌 100 毫升\r\n- 可口可乐 500 毫升\r\n- 柠檬 1 个\r\n- 冰块 300 克",
+  "calculationNotes": [
+    "一杯分量，约 900 毫升（含冰）"
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "柠檬的处理"
+    },
+    {
+      "kind": "step",
+      "description": "将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用"
+    },
+    {
+      "kind": "step",
+      "description": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用"
+    },
+    {
+      "kind": "step",
+      "description": "将挤压过的柠檬置于容器中备用"
+    },
+    {
+      "kind": "note",
+      "description": "正式调配"
+    },
+    {
+      "kind": "step",
+      "description": "选择一个杯子，建议使用容量在大约 1 升的大型玻璃杯或铁皮酒桶"
+    },
+    {
+      "kind": "step",
+      "description": "将冰块和挤压过的柠檬入杯中（可根据个人喜好设计柠檬与冰块的摆放）"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 15 毫升柠檬汁（如果喜酸可以加多点或全加）"
+    },
+    {
+      "kind": "step",
+      "description": "沿杯壁缓慢倒入可口可乐至距离杯口 3/4 处（控制可乐和威士忌的比例约在 5:1 ）"
+    },
+    {
+      "kind": "step",
+      "description": "倒入威士忌直至满杯"
+    }
+  ],
+  "operationMarkdown": "柠檬的处理\r\n\r\n1. 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用\r\n2. 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用\r\n3. 将挤压过的柠檬置于容器中备用\r\n\r\n正式调配\r\n\r\n1. 选择一个杯子，建议使用容量在大约 1 升的大型玻璃杯或铁皮酒桶\r\n2. 将冰块和挤压过的柠檬入杯中（可根据个人喜好设计柠檬与冰块的摆放）\r\n3. 倒入 15 毫升柠檬汁（如果喜酸可以加多点或全加）\r\n4. 沿杯壁缓慢倒入可口可乐至距离杯口 3/4 处（控制可乐和威士忌的比例约在 5:1 ）\r\n5. 倒入威士忌直至满杯",
+  "tips": "可乐桶因冰块和可乐的口感掩盖了威士忌的酒味，因此不善酒力的人也容易在不知不觉中过量饮酒，请在保证个人与饮酒者的安全下调配。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "可乐桶因冰块和可乐的口感掩盖了威士忌的酒味，因此不善酒力的人也容易在不知不觉中过量饮酒，请在保证个人与饮酒者的安全下调配。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/可乐桶.md"
+  },
+  "hash": "438f6ae40493836717f7a0e11d68682ea1febd116a70855839beff5b35ed48d2"
+}

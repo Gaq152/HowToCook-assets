@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "id": "399719f2-8aa2-428b-8c3a-260b52a137f6",
+  "legacyIds": [
+    "aquatic_d10b5ae7"
+  ],
+  "name": "清蒸生蚝",
+  "description": "清蒸生蚝是一道原汁原味的沿海家常菜，蚝肉鲜嫩多汁，带着淡淡的海水咸香，蒜蓉与姜丝激发出清甜口感。生蚝富含优质蛋白和锌元素，能帮助提升免疫力。操作不算复杂，但掀开滚烫锅盖和处理蚝壳需要稍加小心，新手也能顺利完成。从刷洗到出锅，大约只需二十分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 184,
+  "requirements": [
+    {
+      "text": "生蚝",
+      "markdown": "生蚝",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "刷子",
+      "markdown": "刷子",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 生蚝\r\n* 葱\r\n* 蒜\r\n* 姜\r\n* 酱油\r\n* 刷子",
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "text": "饮用水 1 升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生蚝",
+      "text": "生蚝 6 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 6 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 1 小块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油 每个生蚝",
+      "text": "酱油 每个生蚝 1 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 饮用水 1 升\r\n* 生蚝 6 个\r\n* 葱 3 颗\r\n* 蒜 6 瓣\r\n* 姜 1 小块\r\n* 酱油 每个生蚝 1 ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将生蚝用刷子刷干净（没有刷子用牙刷）。"
+    },
+    {
+      "kind": "step",
+      "description": "蒸锅中放水，将蒸屉放上之后，将 6 个生蚝平铺在蒸屉，使用 50%功率，蒸 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "用右手拿着湿抹布掀开烫锅盖，将每个生蚝的外壳掀开一半去掉，生蚝的凸面向下，平面向上，每个放 1 根姜丝,10g 蒜末放到生蚝上。"
+    },
+    {
+      "kind": "step",
+      "description": "关上烫锅盖，100%功率蒸 3.5 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "停火，用右手拿着抹布掀开烫锅盖，每个放 5ml 酱油。"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘。"
+    }
+  ],
+  "operationMarkdown": "1. 将生蚝用刷子刷干净（没有刷子用牙刷）。\r\n2. 蒸锅中放水，将蒸屉放上之后，将 6 个生蚝平铺在蒸屉，使用 50%功率，蒸 3 分钟。\r\n3. 用右手拿着湿抹布掀开烫锅盖，将每个生蚝的外壳掀开一半去掉，生蚝的凸面向下，平面向上，每个放 1 根姜丝,10g 蒜末放到生蚝上。\r\n4. 关上烫锅盖，100%功率蒸 3.5 分钟。\r\n5. 停火，用右手拿着抹布掀开烫锅盖，每个放 5ml 酱油。\r\n6. 盛盘。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/清蒸生蚝.md"
+  },
+  "hash": "c85240d0f9cba0b7e0b80f01368734b78da492f4455ed5d8b6de663ecd8bbebc"
+}

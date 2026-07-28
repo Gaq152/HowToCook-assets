@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "d21dd613-3511-48e7-8010-cabda19cad14",
+  "legacyIds": [
+    "staple_4b64abee"
+  ],
+  "name": "烙饼",
+  "description": "这道家常烙饼层次分明，外皮酥脆内里柔软，带着油酥的焦香，是北方餐桌上常见的主食。主要提供碳水化合物和能量，适合搭配菜肴一起食用。制作需要一点手法，尤其卷酥和擀饼环节，但跟着步骤操作并不难，新手也能掌握。从和面到烙好，大约需要 1 个小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1185,
+  "requirements": [
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "电饼铛",
+      "markdown": "电饼铛",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 油\r\n* 面粉\r\n* 电饼铛",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "text": "面粉 = 400g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "热水",
+      "text": "热水 = 130ml（80 度）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷水",
+      "text": "冷水 = 130ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意：该主食不提供更少或更多的版本，这里选取了最适合新手的量：\r\n\r\n* 面粉 = 400g\r\n* 热水 = 130ml（80 度）\r\n* 冷水 = 130ml",
+  "calculationNotes": [
+    "注意：该主食不提供更少或更多的版本，这里选取了最适合新手的量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 400g 面粉倒入盆中，一半用凉水和面，一半用热水和面，搅拌成面絮，用手揉成团。用保鲜膜封起来，醒面 40 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "离醒面完成时间还有 10 分钟时，请查看[小技巧](../../condiment/油酥.md)中的油酥做法（热油酥效果更好）"
+    },
+    {
+      "kind": "step",
+      "description": "醒好的面不用揉，稍微摁一下，用一横刀一竖刀将其分成四份。"
+    },
+    {
+      "kind": "step",
+      "description": "搓圆，擀开，擀成与电饼铛大小差不多的饼，取 1/4 的油酥，将饼表面涂抹均匀"
+    },
+    {
+      "kind": "step",
+      "description": "沿饼的半径切开，从外圈将其卷成圆锥形，然后将圆锥尾部捏好，防止油酥外漏。"
+    },
+    {
+      "kind": "step",
+      "description": "按压面饼圆锥尖的地方，将其压扁，然后再次擀成与电饼铛大小差不多的面饼（厚度约为 3mm）"
+    },
+    {
+      "kind": "step",
+      "description": "将电饼铛预热，涂上凉油（热锅凉油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀（锁住水分），盖上盖子"
+    },
+    {
+      "kind": "step",
+      "description": "大火烙一分钟，打开盖子，将饼翻个面再烙一分钟"
+    },
+    {
+      "kind": "step",
+      "description": "重复以上动作，完成饼的烙制"
+    }
+  ],
+  "operationMarkdown": "1. 将 400g 面粉倒入盆中，一半用凉水和面，一半用热水和面，搅拌成面絮，用手揉成团。用保鲜膜封起来，醒面 40 分钟\r\n2. 离醒面完成时间还有 10 分钟时，请查看[小技巧](../../condiment/油酥.md)中的油酥做法（热油酥效果更好）\r\n3. 醒好的面不用揉，稍微摁一下，用一横刀一竖刀将其分成四份。\r\n4. 搓圆，擀开，擀成与电饼铛大小差不多的饼，取 1/4 的油酥，将饼表面涂抹均匀\r\n5. 沿饼的半径切开，从外圈将其卷成圆锥形，然后将圆锥尾部捏好，防止油酥外漏。\r\n6. 按压面饼圆锥尖的地方，将其压扁，然后再次擀成与电饼铛大小差不多的面饼（厚度约为 3mm）\r\n7. 将电饼铛预热，涂上凉油（热锅凉油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀（锁住水分），盖上盖子\r\n8. 大火烙一分钟，打开盖子，将饼翻个面再烙一分钟\r\n9. 重复以上动作，完成饼的烙制\r\n\r\n![烙饼-预览图-1](./成品.jpg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/d21dd613-3511-48e7-8010-cabda19cad14_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/烙饼/烙饼.md"
+  },
+  "hash": "50287acb02a1fe4d5d846584bc08da730cf260dbafba9847ccc7645c59b9e8c4"
+}

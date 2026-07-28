@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "id": "1dec1642-4939-4d4c-b86b-ca87484d1a67",
+  "legacyIds": [
+    "vegetable_dish_7e19aaf5"
+  ],
+  "name": "凉拌黄瓜",
+  "description": "这是一道清爽开胃的家常凉菜，口感脆嫩，酸香适口。黄瓜富含水分和维生素，有助于清热解暑、美容养颜。做法非常简单，对新手友好，只需拍碎、调味、腌制 15 分钟，全程约 20 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 107,
+  "requirements": [
+    {
+      "text": "黄瓜",
+      "markdown": "黄瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 黄瓜\r\n* 醋\r\n* 酱油\r\n* 蒜",
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "text": "黄瓜 200 克 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 7.5 ml + 4 ml * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 5 ml + 2.5 ml * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 3 瓣 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 0.4 克 + 0.2 克 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 5 ml + 2 ml * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n* 黄瓜 200 克  * 份数\r\n* 醋 7.5 ml + 4 ml * 份数\r\n* 酱油 5 ml + 2.5 ml * 份数\r\n* 蒜 3 瓣 * 份数\r\n* 盐 0.4 克 + 0.2 克 * 份数\r\n* 香油 5 ml + 2 ml * 份数\r\n* 蚝油 5 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "用菜刀将黄瓜拍扁，再剁成长 3 厘米的碎块"
+    },
+    {
+      "kind": "step",
+      "description": "将碎黄瓜装入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜拍碎切成碎末"
+    },
+    {
+      "kind": "step",
+      "description": "将碗中放入 5 克白糖，搅拌均匀腌制 15 分钟（用糖腌制更好吃，且成色更好不会蔫）"
+    },
+    {
+      "kind": "step",
+      "description": "将醋，酱油，盐，蚝油和蒜依次倒入碗中搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将香油倒入碗中并均匀搅拌"
+    }
+  ],
+  "operationMarkdown": "1. 用菜刀将黄瓜拍扁，再剁成长 3 厘米的碎块\r\n2. 将碎黄瓜装入碗中\r\n3. 将蒜拍碎切成碎末\r\n4. 将碗中放入 5 克白糖，搅拌均匀腌制 15 分钟（用糖腌制更好吃，且成色更好不会蔫）\r\n5. 将醋，酱油，盐，蚝油和蒜依次倒入碗中搅拌均匀\r\n6. 将香油倒入碗中并均匀搅拌",
+  "tips": "* 部分情况下黄瓜端头有苦味，请洗净切下后确认\r\n* 做好之后直接开吃，亦可先准备好后放入冰箱冷藏（并非冷冻）后食用\r\n* 若放入冰箱冷藏，则需使用保鲜膜包紧，并在 8 小时内食用完毕，否则黄瓜会因过度腌制失去清脆口感\r\n* 推荐黄瓜去皮，口感更好\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 部分情况下黄瓜端头有苦味，请洗净切下后确认\r\n* 做好之后直接开吃，亦可先准备好后放入冰箱冷藏（并非冷冻）后食用\r\n* 若放入冰箱冷藏，则需使用保鲜膜包紧，并在 8 小时内食用完毕，否则黄瓜会因过度腌制失去清脆口感\r\n* 推荐黄瓜去皮，口感更好\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/凉拌黄瓜.md"
+  },
+  "hash": "e0549fd608df5e2a6dce6d4fc6f59e24948f86282fdec57aea47790c99806a6f"
+}

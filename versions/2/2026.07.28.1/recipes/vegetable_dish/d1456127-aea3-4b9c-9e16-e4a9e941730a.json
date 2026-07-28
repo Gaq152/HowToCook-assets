@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "id": "d1456127-aea3-4b9c-9e16-e4a9e941730a",
+  "legacyIds": [
+    "vegetable_dish_e1eb3209"
+  ],
+  "name": "清炒花菜",
+  "description": "一道常见的家常素菜，口感脆嫩爽口。富含维生素 C 和膳食纤维。做法简单快捷，一般初学者仅需 15 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 211,
+  "requirements": [
+    {
+      "text": "花菜",
+      "markdown": "花菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 花菜\r\n- 大蒜\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "花菜 约",
+      "text": "花菜 约 300 g （约 1/2 中等大小的花菜）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 2-3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "饮用水",
+      "text": "饮用水 50 ml （用于炒制过程）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。\r\n\r\n每份：\r\n\r\n- 花菜 约 300 g （约 1/2 中等大小的花菜）\r\n- 大蒜 2-3 瓣\r\n- 盐 3 g\r\n- 食用油 15 ml\r\n- 饮用水 50 ml （用于炒制过程）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人食用（作为配菜）。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将 大蒜 去皮，切成蒜片，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 1000 ml 饮用水，大火烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 花菜 朵，煮 **2-3 分钟**，至花菜颜色变浅，口感稍微软化。"
+    },
+    {
+      "kind": "step",
+      "description": "将 煮好的 花菜 捞出，沥干水分，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入 15 ml 食用油，大火烧热。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 蒜片，快速煸炒出香味。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 焯好水的 花菜 朵，转中大火，快速翻炒约 **2 分钟**，使花菜均匀受热。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 3 g 盐，继续翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 **1 分钟**，帮助花菜完全熟透入味。"
+    },
+    {
+      "kind": "step",
+      "description": "开盖，快速翻炒均匀，即可出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 将 花菜 洗净，用刀或手掰成小朵，粗茎部分可以切片，备用。\r\n2. 将 大蒜 去皮，切成蒜片，备用。\r\n3. 锅中加入 1000 ml 饮用水，大火烧开。\r\n4. 放入 花菜 朵，煮 **2-3 分钟**，至花菜颜色变浅，口感稍微软化。\r\n5. 将 煮好的 花菜 捞出，沥干水分，备用。\r\n6. 热锅，加入 15 ml 食用油，大火烧热。\r\n7. 放入 蒜片，快速煸炒出香味。\r\n8. 放入 焯好水的 花菜 朵，转中大火，快速翻炒约 **2 分钟**，使花菜均匀受热。\r\n9. 加入 3 g 盐，继续翻炒均匀。\r\n10. 沿锅边淋入 50 ml 饮用水，盖上锅盖，焖 **1 分钟**，帮助花菜完全熟透入味。\r\n11. 开盖，快速翻炒均匀，即可出锅。",
+  "tips": "- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\r\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。\r\n- 炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/清炒花菜.md"
+  },
+  "hash": "1077c84293d127143ffb404405dadda1deff0de6c2933a795917d1acb61e8a0d"
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 2,
+  "id": "6f82d987-4870-4168-b8d4-bfd4befb119b",
+  "legacyIds": [
+    "staple_2b2ce621"
+  ],
+  "name": "炒凉粉",
+  "description": "炒凉粉是一道山西、陕西地区的特色小吃，入口滑嫩，咸香微辣，带着蒜香和酱香。凉粉主要由淀粉制成，能提供丰富的碳水化合物，快速补充能量。烹饪难度适中，适合有一定基础的新手尝试，全程制作大约需要 15 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 567,
+  "requirements": [
+    {
+      "text": "凉粉",
+      "markdown": "凉粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米油",
+      "markdown": "玉米油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "十三香",
+      "markdown": "十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "中粗辣椒面",
+      "markdown": "中粗辣椒面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "矿泉水",
+      "markdown": "矿泉水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 凉粉\r\n- 玉米油\r\n- 大蒜\r\n- 香葱\r\n- 豆瓣酱\r\n- 生抽\r\n- 老抽\r\n- 食盐\r\n- 十三香\r\n- 中粗辣椒面\r\n- 矿泉水",
+  "ingredients": [
+    {
+      "name": "凉粉",
+      "text": "凉粉 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米油",
+      "text": "玉米油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜末",
+      "text": "蒜末 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱",
+      "text": "香葱 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "十三香",
+      "text": "十三香 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "中粗辣椒面",
+      "text": "中粗辣椒面 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "矿泉水",
+      "text": "矿泉水 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "下述材料为一人份，每次制作前需要确定计划做几份。一份正好够一个人吃。\r\n\r\n- 凉粉 500g\r\n- 玉米油 10ml\r\n- 蒜末 10g\r\n- 香葱 15g\r\n- 豆瓣酱 15g\r\n- 生抽 20ml\r\n- 老抽 10ml\r\n- 食盐 5g\r\n- 十三香 5g\r\n- 中粗辣椒面 15g\r\n- 矿泉水 20ml",
+  "calculationNotes": [
+    "下述材料为一人份，每次制作前需要确定计划做几份。一份正好够一个人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "凉粉改刀切麻将块大小"
+    },
+    {
+      "kind": "step",
+      "description": "开小火，起锅烧油，锅烧微热后，下入蒜末爆香后加入豆瓣酱炒出红油"
+    },
+    {
+      "kind": "step",
+      "description": "将凉粉块下入锅中，翻炒 10 秒"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽提味，老抽上色，翻炒均匀后加入辣椒面继续翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入食盐、十三香继续翻炒 10 秒"
+    },
+    {
+      "kind": "step",
+      "description": "加入准备好的矿泉水，再次翻炒 10 秒，待汤汁浓稠后，关火出锅装盘"
+    },
+    {
+      "kind": "step",
+      "description": "撒上葱花即可完成"
+    }
+  ],
+  "operationMarkdown": "1. 凉粉改刀切麻将块大小\r\n2. 开小火，起锅烧油，锅烧微热后，下入蒜末爆香后加入豆瓣酱炒出红油\r\n3. 将凉粉块下入锅中，翻炒 10 秒\r\n4. 加入生抽提味，老抽上色，翻炒均匀后加入辣椒面继续翻炒均匀\r\n5. 加入食盐、十三香继续翻炒 10 秒\r\n6. 加入准备好的矿泉水，再次翻炒 10 秒，待汤汁浓稠后，关火出锅装盘\r\n7. 撒上葱花即可完成\r\n\r\n  ![炒凉粉成品](./chaoliangfen.jpg)",
+  "tips": "- 选择凉粉时最好选用豌豆淀粉制作成的凉粉，条件不允许的话红薯淀粉或其他也可\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 选择凉粉时最好选用豌豆淀粉制作成的凉粉，条件不允许的话红薯淀粉或其他也可\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/6f82d987-4870-4168-b8d4-bfd4befb119b_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炒凉粉/炒凉粉.md"
+  },
+  "hash": "a53ae6866c7b028b9ddf4cc5a87c1a2b66e505e08a2693f8bbaa59f81fd80ea2"
+}

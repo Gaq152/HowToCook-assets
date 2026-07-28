@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "id": "cee343f9-332c-4e83-ab56-ac7c5ae03173",
+  "legacyIds": [
+    "meat_dish_75c92169"
+  ],
+  "name": "荷兰豆炒腊肠",
+  "description": "荷兰豆炒腊肠是一道清爽咸香的家常小炒，腊肠的油脂润着翠绿的荷兰豆，口感脆嫩不腻。荷兰豆富含优质蛋白质和多种维生素，有助于增强机体抗病能力。做法简单，几乎不需要刀工，初学者也能快速上手，从备料到出锅大约只需 15 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 606,
+  "requirements": [
+    {
+      "text": "荷兰豆",
+      "markdown": "荷兰豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "腊肠",
+      "markdown": "腊肠",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 荷兰豆\r\n- 腊肠\r\n- 生抽\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "荷兰豆大约",
+      "text": "荷兰豆大约 50 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "腊肠约",
+      "text": "腊肠约 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "下面是一人份。\r\n\r\n每份：\r\n\r\n- 荷兰豆大约 50 个\r\n- 腊肠约 100 g\r\n- 食用油 10ml\r\n- 生抽 10ml",
+  "calculationNotes": [
+    "下面是一人份。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉"
+    },
+    {
+      "kind": "step",
+      "description": "买腊肠之前可以问老板是生的还是熟的，如果是生的，需要提前蒸一下，如果是熟的可以直接使用"
+    },
+    {
+      "kind": "step",
+      "description": "把荷兰豆清洗一下，然后焯一下水，大概 45s，荷兰豆焯至变色即可，捞出过凉水备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入大约 10ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "放入腊肠，保持翻炒至腊肠*微微卷边*，注意这里一定要**保持小火**，小到不能小的那种，不然容易糊"
+    },
+    {
+      "kind": "step",
+      "description": "放入荷兰豆，转为中大火，翻炒 30s 放入生抽，接着再翻炒 20-30s 即可"
+    }
+  ],
+  "operationMarkdown": "1. 把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉\r\n\r\n2. 买腊肠之前可以问老板是生的还是熟的，如果是生的，需要提前蒸一下，如果是熟的可以直接使用\r\n\r\n3. 把荷兰豆清洗一下，然后焯一下水，大概 45s，荷兰豆焯至变色即可，捞出过凉水备用\r\n\r\n4. 热锅，锅内放入大约 10ml 食用油。等待 10 秒让油温升高\r\n\r\n5. 放入腊肠，保持翻炒至腊肠*微微卷边*，注意这里一定要**保持小火**，小到不能小的那种，不然容易糊\r\n\r\n6. 放入荷兰豆，转为中大火，翻炒 30s 放入生抽，接着再翻炒 20-30s 即可\r\n\r\n  ![荷兰豆炒腊肠](./2.png)",
+  "tips": "- 在制作过程中没有放盐，是因为腊肠本身会有一些味道，同时生抽也会有一些咸味。\r\n- 腊肠虽然味道不错，但属于不太健康的食物，建议少放。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 在制作过程中没有放盐，是因为腊肠本身会有一些味道，同时生抽也会有一些咸味。\r\n- 腊肠虽然味道不错，但属于不太健康的食物，建议少放。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/cee343f9-332c-4e83-ab56-ac7c5ae03173_0.webp",
+    "images/meat_dish/cee343f9-332c-4e83-ab56-ac7c5ae03173_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md"
+  },
+  "hash": "99ce98e631854e7732d344d4fb265862367acd009893c4ae5915c4aaf3a426c7"
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "id": "9f62817c-714f-46b4-b156-f5076ec79a81",
+  "legacyIds": [
+    "soup_653aa229"
+  ],
+  "name": "奶油蘑菇汤",
+  "description": "这是一道经典法式浓汤，口感丝滑绵密，菌香与奶香交融。蘑菇富含膳食纤维和微量元素，牛奶则提供优质蛋白与钙质。做法非常简单，新手也能轻松驾驭，从备料到完成大约需要 30 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 426,
+  "requirements": [
+    {
+      "text": "白蘑菇",
+      "markdown": "白蘑菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淡奶油",
+      "markdown": "淡奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒碎",
+      "markdown": "黑胡椒碎",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 白蘑菇  \r\n- 洋葱  \r\n- 黄油  \r\n- 面粉  \r\n- 牛奶  \r\n- 淡奶油  \r\n- 黑胡椒碎  \r\n- 盐  \r\n- 清水\r\n\r\n---",
+  "ingredients": [
+    {
+      "name": "白蘑菇",
+      "text": "白蘑菇 200 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 50 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 200 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淡奶油",
+      "text": "淡奶油 30 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 100 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒碎",
+      "text": "黑胡椒碎 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1~2 人食用。\r\n\r\n总量（按每份）：\r\n\r\n- 白蘑菇 200 克  \r\n- 洋葱 50 克  \r\n- 黄油 15 克  \r\n- 面粉 10 克  \r\n- 牛奶 200 毫升  \r\n- 淡奶油 30 毫升  \r\n- 清水 100 毫升  \r\n- 盐 2 克  \r\n- 黑胡椒碎 1 克\r\n\r\n---",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1~2 人食用。",
+    "总量（按每份）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "白蘑菇切片备用，洋葱切末备用。"
+    },
+    {
+      "kind": "step",
+      "description": "平底锅中放入黄油，小火融化后加入洋葱炒至透明。"
+    },
+    {
+      "kind": "step",
+      "description": "加入白蘑菇翻炒至出水变软，撒入面粉搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "加入牛奶和清水，搅拌均匀后小火煮沸，保持搅拌防止糊底。"
+    },
+    {
+      "kind": "step",
+      "description": "转小火煮约 10 分钟，汤汁浓稠。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入淡奶油继续加热 1 分钟，加入盐和黑胡椒调味。"
+    },
+    {
+      "kind": "step",
+      "description": "熄火后可用料理机打成细腻浓汤（可选）。"
+    }
+  ],
+  "operationMarkdown": "1. 白蘑菇切片备用，洋葱切末备用。  \r\n2. 平底锅中放入黄油，小火融化后加入洋葱炒至透明。  \r\n3. 加入白蘑菇翻炒至出水变软，撒入面粉搅拌均匀。  \r\n4. 加入牛奶和清水，搅拌均匀后小火煮沸，保持搅拌防止糊底。  \r\n5. 转小火煮约 10 分钟，汤汁浓稠。  \r\n6. 倒入淡奶油继续加热 1 分钟，加入盐和黑胡椒调味。  \r\n7. 熄火后可用料理机打成细腻浓汤（可选）。\r\n\r\n---",
+  "tips": "- 可将部分蘑菇预留作为装饰，提前煎香再添加。  \r\n- 使用鸡高汤代替清水风味更佳，建议控制总液体不超过 300 毫升/份。  \r\n- 喜欢浓汤口感可适当增加面粉和淡奶油用量。  \r\n- 建议现做现吃，不建议冷藏或冷冻保存。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 可将部分蘑菇预留作为装饰，提前煎香再添加。  \r\n- 使用鸡高汤代替清水风味更佳，建议控制总液体不超过 300 毫升/份。  \r\n- 喜欢浓汤口感可适当增加面粉和淡奶油用量。  \r\n- 建议现做现吃，不建议冷藏或冷冻保存。\r\n\r\n---\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/奶油蘑菇汤.md"
+  },
+  "hash": "9f77e6c55bf1d0fdbb3db569480b794611f127923e4b69d4a3dbbcf561acbe33"
+}

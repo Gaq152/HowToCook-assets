@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "id": "84be1776-f503-4e5b-b07c-71a6ac8b3194",
+  "legacyIds": [
+    "semi-finished_0b36bd6b"
+  ],
+  "name": "空气炸锅羊排",
+  "description": "这道菜做法超级懒人，用空气炸锅能逼出多余油脂，成品外焦里嫩、蒜香浓郁，风味主要取决于羊排本身品质。羊肉富含优质蛋白和铁、锌等微量元素，有助于温补气血、增强体质。烹饪难度适中，新手也能轻松上手，实际动手操作仅需 10 分钟，算上腌制总时长约 40 分钟就能端上餐桌。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 473,
+  "requirements": [
+    {
+      "text": "必备：羊排（推荐 JD 购买大庄园 新西兰进口 羔羊法式肩排，500g/袋共三片，JD 打折的话 42 元）",
+      "markdown": "必备：羊排（推荐 JD 购买大庄园 新西兰进口 羔羊法式肩排，500g/袋共三片，JD 打折的话 42 元）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "必备：黑椒混合牛排调味料（懒）",
+      "markdown": "必备：黑椒混合牛排调味料（懒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "必备：蒜蓉酱（推荐川娃子的，同样是因为懒）",
+      "markdown": "必备：蒜蓉酱（推荐川娃子的，同样是因为懒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "必备：厨房纸",
+      "markdown": "必备：厨房纸",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可选：黄油（JD 买小盒装的，一片一小盒）",
+      "markdown": "可选：黄油（JD 买小盒装的，一片一小盒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可选：烧烤料",
+      "markdown": "可选：烧烤料",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可选：罗勒碎",
+      "markdown": "可选：罗勒碎",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可选：空气炸锅烤架（用烤架油比较少，底下更容易熟，洗起来麻烦。不用的话比较入味。看个人选择啦）",
+      "markdown": "可选：空气炸锅烤架（用烤架油比较少，底下更容易熟，洗起来麻烦。不用的话比较入味。看个人选择啦）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 必备：羊排（推荐 JD 购买大庄园 新西兰进口 羔羊法式肩排，500g/袋共三片，JD 打折的话 42 元）\r\n- 必备：黑椒混合牛排调味料（懒）\r\n- 必备：蒜蓉酱（推荐川娃子的，同样是因为懒）\r\n- 必备：厨房纸\r\n- 可选：黄油（JD 买小盒装的，一片一小盒）\r\n- 可选：烧烤料\r\n- 可选：罗勒碎\r\n- 可选：空气炸锅烤架（用烤架油比较少，底下更容易熟，洗起来麻烦。不用的话比较入味。看个人选择啦）",
+  "ingredients": [
+    {
+      "name": "羊排",
+      "text": "羊排 1 片约 160g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑椒混合牛排调味料",
+      "text": "黑椒混合牛排调味料 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜蓉酱",
+      "text": "蒜蓉酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 1 小盒 10g 或 烧烤料 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 羊排 1 片约 160g\r\n- 黑椒混合牛排调味料 5g\r\n- 蒜蓉酱 20g\r\n- 黄油 1 小盒 10g 或 烧烤料 20g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "羊排放入碗中清水洗净血水"
+    },
+    {
+      "kind": "step",
+      "description": "羊排用厨房纸吸干水分，双面抹上黑椒混合调味料、蒜蓉酱，静置腌制 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "锡纸碗放上烤架，羊排放在烤架上，撒上罗勒碎，黄油或烧烤料放在羊排上，空气炸锅 180° 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "羊排翻面，撒上罗勒碎，黄油（从锡纸碗里舀上来）或烧烤料放在羊排上，空气炸锅 180° 5 分钟（可以视个人喜好加一点时间，这里写的是不会焦的时间）"
+    }
+  ],
+  "operationMarkdown": "1. 羊排放入碗中清水洗净血水\r\n2. 羊排用厨房纸吸干水分，双面抹上黑椒混合调味料、蒜蓉酱，静置腌制 20 分钟\r\n3. 锡纸碗放上烤架，羊排放在烤架上，撒上罗勒碎，黄油或烧烤料放在羊排上，空气炸锅 180° 10 分钟\r\n4. 羊排翻面，撒上罗勒碎，黄油（从锡纸碗里舀上来）或烧烤料放在羊排上，空气炸锅 180° 5 分钟（可以视个人喜好加一点时间，这里写的是不会焦的时间）",
+  "tips": "- 推荐购买温控比较好的空气炸锅，不然可能会糊\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 推荐购买温控比较好的空气炸锅，不然可能会糊\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/semi-finished/84be1776-f503-4e5b-b07c-71a6ac8b3194_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md"
+  },
+  "hash": "7cd45c4e09120280fa4f58882e1e70628505d3ec864bd5294949d3aa04d3317e"
+}

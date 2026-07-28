@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "id": "33fda8d0-5a39-4870-8356-836b71513569",
+  "legacyIds": [
+    "meat_dish_0d68f3cc"
+  ],
+  "name": "口水鸡",
+  "description": "口水鸡是一道经典的四川凉菜，红油包裹的鸡肉冰爽 Q 弹、麻辣鲜香，夏季食用开胃解腻。鸡肉富含优质蛋白，搭配花生碎和香料，提供能量与风味。制作难度中等，需注意煮鸡火候和红油调味，适合有一定下厨经验的烹饪者。从备料、煮鸡、冷却到淋汁完成，预计耗时约 1.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1392,
+  "requirements": [
+    {
+      "text": "半只鸡",
+      "markdown": "半只鸡",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒粉",
+      "markdown": "辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生",
+      "markdown": "花生",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱姜蒜",
+      "markdown": "葱姜蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 半只鸡\r\n- 辣椒粉\r\n- 花椒\r\n- 花生\r\n- 葱姜蒜\r\n- 花椒\r\n- 白糖\r\n- 生抽\r\n- 醋\r\n- 味精",
+  "ingredients": [
+    {
+      "name": "食用油",
+      "text": "食用油 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡 半只(500g)",
+      "text": "鸡 半只(500g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒粉",
+      "text": "辣椒粉 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 30 颗(20g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生",
+      "text": "花生 10 颗(30g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 颗(50g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 1 小块(20g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 个 (10g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精",
+      "text": "味精 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒粉",
+      "text": "花椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 食用油   20ml\r\n- 鸡     半只(500g)\r\n- 辣椒粉   20g\r\n- 花椒     30 颗(20g)\r\n- 花生     10 颗(30g)\r\n- 小葱     2 颗(50g)\r\n- 姜       1 小块(20g)\r\n- 蒜       2 个 (10g)\r\n- 白糖     5g\r\n- 生抽     5ml\r\n- 醋       5ml\r\n- 味精     5g\r\n- 花椒粉   5g\r\n- 香菜     5g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "姜切片，1 颗小葱，15 颗花椒备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡肉洗干净，放入锅中，清水没过鸡肉，放入姜片、小葱和花椒，开大火烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "大火烧开后，转中小火 20 分钟关火"
+    },
+    {
+      "kind": "step",
+      "description": "取出鸡肉，放入冰水中，直至冰凉"
+    },
+    {
+      "kind": "step",
+      "description": "取出鸡肉，切块摆盘子中，备用"
+    },
+    {
+      "kind": "step",
+      "description": "小火把锅烧热，导入花生，烘烤至表皮爆裂。（注意随时翻动，不要糊了）"
+    },
+    {
+      "kind": "step",
+      "description": "一颗葱切成段，蒜拍成末，花椒 15 颗，花生去皮切碎。"
+    },
+    {
+      "kind": "step",
+      "description": "锅内导入油烧热后，放入葱段，花椒和一半蒜末，炒香"
+    },
+    {
+      "kind": "step",
+      "description": "炒至油温 8 成热，关火，滤出热油"
+    },
+    {
+      "kind": "step",
+      "description": "将热油倒入放辣椒粉的碗中，搅拌，并滤出红油"
+    },
+    {
+      "kind": "step",
+      "description": "红油中放入剩余蒜末、生抽、醋、盐、味精、糖、香油、花椒粉。拌匀放凉"
+    },
+    {
+      "kind": "step",
+      "description": "在鸡肉上撒上花生碎，把红油淋到切好的鸡肉上，撒上香菜。成盘"
+    }
+  ],
+  "operationMarkdown": "1. 姜切片，1 颗小葱，15 颗花椒备用\r\n2. 鸡肉洗干净，放入锅中，清水没过鸡肉，放入姜片、小葱和花椒，开大火烧开。\r\n3. 大火烧开后，转中小火 20 分钟关火\r\n4. 取出鸡肉，放入冰水中，直至冰凉\r\n5. 取出鸡肉，切块摆盘子中，备用\r\n6. 小火把锅烧热，导入花生，烘烤至表皮爆裂。（注意随时翻动，不要糊了）\r\n7. 一颗葱切成段，蒜拍成末，花椒 15 颗，花生去皮切碎。\r\n8. 锅内导入油烧热后，放入葱段，花椒和一半蒜末，炒香\r\n9. 炒至油温 8 成热，关火，滤出热油\r\n10. 将热油倒入放辣椒粉的碗中，搅拌，并滤出红油\r\n11. 红油中放入剩余蒜末、生抽、醋、盐、味精、糖、香油、花椒粉。拌匀放凉\r\n12. 在鸡肉上撒上花生碎，把红油淋到切好的鸡肉上，撒上香菜。成盘",
+  "tips": "- 口水鸡第二种做法待更\r\n- 如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 口水鸡第二种做法待更\r\n- 如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/33fda8d0-5a39-4870-8356-836b71513569_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/口水鸡/口水鸡.md"
+  },
+  "hash": "60143f6cbdec4a01f1cc36f22a760473126e0e74eaafcbe5ee4d639a0efef120"
+}

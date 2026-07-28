@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 2,
+  "id": "f2bdece5-22a4-42a6-9b72-8ac4070ac697",
+  "legacyIds": [
+    "vegetable_dish_eaadc904"
+  ],
+  "name": "茄子炖土豆",
+  "description": "茄子炖土豆是一道东北家常炖菜，口感绵软咸香，带着辣椒的微辣和蒜香，十分下饭。茄子富含花青素和膳食纤维，土豆提供碳水化合物和维生素 C，加上猪肉的蛋白质，营养均衡又饱腹。这道菜操作流程简单，但需要掌握翻炒和收汁的火候，对新手有一定挑战，预估难度中等。从备料到出锅大约需要 45 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 623,
+  "requirements": [
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉",
+      "markdown": "肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒（是青辣椒，而不是辣椒面或辣椒油）",
+      "markdown": "辣椒（是青辣椒，而**不是辣椒面或辣椒油**）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 茄子\r\n- 土豆\r\n- 肉\r\n- 辣椒（是青辣椒，而**不是辣椒面或辣椒油**）\r\n- 酱油\r\n- 盐\r\n- 蒜",
+  "ingredients": [
+    {
+      "name": "茄子的数量",
+      "text": "茄子的数量 = 份数 * 1 个 （每个茄子约 150g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆数量",
+      "text": "土豆数量 = 份数 * 1 个（每个土豆约 150g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉量",
+      "text": "肉量 = 份数 * 180 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油量",
+      "text": "酱油量 = 份数 * 15 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐量",
+      "text": "盐量 = 份数 * 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒量",
+      "text": "辣椒量 = 50 克（调味，所以无论多少人都放这些。）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜量",
+      "text": "蒜量 = 3 瓣（调味，所以无论多少人都放这些。注意是里面的小瓣 3 瓣，而不是3整头）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用\r\n\r\n总量：\r\n\r\n- 茄子的数量 = 份数 * 1 个 （每个茄子约 150g）\r\n- 土豆数量 = 份数 * 1 个（每个土豆约 150g）\r\n- 肉量 = 份数 * 180 克\r\n- 酱油量 = 份数 * 15 毫升\r\n- 盐量 = 份数 * 5 克\r\n- 辣椒量 = 50 克（调味，所以无论多少人都放这些。）\r\n- 蒜量 = 3 瓣（调味，所以无论多少人都放这些。注意是里面的小瓣 3 瓣，而**不是3整头**）\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将茄子、土豆、辣椒洗净，蒜扒皮并拍碎。"
+    },
+    {
+      "kind": "step",
+      "description": "将茄子、土豆切成约 6 立方厘米的块，辣椒切成 5 克的小块，肉切成 3 厘米的丝。"
+    },
+    {
+      "kind": "step",
+      "description": "开火，热锅，加入份数 * 13 毫升的油。"
+    },
+    {
+      "kind": "step",
+      "description": "当能看到锅里的油冒出一丝烟时，放入辣椒。"
+    },
+    {
+      "kind": "step",
+      "description": "煸出辣椒香气后，立刻放入肉，用铲子翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入土豆，翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入茄子，翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入酱油和盐，继续翻炒 5 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入水，水面高度为锅内食材高度的 0.9 倍，并盖上锅盖。"
+    },
+    {
+      "kind": "step",
+      "description": "等待，直到锅内水的高度剩余食材高度的 0.1 倍时，开盖，放入蒜，搅拌均匀，关火。"
+    }
+  ],
+  "operationMarkdown": "1. 将茄子、土豆、辣椒洗净，蒜扒皮并拍碎。\r\n2. 将茄子、土豆切成约 6 立方厘米的块，辣椒切成 5 克的小块，肉切成 3 厘米的丝。\r\n3. 开火，热锅，加入份数 * 13 毫升的油。\r\n4. 当能看到锅里的油冒出一丝烟时，放入辣椒。\r\n5. 煸出辣椒香气后，立刻放入肉，用铲子翻炒 30 秒。\r\n6. 放入土豆，翻炒 30 秒。\r\n7. 放入茄子，翻炒 30 秒。\r\n8. 放入酱油和盐，继续翻炒 5 分钟。\r\n9. 加入水，水面高度为锅内食材高度的 0.9 倍，并盖上锅盖。\r\n10. 等待，直到锅内水的高度剩余食材高度的 0.1 倍时，开盖，放入蒜，搅拌均匀，关火。",
+  "tips": "在操作的第 5-7 步骤中要注意：在此过程中注意锅底如果没有液体（油或水），则加 5 毫升的水再继续翻炒。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "在操作的第 5-7 步骤中要注意：在此过程中注意锅底如果没有液体（油或水），则加 5 毫升的水再继续翻炒。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/茄子炖土豆.md"
+  },
+  "hash": "6d06f3d30ab3fb7a504da57ac23b0ecb3a0d0ce4176cfd3b2672bda75f08f20d"
+}

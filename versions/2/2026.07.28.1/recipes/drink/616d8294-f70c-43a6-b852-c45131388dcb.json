@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "id": "616d8294-f70c-43a6-b852-c45131388dcb",
+  "legacyIds": [
+    "drink_5274087c"
+  ],
+  "name": "海边落日",
+  "description": "这款鸡尾酒色彩层次分明，底部红石榴糖浆似晚霞，中间橙汁透亮，上层蓝橙酒液如海水，整体呈现海边落日的意境，喝起来酸甜清爽，带朗姆酒香。橙汁和柠檬汁含少量维生素 C，酒精能帮助放松。调酒步骤不复杂，但倒液沿搅拌棒做出分层需要一点耐心，新手跟着做也能成功，准备加调制大约一刻钟搞定。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 173,
+  "requirements": [
+    {
+      "text": "红石榴糖浆",
+      "markdown": "红石榴糖浆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "NFC 橙汁",
+      "markdown": "NFC 橙汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "苏打水",
+      "markdown": "苏打水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白朗姆",
+      "markdown": "白朗姆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蓝橙力娇酒",
+      "markdown": "蓝橙力娇酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬汁",
+      "markdown": "柠檬汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大号的玻璃杯",
+      "markdown": "大号的玻璃杯",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌棒",
+      "markdown": "搅拌棒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "量酒器",
+      "markdown": "量酒器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "调酒杯",
+      "markdown": "调酒杯",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "吸管",
+      "markdown": "吸管",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水果刀",
+      "markdown": "水果刀",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "原料\r\n\r\n- 红石榴糖浆\r\n- NFC 橙汁\r\n- 苏打水\r\n- 白朗姆\r\n- 蓝橙力娇酒\r\n- 柠檬汁\r\n- 冰块\r\n- 柠檬\r\n\r\n工具\r\n\r\n- 大号的玻璃杯\r\n- 搅拌棒\r\n- 量酒器\r\n- 调酒杯\r\n- 吸管\r\n- 水果刀",
+  "ingredients": [
+    {
+      "name": "红石榴糖浆",
+      "text": "红石榴糖浆 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橙汁",
+      "text": "橙汁 35~50ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "苏打水",
+      "text": "苏打水 50ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白朗姆",
+      "text": "白朗姆 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蓝橙力娇酒",
+      "text": "蓝橙力娇酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁",
+      "text": "柠檬汁 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大冰块差不多就行",
+      "text": "大冰块差不多就行",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量（含冰）\r\n\r\n- 红石榴糖浆 15ml\r\n- 橙汁 35~50ml\r\n- 苏打水 50ml\r\n- 白朗姆 30ml\r\n- 蓝橙力娇酒 15ml\r\n- 柠檬汁 15ml\r\n- 大冰块差不多就行\r\n- 柠檬 1 片",
+  "calculationNotes": [
+    "一杯分量（含冰）"
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "柠檬的处理"
+    },
+    {
+      "kind": "step",
+      "description": "柠檬洗净切出一片"
+    },
+    {
+      "kind": "note",
+      "description": "正式调配"
+    },
+    {
+      "kind": "step",
+      "description": "选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯"
+    },
+    {
+      "kind": "step",
+      "description": "放入大冰块，用搅拌棒搅拌冰杯"
+    },
+    {
+      "kind": "step",
+      "description": "加入红石榴糖浆"
+    },
+    {
+      "kind": "step",
+      "description": "让橙汁沿搅拌棒导入酒杯，到就被一半就行"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻搅拌半圈"
+    },
+    {
+      "kind": "step",
+      "description": "倒入苏打水"
+    },
+    {
+      "kind": "step",
+      "description": "拿出调酒杯，加入白朗姆 + 蓝橙力娇酒 + 柠檬汁 + 冰块。然后 shake，shake"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻倒入酒杯中"
+    },
+    {
+      "kind": "step",
+      "description": "插上柠檬和吸管"
+    }
+  ],
+  "operationMarkdown": "柠檬的处理\r\n\r\n1. 柠檬洗净切出一片\r\n\r\n正式调配\r\n\r\n1. 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯\r\n2. 放入大冰块，用搅拌棒搅拌冰杯\r\n3. 加入红石榴糖浆\r\n4. 让橙汁沿搅拌棒导入酒杯，到就被一半就行\r\n5. 轻轻搅拌半圈\r\n6. 倒入苏打水\r\n7. 拿出调酒杯，加入白朗姆 + 蓝橙力娇酒 + 柠檬汁 + 冰块。然后 shake，shake\r\n8. 轻轻倒入酒杯中\r\n9. 插上柠檬和吸管",
+  "tips": "### 成品\r\n\r\n![海边落日](./海边落日.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 成品\r\n\r\n![海边落日](./海边落日.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/616d8294-f70c-43a6-b852-c45131388dcb_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/海边落日/海边落日.md"
+  },
+  "hash": "c76eb176c4e0614f26637d0a65fde91cf0b6ae0fc37b63786385c88de738d7d5"
+}

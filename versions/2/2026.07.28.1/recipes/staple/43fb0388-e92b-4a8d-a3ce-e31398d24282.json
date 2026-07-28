@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "id": "43fb0388-e92b-4a8d-a3ce-e31398d24282",
+  "legacyIds": [
+    "staple_a7520caa"
+  ],
+  "name": "炒方便面",
+  "description": "这道炒方便面口感 Q 弹筋道，咸香入味，是一道改良自传统煮面的家常快手主食。搭配鸡蛋和火腿肠，丰富了蛋白质和能量来源。做法简单，只需注意冷水冲面保持口感，新手也能轻松完成，全程大约 15 分钟即可出锅。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 789,
+  "requirements": [
+    {
+      "text": "方便面",
+      "markdown": "方便面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿肠（可选）",
+      "markdown": "火腿肠（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 方便面\r\n* 鸡蛋\r\n* 火腿肠（可选）",
+  "ingredients": [
+    {
+      "name": "方便面用量为",
+      "text": "方便面用量为 1 包/人。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋的用量为",
+      "text": "鸡蛋的用量为 1 个/人。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿肠的用量为",
+      "text": "火腿肠的用量为 1 个/人。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油的用量为",
+      "text": "食用油的用量为 10 - 18 ml / 人。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n* 方便面用量为 1 包/人。\r\n* 鸡蛋的用量为 1 个/人。\r\n* 火腿肠的用量为 1 个/人。\r\n* 食用油的用量为 10 - 18 ml / 人。\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "火腿肠预处理",
+      "description": "### 火腿肠预处理"
+    },
+    {
+      "kind": "step",
+      "description": "将火腿肠撕开包装，切成宽度 1cm 的小块。"
+    },
+    {
+      "kind": "section",
+      "title": "面的处理",
+      "description": "### 面的处理"
+    },
+    {
+      "kind": "step",
+      "description": "向煮锅中加入 1200 ml 水，实际以没过面饼为准。完全煮沸，不要在未沸腾时加面。"
+    },
+    {
+      "kind": "step",
+      "description": "加入方便面面饼，煮 45 秒。煮的过程中将其挑动，把面条打散。"
+    },
+    {
+      "kind": "step",
+      "description": "面条打散后立刻关火。不要煮熟！"
+    },
+    {
+      "kind": "step",
+      "description": "从锅中舀出 80ml 热面汤备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将面汤和面分离。用凉水冲一下面条。"
+    },
+    {
+      "kind": "step",
+      "description": "沥干面条上的水分。不要长时间将面泡在水中。"
+    },
+    {
+      "kind": "section",
+      "title": "酱料处理",
+      "description": "### 酱料处理"
+    },
+    {
+      "kind": "step",
+      "description": "准备一个小碗，将方便面的调料包挤进去。"
+    },
+    {
+      "kind": "step",
+      "description": "挤进去所有菜包"
+    },
+    {
+      "kind": "step",
+      "description": "挤进去所有酱包"
+    },
+    {
+      "kind": "step",
+      "description": "挤进去 50% - 80% 的粉包。（全部粉包都挤进去会很咸）"
+    },
+    {
+      "kind": "step",
+      "description": "将上一步的 80ml 热面汤全部倒入小碗，搅匀，得到调料碗。"
+    },
+    {
+      "kind": "section",
+      "title": "鸡蛋的预处理",
+      "description": "### 鸡蛋的预处理"
+    },
+    {
+      "kind": "step",
+      "description": "取出计算好的数量的鸡蛋，打入一个小碗。不要加盐！（鸡蛋最终会混合锅里食材的盐味）"
+    },
+    {
+      "kind": "step",
+      "description": "热锅 20s，加入份数 * 8ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "加入刚刚准备好的一碗鸡蛋。翻炒大约 20s 至鸡蛋形成固态即可。"
+    },
+    {
+      "kind": "step",
+      "description": "将煎鸡蛋取出暂存。不需要洗锅。但一般锅内不会残余太多油。"
+    },
+    {
+      "kind": "section",
+      "title": "最终步骤",
+      "description": "### 最终步骤"
+    },
+    {
+      "kind": "step",
+      "description": "重新热锅 20s，向锅内加入油：份数 * 10ml。"
+    },
+    {
+      "kind": "step",
+      "description": "加入第一步处理的火腿肠。翻炒 10 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "加入第二步的面。翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "加入第三步的调料碗。翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "加入第四步的煎鸡蛋。翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "关火盛盘即可。"
+    }
+  ],
+  "operationMarkdown": "### 火腿肠预处理\r\n\r\n1. 将火腿肠撕开包装，切成宽度 1cm 的小块。\r\n\r\n### 面的处理\r\n\r\n1. 向煮锅中加入 1200 ml 水，实际以没过面饼为准。完全煮沸，不要在未沸腾时加面。\r\n2. 加入方便面面饼，煮 45 秒。煮的过程中将其挑动，把面条打散。\r\n3. 面条打散后立刻关火。不要煮熟！\r\n4. 从锅中舀出 80ml 热面汤备用。\r\n5. 将面汤和面分离。用凉水冲一下面条。\r\n6. 沥干面条上的水分。不要长时间将面泡在水中。\r\n\r\n### 酱料处理\r\n\r\n1. 准备一个小碗，将方便面的调料包挤进去。\r\n\r\n  * 挤进去所有菜包\r\n  * 挤进去所有酱包\r\n  * 挤进去 50% - 80% 的粉包。（全部粉包都挤进去会很咸）\r\n\r\n2. 将上一步的 80ml 热面汤全部倒入小碗，搅匀，得到调料碗。\r\n\r\n### 鸡蛋的预处理\r\n\r\n1. 取出计算好的数量的鸡蛋，打入一个小碗。不要加盐！（鸡蛋最终会混合锅里食材的盐味）\r\n2. 热锅 20s，加入份数 * 8ml 油。\r\n3. 加入刚刚准备好的一碗鸡蛋。翻炒大约 20s 至鸡蛋形成固态即可。\r\n4. 将煎鸡蛋取出暂存。不需要洗锅。但一般锅内不会残余太多油。\r\n\r\n### 最终步骤\r\n\r\n1. 重新热锅 20s，向锅内加入油：份数 * 10ml。\r\n2. 加入第一步处理的火腿肠。翻炒 10 秒。\r\n3. 加入第二步的面。翻炒 30 秒。\r\n4. 加入第三步的调料碗。翻炒 30 秒。\r\n5. 加入第四步的煎鸡蛋。翻炒 30 秒。\r\n6. 关火盛盘即可。",
+  "tips": "* 在北京，可以考虑在盛盘后加入芝麻酱。如果芝麻酱太浓稠，可以 1:1 兑水稀释。\r\n* 必须使用冷水冲面条！冷水能瞬间剥离面条表面的糊化淀粉，并强制中断内部的余温加热，这是保证面条下锅炒不坨、不粘锅、保持 Q 弹的核心原理。\r\n* 处理面条的另一种方案，同样可以让面条劲道弹牙。拉长了面条整体处理时间，可以同步准备其他辅料：\r\n  * 洗面：将方便面面饼放入凉水中浸泡 2 分钟，使其完全吸收水分变湿润，捞出沥干（不用泡软）。\r\n  * 上蒸：将湿面饼放入蒸锅，水开后大火蒸 8 分钟，取出抖散备用（蒸能锁住水分，保证面条弹牙）。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 在北京，可以考虑在盛盘后加入芝麻酱。如果芝麻酱太浓稠，可以 1:1 兑水稀释。\r\n* 必须使用冷水冲面条！冷水能瞬间剥离面条表面的糊化淀粉，并强制中断内部的余温加热，这是保证面条下锅炒不坨、不粘锅、保持 Q 弹的核心原理。\r\n* 处理面条的另一种方案，同样可以让面条劲道弹牙。拉长了面条整体处理时间，可以同步准备其他辅料：\r\n  * 洗面：将方便面面饼放入凉水中浸泡 2 分钟，使其完全吸收水分变湿润，捞出沥干（不用泡软）。\r\n  * 上蒸：将湿面饼放入蒸锅，水开后大火蒸 8 分钟，取出抖散备用（蒸能锁住水分，保证面条弹牙）。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/43fb0388-e92b-4a8d-a3ce-e31398d24282_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炒方便面/炒方便面.md"
+  },
+  "hash": "ae4388fe57e803455413e47a277efb871c0488625c96a21f7fe4a55575afcd46"
+}

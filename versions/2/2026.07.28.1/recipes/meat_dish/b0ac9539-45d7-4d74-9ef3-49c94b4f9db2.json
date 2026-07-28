@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "id": "b0ac9539-45d7-4d74-9ef3-49c94b4f9db2",
+  "legacyIds": [
+    "meat_dish_1b1e4405"
+  ],
+  "name": "煎烤羊排",
+  "description": "一道外酥里嫩、香气浓郁的料理，先以香料炖煮再煎出金黄脆壳，风味浓郁不腻，是家常宴客两相宜的硬菜。羊肉富含优质蛋白和铁、锌等矿物质，有助于温补气血。做法步骤稍多，但只要按流程走，新手也能拿下；使用高压锅全程约 1 小时，普通锅约 1.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1850,
+  "requirements": [
+    {
+      "text": "羊排",
+      "markdown": "羊排",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芷",
+      "markdown": "白芷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒粉",
+      "markdown": "辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粒",
+      "markdown": "孜然粒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烧烤撒料",
+      "markdown": "烧烤撒料",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "高压锅",
+      "markdown": "高压锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炒锅 / 煎锅",
+      "markdown": "炒锅 / 煎锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 羊排\r\n- 桂皮\r\n- 花椒\r\n- 八角\r\n- 白芷\r\n- 香叶\r\n- 盐\r\n- 料酒\r\n- 辣椒粉\r\n- 孜然粒\r\n- 烧烤撒料\r\n- 孜然粉\r\n- 白芝麻\r\n- 糖\r\n- 高压锅\r\n- 炒锅 / 煎锅",
+  "ingredients": [
+    {
+      "name": "羊排",
+      "text": "羊排 750g（建议选择带一些肥肉的）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 1 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芷",
+      "text": "白芷 6g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 25g（注：若计划喝煮羊排的汤，则此处的盐在炖煮步骤中省略，在最后的煎烤步骤中加入）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒粉",
+      "text": "辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粒",
+      "text": "孜然粒 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "烧烤撒料",
+      "text": "烧烤撒料 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻",
+      "text": "白芝麻 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 1g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3 - 4 个人吃。\r\n\r\n每份：\r\n\r\n- 羊排 750g（建议选择带一些肥肉的）\r\n- 桂皮 2g\r\n- 花椒 5g\r\n- 八角 1 颗\r\n- 白芷 6g\r\n- 香叶 5 片\r\n- 盐 25g（注：若计划喝煮羊排的汤，则此处的盐在炖煮步骤中省略，在最后的煎烤步骤中加入）\r\n- 料酒 10ml\r\n- 辣椒粉 5g\r\n- 孜然粒 2g\r\n- 烧烤撒料 2g\r\n- 孜然粉 2g\r\n- 白芝麻 2g\r\n- 糖 1g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3 - 4 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将羊排按照骨头分布，切成块状。"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅中加入冷水，放入全部羊排块，水沸腾后继续焯水 2 - 3 分钟，捞出备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将焯好水的羊排、桂皮、花椒、八角、白芷、香叶、料酒放入锅中（高压锅或普通锅）。"
+    },
+    {
+      "kind": "step",
+      "description": "加入饮用水没过所有食材。如果使用高压锅，上汽后压 30 分钟。如果使用普通锅，炖煮 80 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将炖煮完成的羊排捞出，沥干水分，放入无油无水的炒锅 / 煎锅中。"
+    },
+    {
+      "kind": "step",
+      "description": "中大火煎 6 - 7 分钟，直至羊排中的油脂被煎出，*表面呈金黄酥脆状态*。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中保留煎出的羊油，加入辣椒粉、孜然粒、烧烤撒料、孜然粉、白芝麻，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "加入糖和盐（如果在炖煮步骤中未添加），翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒均匀后即可关火，盛盘。"
+    }
+  ],
+  "operationMarkdown": "1. 将羊排按照骨头分布，切成块状。\r\n2. 炒锅中加入冷水，放入全部羊排块，水沸腾后继续焯水 2 - 3 分钟，捞出备用。\r\n3. 将焯好水的羊排、桂皮、花椒、八角、白芷、香叶、料酒放入锅中（高压锅或普通锅）。\r\n4. 加入饮用水没过所有食材。如果使用高压锅，上汽后压 30 分钟。如果使用普通锅，炖煮 80 分钟。\r\n5. 将炖煮完成的羊排捞出，沥干水分，放入无油无水的炒锅 / 煎锅中。\r\n6. 中大火煎 6 - 7 分钟，直至羊排中的油脂被煎出，*表面呈金黄酥脆状态*。\r\n7. 锅中保留煎出的羊油，加入辣椒粉、孜然粒、烧烤撒料、孜然粉、白芝麻，翻炒均匀。\r\n8. 加入糖和盐（如果在炖煮步骤中未添加），翻炒均匀。\r\n9. 翻炒均匀后即可关火，盛盘。",
+  "tips": "- 花椒和白芷是这道菜的关键调料，不可缺少。\r\n- 炖煮时间不宜过长，羊排过于软烂则在煎制时容易碎裂。\r\n- 煎制时利用羊排自身煎出的油脂来炒香调料，风味更佳。\r\n- 焯水、炖煮、煎制过程中会产生较多羊油，处理时请注意不要直接倒入下水道，以防堵塞。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 花椒和白芷是这道菜的关键调料，不可缺少。\r\n- 炖煮时间不宜过长，羊排过于软烂则在煎制时容易碎裂。\r\n- 煎制时利用羊排自身煎出的油脂来炒香调料，风味更佳。\r\n- 焯水、炖煮、煎制过程中会产生较多羊油，处理时请注意不要直接倒入下水道，以防堵塞。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/煎烤羊排/煎烤羊排.md"
+  },
+  "hash": "4c30e7d36c79798abc4b633f341d3ad9aee562e891ddef3edc83bf36b7ed4bee"
+}

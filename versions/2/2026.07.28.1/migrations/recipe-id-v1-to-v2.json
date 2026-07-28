@@ -1,0 +1,1959 @@
+{
+  "schemaVersion": 1,
+  "migrationId": "recipe-id-v1-to-v2-2026.07.28.1",
+  "fromSchemaVersion": 1,
+  "toSchemaVersion": 2,
+  "dataVersion": "2026.07.28.1",
+  "mappings": [
+    {
+      "oldId": "aquatic_17b4109a",
+      "newId": "e5864827-9af0-4663-9528-46490974f29a",
+      "category": "aquatic",
+      "name": "蒜香黄油虾"
+    },
+    {
+      "oldId": "aquatic_2749d071",
+      "newId": "b01b4231-5bc8-4102-90a4-7bbeb709b642",
+      "category": "aquatic",
+      "name": "小龙虾"
+    },
+    {
+      "oldId": "aquatic_28c2e3b4",
+      "newId": "51c7e2aa-7abb-4e21-b206-2c67b0c952a7",
+      "category": "aquatic",
+      "name": "红烧鲤鱼"
+    },
+    {
+      "oldId": "aquatic_28c3c7c3",
+      "newId": "05a523a7-48b0-44ed-975a-77d45f17cf64",
+      "category": "aquatic",
+      "name": "白灼虾"
+    },
+    {
+      "oldId": "aquatic_376efe24",
+      "newId": "2c1c9338-dd9a-44ca-9c23-f4828f939914",
+      "category": "aquatic",
+      "name": "葱烧海参"
+    },
+    {
+      "oldId": "aquatic_3c11a1ee",
+      "newId": "cb344a6f-f851-4ede-a249-2ce276009d52",
+      "category": "aquatic",
+      "name": "微波葱姜黑鳕鱼"
+    },
+    {
+      "oldId": "aquatic_43c732f1",
+      "newId": "056993ce-2f49-469b-be1e-3454612ecb56",
+      "category": "aquatic",
+      "name": "蛏抱蛋"
+    },
+    {
+      "oldId": "aquatic_45c4788b",
+      "newId": "8314675b-a89b-457d-8e26-81c8ee9a8bb5",
+      "category": "aquatic",
+      "name": "黄油煎虾"
+    },
+    {
+      "oldId": "aquatic_5603da82",
+      "newId": "2ea39c71-ea58-4c33-8008-4079f5998411",
+      "category": "aquatic",
+      "name": "芥末黄油罗氏虾"
+    },
+    {
+      "oldId": "aquatic_5ee1668c",
+      "newId": "fc7fe00d-3436-4e7c-8cb0-5f9870fd8087",
+      "category": "aquatic",
+      "name": "干煎阿根廷红虾"
+    },
+    {
+      "oldId": "aquatic_706ce316",
+      "newId": "3d7c1fd1-af9b-48bb-8f1e-72979d560887",
+      "category": "aquatic",
+      "name": "烤鱼"
+    },
+    {
+      "oldId": "aquatic_7093e3ab",
+      "newId": "ae4d1d90-e951-46f2-8eec-55737a168170",
+      "category": "aquatic",
+      "name": "香煎翘嘴鱼"
+    },
+    {
+      "oldId": "aquatic_849a47d1",
+      "newId": "677cec1a-989a-477a-a7e8-04869dcb4e43",
+      "category": "aquatic",
+      "name": "清蒸鲈鱼"
+    },
+    {
+      "oldId": "aquatic_8bfd57d8",
+      "newId": "585d2fe1-c997-4a7a-b47d-230505654010",
+      "category": "aquatic",
+      "name": "糖醋鲤鱼"
+    },
+    {
+      "oldId": "aquatic_8e3251fb",
+      "newId": "16efa6d4-de27-4c57-bb13-3c9f30c7a647",
+      "category": "aquatic",
+      "name": "红烧鱼头"
+    },
+    {
+      "oldId": "aquatic_97b24536",
+      "newId": "0b6e18c4-9ef4-4306-8f9c-65f8a32c097f",
+      "category": "aquatic",
+      "name": "咖喱炒蟹"
+    },
+    {
+      "oldId": "aquatic_9b178156",
+      "newId": "096adf0f-dd6a-4c06-af7d-975787221f2f",
+      "category": "aquatic",
+      "name": "油焖大虾"
+    },
+    {
+      "oldId": "aquatic_a7a91bd9",
+      "newId": "7e4f4c25-ca7b-46ec-83d3-612020768a05",
+      "category": "aquatic",
+      "name": "红烧鱼"
+    },
+    {
+      "oldId": "aquatic_c2b2b20e",
+      "newId": "f75fbb85-ca3f-49d5-acf7-09aae4bd6a84",
+      "category": "aquatic",
+      "name": "蒜蓉虾"
+    },
+    {
+      "oldId": "aquatic_cde57a22",
+      "newId": "eaa8869d-0e12-4d34-aff2-5765d460c099",
+      "category": "aquatic",
+      "name": "水煮鱼"
+    },
+    {
+      "oldId": "aquatic_d10b5ae7",
+      "newId": "399719f2-8aa2-428b-8c3a-260b52a137f6",
+      "category": "aquatic",
+      "name": "清蒸生蚝"
+    },
+    {
+      "oldId": "aquatic_d4c3eb44",
+      "newId": "07674d51-263f-44e1-affd-e35d24318473",
+      "category": "aquatic",
+      "name": "鳊鱼炖豆腐"
+    },
+    {
+      "oldId": "aquatic_d63cc518",
+      "newId": "f209570d-3558-4ca0-890b-3539090f91c1",
+      "category": "aquatic",
+      "name": "鲤鱼炖白菜"
+    },
+    {
+      "oldId": "aquatic_e47c3c99",
+      "newId": "3a7922c8-3499-4154-b743-66815350001f",
+      "category": "aquatic",
+      "name": "葱油桂鱼"
+    },
+    {
+      "oldId": "breakfast_1376754e",
+      "newId": "98ee475c-7508-411d-a9d3-e429ee000ab3",
+      "category": "breakfast",
+      "name": "溏心蛋"
+    },
+    {
+      "oldId": "breakfast_1990d584",
+      "newId": "bda4dbbd-bcff-44e3-9654-8058bf959114",
+      "category": "breakfast",
+      "name": "手抓饼"
+    },
+    {
+      "oldId": "breakfast_317b5386",
+      "newId": "a4b4b7c4-9be4-4dfc-925c-b9cc8a91c3a3",
+      "category": "breakfast",
+      "name": "牛奶燕麦"
+    },
+    {
+      "oldId": "breakfast_3850601a",
+      "newId": "9f2d1398-cfeb-4248-b129-76517a4cdbf1",
+      "category": "breakfast",
+      "name": "微波炉荷包蛋"
+    },
+    {
+      "oldId": "breakfast_3e582990",
+      "newId": "13e750cb-3d32-47fe-ab0f-1ccc77caa87d",
+      "category": "breakfast",
+      "name": "苏格兰蛋"
+    },
+    {
+      "oldId": "breakfast_45c75ea6",
+      "newId": "ee419a19-80f3-4a74-8de5-e98ff61c0e02",
+      "category": "breakfast",
+      "name": "完美水煮蛋"
+    },
+    {
+      "oldId": "breakfast_6bcc5369",
+      "newId": "7fca3472-00d2-4906-8347-c40a9ffb8028",
+      "category": "breakfast",
+      "name": "温泉蛋"
+    },
+    {
+      "oldId": "breakfast_6f83af1c",
+      "newId": "b72ae61a-5433-4587-88a3-1a0dfc69bcdf",
+      "category": "breakfast",
+      "name": "蒸水蛋"
+    },
+    {
+      "oldId": "breakfast_72f84032",
+      "newId": "35c9c6a7-7049-4e00-addb-81000584829d",
+      "category": "breakfast",
+      "name": "茶叶蛋"
+    },
+    {
+      "oldId": "breakfast_74832fb6",
+      "newId": "8768a242-ce3f-4802-941e-bced9d3b63d1",
+      "category": "breakfast",
+      "name": "空气炸锅面包片"
+    },
+    {
+      "oldId": "breakfast_86643b0a",
+      "newId": "7f519e10-7d66-4951-90b3-a432d8186655",
+      "category": "breakfast",
+      "name": "燕麦鸡蛋饼"
+    },
+    {
+      "oldId": "breakfast_8df15267",
+      "newId": "ca33fa58-c716-4b62-aa60-483868d737b9",
+      "category": "breakfast",
+      "name": "蒸花卷"
+    },
+    {
+      "oldId": "breakfast_a04cfccc",
+      "newId": "d3704d61-e9bf-4a7c-b09f-3dc9141ab831",
+      "category": "breakfast",
+      "name": "水煮玉米"
+    },
+    {
+      "oldId": "breakfast_a065206f",
+      "newId": "819c4fb6-96b5-4c2a-a89c-5126e596d16f",
+      "category": "breakfast",
+      "name": "金枪鱼酱三明治"
+    },
+    {
+      "oldId": "breakfast_af382287",
+      "newId": "fa62e856-5b3a-41f1-be4b-864cbc4d9503",
+      "category": "breakfast",
+      "name": "煎饺"
+    },
+    {
+      "oldId": "breakfast_c3d2a2fd",
+      "newId": "b2b47d8c-dbfb-495e-bf95-301f3da990db",
+      "category": "breakfast",
+      "name": "鸡蛋三明治"
+    },
+    {
+      "oldId": "breakfast_c7c510a4",
+      "newId": "b44b34ca-b69f-4999-a252-ab8f53a16c97",
+      "category": "breakfast",
+      "name": "蛋煎糍粑"
+    },
+    {
+      "oldId": "breakfast_e892f89c",
+      "newId": "5df96365-8224-47f9-8b45-ea9c364dc443",
+      "category": "breakfast",
+      "name": "桂圆红枣粥"
+    },
+    {
+      "oldId": "breakfast_eb6189c2",
+      "newId": "01e84fc0-fb57-497b-b06a-917b4e6a79cb",
+      "category": "breakfast",
+      "name": "美式炒蛋"
+    },
+    {
+      "oldId": "breakfast_efd07d35",
+      "newId": "09b23a99-474f-4cf4-a309-740436b7d8e7",
+      "category": "breakfast",
+      "name": "微波炉蛋糕"
+    },
+    {
+      "oldId": "breakfast_f46d05b8",
+      "newId": "093ee232-ba99-4945-abd9-57db4fab7722",
+      "category": "breakfast",
+      "name": "太阳蛋"
+    },
+    {
+      "oldId": "breakfast_fc251fde",
+      "newId": "581c1e01-da8b-4cbc-bca3-24548fadd9e2",
+      "category": "breakfast",
+      "name": "吐司果酱"
+    },
+    {
+      "oldId": "condiment_231c5b16",
+      "newId": "e262370f-49ba-4f7a-905d-38a72de1761f",
+      "category": "condiment",
+      "name": "葱油"
+    },
+    {
+      "oldId": "condiment_241627f2",
+      "newId": "b96127e1-c85c-45ca-a868-295801edcf19",
+      "category": "condiment",
+      "name": "草莓酱"
+    },
+    {
+      "oldId": "condiment_2499dc8b",
+      "newId": "55ed76f3-5608-47ef-851b-c947ff11ef56",
+      "category": "condiment",
+      "name": "油酥"
+    },
+    {
+      "oldId": "condiment_28d7cc43",
+      "newId": "93e876c3-55f9-4b9e-b648-7ec64c065a7f",
+      "category": "condiment",
+      "name": "炸串酱料"
+    },
+    {
+      "oldId": "condiment_3b554f0d",
+      "newId": "8fd5c09e-094a-4e1f-9489-52f3b17e08f3",
+      "category": "condiment",
+      "name": "油泼辣子"
+    },
+    {
+      "oldId": "condiment_491d23fe",
+      "newId": "5271553e-3a9d-4740-8003-dcc6d7ffd744",
+      "category": "condiment",
+      "name": "糖醋汁"
+    },
+    {
+      "oldId": "condiment_6df7e885",
+      "newId": "f653e9d8-a27a-4f0d-8bff-1fac8294c796",
+      "category": "condiment",
+      "name": "蒜香酱油"
+    },
+    {
+      "oldId": "condiment_7d5996ac",
+      "newId": "9974d1d8-9426-4ecf-955b-a1298a6cdaa3",
+      "category": "condiment",
+      "name": "简易版炒糖色"
+    },
+    {
+      "oldId": "condiment_f276bc66",
+      "newId": "bd25a4f7-fa96-4571-a390-df68ba4a598c",
+      "category": "condiment",
+      "name": "蔗糖糖浆"
+    },
+    {
+      "oldId": "dessert_07c13985",
+      "newId": "db822973-93a7-4075-9ae4-9b9cd4b671bf",
+      "category": "dessert",
+      "name": "反沙芋头"
+    },
+    {
+      "oldId": "dessert_11ac695f",
+      "newId": "81fd661c-d235-4e2b-a8c6-71977e4f3dbf",
+      "category": "dessert",
+      "name": "红柚蛋糕"
+    },
+    {
+      "oldId": "dessert_394b4614",
+      "newId": "1783e502-816f-45c8-b797-f8d94b2051de",
+      "category": "dessert",
+      "name": "玛格丽特饼干"
+    },
+    {
+      "oldId": "dessert_41a0ab6c",
+      "newId": "7976af2a-a07f-4265-ac2a-29ee3811cf8a",
+      "category": "dessert",
+      "name": "炸鲜奶"
+    },
+    {
+      "oldId": "dessert_448181d9",
+      "newId": "4add91ec-80d0-4f2f-b745-396e2f14fdc2",
+      "category": "dessert",
+      "name": "烤箱版巴斯克芝士蛋糕"
+    },
+    {
+      "oldId": "dessert_48708a65",
+      "newId": "b0b1e080-997d-458e-b956-7a4ef8340965",
+      "category": "dessert",
+      "name": "酸奶意式奶冻"
+    },
+    {
+      "oldId": "dessert_6b0341a7",
+      "newId": "51e511d9-8906-49ac-8879-511a3db89197",
+      "category": "dessert",
+      "name": "雪花酥"
+    },
+    {
+      "oldId": "dessert_6b3856a6",
+      "newId": "f8b4f227-35d3-4619-a122-f82164659313",
+      "category": "dessert",
+      "name": "提拉米苏"
+    },
+    {
+      "oldId": "dessert_6bbb6512",
+      "newId": "e61ccab7-4d68-43c5-a1d6-10055f7739b9",
+      "category": "dessert",
+      "name": "奥利奥冰淇淋"
+    },
+    {
+      "oldId": "dessert_a784e7c5",
+      "newId": "5ef724ba-9234-4350-ae4a-256a03e28dbd",
+      "category": "dessert",
+      "name": "烤蛋挞"
+    },
+    {
+      "oldId": "dessert_ab78a496",
+      "newId": "f03b8a34-d6e0-45bb-953f-61186f7cb899",
+      "category": "dessert",
+      "name": "戚风蛋糕"
+    },
+    {
+      "oldId": "dessert_b25b5b03",
+      "newId": "acbce2ba-985d-447d-a1cd-518e4c182cd3",
+      "category": "dessert",
+      "name": "草莓冰淇淋"
+    },
+    {
+      "oldId": "dessert_cd984466",
+      "newId": "4f9aacc1-6b06-4959-9782-08c605b3bfd8",
+      "category": "dessert",
+      "name": "魔芋蛋糕"
+    },
+    {
+      "oldId": "dessert_ceec2289",
+      "newId": "5870bfd6-a30f-419f-b143-6457b419fc4f",
+      "category": "dessert",
+      "name": "芋泥雪媚娘"
+    },
+    {
+      "oldId": "dessert_d1ccc72e",
+      "newId": "b9ebde1a-88ee-409b-a473-0b996f918b62",
+      "category": "dessert",
+      "name": "咖啡椰奶冻"
+    },
+    {
+      "oldId": "dessert_d1eb32ee",
+      "newId": "fef2902a-5f0c-422f-9883-05435e8e60e2",
+      "category": "dessert",
+      "name": "龟苓膏"
+    },
+    {
+      "oldId": "dessert_dd04e783",
+      "newId": "1fb5e575-8cae-44d9-8614-cb558103f261",
+      "category": "dessert",
+      "name": "无厨师机蜂蜜面包"
+    },
+    {
+      "oldId": "dessert_f4064f61",
+      "newId": "28a554ad-4365-4c31-9510-0ed4c2951969",
+      "category": "dessert",
+      "name": "英式司康"
+    },
+    {
+      "oldId": "drink_0e3331c9",
+      "newId": "b1aa483a-be7c-4d31-afdd-0d8b7b4419b8",
+      "category": "drink",
+      "name": "奶茶"
+    },
+    {
+      "oldId": "drink_17a8d980",
+      "newId": "ecbe5282-36ba-49d2-8918-1e26d99f6aef",
+      "category": "drink",
+      "name": "冬瓜茶"
+    },
+    {
+      "oldId": "drink_207d7850",
+      "newId": "24befcfa-b92a-4bb7-a0cd-e2ef374efd01",
+      "category": "drink",
+      "name": "砂糖椰子冰沙"
+    },
+    {
+      "oldId": "drink_37772636",
+      "newId": "c145a730-05d0-4065-8c25-52162424fc2c",
+      "category": "drink",
+      "name": "菠萝咖啡特调"
+    },
+    {
+      "oldId": "drink_5274087c",
+      "newId": "616d8294-f70c-43a6-b852-c45131388dcb",
+      "category": "drink",
+      "name": "海边落日"
+    },
+    {
+      "oldId": "drink_56393998",
+      "newId": "638c4612-f474-4b31-a0b1-d319c36c9963",
+      "category": "drink",
+      "name": "B52轰炸机"
+    },
+    {
+      "oldId": "drink_6cd87843",
+      "newId": "27af4f39-c893-41e6-a4bb-451f1dc3b223",
+      "category": "drink",
+      "name": "酒酿醪糟"
+    },
+    {
+      "oldId": "drink_7269c4a9",
+      "newId": "d2cbe9a2-8ad3-4477-a96d-5c1712b60838",
+      "category": "drink",
+      "name": "酸梅汤"
+    },
+    {
+      "oldId": "drink_75684b66",
+      "newId": "63c9c421-7bce-49ee-b356-83564f89cbe1",
+      "category": "drink",
+      "name": "奇异果菠菜特调"
+    },
+    {
+      "oldId": "drink_8175c20b",
+      "newId": "07c1a5a9-e4fd-478a-9767-eeb5887f8563",
+      "category": "drink",
+      "name": "可乐桶"
+    },
+    {
+      "oldId": "drink_9270dca7",
+      "newId": "7e3e5eb7-4c1f-4202-aa43-59ec693ba01c",
+      "category": "drink",
+      "name": "泰国手标红茶"
+    },
+    {
+      "oldId": "drink_9e3b1e0b",
+      "newId": "67576de7-154e-425a-bf66-6f373cdd04e5",
+      "category": "drink",
+      "name": "金汤力"
+    },
+    {
+      "oldId": "drink_a3cda7a8",
+      "newId": "d74daed2-54e7-45d4-b691-94d374058cb9",
+      "category": "drink",
+      "name": "Mojito莫吉托"
+    },
+    {
+      "oldId": "drink_a8ab9cf7",
+      "newId": "966afb08-2e39-4540-8468-52e079f6602d",
+      "category": "drink",
+      "name": "杨枝甘露"
+    },
+    {
+      "oldId": "drink_c06cf165",
+      "newId": "47d62a85-f258-4a58-8fcd-254e306dc05f",
+      "category": "drink",
+      "name": "柠檬水"
+    },
+    {
+      "oldId": "drink_c658432d",
+      "newId": "3e7fb8a6-36a5-498d-87d5-54ab6acf5c4c",
+      "category": "drink",
+      "name": "冰粉"
+    },
+    {
+      "oldId": "drink_d439d193",
+      "newId": "70b6d1b4-3d30-4dfe-98a5-06a34417b927",
+      "category": "drink",
+      "name": "长岛冰茶"
+    },
+    {
+      "oldId": "drink_d4f5d31d",
+      "newId": "1d748e68-a4f2-44be-a668-0048c42f0e21",
+      "category": "drink",
+      "name": "耙耙柑茶"
+    },
+    {
+      "oldId": "drink_db3b0b04",
+      "newId": "c391af27-1526-4fa1-8ef2-1a92bb40f476",
+      "category": "drink",
+      "name": "百香果橙子特调"
+    },
+    {
+      "oldId": "drink_f6a7c72d",
+      "newId": "06be4a1f-1428-47d4-8a2c-374ab3a35675",
+      "category": "drink",
+      "name": "金菲士"
+    },
+    {
+      "oldId": "drink_f7b9c13a",
+      "newId": "29dbe4d8-66bd-4ded-be97-f9a4fac41331",
+      "category": "drink",
+      "name": "酸梅汤（半成品加工）"
+    },
+    {
+      "oldId": "meat_dish_003ec59b",
+      "newId": "bfb26ac5-c1e3-4d91-a534-972274c633a2",
+      "category": "meat_dish",
+      "name": "枝竹羊腩煲"
+    },
+    {
+      "oldId": "meat_dish_00560d1c",
+      "newId": "6522c371-6b96-4b57-8b68-ecabd5714008",
+      "category": "meat_dish",
+      "name": "广式萝卜牛腩"
+    },
+    {
+      "oldId": "meat_dish_03899e47",
+      "newId": "c3833b1b-bb97-445f-a8ca-0b2d45019a94",
+      "category": "meat_dish",
+      "name": "南派红烧肉"
+    },
+    {
+      "oldId": "meat_dish_06dbad58",
+      "newId": "39ac35fc-d6f5-41ad-8031-2ee3ed5558c4",
+      "category": "meat_dish",
+      "name": "鱼香肉丝"
+    },
+    {
+      "oldId": "meat_dish_084f8cca",
+      "newId": "0f604966-0fde-4f0d-a143-db93b85dae69",
+      "category": "meat_dish",
+      "name": "水煮牛肉"
+    },
+    {
+      "oldId": "meat_dish_098bb293",
+      "newId": "99911a9b-e710-4ac5-b810-025172ecf57d",
+      "category": "meat_dish",
+      "name": "西红柿牛腩"
+    },
+    {
+      "oldId": "meat_dish_09b7f756",
+      "newId": "2131436a-bacd-4209-84a5-131162fc8b4f",
+      "category": "meat_dish",
+      "name": "无骨鸡爪"
+    },
+    {
+      "oldId": "meat_dish_0d68f3cc",
+      "newId": "33fda8d0-5a39-4870-8356-836b71513569",
+      "category": "meat_dish",
+      "name": "口水鸡"
+    },
+    {
+      "oldId": "meat_dish_0ef2a9ee",
+      "newId": "845fd148-bc41-4fe9-8296-264483cb2370",
+      "category": "meat_dish",
+      "name": "香干肉丝"
+    },
+    {
+      "oldId": "meat_dish_19771810",
+      "newId": "6ec6341b-6aee-4592-977e-4a0d3ddd9236",
+      "category": "meat_dish",
+      "name": "清蒸鳜鱼"
+    },
+    {
+      "oldId": "meat_dish_1a794fd7",
+      "newId": "f7920bfc-462e-428d-983c-5bcf577e4358",
+      "category": "meat_dish",
+      "name": "牛排"
+    },
+    {
+      "oldId": "meat_dish_1b1e4405",
+      "newId": "b0ac9539-45d7-4d74-9ef3-49c94b4f9db2",
+      "category": "meat_dish",
+      "name": "煎烤羊排"
+    },
+    {
+      "oldId": "meat_dish_20fa43aa",
+      "newId": "c497e815-98e7-4abc-852e-1a57d9317adf",
+      "category": "meat_dish",
+      "name": "酱排骨"
+    },
+    {
+      "oldId": "meat_dish_2262770f",
+      "newId": "dcc1781e-ba7b-4005-a851-eac346faf398",
+      "category": "meat_dish",
+      "name": "香干芹菜炒肉"
+    },
+    {
+      "oldId": "meat_dish_28a28bc6",
+      "newId": "a5aa1ad7-5cb3-4270-ad7e-ab0f036b08ab",
+      "category": "meat_dish",
+      "name": "意式烤鸡"
+    },
+    {
+      "oldId": "meat_dish_2e95ad17",
+      "newId": "a27d314e-92e9-433f-8f5f-18e7ae22fb08",
+      "category": "meat_dish",
+      "name": "回锅肉"
+    },
+    {
+      "oldId": "meat_dish_2eb1a2a9",
+      "newId": "bf426888-a6b0-468f-8339-8b20ca8b71b1",
+      "category": "meat_dish",
+      "name": "黄焖鸡"
+    },
+    {
+      "oldId": "meat_dish_3048f1f9",
+      "newId": "37a08712-3b0e-4194-93f0-45acaacb010f",
+      "category": "meat_dish",
+      "name": "尖椒炒牛肉"
+    },
+    {
+      "oldId": "meat_dish_3098f98f",
+      "newId": "61d9a10c-4735-460c-b9ee-59b7161d750a",
+      "category": "meat_dish",
+      "name": "香辣鸡爪煲"
+    },
+    {
+      "oldId": "meat_dish_31376e9b",
+      "newId": "2d40c216-30c1-4b22-bad4-d4ee2aed59f5",
+      "category": "meat_dish",
+      "name": "简易红烧肉"
+    },
+    {
+      "oldId": "meat_dish_31e10602",
+      "newId": "a0f4e0ba-171d-4e11-a11e-f2ba31eb28b3",
+      "category": "meat_dish",
+      "name": "洋葱炒猪肉"
+    },
+    {
+      "oldId": "meat_dish_34f34b23",
+      "newId": "e52789d6-4016-4f22-b986-7bd7d344cd56",
+      "category": "meat_dish",
+      "name": "梅菜扣肉"
+    },
+    {
+      "oldId": "meat_dish_36033c14",
+      "newId": "aa603211-23fb-493b-aab0-f5c375913e32",
+      "category": "meat_dish",
+      "name": "可乐鸡翅"
+    },
+    {
+      "oldId": "meat_dish_38608d65",
+      "newId": "7e27ee2c-3412-4a75-a9cd-367716f4559d",
+      "category": "meat_dish",
+      "name": "茭白炒肉"
+    },
+    {
+      "oldId": "meat_dish_397dfb8e",
+      "newId": "b530f9ad-0dee-4a9f-a7f0-673c1189e527",
+      "category": "meat_dish",
+      "name": "番茄红酱"
+    },
+    {
+      "oldId": "meat_dish_3ca3f659",
+      "newId": "27357681-47de-4aa5-bacb-345bfba07158",
+      "category": "meat_dish",
+      "name": "干煸仔鸡"
+    },
+    {
+      "oldId": "meat_dish_3d4beeb5",
+      "newId": "e4db258e-1302-4d77-a30b-5d4d9c3a9c50",
+      "category": "meat_dish",
+      "name": "冬瓜酿肉"
+    },
+    {
+      "oldId": "meat_dish_3dcc00ec",
+      "newId": "da2a7767-4a12-44c4-9661-1e1a58146252",
+      "category": "meat_dish",
+      "name": "猪皮冻"
+    },
+    {
+      "oldId": "meat_dish_3f206910",
+      "newId": "42f0f3db-9359-4f1c-b4b7-468440135fb0",
+      "category": "meat_dish",
+      "name": "芥末罗氏虾"
+    },
+    {
+      "oldId": "meat_dish_416b2f4f",
+      "newId": "425ce9f0-0bcb-45b1-a23f-ac920455f284",
+      "category": "meat_dish",
+      "name": "姜葱捞鸡"
+    },
+    {
+      "oldId": "meat_dish_4193001d",
+      "newId": "7d9783c4-162a-480c-acd9-936745b934c4",
+      "category": "meat_dish",
+      "name": "湖南家常红烧肉"
+    },
+    {
+      "oldId": "meat_dish_434c23ca",
+      "newId": "fdd20bf0-29cd-404e-9414-a7cbc66ae5be",
+      "category": "meat_dish",
+      "name": "老妈蹄花"
+    },
+    {
+      "oldId": "meat_dish_44f4ad30",
+      "newId": "565bc38f-90b6-4b5e-90fe-540d3542dc78",
+      "category": "meat_dish",
+      "name": "黑椒牛柳"
+    },
+    {
+      "oldId": "meat_dish_4610a4c2",
+      "newId": "7502d6eb-f7d9-4a0c-a633-b92abc2b52d1",
+      "category": "meat_dish",
+      "name": "瘦肉土豆片"
+    },
+    {
+      "oldId": "meat_dish_47781bb0",
+      "newId": "6b1ecf5b-5429-4636-9785-2a024e2452cb",
+      "category": "meat_dish",
+      "name": "卤菜"
+    },
+    {
+      "oldId": "meat_dish_49d5e1bf",
+      "newId": "e4c865dd-52e1-47a7-8193-4911178f5984",
+      "category": "meat_dish",
+      "name": "土豆炖排骨"
+    },
+    {
+      "oldId": "meat_dish_4bfb3820",
+      "newId": "17529edc-2ab2-4701-83b0-6dad48b10f01",
+      "category": "meat_dish",
+      "name": "小炒鸡肝"
+    },
+    {
+      "oldId": "meat_dish_4c4e57de",
+      "newId": "7b0e4c64-7d10-4dda-bbe9-dc473319fc39",
+      "category": "meat_dish",
+      "name": "鱼香茄子"
+    },
+    {
+      "oldId": "meat_dish_4cb5520b",
+      "newId": "f4b90a81-8157-43c0-abdf-cda798bb6e50",
+      "category": "meat_dish",
+      "name": "台式卤肉饭"
+    },
+    {
+      "oldId": "meat_dish_508da0e4",
+      "newId": "491ede60-3121-4bb7-9575-d0efa5298e56",
+      "category": "meat_dish",
+      "name": "萝卜炖羊排"
+    },
+    {
+      "oldId": "meat_dish_54f909ad",
+      "newId": "e91f03d7-dd3c-421e-92c9-04b4dfa142f3",
+      "category": "meat_dish",
+      "name": "白菜猪肉炖粉条"
+    },
+    {
+      "oldId": "meat_dish_5542a24a",
+      "newId": "aa096790-e383-415a-ad53-4c2115d79fb0",
+      "category": "meat_dish",
+      "name": "糖醋里脊"
+    },
+    {
+      "oldId": "meat_dish_55461f37",
+      "newId": "120d0d50-e385-41a0-a969-fdee45b5ce5b",
+      "category": "meat_dish",
+      "name": "香煎五花肉"
+    },
+    {
+      "oldId": "meat_dish_57c87c3f",
+      "newId": "7f6cf452-6f56-4d04-a1cf-081127e0bf3c",
+      "category": "meat_dish",
+      "name": "巴基斯坦牛肉咖喱"
+    },
+    {
+      "oldId": "meat_dish_5aaba9a1",
+      "newId": "b20d3e67-ffae-4c0d-b53e-33ec6be3f440",
+      "category": "meat_dish",
+      "name": "贵州辣子鸡"
+    },
+    {
+      "oldId": "meat_dish_5ba24ca7",
+      "newId": "ae8ca940-41ca-4c67-b99d-f7fa328ee0a1",
+      "category": "meat_dish",
+      "name": "辣椒炒肉"
+    },
+    {
+      "oldId": "meat_dish_5ba6c453",
+      "newId": "f7c0e3ee-4b31-4d76-a1f2-0788325fa55c",
+      "category": "meat_dish",
+      "name": "椒盐排条"
+    },
+    {
+      "oldId": "meat_dish_6161ffca",
+      "newId": "efc6195d-7eff-47b8-8b5f-d209f1d7b43e",
+      "category": "meat_dish",
+      "name": "蚂蚁上树"
+    },
+    {
+      "oldId": "meat_dish_636dd586",
+      "newId": "fe0888fe-67d4-4e30-8771-a94da2d8ba00",
+      "category": "meat_dish",
+      "name": "荔枝肉"
+    },
+    {
+      "oldId": "meat_dish_6412ed06",
+      "newId": "0f6c480d-2aef-4477-9365-0841df061cbc",
+      "category": "meat_dish",
+      "name": "黔式腊肠娃娃菜"
+    },
+    {
+      "oldId": "meat_dish_64e44d83",
+      "newId": "254b163d-4090-45ab-a2bc-4eee4cec2df2",
+      "category": "meat_dish",
+      "name": "香菇滑鸡"
+    },
+    {
+      "oldId": "meat_dish_681edd4d",
+      "newId": "94633c49-a35c-474a-83bc-f58b48600660",
+      "category": "meat_dish",
+      "name": "豆豉鲮鱼油麦菜"
+    },
+    {
+      "oldId": "meat_dish_71197600",
+      "newId": "f28ba20a-d586-42ef-95d7-6372b29f2960",
+      "category": "meat_dish",
+      "name": "蒜苔炒肉末"
+    },
+    {
+      "oldId": "meat_dish_7175adfc",
+      "newId": "89b0763f-e0bc-43fc-ad0f-6a80097107d0",
+      "category": "meat_dish",
+      "name": "徽派红烧肉"
+    },
+    {
+      "oldId": "meat_dish_729e078b",
+      "newId": "dda5cba3-b8f6-41f9-841b-689db20f05ca",
+      "category": "meat_dish",
+      "name": "冷吃兔"
+    },
+    {
+      "oldId": "meat_dish_75c92169",
+      "newId": "cee343f9-332c-4e83-ab56-ac7c5ae03173",
+      "category": "meat_dish",
+      "name": "荷兰豆炒腊肠"
+    },
+    {
+      "oldId": "meat_dish_7ad1b139",
+      "newId": "4ac78131-f1a0-44ab-a977-ab1ea2a30aa0",
+      "category": "meat_dish",
+      "name": "血浆鸭"
+    },
+    {
+      "oldId": "meat_dish_80c5aed8",
+      "newId": "a2908bd7-9745-47b2-b15f-dff9bdcf1007",
+      "category": "meat_dish",
+      "name": "尖叫牛蛙"
+    },
+    {
+      "oldId": "meat_dish_81f950f4",
+      "newId": "d3ad3369-b7f7-4806-8189-b409f1447d84",
+      "category": "meat_dish",
+      "name": "山西过油肉"
+    },
+    {
+      "oldId": "meat_dish_862866d2",
+      "newId": "894423df-cbf6-4375-b8a6-2672c8ebd7f2",
+      "category": "meat_dish",
+      "name": "猪肉烩酸菜"
+    },
+    {
+      "oldId": "meat_dish_89adeae2",
+      "newId": "771291ff-d116-484e-8911-0b11ac613fed",
+      "category": "meat_dish",
+      "name": "红烧猪蹄"
+    },
+    {
+      "oldId": "meat_dish_8a77749e",
+      "newId": "2473f530-e247-477a-bab0-7087e21565f5",
+      "category": "meat_dish",
+      "name": "麻婆豆腐"
+    },
+    {
+      "oldId": "meat_dish_8af007ba",
+      "newId": "388a8a05-ca30-4ff8-a378-5e28cddfc24b",
+      "category": "meat_dish",
+      "name": "咕噜肉"
+    },
+    {
+      "oldId": "meat_dish_8e08b242",
+      "newId": "a7c6fb59-32da-4c27-9f63-fff5ce9c5b6d",
+      "category": "meat_dish",
+      "name": "水煮肉片"
+    },
+    {
+      "oldId": "meat_dish_958b437b",
+      "newId": "63d5bd52-6ad9-41ab-a0f0-0d7499d44cb3",
+      "category": "meat_dish",
+      "name": "小米辣炒肉"
+    },
+    {
+      "oldId": "meat_dish_961cfd00",
+      "newId": "dabc7c1d-aae3-4d5d-81b6-389ffdbf6a11",
+      "category": "meat_dish",
+      "name": "奶酪培根通心粉"
+    },
+    {
+      "oldId": "meat_dish_986fb362",
+      "newId": "25f2238a-32c7-412b-924b-6cb20af5ac2b",
+      "category": "meat_dish",
+      "name": "湘祁米夫鸭"
+    },
+    {
+      "oldId": "meat_dish_99855032",
+      "newId": "97d4c178-aced-4d56-8e37-f6fd075ec80b",
+      "category": "meat_dish",
+      "name": "麻辣香锅"
+    },
+    {
+      "oldId": "meat_dish_9e1bc5ae",
+      "newId": "64285e29-f85e-4afc-b5f3-be98f127ecc1",
+      "category": "meat_dish",
+      "name": "烤鸡翅"
+    },
+    {
+      "oldId": "meat_dish_a4ad82bb",
+      "newId": "4b096f85-b7ef-4526-8a00-e1157c29c296",
+      "category": "meat_dish",
+      "name": "农家一碗香"
+    },
+    {
+      "oldId": "meat_dish_a5693a08",
+      "newId": "7aee0527-4850-48dc-9e41-66fe99d1abee",
+      "category": "meat_dish",
+      "name": "青椒土豆炒肉"
+    },
+    {
+      "oldId": "meat_dish_a6142d4e",
+      "newId": "616cba69-519a-4c10-a6fb-7adc95b499c2",
+      "category": "meat_dish",
+      "name": "粉蒸肉"
+    },
+    {
+      "oldId": "meat_dish_ab906096",
+      "newId": "c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b",
+      "category": "meat_dish",
+      "name": "柱候牛腩"
+    },
+    {
+      "oldId": "meat_dish_ae21bab1",
+      "newId": "119d99e1-b2c3-4c9e-b4b0-ab8013263d97",
+      "category": "meat_dish",
+      "name": "凉拌鸡丝"
+    },
+    {
+      "oldId": "meat_dish_af71c9ca",
+      "newId": "a4e65bcd-9275-4b8c-90c4-abacfd8c6cad",
+      "category": "meat_dish",
+      "name": "商芝肉"
+    },
+    {
+      "oldId": "meat_dish_b7cffd5d",
+      "newId": "1d25f058-1bc8-4b97-9e26-608baa7d7f10",
+      "category": "meat_dish",
+      "name": "新疆大盘鸡"
+    },
+    {
+      "oldId": "meat_dish_bba098ff",
+      "newId": "21623dea-d4c7-498a-a30b-65879a411850",
+      "category": "meat_dish",
+      "name": "西红柿土豆炖牛肉"
+    },
+    {
+      "oldId": "meat_dish_bc5b39f0",
+      "newId": "1d3ac2ba-a6ab-44a4-8795-b9a6d61bcc17",
+      "category": "meat_dish",
+      "name": "乡村啤酒鸭"
+    },
+    {
+      "oldId": "meat_dish_bcba4438",
+      "newId": "89417637-080f-43b4-8eaa-b9d9e31a8af3",
+      "category": "meat_dish",
+      "name": "姜炒鸡"
+    },
+    {
+      "oldId": "meat_dish_bf17c0af",
+      "newId": "6f55d34f-29f5-4c73-8bee-e0273a45c4e9",
+      "category": "meat_dish",
+      "name": "咖喱肥牛"
+    },
+    {
+      "oldId": "meat_dish_c1e02e44",
+      "newId": "d2191e61-d8ef-4063-8eec-1c4ff3016542",
+      "category": "meat_dish",
+      "name": "宫保鸡丁"
+    },
+    {
+      "oldId": "meat_dish_c1ef9da3",
+      "newId": "a2b6a9f9-4c18-4c4e-b3d8-4fd7ab669306",
+      "category": "meat_dish",
+      "name": "黄瓜炒肉"
+    },
+    {
+      "oldId": "meat_dish_d2a7aa78",
+      "newId": "b9e1af90-06f0-4690-8ba4-d39fd5e55b55",
+      "category": "meat_dish",
+      "name": "豉汁蒸白鱔"
+    },
+    {
+      "oldId": "meat_dish_d5104e31",
+      "newId": "2fca4f32-1cac-4378-95d4-848568409a5e",
+      "category": "meat_dish",
+      "name": "啤酒鸭"
+    },
+    {
+      "oldId": "meat_dish_d6fb088d",
+      "newId": "66d9d788-8c1a-4182-bc1e-ce051833c429",
+      "category": "meat_dish",
+      "name": "小炒肉"
+    },
+    {
+      "oldId": "meat_dish_dd46b330",
+      "newId": "7e1e358a-311c-436c-a23a-ac4c675ca637",
+      "category": "meat_dish",
+      "name": "小酥肉"
+    },
+    {
+      "oldId": "meat_dish_e4a18a12",
+      "newId": "2472a34f-0c57-4a30-acdb-b3a56bda6f0c",
+      "category": "meat_dish",
+      "name": "孜然牛肉"
+    },
+    {
+      "oldId": "meat_dish_e77fbcc3",
+      "newId": "dbb4df07-c493-4a05-b6ff-f58015f5fb6d",
+      "category": "meat_dish",
+      "name": "甜辣烤全翅"
+    },
+    {
+      "oldId": "meat_dish_e9abca43",
+      "newId": "a02cfd77-fd5a-49c8-a8df-4777e285ee87",
+      "category": "meat_dish",
+      "name": "带把肘子"
+    },
+    {
+      "oldId": "meat_dish_edfdae61",
+      "newId": "c74275e6-a44e-4b06-8e29-557f5b7271ab",
+      "category": "meat_dish",
+      "name": "肉饼炖蛋"
+    },
+    {
+      "oldId": "meat_dish_ee019d33",
+      "newId": "9014829b-4dbc-4a7d-a3f9-e138fe66cbe2",
+      "category": "meat_dish",
+      "name": "虎皮肘子"
+    },
+    {
+      "oldId": "meat_dish_f1f10752",
+      "newId": "ca1c4775-5d84-4010-8c98-43d22817369d",
+      "category": "meat_dish",
+      "name": "酱牛肉"
+    },
+    {
+      "oldId": "meat_dish_f1f2077d",
+      "newId": "54c5c9c0-9640-4d34-bbfd-a9a70cb27955",
+      "category": "meat_dish",
+      "name": "羊排焖面"
+    },
+    {
+      "oldId": "meat_dish_f841899b",
+      "newId": "c515f909-1f30-46a4-9b04-feb6492ca705",
+      "category": "meat_dish",
+      "name": "小炒黄牛肉"
+    },
+    {
+      "oldId": "meat_dish_f850fc61",
+      "newId": "e1222637-48ef-48d7-8ad1-55505cc6a22d",
+      "category": "meat_dish",
+      "name": "杀猪菜"
+    },
+    {
+      "oldId": "meat_dish_f8a5fa31",
+      "newId": "a45da1d2-c782-4842-9dcc-776ec8f50aa1",
+      "category": "meat_dish",
+      "name": "糖醋排骨"
+    },
+    {
+      "oldId": "meat_dish_fb72a88d",
+      "newId": "90770dd0-1358-44f3-9cc8-433397747bab",
+      "category": "meat_dish",
+      "name": "老式锅包肉"
+    },
+    {
+      "oldId": "meat_dish_fd11a11f",
+      "newId": "f0419c94-7799-4730-99f1-0dec94ec2aa3",
+      "category": "meat_dish",
+      "name": "醉排骨"
+    },
+    {
+      "oldId": "semi-finished_007a3967",
+      "newId": "fba1859d-c58b-4174-bc70-87e74731213a",
+      "category": "semi-finished",
+      "name": "半成品意面"
+    },
+    {
+      "oldId": "semi-finished_06007ff7",
+      "newId": "61f9fb74-8488-4532-bc6b-8463fcdd3b93",
+      "category": "semi-finished",
+      "name": "凉皮"
+    },
+    {
+      "oldId": "semi-finished_0b36bd6b",
+      "newId": "84be1776-f503-4e5b-b07c-71a6ac8b3194",
+      "category": "semi-finished",
+      "name": "空气炸锅羊排"
+    },
+    {
+      "oldId": "semi-finished_1163d186",
+      "newId": "6efa4dee-94c6-43d9-b4b0-8f3ce13516c2",
+      "category": "semi-finished",
+      "name": "速冻汤圆"
+    },
+    {
+      "oldId": "semi-finished_1a33daed",
+      "newId": "b21faaa7-fb5d-4f06-9192-625250a5e843",
+      "category": "semi-finished",
+      "name": "速冻水饺"
+    },
+    {
+      "oldId": "semi-finished_1a3f71a6",
+      "newId": "4557d4f1-f582-451e-81e9-585ed2e46ded",
+      "category": "semi-finished",
+      "name": "速冻馄饨"
+    },
+    {
+      "oldId": "semi-finished_3338e9eb",
+      "newId": "ec4df1a0-e909-4ef8-9312-745492fee2d8",
+      "category": "semi-finished",
+      "name": "炸薯条"
+    },
+    {
+      "oldId": "semi-finished_6f634d4b",
+      "newId": "8820a01e-bee8-4b99-be45-b8abb1e810a4",
+      "category": "semi-finished",
+      "name": "牛油火锅底料"
+    },
+    {
+      "oldId": "semi-finished_97c9158e",
+      "newId": "dbcc1629-b0a3-43e9-8ef6-4aa554b4e8fa",
+      "category": "semi-finished",
+      "name": "懒人蛋挞"
+    },
+    {
+      "oldId": "semi-finished_a8e716f9",
+      "newId": "2fc62a6b-1f32-4640-afb7-d14c0c7e1c45",
+      "category": "semi-finished",
+      "name": "空气炸锅鸡翅中"
+    },
+    {
+      "oldId": "soup_06a69c63",
+      "newId": "1c237f3a-756c-40d8-8206-3159f06a2aa7",
+      "category": "soup",
+      "name": "番茄牛肉蛋花汤"
+    },
+    {
+      "oldId": "soup_2943fbd7",
+      "newId": "be4d8bf8-8206-4079-9f84-eb151f16b1bb",
+      "category": "soup",
+      "name": "皮蛋瘦肉粥"
+    },
+    {
+      "oldId": "soup_2d791764",
+      "newId": "2c89bb3d-edcd-40b1-8e0b-7a7330720fc6",
+      "category": "soup",
+      "name": "米粥"
+    },
+    {
+      "oldId": "soup_45e226fc",
+      "newId": "80c9759a-2d63-4082-96db-6ae3cd27ec39",
+      "category": "soup",
+      "name": "罗宋汤"
+    },
+    {
+      "oldId": "soup_57a75a8a",
+      "newId": "abedffd6-30a7-474e-92b1-34494f97a5e6",
+      "category": "soup",
+      "name": "菌菇炖乳鸽"
+    },
+    {
+      "oldId": "soup_653aa229",
+      "newId": "9f62817c-714f-46b4-b156-f5076ec79a81",
+      "category": "soup",
+      "name": "奶油蘑菇汤"
+    },
+    {
+      "oldId": "soup_677af26e",
+      "newId": "54698df5-f798-44ef-ad1e-632a8c65c2c8",
+      "category": "soup",
+      "name": "朱雀汤"
+    },
+    {
+      "oldId": "soup_6ab42daf",
+      "newId": "a97de2a3-b302-467b-82e3-af03197399f3",
+      "category": "soup",
+      "name": "紫菜蛋花汤"
+    },
+    {
+      "oldId": "soup_6d327a99",
+      "newId": "4912af52-7a01-45cc-a4d6-08c7b9e40460",
+      "category": "soup",
+      "name": "羊肉汤"
+    },
+    {
+      "oldId": "soup_6e1a34c6",
+      "newId": "02ea63c1-f526-4b5e-a7f8-76f4c3783d09",
+      "category": "soup",
+      "name": "小米粥"
+    },
+    {
+      "oldId": "soup_80838622",
+      "newId": "6592daed-4e6c-45dd-9868-b3b19f4ee590",
+      "category": "soup",
+      "name": "金针菇汤"
+    },
+    {
+      "oldId": "soup_92395d98",
+      "newId": "4ede8682-ef50-42a1-8d1c-cedc56edb48a",
+      "category": "soup",
+      "name": "西红柿鸡蛋汤"
+    },
+    {
+      "oldId": "soup_9f67a0b4",
+      "newId": "a1984eb8-3eed-42fd-89e9-7c11b817ab8e",
+      "category": "soup",
+      "name": "排骨苦瓜汤"
+    },
+    {
+      "oldId": "soup_a5a476c6",
+      "newId": "667153fd-e7a9-4131-aa6e-817259411465",
+      "category": "soup",
+      "name": "腊八粥"
+    },
+    {
+      "oldId": "soup_b2467519",
+      "newId": "1d2ef664-be62-4627-9d49-76a0391fcfbc",
+      "category": "soup",
+      "name": "玉米排骨汤"
+    },
+    {
+      "oldId": "soup_b942dbb7",
+      "newId": "0032e10b-1f73-456f-b118-aeeb1749a312",
+      "category": "soup",
+      "name": "陈皮排骨汤"
+    },
+    {
+      "oldId": "soup_c43fdbeb",
+      "newId": "d3c91ac0-e0ab-46df-87e7-aac631c8127f",
+      "category": "soup",
+      "name": "勾芡香菇汤"
+    },
+    {
+      "oldId": "soup_caabf3d3",
+      "newId": "209c55b7-c645-4ced-8723-ceaf06b39ff4",
+      "category": "soup",
+      "name": "生汆丸子汤"
+    },
+    {
+      "oldId": "soup_d0b872ce",
+      "newId": "ff3f4253-80d8-4bb8-82a6-d834b8c166aa",
+      "category": "soup",
+      "name": "银耳莲子粥"
+    },
+    {
+      "oldId": "soup_fb933150",
+      "newId": "e5c56598-4dc6-47aa-92d8-7e6e4604e759",
+      "category": "soup",
+      "name": "昂刺鱼豆腐汤"
+    },
+    {
+      "oldId": "staple_0473e652",
+      "newId": "3ebce8b4-92e1-4ce4-8685-87bbc552b556",
+      "category": "staple",
+      "name": "扬州炒饭"
+    },
+    {
+      "oldId": "staple_04eb8c97",
+      "newId": "fc4fa08b-83ef-4598-9ae5-4f2576c9cabd",
+      "category": "staple",
+      "name": "披萨饼皮"
+    },
+    {
+      "oldId": "staple_0694cdeb",
+      "newId": "ca6b7deb-ec59-4285-99e1-6bf91e9c8477",
+      "category": "staple",
+      "name": "芝麻烧饼"
+    },
+    {
+      "oldId": "staple_07dd9e62",
+      "newId": "f62d6719-198f-4e48-a590-a16fc3e3dcaf",
+      "category": "staple",
+      "name": "西红柿鸡蛋挂面"
+    },
+    {
+      "oldId": "staple_12c809c7",
+      "newId": "261c8dfb-c4c6-4af5-ac02-b85278b995ff",
+      "category": "staple",
+      "name": "豆角焖面"
+    },
+    {
+      "oldId": "staple_12ea157a",
+      "newId": "38df1a1b-e199-4390-87f8-c65eed9b643e",
+      "category": "staple",
+      "name": "电饭煲三文鱼炊饭"
+    },
+    {
+      "oldId": "staple_179b8ad7",
+      "newId": "c37fc79a-5063-4b15-b874-06fe26f65ef5",
+      "category": "staple",
+      "name": "煮泡面加蛋"
+    },
+    {
+      "oldId": "staple_1eb80185",
+      "newId": "30f04138-07fe-41fc-afb0-66ed966bbb43",
+      "category": "staple",
+      "name": "火腿饭团"
+    },
+    {
+      "oldId": "staple_262c78e6",
+      "newId": "f8ea5fd9-e86b-43be-8466-ae7b6c444bd5",
+      "category": "staple",
+      "name": "微波炉腊肠煲仔饭"
+    },
+    {
+      "oldId": "staple_2b2ce621",
+      "newId": "6f82d987-4870-4168-b8d4-bfd4befb119b",
+      "category": "staple",
+      "name": "炒凉粉"
+    },
+    {
+      "oldId": "staple_36dd07ed",
+      "newId": "87ec9876-95de-4c3c-8500-3432fb28d1cb",
+      "category": "staple",
+      "name": "空气炸锅照烧鸡饭"
+    },
+    {
+      "oldId": "staple_397be2b0",
+      "newId": "cb2e9b9d-a0fb-4b3d-b1e6-e2ad4e89caea",
+      "category": "staple",
+      "name": "肉蛋盖饭"
+    },
+    {
+      "oldId": "staple_3f5fd253",
+      "newId": "86437d6b-c2ec-404d-8ecc-ffcfb745280f",
+      "category": "staple",
+      "name": "中式馅饼"
+    },
+    {
+      "oldId": "staple_45415bbf",
+      "newId": "06eb168a-7db0-4087-8a8f-6be336608334",
+      "category": "staple",
+      "name": "韭菜盒子"
+    },
+    {
+      "oldId": "staple_4b64abee",
+      "newId": "d21dd613-3511-48e7-8010-cabda19cad14",
+      "category": "staple",
+      "name": "烙饼"
+    },
+    {
+      "oldId": "staple_4c5b7982",
+      "newId": "66d92835-250b-4ee4-9eb8-4bca25423df0",
+      "category": "staple",
+      "name": "陕西油泼面"
+    },
+    {
+      "oldId": "staple_4de2502c",
+      "newId": "8dfe1b70-1127-4bd7-8b47-7ecf01c936a6",
+      "category": "staple",
+      "name": "蛋包饭"
+    },
+    {
+      "oldId": "staple_50491397",
+      "newId": "c2809d21-c91e-4328-ac88-53abb43c5c4b",
+      "category": "staple",
+      "name": "酱拌荞麦面"
+    },
+    {
+      "oldId": "staple_53d8ce09",
+      "newId": "b822722e-e5e9-49d0-80c3-9e2315623283",
+      "category": "staple",
+      "name": "麻油拌面"
+    },
+    {
+      "oldId": "staple_5b8e7b4c",
+      "newId": "ce74c51c-e660-47ff-9f3a-f7d07488b1a9",
+      "category": "staple",
+      "name": "意式肉酱面"
+    },
+    {
+      "oldId": "staple_670f34b7",
+      "newId": "050756c9-57ae-4fb0-bc2e-1b9f71a9e4a4",
+      "category": "staple",
+      "name": "炒河粉"
+    },
+    {
+      "oldId": "staple_693aee62",
+      "newId": "d70776a4-cbd9-4cac-a7fb-da7b691c98ef",
+      "category": "staple",
+      "name": "螺蛳粉"
+    },
+    {
+      "oldId": "staple_6abcc2f3",
+      "newId": "56e3011d-113b-4e8b-a32e-86507c8f9d4a",
+      "category": "staple",
+      "name": "手工水饺"
+    },
+    {
+      "oldId": "staple_6cc3231a",
+      "newId": "8ee57f98-adf3-4f25-84d3-5be5f88dde12",
+      "category": "staple",
+      "name": "麻辣减脂荞麦面"
+    },
+    {
+      "oldId": "staple_76eda847",
+      "newId": "4043b5a9-3fc6-45fd-ab4b-ad3978d8f3a5",
+      "category": "staple",
+      "name": "蒸卤面"
+    },
+    {
+      "oldId": "staple_7a00e41e",
+      "newId": "3a2a1876-9e5a-4173-9b73-e1dc6a3fb01b",
+      "category": "staple",
+      "name": "葱油拌面"
+    },
+    {
+      "oldId": "staple_8de7954b",
+      "newId": "d0735957-035f-4089-baa3-26a14faec17c",
+      "category": "staple",
+      "name": "凉粉"
+    },
+    {
+      "oldId": "staple_96435ae4",
+      "newId": "485eac2d-fa54-421a-8dea-a3e956b7a4ad",
+      "category": "staple",
+      "name": "炒馍"
+    },
+    {
+      "oldId": "staple_999f6d62",
+      "newId": "19864ff6-697b-49b1-a9e4-0e8a28f023c9",
+      "category": "staple",
+      "name": "炒意大利面"
+    },
+    {
+      "oldId": "staple_9fbf6ff3",
+      "newId": "f0a1d835-e5c1-4b90-b86f-9f02b8e95bc8",
+      "category": "staple",
+      "name": "炒年糕"
+    },
+    {
+      "oldId": "staple_a7520caa",
+      "newId": "43fb0388-e92b-4a8d-a3ce-e31398d24282",
+      "category": "staple",
+      "name": "炒方便面"
+    },
+    {
+      "oldId": "staple_ab754a08",
+      "newId": "2fdbaf14-da70-4cd5-b3e9-1ab080b1e7fa",
+      "category": "staple",
+      "name": "炸酱面"
+    },
+    {
+      "oldId": "staple_aea9ae4a",
+      "newId": "c01cc713-12dc-4a12-a42f-c5ee73226492",
+      "category": "staple",
+      "name": "酸辣蕨根粉"
+    },
+    {
+      "oldId": "staple_b2db871d",
+      "newId": "b98c4053-deaf-4455-9644-c5c4830a81cb",
+      "category": "staple",
+      "name": "鲣鱼海苔玉米饭"
+    },
+    {
+      "oldId": "staple_b2f26072",
+      "newId": "9f282cec-7c3d-4a0a-b6ca-ba2c738f527a",
+      "category": "staple",
+      "name": "茄子肉煎饼"
+    },
+    {
+      "oldId": "staple_b6d28a64",
+      "newId": "b3e1edae-5f28-46c0-aa23-c220f5a194b9",
+      "category": "staple",
+      "name": "韩式拌饭"
+    },
+    {
+      "oldId": "staple_bbe73a88",
+      "newId": "a0cfeb4d-8ff3-419f-b1f0-462828002a85",
+      "category": "staple",
+      "name": "日式咖喱饭"
+    },
+    {
+      "oldId": "staple_bc665093",
+      "newId": "ddcb7d00-7b40-4ff9-9375-b1549478691d",
+      "category": "staple",
+      "name": "醪糟小汤圆"
+    },
+    {
+      "oldId": "staple_c6933182",
+      "newId": "b7d1a11c-86e8-450d-9ce4-f32b1d05ea3e",
+      "category": "staple",
+      "name": "老干妈拌面"
+    },
+    {
+      "oldId": "staple_d10ca7ec",
+      "newId": "b8cb9ef1-a138-4ea3-b81d-8988e497e6ae",
+      "category": "staple",
+      "name": "汤面"
+    },
+    {
+      "oldId": "staple_d8f08766",
+      "newId": "68264b7a-88d6-4adf-896f-8704439352bd",
+      "category": "staple",
+      "name": "电饭煲蒸米饭"
+    },
+    {
+      "oldId": "staple_d92e76bc",
+      "newId": "9b5fb9f7-fd5b-4820-956d-82aa8aa3036a",
+      "category": "staple",
+      "name": "基础牛奶面包"
+    },
+    {
+      "oldId": "staple_dd81a330",
+      "newId": "b227e2aa-12c6-4432-88d7-1df2ecd37aff",
+      "category": "staple",
+      "name": "老友猪肉粉"
+    },
+    {
+      "oldId": "staple_e03d57aa",
+      "newId": "700bac34-9b2c-4ed0-ae45-3276c61035e4",
+      "category": "staple",
+      "name": "河南蒸面条"
+    },
+    {
+      "oldId": "staple_e0de9c26",
+      "newId": "4022068a-c878-4640-9829-d21cdba9f848",
+      "category": "staple",
+      "name": "蛋炒饭"
+    },
+    {
+      "oldId": "staple_e4f7a374",
+      "newId": "6b6abe5e-9f8b-4427-beae-947ff72b975a",
+      "category": "staple",
+      "name": "煮锅蒸米饭"
+    },
+    {
+      "oldId": "staple_f66fc662",
+      "newId": "143fda7b-8f7e-4ac8-ada6-f019104ac02c",
+      "category": "staple",
+      "name": "热干面"
+    },
+    {
+      "oldId": "staple_f92443e0",
+      "newId": "8f1a8456-4abc-4e8e-9023-b966b23b5810",
+      "category": "staple",
+      "name": "日式肥牛丼饭"
+    },
+    {
+      "oldId": "vegetable_dish_0112ec98",
+      "newId": "9e106acb-bc40-464a-976d-9b7dfce197d1",
+      "category": "vegetable_dish",
+      "name": "菠菜炒鸡蛋"
+    },
+    {
+      "oldId": "vegetable_dish_17333c69",
+      "newId": "2836cdfa-4c76-4329-b10c-f5916dcefb9e",
+      "category": "vegetable_dish",
+      "name": "拔丝土豆"
+    },
+    {
+      "oldId": "vegetable_dish_176efb96",
+      "newId": "0324501e-a800-43b5-b77f-711ad45244ff",
+      "category": "vegetable_dish",
+      "name": "炒茄子"
+    },
+    {
+      "oldId": "vegetable_dish_20cca943",
+      "newId": "0845e580-b058-4aa4-a5e7-ce716e4c07b6",
+      "category": "vegetable_dish",
+      "name": "凉拌莴笋"
+    },
+    {
+      "oldId": "vegetable_dish_222c2eed",
+      "newId": "7bdfa9a0-1c0b-4c45-8f02-9aebc40f1d3f",
+      "category": "vegetable_dish",
+      "name": "凉拌豆腐"
+    },
+    {
+      "oldId": "vegetable_dish_2291424d",
+      "newId": "ded9ee1a-5e10-42e7-9077-fa9ecb76a822",
+      "category": "vegetable_dish",
+      "name": "鸡蛋花"
+    },
+    {
+      "oldId": "vegetable_dish_2522b448",
+      "newId": "ba9b0d44-9b7d-4df3-8f3f-34832f2d1fee",
+      "category": "vegetable_dish",
+      "name": "炒青菜"
+    },
+    {
+      "oldId": "vegetable_dish_275fbd17",
+      "newId": "7642c183-5f08-46fe-8435-4ff618cf8707",
+      "category": "vegetable_dish",
+      "name": "烤茄子"
+    },
+    {
+      "oldId": "vegetable_dish_3248b36a",
+      "newId": "979fe760-169f-4391-88b6-5d417dcb58c3",
+      "category": "vegetable_dish",
+      "name": "凉拌木耳"
+    },
+    {
+      "oldId": "vegetable_dish_38609c21",
+      "newId": "419f234a-956c-425a-9323-043d1d8709e9",
+      "category": "vegetable_dish",
+      "name": "莴笋叶煎饼"
+    },
+    {
+      "oldId": "vegetable_dish_3d4f47b4",
+      "newId": "96c9b4dd-cf29-4050-9f31-1faf88b4ae6a",
+      "category": "vegetable_dish",
+      "name": "金针菇日本豆腐煲"
+    },
+    {
+      "oldId": "vegetable_dish_43f0a330",
+      "newId": "32906072-1b07-49b3-8ff5-cba048fe1866",
+      "category": "vegetable_dish",
+      "name": "素炒豆角"
+    },
+    {
+      "oldId": "vegetable_dish_4ba1c728",
+      "newId": "94066175-4fcc-4839-bdbc-90d16bf84166",
+      "category": "vegetable_dish",
+      "name": "洋葱炒鸡蛋"
+    },
+    {
+      "oldId": "vegetable_dish_506d310c",
+      "newId": "2f8e1fcb-1721-4f67-93aa-44f19146853f",
+      "category": "vegetable_dish",
+      "name": "酸辣土豆丝"
+    },
+    {
+      "oldId": "vegetable_dish_52c78242",
+      "newId": "a30fb81a-1b25-4e37-903d-acfdf84d8065",
+      "category": "vegetable_dish",
+      "name": "凉拌金针菇"
+    },
+    {
+      "oldId": "vegetable_dish_5ddd10d5",
+      "newId": "59000a27-7853-4eea-ad59-9c626bfd0911",
+      "category": "vegetable_dish",
+      "name": "微波炉鸡蛋羹"
+    },
+    {
+      "oldId": "vegetable_dish_6815ec92",
+      "newId": "14a61cfb-863f-4b9a-9d67-b4d720d234c7",
+      "category": "vegetable_dish",
+      "name": "红烧茄子"
+    },
+    {
+      "oldId": "vegetable_dish_68e6de93",
+      "newId": "addd859b-ccd1-4678-9878-b51042ca5837",
+      "category": "vegetable_dish",
+      "name": "小炒藕丁"
+    },
+    {
+      "oldId": "vegetable_dish_6a816343",
+      "newId": "7d03562a-082c-459e-8939-c02acd550c6c",
+      "category": "vegetable_dish",
+      "name": "清蒸南瓜"
+    },
+    {
+      "oldId": "vegetable_dish_6af9ab96",
+      "newId": "0ab03eff-f47f-4e42-9878-360f08b1802f",
+      "category": "vegetable_dish",
+      "name": "陕北熬豆角"
+    },
+    {
+      "oldId": "vegetable_dish_6d092c28",
+      "newId": "d3fa410a-5071-4c43-89eb-82dd68565bb6",
+      "category": "vegetable_dish",
+      "name": "脆皮豆腐"
+    },
+    {
+      "oldId": "vegetable_dish_707c735b",
+      "newId": "00c3e18a-849f-494f-b82e-9c863b5b96d3",
+      "category": "vegetable_dish",
+      "name": "松仁玉米"
+    },
+    {
+      "oldId": "vegetable_dish_766fa6e4",
+      "newId": "afd67abe-b463-48a0-be73-5154d3df2ff9",
+      "category": "vegetable_dish",
+      "name": "西葫芦炒鸡蛋"
+    },
+    {
+      "oldId": "vegetable_dish_7c982b8e",
+      "newId": "38237b4c-952b-4771-9b65-d4bf4e58a551",
+      "category": "vegetable_dish",
+      "name": "上汤娃娃菜"
+    },
+    {
+      "oldId": "vegetable_dish_7e19aaf5",
+      "newId": "1dec1642-4939-4d4c-b86b-ca87484d1a67",
+      "category": "vegetable_dish",
+      "name": "凉拌黄瓜"
+    },
+    {
+      "oldId": "vegetable_dish_81a3a7b8",
+      "newId": "7aa4195e-231e-4152-b00f-5c007cadf839",
+      "category": "vegetable_dish",
+      "name": "蒜蓉西兰花"
+    },
+    {
+      "oldId": "vegetable_dish_82f297df",
+      "newId": "e9f8525b-67f7-4549-b90e-b6989f2b4daa",
+      "category": "vegetable_dish",
+      "name": "葱煎豆腐"
+    },
+    {
+      "oldId": "vegetable_dish_8301a7b3",
+      "newId": "2c5c8ffd-5d19-49b3-a2fe-0b177eab3ef9",
+      "category": "vegetable_dish",
+      "name": "蒜蓉空心菜"
+    },
+    {
+      "oldId": "vegetable_dish_8461cd0d",
+      "newId": "3d8cb173-7899-4c57-b798-2851b38387d5",
+      "category": "vegetable_dish",
+      "name": "油醋爆蛋"
+    },
+    {
+      "oldId": "vegetable_dish_849db323",
+      "newId": "c09dd562-6f8f-4cb8-af90-cbb5a610789e",
+      "category": "vegetable_dish",
+      "name": "水油焖蔬菜"
+    },
+    {
+      "oldId": "vegetable_dish_9411cc9e",
+      "newId": "cce1177c-1178-4b7f-a2d0-f00a94bf2443",
+      "category": "vegetable_dish",
+      "name": "椒盐玉米"
+    },
+    {
+      "oldId": "vegetable_dish_94504627",
+      "newId": "f5bb3c5b-b901-45d5-aa0d-185c02b26f5f",
+      "category": "vegetable_dish",
+      "name": "西红柿炒鸡蛋"
+    },
+    {
+      "oldId": "vegetable_dish_9be9b313",
+      "newId": "0b4212d1-c638-4e16-9081-7214e35e1c56",
+      "category": "vegetable_dish",
+      "name": "西红柿豆腐汤羹"
+    },
+    {
+      "oldId": "vegetable_dish_9db3e8b3",
+      "newId": "0f51da35-16a4-43e2-ad71-ce1959547b16",
+      "category": "vegetable_dish",
+      "name": "白灼菜心"
+    },
+    {
+      "oldId": "vegetable_dish_a9895d68",
+      "newId": "bd663883-d9d5-4d83-8611-ac0694c4709a",
+      "category": "vegetable_dish",
+      "name": "虎皮青椒"
+    },
+    {
+      "oldId": "vegetable_dish_ab718bbb",
+      "newId": "d7f9e0cd-52f9-46bf-8aab-f90e6aa0474f",
+      "category": "vegetable_dish",
+      "name": "凉拌油麦菜"
+    },
+    {
+      "oldId": "vegetable_dish_b663bdad",
+      "newId": "66ac8564-eb71-4795-9b2b-18b74fd15e00",
+      "category": "vegetable_dish",
+      "name": "鸡蛋羹"
+    },
+    {
+      "oldId": "vegetable_dish_b7d3f0b0",
+      "newId": "fd06e02d-4f6d-40db-89e1-20bb7ba0dc75",
+      "category": "vegetable_dish",
+      "name": "话梅煮毛豆"
+    },
+    {
+      "oldId": "vegetable_dish_b8a552e4",
+      "newId": "d002f6b3-80eb-4199-9e4a-9e15b0ef65e3",
+      "category": "vegetable_dish",
+      "name": "手撕包菜"
+    },
+    {
+      "oldId": "vegetable_dish_be313e6e",
+      "newId": "38cf4ee6-08e7-400c-a277-908eee40958f",
+      "category": "vegetable_dish",
+      "name": "榄菜肉末四季豆"
+    },
+    {
+      "oldId": "vegetable_dish_c802865b",
+      "newId": "888c30cd-d1f8-4bb8-bd35-87cba90d5b44",
+      "category": "vegetable_dish",
+      "name": "芹菜拌茶树菇"
+    },
+    {
+      "oldId": "vegetable_dish_cd042334",
+      "newId": "3fffc974-e368-4349-8d28-96939ae3c76f",
+      "category": "vegetable_dish",
+      "name": "地三鲜"
+    },
+    {
+      "oldId": "vegetable_dish_d4dd30fc",
+      "newId": "c1166938-fe89-46db-9e1d-f90147a64e95",
+      "category": "vegetable_dish",
+      "name": "雷椒皮蛋"
+    },
+    {
+      "oldId": "vegetable_dish_d55a92f5",
+      "newId": "d10c40e8-09cc-46fa-920f-e2f91d8a81e5",
+      "category": "vegetable_dish",
+      "name": "蚝油生菜"
+    },
+    {
+      "oldId": "vegetable_dish_d5797f24",
+      "newId": "2135a4a7-96ac-4120-bad7-b35498f9a587",
+      "category": "vegetable_dish",
+      "name": "炒滑蛋"
+    },
+    {
+      "oldId": "vegetable_dish_dc28d501",
+      "newId": "1d1cd427-2060-4c0e-8470-16bb6bd2e17f",
+      "category": "vegetable_dish",
+      "name": "蒸箱鸡蛋羹"
+    },
+    {
+      "oldId": "vegetable_dish_dca37e25",
+      "newId": "9a75aca3-1b0d-4327-a125-a6f2937bb378",
+      "category": "vegetable_dish",
+      "name": "蒲烧茄子"
+    },
+    {
+      "oldId": "vegetable_dish_ddf35bd4",
+      "newId": "7f57401f-a29e-4002-97b8-edc115f2314d",
+      "category": "vegetable_dish",
+      "name": "干锅花菜"
+    },
+    {
+      "oldId": "vegetable_dish_e1eb3209",
+      "newId": "d1456127-aea3-4b9c-9e16-e4a9e941730a",
+      "category": "vegetable_dish",
+      "name": "清炒花菜"
+    },
+    {
+      "oldId": "vegetable_dish_e376aaf7",
+      "newId": "829fb8a2-634e-4cb1-b8d1-a52136e2b145",
+      "category": "vegetable_dish",
+      "name": "红烧冬瓜"
+    },
+    {
+      "oldId": "vegetable_dish_eaadc904",
+      "newId": "f2bdece5-22a4-42a6-9b72-8ac4070ac697",
+      "category": "vegetable_dish",
+      "name": "茄子炖土豆"
+    },
+    {
+      "oldId": "vegetable_dish_ed1125b8",
+      "newId": "7011494d-372c-43a2-ba22-2c1504bb3f76",
+      "category": "vegetable_dish",
+      "name": "蚝油三鲜菇"
+    },
+    {
+      "oldId": "vegetable_dish_efb666d9",
+      "newId": "c85eb87a-79fc-416b-9c69-deec70333772",
+      "category": "vegetable_dish",
+      "name": "糖拌西红柿"
+    },
+    {
+      "oldId": "vegetable_dish_f29b01cd",
+      "newId": "6e8e0bec-dc9a-40c9-9901-bca5e8dd051b",
+      "category": "vegetable_dish",
+      "name": "鸡蛋火腿炒黄瓜"
+    },
+    {
+      "oldId": "vegetable_dish_fa2b187c",
+      "newId": "70cb4e79-fda8-4e0f-ab03-b0c5a568bebf",
+      "category": "vegetable_dish",
+      "name": "包菜炒鸡蛋粉丝"
+    }
+  ]
+}

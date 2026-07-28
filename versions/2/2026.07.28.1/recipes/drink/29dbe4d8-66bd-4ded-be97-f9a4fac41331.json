@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "id": "29dbe4d8-66bd-4ded-be97-f9a4fac41331",
+  "legacyIds": [
+    "drink_f7b9c13a"
+  ],
+  "name": "酸梅汤（半成品加工）",
+  "description": "酸梅汤（半成品加工）是一道酸甜爽口的夏日消暑饮品，传统京味风格。酸梅汤本身有生津止渴、帮助消化的好处。做法极其简单，只需按顺序搅拌即可，对新手毫无难度，全程大约五分钟就能完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 603,
+  "requirements": [
+    {
+      "text": "酸梅晶固体饮料",
+      "markdown": "酸梅晶固体饮料",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "方糖（可选）",
+      "markdown": "方糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "北京二锅头酒（可选）",
+      "markdown": "北京二锅头酒（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 酸梅晶固体饮料\r\n- 方糖（可选）\r\n- 北京二锅头酒（可选）",
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "text": "饮用水 1177 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸梅晶固体饮料",
+      "text": "酸梅晶固体饮料 120 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "方糖",
+      "text": "方糖 9 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "北京二锅头酒",
+      "text": "北京二锅头酒 48 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 饮用水 1177 克\r\n- 酸梅晶固体饮料 120 克\r\n- 方糖 9 克\r\n- 北京二锅头酒 48 克\r\n\r\n上述所有用量可以等比例增加或减小。",
+  "calculationNotes": [
+    "上述所有用量可以等比例增加或减小。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "取饮用水 1177 克。"
+    },
+    {
+      "kind": "step",
+      "description": "放入酸梅晶固体饮料 60 克，使用汤匙顺时针搅拌 50 圈。"
+    },
+    {
+      "kind": "step",
+      "description": "再放入剩下 60 克酸梅晶固体饮料，再次使用汤匙顺时针搅拌 50 圈。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 9 克的方糖，使用汤匙顺时针搅拌 100 圈。"
+    },
+    {
+      "kind": "step",
+      "description": "放入北京二锅头酒 48 克，用汤匙顺时针搅拌 30 圈。"
+    }
+  ],
+  "operationMarkdown": "1. 取饮用水 1177 克。\r\n2. 放入酸梅晶固体饮料 60 克，使用汤匙顺时针搅拌 50 圈。\r\n3. 再放入剩下 60 克酸梅晶固体饮料，再次使用汤匙顺时针搅拌 50 圈。\r\n4. 放入 9 克的方糖，使用汤匙顺时针搅拌 100 圈。\r\n5. 放入北京二锅头酒 48 克，用汤匙顺时针搅拌 30 圈。",
+  "tips": "如果没有准备方糖或北京二锅头，可以省略操作中的第 4 步或第 5 步。\r\n\r\n放入冰箱冷藏后再饮用效果更佳。\r\n\r\n**饮酒请勿驾车。**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果没有准备方糖或北京二锅头，可以省略操作中的第 4 步或第 5 步。\r\n\r\n放入冰箱冷藏后再饮用效果更佳。\r\n\r\n**饮酒请勿驾车。**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/酸梅汤（半成品加工）.md"
+  },
+  "hash": "ebb6166a6baa9d8aefb6a8f323aa667bbb6b14f303950536fa718ef8c9e6542c"
+}

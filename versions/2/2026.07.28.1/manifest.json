@@ -1,0 +1,5259 @@
+{
+  "schemaVersion": 2,
+  "dataVersion": "2026.07.28.1",
+  "generatedAt": "2026-07-24T07:09:54Z",
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "committedAt": "2026-07-24T07:09:54Z"
+  },
+  "recipeIdFormat": "uuid-v4-registry",
+  "basePath": "versions/2/2026.07.28.1",
+  "migrations": {
+    "recipeIdsV1ToV2": "migrations/recipe-id-v1-to-v2.json"
+  },
+  "totalRecipes": 367,
+  "totalTips": 18,
+  "totalImages": 346,
+  "categories": {
+    "aquatic": {
+      "name": "水产",
+      "count": 28
+    },
+    "breakfast": {
+      "name": "早餐",
+      "count": 25
+    },
+    "condiment": {
+      "name": "调料",
+      "count": 9
+    },
+    "dessert": {
+      "name": "甜品",
+      "count": 19
+    },
+    "drink": {
+      "name": "饮料",
+      "count": 23
+    },
+    "meat_dish": {
+      "name": "荤菜",
+      "count": 110
+    },
+    "semi-finished": {
+      "name": "半成品",
+      "count": 10
+    },
+    "soup": {
+      "name": "汤粥",
+      "count": 22
+    },
+    "staple": {
+      "name": "主食",
+      "count": 58
+    },
+    "vegetable_dish": {
+      "name": "素菜",
+      "count": 63
+    }
+  },
+  "tipsCategories": {
+    "advanced": {
+      "name": "进阶知识",
+      "count": 4
+    },
+    "general": {
+      "name": "基础知识",
+      "count": 3
+    },
+    "learn": {
+      "name": "基础技法",
+      "count": 11
+    }
+  },
+  "recipes": [
+    {
+      "id": "05a523a7-48b0-44ed-975a-77d45f17cf64",
+      "legacyIds": [
+        "aquatic_28c3c7c3"
+      ],
+      "name": "白灼虾",
+      "description": "白灼虾是一道粤式经典快手菜，虾肉鲜甜弹嫩，原汁原味。虾本身富含优质蛋白和多种矿物质，搭配蘸料开胃不油腻。做法简单容错率高，对新手非常友好，从备料到出锅大约只需 15 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 519,
+      "imageCount": 1,
+      "hash": "78dcd33cb0ba192f99b16eec46ade4fbcce0e75aa9969199b24d4b08b2ec1145"
+    },
+    {
+      "id": "07674d51-263f-44e1-affd-e35d24318473",
+      "legacyIds": [
+        "aquatic_d4c3eb44"
+      ],
+      "name": "鳊鱼炖豆腐",
+      "description": "鳊鱼炖豆腐是一道家常红烧菜，鱼肉鲜嫩入味，豆腐饱吸汤汁，咸鲜微辣。鳊鱼富含优质蛋白和不饱和脂肪酸，豆腐则提供植物蛋白和钙质，搭配起来营养均衡。制作难度适中，煎鱼时稍需耐心防粘，整体步骤清晰，新手也能尝试。从备料到完成约需 40 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 524,
+      "imageCount": 1,
+      "hash": "5944f248d88be5fc61cfb7d0bfc2410576e713cbb4dd055146433e681300ba6a"
+    },
+    {
+      "id": "056993ce-2f49-469b-be1e-3454612ecb56",
+      "legacyIds": [
+        "aquatic_43c732f1"
+      ],
+      "name": "蛏抱蛋",
+      "description": "蛏抱蛋是福建福州一带的传统家常菜，蛏肉裹着蛋液煎得外酥里嫩，带着洋葱和生抽的咸鲜香气。蛏子富含优质蛋白和锌、铁等微量元素，与鸡蛋搭配营养均衡。制作难度适中，需掌握煎炸火候但步骤不繁琐，预计 大约 30 分钟就能端上餐桌。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1229,
+      "imageCount": 3,
+      "hash": "c0ac8550a1921dbd81fb7752fca93c1a741052d1da19c93873c3f6714db50aba"
+    },
+    {
+      "id": "2c1c9338-dd9a-44ca-9c23-f4828f939914",
+      "legacyIds": [
+        "aquatic_376efe24"
+      ],
+      "name": "葱烧海参",
+      "description": "这是一道经典的鲁菜家常烧制海味，以浓郁的葱香和软糯入味的海参为特色，汤汁稠亮咸鲜回甜。海参富含胶原蛋白与多种微量元素，对滋养身体很有益处。整体烹饪难度不高，但需提前花时间将干海参充分泡发，实际烧制过程约三十分钟即可完成，新手只要按步骤操作也容易成功。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 299,
+      "imageCount": 4,
+      "hash": "cd2efa4680ea3e3af4c0e27f318670df4ccfa72fd5ccecb2131131ecff8fc32b"
+    },
+    {
+      "id": "3a7922c8-3499-4154-b743-66815350001f",
+      "legacyIds": [
+        "aquatic_e47c3c99"
+      ],
+      "name": "葱油桂鱼",
+      "description": "葱油桂鱼是一道葱香浓郁、鱼肉鲜嫩的家常蒸菜，属于中式清淡口味，适合各地人群。桂鱼富含优质蛋白和不饱和脂肪酸，经过精细去腥处理，保留了鱼肉的鲜美与营养。做法对新手十分友好，容错性高，只要按步骤操作，基本零失败。从备料到出锅，全程大约需要 45 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 311,
+      "imageCount": 0,
+      "hash": "7e9383458d6e7dba0e097d09b9dfff970a9429519868b4cac1516964adb6bd28"
+    },
+    {
+      "id": "fc7fe00d-3436-4e7c-8cb0-5f9870fd8087",
+      "legacyIds": [
+        "aquatic_5ee1668c"
+      ],
+      "name": "干煎阿根廷红虾",
+      "description": "一道鲜美诱人的海鲜快手菜，煎制后的阿根廷红虾肉质白嫩，口感鲜甜浓郁，虾壳酥香。富含碘、磷和虾青素等微量元素，有助于增强免疫力、保护心脏并降低胆固醇。难度适中，需要掌握火候和翻面技巧，但步骤清晰，新手按操作来也能成功。预计 大约 20 分钟即可完成。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 309,
+      "imageCount": 1,
+      "hash": "ce99d7ff01b832bd176fe1a14fd9e5aa1e520218d233520f70fd65b15469bef9"
+    },
+    {
+      "id": "51c7e2aa-7abb-4e21-b206-2c67b0c952a7",
+      "legacyIds": [
+        "aquatic_28c2e3b4"
+      ],
+      "name": "红烧鲤鱼",
+      "description": "红烧鲤鱼是一道家常鲁菜，鱼肉先炸后炖，外皮微韧，肉质鲜嫩，咸甜酱香中透着五花肉的醇厚，汤汁浓稠下饭。富含优质蛋白和钙、磷等矿物质，有助滋补。处理炸鱼和调味配比稍需耐心，但步骤清晰，新手跟着做也能完成。从备料到出锅预计 大约 1 小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1051,
+      "imageCount": 0,
+      "hash": "e0f2534a0e8715b66eeb5c5bb292a4b6be46cb73053f51a5ea7341f28d7a344a"
+    },
+    {
+      "id": "7e4f4c25-ca7b-46ec-83d3-612020768a05",
+      "legacyIds": [
+        "aquatic_a7a91bd9"
+      ],
+      "name": "红烧鱼",
+      "description": "红烧鱼是一道家常风味浓郁的经典菜，咸鲜微甜，鱼肉嫩滑入味，属于大众喜爱的中式烧菜。鱼肉富含优质蛋白和不饱和脂肪酸，营养易吸收。制作时需要处理生鱼和油煎，步骤稍多，对新手有一定挑战，但跟着菜谱操作也能成功。从备料到出锅，大约需要 40 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 570,
+      "imageCount": 0,
+      "hash": "76591c7ae0c5ed1043c4e116a1b41aee96b069fdc1503150a588fbb70493e668"
+    },
+    {
+      "id": "16efa6d4-de27-4c57-bb13-3c9f30c7a647",
+      "legacyIds": [
+        "aquatic_8e3251fb"
+      ],
+      "name": "红烧鱼头",
+      "description": "红烧鱼头是一道经典的家常烧菜，鱼头胶质丰富，肉质滑嫩，汤汁咸鲜微辣，十分下饭。鱼头富含优质蛋白、卵磷脂和不饱和脂肪酸，对滋养皮肤和大脑有益。由于需要处理生鱼和剁骨，难度稍高，不建议完全零基础的新手独自操作，全程制作（含腌制）约需 2–2.5 小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 333,
+      "imageCount": 0,
+      "hash": "45e885c9fb3960bb327ca26efa389bd6f2896e6c734a1a9eb878a52005cdb02b"
+    },
+    {
+      "id": "8314675b-a89b-457d-8e26-81c8ee9a8bb5",
+      "legacyIds": [
+        "aquatic_45c4788b"
+      ],
+      "name": "黄油煎虾",
+      "description": "黄油煎虾是一道风味浓郁、虾肉鲜嫩弹牙的家常海鲜菜。鲜虾富含优质蛋白和钙、锌等矿物质，搭配黄油增添了奶香与能量。制作相对简单，只需耐心处理活虾，新手也能顺利上手，总耗时约一小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 741,
+      "imageCount": 1,
+      "hash": "759ea236af3df1a604a31be8fcb64328a634967f61624b9ab715222df935d71b"
+    },
+    {
+      "id": "f25e3a3f-cff2-4df6-b26b-531dde18038e",
+      "legacyIds": [],
+      "name": "酱炖蟹",
+      "description": "这道菜是浙江平湖地区的秋日限定咸鲜风味，蟹黄绵润裹着酱香，蟹肉清甜，汤汁拌饭一绝。富含优质蛋白和微量元素。难度适中，适合有基础的新手，从准备到出锅大约 30 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 468,
+      "imageCount": 0,
+      "hash": "a8e022d0d9adf246958a299f428509685994297646956274ab2ff4667737a282"
+    },
+    {
+      "id": "2ea39c71-ea58-4c33-8008-4079f5998411",
+      "legacyIds": [
+        "aquatic_5603da82"
+      ],
+      "name": "芥末黄油罗氏虾",
+      "description": "![芥末黄油罗氏虾](./芥末黄油罗氏虾.jpg)\n这道菜以黄油与芥末的奇妙搭配为亮点，虾肉紧实弹嫩，酱汁浓郁辛香，是一道新派海鲜菜肴。虾肉富含优质蛋白和多种微量元素，营养均衡。制作难度适中，只要提前备好料、控制火候，新手也能成功。从处理活虾到出锅，大约需要 30 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 637,
+      "imageCount": 1,
+      "hash": "3f51af8da0ddc6e8af64691cb8ae0cbdb9f0477b3f13e9f01ed05880ae8485e5"
+    },
+    {
+      "id": "0b6e18c4-9ef4-4306-8f9c-65f8a32c097f",
+      "legacyIds": [
+        "aquatic_97b24536"
+      ],
+      "name": "咖喱炒蟹",
+      "description": "这是一道融合泰式风味的家常海鲜菜，浓郁咖喱包裹着爆满的蟹肉，带有蟹黄香气和椰浆的顺滑口感。螃蟹富含优质蛋白和多种微量元素，有助于补充体力。制作工序清晰，只需注意封煎蟹黄和最后关火翻炒酱汁，对有一定下厨经验的人比较友好，一般从备料到出锅约需 30 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 815,
+      "imageCount": 0,
+      "hash": "7c8ca24a22a24981658ef23fbc245d5dea5eda9efe323dc525c300fdca8550c5"
+    },
+    {
+      "id": "3d7c1fd1-af9b-48bb-8f1e-72979d560887",
+      "legacyIds": [
+        "aquatic_706ce316"
+      ],
+      "name": "烤鱼",
+      "description": "这道川味烤鱼麻辣鲜香，鱼肉外焦里嫩，配菜吸饱汤汁后格外下饭。草鱼富含优质蛋白，搭配多种蔬菜，营养均衡。做法看似复杂，但跟着步骤走其实不难，适合想挑战硬菜的新手。从备料到上桌大约需要一小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 2152,
+      "imageCount": 1,
+      "hash": "60f14454d515409216ceb313586a62360f4d05858053d753175cc594e0217f07"
+    },
+    {
+      "id": "f209570d-3558-4ca0-890b-3539090f91c1",
+      "legacyIds": [
+        "aquatic_d63cc518"
+      ],
+      "name": "鲤鱼炖白菜",
+      "description": "鲤鱼炖白菜是一道鲜香浓郁的家常炖菜，鱼肉软嫩入味，白菜清甜吸汁，属于典型的北方风味。鲤鱼富含优质蛋白和不饱和脂肪酸，搭配白菜提供膳食纤维和维生素，营养均衡。制作过程需要煎鱼和炖煮，有一定难度但不算复杂，适合有基础烹饪经验的朋友尝试，从备料到出锅大约需要 40 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 792,
+      "imageCount": 1,
+      "hash": "305405bc99c3aa8d9ad339a3463e3f7397e38942387fda9075eaef5de9ca5dc5"
+    },
+    {
+      "id": "677cec1a-989a-477a-a7e8-04869dcb4e43",
+      "legacyIds": [
+        "aquatic_849a47d1"
+      ],
+      "name": "清蒸鲈鱼",
+      "description": "清蒸鲈鱼是一道粤式经典蒸菜，鱼肉细嫩爽滑，味道清淡鲜美，能最大程度保留鲈鱼的原汁原味。鲈鱼富含优质蛋白和 DHA，营养丰富且易于消化。这道菜操作简单，对新手非常友好，从备料到出锅大约只需三十分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 385,
+      "imageCount": 3,
+      "hash": "0f20393a99410203eea3b2d401ed176de969e4b659e70e3c8165234f4d98e5c7"
+    },
+    {
+      "id": "399719f2-8aa2-428b-8c3a-260b52a137f6",
+      "legacyIds": [
+        "aquatic_d10b5ae7"
+      ],
+      "name": "清蒸生蚝",
+      "description": "清蒸生蚝是一道原汁原味的沿海家常菜，蚝肉鲜嫩多汁，带着淡淡的海水咸香，蒜蓉与姜丝激发出清甜口感。生蚝富含优质蛋白和锌元素，能帮助提升免疫力。操作不算复杂，但掀开滚烫锅盖和处理蚝壳需要稍加小心，新手也能顺利完成。从刷洗到出锅，大约只需二十分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 184,
+      "imageCount": 0,
+      "hash": "c85240d0f9cba0b7e0b80f01368734b78da492f4455ed5d8b6de663ecd8bbebc"
+    },
+    {
+      "id": "568ed81b-25f7-410e-8e77-9b700df780c9",
+      "legacyIds": [],
+      "name": "肉蟹煲",
+      "description": "这道菜酱香浓郁，蟹肉鲜甜微辣，土豆软糯、年糕 Q 弹，汤汁拌饭格外过瘾，属于一道适合聚餐的硬菜。它富含优质蛋白和多种微量元素，营养丰富。制作有一定难度，需处理活蟹、把控火候和调味比例，对新手略具挑战，预计全程约需 1 小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 2111,
+      "imageCount": 0,
+      "hash": "254dfdcb5bcbaee6aefe2358111d8a0bc2755123186cf03103172503d5e61513"
+    },
+    {
+      "id": "eaa8869d-0e12-4d34-aff2-5765d460c099",
+      "legacyIds": [
+        "aquatic_cde57a22"
+      ],
+      "name": "水煮鱼",
+      "description": "水煮鱼是一道麻辣鲜香、鱼肉嫩滑的经典川菜。巴沙鱼富含优质蛋白且脂肪含量低，搭配时令蔬菜营养均衡。做法中等难度，对新手有一定挑战，但按步骤操作也能成功。预计制作时长约 2 小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 248,
+      "imageCount": 0,
+      "hash": "022e0fcb22c8af6c24357a6addaa7503095ae1653b3ec1ec99e046f5bb7306d0"
+    },
+    {
+      "id": "f75fbb85-ca3f-49d5-acf7-09aae4bd6a84",
+      "legacyIds": [
+        "aquatic_c2b2b20e"
+      ],
+      "name": "蒜蓉虾",
+      "description": "这道广东传统名菜以鲜香嫩滑著称，虾肉清甜弹牙，蒜香浓郁扑鼻。海虾富含优质蛋白和钙、硒等微量元素，搭配蒜蓉有助杀菌开胃。做法十分简单，处理虾、铺酱、蒸制、淋油几步即成，新手也能轻松驾驭，全程约需 15 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 456,
+      "imageCount": 2,
+      "hash": "18366a4bf8777e06d321c0fe98e81001e1b49f09303c482e52759ce791bfc1a1"
+    },
+    {
+      "id": "e5864827-9af0-4663-9528-46490974f29a",
+      "legacyIds": [
+        "aquatic_17b4109a"
+      ],
+      "name": "蒜香黄油虾",
+      "description": "蒜香黄油虾是一道经典的西式海鲜菜，虾肉鲜嫩弹牙，被浓郁的蒜香和黄油包裹，带有淡淡柠檬清香。虾肉富含优质蛋白，搭配黄油提供能量，适合快速补充营养。做法简单，只需几种常见食材，新手也能轻松上手，从备料到出锅大约二十分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 526,
+      "imageCount": 1,
+      "hash": "5f8eaad26e7ee2b78aefd036ef41cc31d6e423d14201f388ba790d90fa2612cb"
+    },
+    {
+      "id": "585d2fe1-c997-4a7a-b47d-230505654010",
+      "legacyIds": [
+        "aquatic_8bfd57d8"
+      ],
+      "name": "糖醋鲤鱼",
+      "description": "糖醋鲤鱼是经典鲁菜，外酥里嫩、酸甜适口，鱼身炸至金黄浇上红亮糖醋汁，十分诱人。鱼肉富含优质蛋白和多种矿物质，易于消化吸收。这道菜对新手不太友好，难度中等偏上，需掌握改刀、挂糊和油炸火候。从备料到成菜大约需要 1 小时。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1011,
+      "imageCount": 2,
+      "hash": "1e6335aec05f038d60cedfbd0b1c6840f469bceb5f67cce6fd8c063925c72e99"
+    },
+    {
+      "id": "cb344a6f-f851-4ede-a249-2ce276009d52",
+      "legacyIds": [
+        "aquatic_3c11a1ee"
+      ],
+      "name": "微波葱姜黑鳕鱼",
+      "description": "微波做鱼，葱姜提鲜，热油一淋，香气四溢，是一道肉质细嫩、滋味咸鲜的家常蒸鱼菜，属于改良粤式做法。黑鳕鱼富含优质蛋白和欧米伽-3 脂肪酸，对心脑健康有益。操作不算复杂，但需掌握火候和油温，更适合有一定下厨经验的朋友。从备料到上桌大约只需二十分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 749,
+      "imageCount": 0,
+      "hash": "7c911f4bf512f8658656eec969f10d1145923f91a6d681db15b8d61da4301f42"
+    },
+    {
+      "id": "ae4d1d90-e951-46f2-8eec-55737a168170",
+      "legacyIds": [
+        "aquatic_7093e3ab"
+      ],
+      "name": "香煎翘嘴鱼",
+      "description": "香煎翘嘴鱼是一道风味浓郁的家常河鲜，鱼身经腌晒后干香紧实，煎至外皮金黄酥脆，肉质细腻咸鲜，带着豆瓣与青椒的微辣回甜。鱼肉富含优质蛋白和不饱和脂肪酸，营养易吸收。制作需要提前腌晒两到四天，烹饪时间约半小时，煎鱼时需耐心控火，对新手稍有挑战，但成菜后香气扑鼻，格外下饭。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 820,
+      "imageCount": 1,
+      "hash": "e52ef490341c96ba63106f9909e76c4458dee275fb0ba3388e0041280ff38b5a"
+    },
+    {
+      "id": "6c25222b-f48a-4a7a-98f3-5699ea6b471c",
+      "legacyIds": [],
+      "name": "响油鳝丝",
+      "description": "响油鳝丝是一道经典的江浙沪家常菜，鳝丝鲜嫩滑爽，蒜香浓郁，酱汁微甜，淋上热猪油后香气四溢，非常下饭。鳝鱼富含优质蛋白和 DHA，营养丰富。这道菜对刀工和火候有一定要求，难度适中，新手需要稍加练习。从备料到出锅，一般 大约 40 分钟就能端上餐桌。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 556,
+      "imageCount": 0,
+      "hash": "37539e337c77e0584a9eb69d36d45e9878cbc901d348e9cda42f5d42800756fb"
+    },
+    {
+      "id": "b01b4231-5bc8-4102-90a4-7bbeb709b642",
+      "legacyIds": [
+        "aquatic_2749d071"
+      ],
+      "name": "小龙虾",
+      "description": "这道菜麻辣鲜香，虾肉细嫩多汁，是经典的川湘风味下酒菜，在家自制干净又实惠。小龙虾富含优质蛋白和多种微量元素，但汤汁含油盐较多，适合偶尔享用。处理活虾和多种香料对新手有一定挑战，不过不去虾线可明显降低难度。从备料到出锅大约需要 45 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 571,
+      "imageCount": 1,
+      "hash": "13fa9a8eb2acaa5750c0ac501bc560491f2da24cad32a6a970faf293ebcd3d9a"
+    },
+    {
+      "id": "96508e88-d69a-4a8e-a233-af457a807a11",
+      "legacyIds": [],
+      "name": "阳朔啤酒鱼",
+      "description": "阳朔啤酒鱼是广西阳朔的地方名菜，选用漓江鲜鱼带鳞煎制，以啤酒代水焖煮，鱼鳞酥脆、鱼肉鲜嫩，啤酒香与番茄微酸交融，风味浓郁独特。鱼肉富含优质蛋白和矿物质，搭配番茄、辣椒，维生素丰富且开胃助食。制作难度中等，对新手稍具挑战，但跟着步骤操作也能成功，预计 30 分钟即可完成。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1092,
+      "imageCount": 2,
+      "hash": "f07faac454fb2cf26bc93d0714ae01b98e28c73081efa4ca19e14577c92257a6"
+    },
+    {
+      "id": "096adf0f-dd6a-4c06-af7d-975787221f2f",
+      "legacyIds": [
+        "aquatic_9b178156"
+      ],
+      "name": "油焖大虾",
+      "description": "这道鲁菜经典以咸甜交融的酱汁包裹整虾，成菜红亮油润，虾肉紧实弹嫩。虾本身富含优质蛋白与虾青素，脂肪含量低，是补充营养又不易增加负担的食材。制作时需要炼葱油、剪虾、焖烧、收汁，对火候和调味把握有一定要求，更适合有基础的厨友尝试，全程大约需要 40 分钟。",
+      "category": "aquatic",
+      "categoryName": "水产",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 584,
+      "imageCount": 1,
+      "hash": "eb28ce0bd228618673646441d511749cd6498ddd9b615315279ffb6a27dd0935"
+    },
+    {
+      "id": "35c9c6a7-7049-4e00-addb-81000584829d",
+      "legacyIds": [
+        "breakfast_72f84032"
+      ],
+      "name": "茶叶蛋",
+      "description": "这道传统小吃茶香浓郁，鲜香可口，富含优质蛋白质，是快捷的营养早餐之选。制作步骤清晰，难度适中，新手需要留意火候与香料配比，约 30 分钟即可完成，一次能做够 2-3 人食用，适合周末从容备好。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 193,
+      "imageCount": 0,
+      "hash": "29ce0540d510d94dc2339de662bcdfda7d837827dad68f55787d56683153f2bc"
+    },
+    {
+      "id": "b44b34ca-b69f-4999-a252-ab8f53a16c97",
+      "legacyIds": [
+        "breakfast_c7c510a4"
+      ],
+      "name": "蛋煎糍粑",
+      "description": "一道简单快手的小吃，外皮微酥，内里软糯，裹着蛋香与甜味，是南方家常风味。糍粑提供丰富碳水，鸡蛋补充蛋白质，热量较高但很顶饱。制作过程极其简单，新手也能轻松驾驭，全程仅需大约十 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 379,
+      "imageCount": 0,
+      "hash": "ee29136f45fa39b70452b81cc1e1148cd40003504d698e1bcf6ad7b1b711cda9"
+    },
+    {
+      "id": "5df96365-8224-47f9-8b45-ea9c364dc443",
+      "legacyIds": [
+        "breakfast_e892f89c"
+      ],
+      "name": "桂圆红枣粥",
+      "description": "一道甜香软糯的中式传统粥品。以糯米、红枣和桂圆同煮，自带甘甜，暖身暖胃。有补血安神、健脑益智、补养心脾的食养效果。做法非常友好，新手也能轻松掌握，从准备到粥香满屋大约需要 70 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 617,
+      "imageCount": 0,
+      "hash": "a1975291460d2dd29a0c5b4f15164caf81245c6210bf6d2fa24d4b3e849c5cec"
+    },
+    {
+      "id": "f64ee988-96fe-4153-b7ab-98f5b05ccdf0",
+      "legacyIds": [],
+      "name": "韩国麻药鸡蛋",
+      "description": "一道甜辣浓郁的韩式溏心蛋小菜，酱汁挂满蛋白，入口嫩滑，回味微辛。鸡蛋提供优质蛋白与卵磷脂，营养饱腹。做法极为简单，新手也能轻松上手，从煮蛋到冷藏入味大约需要一个半小时。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 669,
+      "imageCount": 0,
+      "hash": "d500213e54445fc2c5c6411599143a42c2420f6bebf063e32d78813ae3bc9121"
+    },
+    {
+      "id": "b2b47d8c-dbfb-495e-bf95-301f3da990db",
+      "legacyIds": [
+        "breakfast_c3d2a2fd"
+      ],
+      "name": "鸡蛋三明治",
+      "description": "这是一道简单快手的西式简餐，吐司夹着绵密的鸡蛋酱和咸香培根，口感软嫩又带着焦香。鸡蛋富含优质蛋白，搭配培根和黄油能快速补充能量。操作非常友好，厨房新手也能轻松驾驭，全程只需 大约 10 分钟即可完成。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 560,
+      "imageCount": 0,
+      "hash": "733c488ea64dc39d4d624e6f28ca74e63eb7ba85970b332d2a6f7750177081ae"
+    },
+    {
+      "id": "fa62e856-5b3a-41f1-be4b-864cbc4d9503",
+      "legacyIds": [
+        "breakfast_af382287"
+      ],
+      "name": "煎饺",
+      "description": "煎饺是一道底部金黄酥脆、内馅鲜嫩多汁的家常面点，常见于北方餐桌。搭配速冻水饺制作，富含碳水化合物和蛋白质，简单快手。预估难度二星，对新手非常友好，总共约需 15 分钟就能端上桌。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 769,
+      "imageCount": 0,
+      "hash": "d60b6e4327f8e6ada61817ab2148fdd2c3f17b6bf42920d202e13a489d000038"
+    },
+    {
+      "id": "819c4fb6-96b5-4c2a-a89c-5126e596d16f",
+      "legacyIds": [
+        "breakfast_a065206f"
+      ],
+      "name": "金枪鱼酱三明治",
+      "description": "这道西式早餐三明治以水浸金枪鱼拌入蛋黄酱和俄式酸黄瓜汁，咸鲜微酸，口感绵密，配上烤脆的吐司格外饱腹。富含优质蛋白和 Omega-3 等营养，能快速补充能量。制作非常简单，只需混合酱料、用轻食机加热，新手也能在 5 分钟里轻松搞定。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 569,
+      "imageCount": 0,
+      "hash": "34d6e3fea2b5cbb6369b5062f32c8a2da1d675e2d9d567f15e1b2bfc56dd5491"
+    },
+    {
+      "id": "8768a242-ce3f-4802-941e-bced9d3b63d1",
+      "legacyIds": [
+        "breakfast_74832fb6"
+      ],
+      "name": "空气炸锅面包片",
+      "description": "空气炸锅面包片是一道极简快手的主食，外脆内软，麦香纯粹，特别适合减脂期食用。它富含膳食纤维和植物蛋白，能提供较长时间的饱腹感。做法毫无门槛，只需将面包片放入空气炸锅即可，对新手极其友好，从准备到完成仅需大约五分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 254,
+      "imageCount": 0,
+      "hash": "ff753660bc5bbbc3b98465ffce2efd8156008b110919d77d6c9e95118349a76b"
+    },
+    {
+      "id": "01e84fc0-fb57-497b-b06a-917b4e6a79cb",
+      "legacyIds": [
+        "breakfast_eb6189c2"
+      ],
+      "name": "美式炒蛋",
+      "description": "这是一道松软鲜嫩的美式家常蛋料理，加入牛奶后蛋花细密、口感绵润，富含优质蛋白和钙质。做法简单，对新手友好，从准备到出锅大约只需 20 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 258,
+      "imageCount": 0,
+      "hash": "82eb8af1669e3523f61e426b092b6d3c5a2fd04766349250e95441b7cef990a6"
+    },
+    {
+      "id": "a4b4b7c4-9be4-4dfc-925c-b9cc8a91c3a3",
+      "legacyIds": [
+        "breakfast_317b5386"
+      ],
+      "name": "牛奶燕麦",
+      "description": "一份高蛋白、高纤维的便捷营养早餐，将牛奶的滑润、燕麦的谷香与煎蛋的嫩脆巧妙结合，入口温热柔和、易于消化，饱腹感强。制作过程简单直接，对新手极为友好，全程约三分钟即可完成，搭配蔬果更添清爽。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 421,
+      "imageCount": 0,
+      "hash": "f3a4452ec5c6eb5c24633e155d2b579a63607fbb3fea6f4f7fde4c28fd8f176e"
+    },
+    {
+      "id": "bda4dbbd-bcff-44e3-9654-8058bf959114",
+      "legacyIds": [
+        "breakfast_1990d584"
+      ],
+      "name": "手抓饼",
+      "description": "手抓饼外酥里软，层次分明，是深受喜爱的家常面点。饼皮用半烫面制作，柔韧有嚼劲，搭配鸡蛋和蔬菜，营养均衡。做法对新手很友好，从和面到出锅大约只需 40 分钟，非常适合忙碌的早晨。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1050,
+      "imageCount": 0,
+      "hash": "a7e86421bf89f54af5eb3415c584bf691f698a1e837832e42cc7eaf6b06dc650"
+    },
+    {
+      "id": "d3704d61-e9bf-4a7c-b09f-3dc9141ab831",
+      "legacyIds": [
+        "breakfast_a04cfccc"
+      ],
+      "name": "水煮玉米",
+      "description": "水煮玉米是一道家常快手菜，口感清甜软糯。新鲜玉米带皮煮制，保留原香，加入盐和糖更能提味。它富含膳食纤维、维生素与碳水化合物，能为身体提供饱足感。做法极其简单，新手也能轻松上手，从准备到上桌只需大约 15 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 108,
+      "imageCount": 0,
+      "hash": "db3ad13d24e36b42ab5196d7731d0ab6a2ab08d47b8b03e0519492a7f7fc2449"
+    },
+    {
+      "id": "13e750cb-3d32-47fe-ab0f-1ccc77caa87d",
+      "legacyIds": [
+        "breakfast_3e582990"
+      ],
+      "name": "苏格兰蛋",
+      "description": "这道简易版苏格兰蛋外层酥脆，内里糖心软嫩，融合了芝士的奶香和培根的烟熏风味，是一道源自英式做法的创意小吃。鸡蛋提供优质蛋白质，芝士补充钙质，搭配手抓饼皮能满足一餐的能量需求。制作过程不复杂，新手也能轻松上手，从准备到出锅大约只需 20 至 30 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 599,
+      "imageCount": 3,
+      "hash": "5e07d9a47f419fc16c815463b8817429aba84a49eb3c4985c8980434835799dd"
+    },
+    {
+      "id": "093ee232-ba99-4945-abd9-57db4fab7722",
+      "legacyIds": [
+        "breakfast_f46d05b8"
+      ],
+      "name": "太阳蛋",
+      "description": "太阳蛋是一道用微波炉快速制成的家常早餐。口感嫩滑，蛋清凝固、蛋黄微溏，属于典型的快手菜。鸡蛋富含优质蛋白和多种维生素，易于消化吸收。做法非常简单，对新手友好。使用可控火候微波炉只需 3 分钟就能完成，不可控火候的也仅需几分钟反复加热。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 113,
+      "imageCount": 0,
+      "hash": "0d06da058940b6cb373bddc30ab925e3d1ceffe46cde5f600705780d2f8883a8"
+    },
+    {
+      "id": "98ee475c-7508-411d-a9d3-e429ee000ab3",
+      "legacyIds": [
+        "breakfast_1376754e"
+      ],
+      "name": "溏心蛋",
+      "description": "这是一道用普通电锅就能轻松做出的家常蛋料理，蛋黄呈现流动的溏心状态，口感嫩滑香醇。每颗鸡蛋提供约 6 克优质蛋白质，尤其适合健身人群补充营养。制作过程简单明了，只要掌握好加热和静置的时间，新手也能快速上手，全程仅需 大约 15 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 72,
+      "imageCount": 0,
+      "hash": "cf58c54cf588aa5a29d4d847cac079ef829623c8e5390985a7341af066735584"
+    },
+    {
+      "id": "581c1e01-da8b-4cbc-bca3-24548fadd9e2",
+      "legacyIds": [
+        "breakfast_fc251fde"
+      ],
+      "name": "吐司果酱",
+      "description": "这是一道极简快手早餐，烤至微脆的吐司夹入甜香果酱，外脆内软，方便随身携带，属于典型的便捷西式简餐。主要提供碳水化合物和糖分，能快速补充晨间能量。操作几乎零门槛，非常适合不擅烹饪的忙碌新手。从准备到完成只需大约 2 分钟，无需开火，也几乎不用清洗厨具。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 223,
+      "imageCount": 0,
+      "hash": "06db09f0acf27d9b9c4a3476951ded5b13bc40cc7bcaff4f5f773827201cb31e"
+    },
+    {
+      "id": "ee419a19-80f3-4a74-8de5-e98ff61c0e02",
+      "legacyIds": [
+        "breakfast_45c75ea6"
+      ],
+      "name": "完美水煮蛋",
+      "description": "这是一道通过科学家研发的循环水煮法制成的鸡蛋，蛋黄绵密细腻，蛋白均匀凝固，口感层次分明。它保留了更多营养素，多酚含量比传统煮法高 23%，蛋白质丰富。制作难度较高，需精准控温并反复转移，预计制作时长约 35 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 86,
+      "imageCount": 0,
+      "hash": "4381f10ddb11f394e2629674792f1bcfb04fa0dc5042aa5c1cc15171c00f5a6b"
+    },
+    {
+      "id": "09b23a99-474f-4cf4-a309-740436b7d8e7",
+      "legacyIds": [
+        "breakfast_efd07d35"
+      ],
+      "name": "微波炉蛋糕",
+      "description": "微波炉版的快手蛋糕，口感松软香甜，是一道零基础也能轻松上手的家庭甜点。以鸡蛋、面粉为基础，搭配黄油提供能量和浓郁香气，糖分快速补充体力，加入坚果或水果还能增加膳食纤维和维生素。仅需准备少数材料，借助微波炉高火一分钟即可完成，从备料到品尝最快仅需 2 分钟，新手约 20 分钟即可搞定。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 308,
+      "imageCount": 0,
+      "hash": "d4f68ec1f649fec73a71c399808d932527a2d07dd56d80192001bb1b66185c86"
+    },
+    {
+      "id": "9f2d1398-cfeb-4248-b129-76517a4cdbf1",
+      "legacyIds": [
+        "breakfast_3850601a"
+      ],
+      "name": "微波炉荷包蛋",
+      "description": "微波炉荷包蛋是一道便捷的家常快手菜，蛋白嫩滑、蛋黄软糯，带有芝麻油的清香。鸡蛋富含优质蛋白质和卵磷脂。做法极其简单，新手也能轻松掌握，从准备到出锅仅需约 2 分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 169,
+      "imageCount": 0,
+      "hash": "fa62b4f6ed9c895c7517eb801b8a0651cd3e1fa40ec98d5efc98f101f4054837"
+    },
+    {
+      "id": "68a3592a-3472-40da-aaca-3f00eacdc18e",
+      "legacyIds": [],
+      "name": "微波炉蒸蛋",
+      "description": "一道用微波炉快速制作的嫩滑蒸蛋，口感细腻如布丁，属于家常快手菜。富含优质蛋白，易于消化吸收，很适合作为早餐或轻食。制作非常简单，新手也能轻松上手，全程约 10 分钟即可完成。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 151,
+      "imageCount": 0,
+      "hash": "0efa116123f1dee828db9a5e47b8d03ba22f1099c0ade90a002cee2eba319ada"
+    },
+    {
+      "id": "7fca3472-00d2-4906-8347-c40a9ffb8028",
+      "legacyIds": [
+        "breakfast_6bcc5369"
+      ],
+      "name": "温泉蛋",
+      "description": "温泉蛋源自日本，蛋白呈半流动凝乳状，蛋黄却温润凝固，口感滑嫩细腻，与溏心蛋恰好相反。鸡蛋富含优质蛋白、卵磷脂和多种维生素，营养十分全面。制作时需要借助温度计将水温控制在 70℃，虽然对温度稍有要求，但步骤简单，耐心等待约半小时便能完成。佐以昆布酱油和葱花，鲜香清爽，是一道轻松上手的小食。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 72,
+      "imageCount": 0,
+      "hash": "95b506cf20ca22f52cb2256145bf6388ae808117c3cab0e80cd605d71939a2ac"
+    },
+    {
+      "id": "7f519e10-7d66-4951-90b3-a432d8186655",
+      "legacyIds": [
+        "breakfast_86643b0a"
+      ],
+      "name": "燕麦鸡蛋饼",
+      "description": "燕麦鸡蛋饼是一道快手营养早餐，口感软嫩，带有燕麦的谷物香气与蛋奶的醇厚，属于家常简约风格。富含蛋白质、碳水化合物和膳食纤维，能为身体提供充足能量，尤其适合健身人士和工作日早晨。做法简单，对新手友好，从备料到出锅通常只需十几分钟。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 535,
+      "imageCount": 0,
+      "hash": "aec1961df1db41029c06a12eb76d441492aa0866c43e3d0c619738de9c1454d3"
+    },
+    {
+      "id": "748d7348-f15d-445a-a4d8-2d72f91fc016",
+      "legacyIds": [],
+      "name": "意式香肠北非蛋",
+      "description": "意式香肠北非蛋是一道浓郁鲜香的地中海风味料理，溏心蛋卧在酸甜的番茄肉酱里，搭配脆面包蘸食，口感丰富。主要食材提供优质蛋白质，番茄、甜椒和洋葱带来维生素与膳食纤维。制作不难，只需注意焖蛋火候，全程约 30 分钟即可上桌。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 668,
+      "imageCount": 0,
+      "hash": "70bd7d227a55bf878538d6b271cd8b8c497be699dbb39012f5c16f211ed3e022"
+    },
+    {
+      "id": "ca33fa58-c716-4b62-aa60-483868d737b9",
+      "legacyIds": [
+        "breakfast_8df15267"
+      ],
+      "name": "蒸花卷",
+      "description": "这是一道北方传统面食，松软可口，带着淡淡麦香。使用冷冻花卷蒸制，能快速补充碳水化合物和膳食纤维。做法极其简单，烹饪新手也能轻松掌握，全程仅需半小时，是理想的快手早餐。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 400,
+      "imageCount": 0,
+      "hash": "7896ccdb6bee797a4f6cd8fc97e0ef24eba583c8fc7637c7e7b327daf735da9d"
+    },
+    {
+      "id": "b72ae61a-5433-4587-88a3-1a0dfc69bcdf",
+      "legacyIds": [
+        "breakfast_6f83af1c"
+      ],
+      "name": "蒸水蛋",
+      "description": "这是一道以滑嫩如布丁的口感和清雅鲜美的风味见长的家常菜，南北通吃，北方常亲切地称其为“鸡蛋糕儿”。鸡蛋富含优质蛋白和卵磷脂，是日常补充营养的便捷之选。做法只需掌握蛋水比例和小火慢蒸的诀窍，对新手非常友好，从准备到出锅通常 大约 15 分钟就能完成。",
+      "category": "breakfast",
+      "categoryName": "早餐",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 143,
+      "imageCount": 0,
+      "hash": "2278047d78a190ab3dfaa2f91e083085a751dd625ce1b7cf53c89168aa8d6071"
+    },
+    {
+      "id": "b96127e1-c85c-45ca-a868-295801edcf19",
+      "legacyIds": [
+        "condiment_241627f2"
+      ],
+      "name": "草莓酱",
+      "description": "这是一道酸甜可口、果香浓郁的家常果酱，非常适合涂抹面包。草莓富含维生素 C，不过熬煮时糖分较高，可依口味调整。做法非常简单，新手也能轻松搞定，从准备到熬好大约需要两个小时。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1940,
+      "imageCount": 4,
+      "hash": "e02d661cb1e366a8e64c0a9ddd9de445b3a4738dd3d10823fc06ec51e357a3ab"
+    },
+    {
+      "id": "e262370f-49ba-4f7a-905d-38a72de1761f",
+      "legacyIds": [
+        "condiment_231c5b16"
+      ],
+      "name": "葱油",
+      "description": "葱油是一道提香增鲜的家常调味油，带着浓郁的葱香和开洋的复合鲜味，用来拌馅、凉拌或热菜明油都很适合。主要提供油脂能量，葱姜等辛香料还含有植物活性成分，可辅助去腥开胃。做法简单，对新手友好，一般准备加熬制大约 30 分钟就能完成。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 2069,
+      "imageCount": 0,
+      "hash": "ed51282eb09315e46a671d6dcea31d96bc3988f470ad455cdd379e62e382c599"
+    },
+    {
+      "id": "9974d1d8-9426-4ecf-955b-a1298a6cdaa3",
+      "legacyIds": [
+        "condiment_7d5996ac"
+      ],
+      "name": "简易版炒糖色",
+      "description": "糖色是中餐红烧类菜肴上色的关键技法，火候到位时能带来红亮光泽与独特的焦香风味。主要成分为糖，提供能量，但更多是调和菜肴色泽与口味。这道简易版炒糖色对火候控制有一定要求，新手需多加练习才能避免发苦或发甜，整体制作约需十分钟。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1028,
+      "imageCount": 0,
+      "hash": "a42bf23b0ba0c973712f2c3d3b5f4ad61e413d5698405010b6ac5c7d7a774823"
+    },
+    {
+      "id": "f653e9d8-a27a-4f0d-8bff-1fac8294c796",
+      "legacyIds": [
+        "condiment_6df7e885"
+      ],
+      "name": "蒜香酱油",
+      "description": "蒜香酱油是一道蒜香浓郁、咸鲜油润的家常蘸料，常用于白切鸡、饺子等菜肴的提味。大蒜和芝麻分别具有抗菌和补充不饱和脂肪酸的作用。做法极其简单，对新手非常友好，全程只需大约 5 分钟即可完成。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 177,
+      "imageCount": 0,
+      "hash": "377db8fdeac72ea5ac48fa49e79abcfc3d719fa316d5e28a1e1ad6a6a4307c02"
+    },
+    {
+      "id": "5271553e-3a9d-4740-8003-dcc6d7ffd744",
+      "legacyIds": [
+        "condiment_491d23fe"
+      ],
+      "name": "糖醋汁",
+      "description": "这款调味汁酸甜可口，是中餐里糖醋菜肴的经典风味来源。调制简单、比例易记，新手也能轻松上手，从备料到完成约需 10 分钟。糖分能提供能量，醋香有助于开胃解腻，让家常菜瞬间变得有滋有味。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 146,
+      "imageCount": 0,
+      "hash": "a2e45f8861892f8424b84af9797958484f5e4150e88d4c913848eb6e3506c2e3"
+    },
+    {
+      "id": "8fd5c09e-094a-4e1f-9489-52f3b17e08f3",
+      "legacyIds": [
+        "condiment_3b554f0d"
+      ],
+      "name": "油泼辣子",
+      "description": "一道香辣扑鼻的陕西风味调味料，红油润泽，芝麻蒜香交织，入口辣而不燥、回味绵长。辣椒富含维生素 C 与辣椒素，能增进食欲、暖身驱寒。制作过程需掌握油温，对新手稍有挑战，但按部就班即可成功。全程约 10 分钟完成，是家常拌菜拌面的点睛之笔。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1854,
+      "imageCount": 2,
+      "hash": "71a8983f65dfed60ba29dfe03b3a6dcd923f06d1f12fe46ff39a92d2d5ab00ab"
+    },
+    {
+      "id": "55ed76f3-5608-47ef-851b-c947ff11ef56",
+      "legacyIds": [
+        "condiment_2499dc8b"
+      ],
+      "name": "油酥",
+      "description": "这是一道中式面点配料，常用于烙饼，能让成品层次分明、外酥里软。主要提供碳水化合物和脂肪，为身体补充能量。做法十分简单，新手友好，预计只需 3 分钟就能调好。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 111,
+      "imageCount": 0,
+      "hash": "473d3edf94a8032f57afbc8595474ed7d0a043586cb5ae65ade5fd810491b4d4"
+    },
+    {
+      "id": "93e876c3-55f9-4b9e-b648-7ec64c065a7f",
+      "legacyIds": [
+        "condiment_28d7cc43"
+      ],
+      "name": "炸串酱料",
+      "description": "这款万能炸串酱料香辣浓郁、鲜咸适口，属于街头风味风格。主要提供脂肪和香辛料带来的芳香物质，能增进食欲。制作非常简单，对新手毫无压力，全程只需大约 10 分钟即可完成。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1826,
+      "imageCount": 0,
+      "hash": "f81d9bcd47773cb1948a9c9c10d5973d919941437b88fe71347d3e4592b49ea0"
+    },
+    {
+      "id": "bd25a4f7-fa96-4571-a390-df68ba4a598c",
+      "legacyIds": [
+        "condiment_f276bc66"
+      ],
+      "name": "蔗糖糖浆",
+      "description": "自制饮料糖浆，按 1：1 比例将白砂糖与水混合溶解，方便控制冷饮甜度，是调饮的基础配方。富含碳水化合物，能快速补充能量。做法极其简单，对新手非常友好，仅需几分钟即可完成，冷藏可保存一周。",
+      "category": "condiment",
+      "categoryName": "调料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 400,
+      "imageCount": 1,
+      "hash": "6ed7e97ddc0a458313b802ccd42995ef7c0a3bb966eb35127638dc808c4f1c83"
+    },
+    {
+      "id": "e61ccab7-4d68-43c5-a1d6-10055f7739b9",
+      "legacyIds": [
+        "dessert_6bbb6512"
+      ],
+      "name": "奥利奥冰淇淋",
+      "description": "奥利奥冰淇淋口感细腻，奶香与奥利奥的酥脆甜蜜相融，纯动物奶油令整体轻盈不腻。它主要提供能量，含有脂肪和碳水化合物，适合作为消暑小甜点。制作过程较为简单，只需处理饼干夹心和搅打奶油，新手稍加耐心也可完成，全程准备约需半小时，再冷冻 4 小时以上即可享用。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1160,
+      "imageCount": 0,
+      "hash": "5520a474f5939252c65d061875ecaee722dfa0c7b5128a5ab80b8fcfadcc4d89"
+    },
+    {
+      "id": "acbce2ba-985d-447d-a1cd-518e4c182cd3",
+      "legacyIds": [
+        "dessert_b25b5b03"
+      ],
+      "name": "草莓冰淇淋",
+      "description": "这是一道不需要搅拌机就能轻松制作的家常草莓冰淇淋，果香浓郁、口感绵密。草莓富含维生素 C，搭配奶香四溢的炼乳和奶油，能提供能量和钙质。做法简单不考验厨艺，新手也能一次成功。全程制作耗时约八小时，其中大部分是冷冻时间，实际动手只需短短几十分钟。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1653,
+      "imageCount": 0,
+      "hash": "a5a28004d7ef66ad3844d451b2637360d3e25513e431acd2bf899cb935328f0a"
+    },
+    {
+      "id": "db822973-93a7-4075-9ae4-9b9cd4b671bf",
+      "legacyIds": [
+        "dessert_07c13985"
+      ],
+      "name": "反沙芋头",
+      "description": "反沙芋头是一道外酥里糯、甜香可口的潮汕传统小吃，常作下午茶点。荔浦芋头富含膳食纤维、钾和多种维生素，能提供持久饱腹感。制作不难但需要掌握熬糖火候，适合稍有基础的初学者尝试，全程大约 20 分钟即可完成。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 397,
+      "imageCount": 1,
+      "hash": "9594400c76852156aa1f41ffd10bbf0ad6683e55a118dad4ad93666406d4109d"
+    },
+    {
+      "id": "fef2902a-5f0c-422f-9883-05435e8e60e2",
+      "legacyIds": [
+        "dessert_d1eb32ee"
+      ],
+      "name": "龟苓膏",
+      "description": "龟苓膏是一道广式传统甜品，口感嫩滑微苦回甘，常作为夏日消暑小食。龟苓膏能清热祛湿、滋阴养颜，是营养健康的一款点心。做法简单，新手也能轻松掌握，全程只需备料、搅拌和加热，冷藏等待约两小时后即可享用。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 129,
+      "imageCount": 1,
+      "hash": "e27b2de09ac4780fda48b992f231ab548fafd208fbd85df134dd2dcc1c6a05d0"
+    },
+    {
+      "id": "81fd661c-d235-4e2b-a8c6-71977e4f3dbf",
+      "legacyIds": [
+        "dessert_11ac695f"
+      ],
+      "name": "红柚蛋糕",
+      "description": "红柚蛋糕是一道用空气炸锅就能轻松完成的清新甜点，融合了红柚果粒的微酸果香与蛋糕的松软口感，适合作为单人份下午茶。鸡蛋和面粉提供蛋白质与碳水，红柚富含维生素 C，带来简单的基础营养。制作难度中等，关键在于分次搅拌成无颗粒的淡黄色面糊，新手只要耐心按步骤操作就能成功。从备料到出锅大约需要 35 分钟，想吃现烤甜点时不会占用太多时间。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 622,
+      "imageCount": 0,
+      "hash": "532d57da3dc3cc4cc3ef9b678515424061efc01843a4673e44392e2785e3a6a0"
+    },
+    {
+      "id": "9f4fd315-e597-47a7-90c4-3f1ee92421cf",
+      "legacyIds": [],
+      "name": "胡萝卜甜糕",
+      "description": "胡萝卜甜糕是印度家喻户晓的冬季甜品，胡萝卜丝与牛奶慢炖浓缩，融入酥油和坚果，口感绵密香甜、色泽金红。富含胡萝卜素、钙质和优质脂肪，暖身滋养。制作过程简单，但对新手需要些耐心，全程约需 45 分钟即可完成。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 374,
+      "imageCount": 0,
+      "hash": "91811e4f5c453d64d3dae4cf9a378b24d47b96283f4ab9aaf718df145d35e5cf"
+    },
+    {
+      "id": "b9ebde1a-88ee-409b-a473-0b996f918b62",
+      "legacyIds": [
+        "dessert_d1ccc72e"
+      ],
+      "name": "咖啡椰奶冻",
+      "description": "这款甜品融合了咖啡的醇厚与椰奶的清甜，口感像布丁般细腻滑嫩，层次丰富。淡奶油和椰汁提供了优质脂肪与植物营养，食用能带来满足感。做法非常友好，只需混合加热，无需复杂技巧，新手也能一次成功。不算冷藏的话，实际操作约需 1 小时，加上冷藏定型共 大约 4 小时即可享用。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 162,
+      "imageCount": 1,
+      "hash": "8f8ee9af45a30801873478c0d2df96ade2c7fe877d986ba467031ed1061d2ff2"
+    },
+    {
+      "id": "5ef724ba-9234-4350-ae4a-256a03e28dbd",
+      "legacyIds": [
+        "dessert_a784e7c5"
+      ],
+      "name": "烤蛋挞",
+      "description": "烤蛋挞是一款经典的中式甜品，外皮酥脆、内馅嫩滑，奶香浓郁。富含蛋白质、钙质和多种维生素，能提供丰富能量。制作过程十分简单，新手也能轻松上手，而且半成品可冷冻保存，随吃随取。从准备到出炉，大约需要 1 小时。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 169,
+      "imageCount": 1,
+      "hash": "2c915c5a1285ade4f286a4a4e3058d9d683e4193df1e0ebad65d4f41512cbabd"
+    },
+    {
+      "id": "4add91ec-80d0-4f2f-b745-396e2f14fdc2",
+      "legacyIds": [
+        "dessert_448181d9"
+      ],
+      "name": "烤箱版巴斯克芝士蛋糕",
+      "description": "巴斯克芝士蛋糕是一道口感浓郁绵密、表面焦香内部湿润的甜品，属于西班牙巴斯克地区的经典风味。主要原料为奶油奶酪和鸡蛋，富含优质蛋白质和钙质。制作过程非常简单，新手也能轻松驾驭。从准备到出炉仅需约 30 分钟，但建议冷藏过夜后食用，总耗时约 8 小时以上。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 266,
+      "imageCount": 1,
+      "hash": "6d65ddcfdb5c6c18af85266904196794ac628574530722c8408cef668493ce8f"
+    },
+    {
+      "id": "1783e502-816f-45c8-b797-f8d94b2051de",
+      "legacyIds": [
+        "dessert_394b4614"
+      ],
+      "name": "玛格丽特饼干",
+      "description": "玛格丽特饼干口感酥松，黄油香气浓郁，是一款经典的西式小甜点。它主要由蛋黄、黄油和面粉制成，含有丰富的碳水化合物与脂肪，能快速补充能量。制作难度适中，从准备到出炉大约需要 45 分钟，新手也能轻松上手。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 863,
+      "imageCount": 1,
+      "hash": "658c606e15b2e5eee7708db479d806ca46cf42bb8c11ceebc806d7ea7d134c12"
+    },
+    {
+      "id": "4f9aacc1-6b06-4959-9782-08c605b3bfd8",
+      "legacyIds": [
+        "dessert_cd984466"
+      ],
+      "name": "魔芋蛋糕",
+      "description": "魔芋蛋糕是一款低热量、无麸质的甜点，用赤藓糖醇代替白砂糖，口感轻盈湿润，带有可可香气，尤其适合减脂人群。它富含膳食纤维和蛋白质，饱腹感强。制作有一定难度，需要打发蛋白并注意翻拌手法，但整体耗时仅约半小时，算是快手健康的烘焙选择。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 234,
+      "imageCount": 0,
+      "hash": "c152e70f7aa7037fdc1eceb0881f0672e4e104746a6134f54cd7071b631c6aac"
+    },
+    {
+      "id": "f03b8a34-d6e0-45bb-953f-61186f7cb899",
+      "legacyIds": [
+        "dessert_ab78a496"
+      ],
+      "name": "戚风蛋糕",
+      "description": "这道烘焙入门甜品口感细腻绵软，拥有云朵般的轻盈质地，属于西点中的经典基础款。主要原料鸡蛋和牛奶提供了优质蛋白与钙质，营养丰富。制作过程对打发、翻拌及烘烤火候要求较高，具有一定挑战，但只要耐心按步骤操作，新手也能成功。从准备到出炉一般需要 1.5 至 2 小时。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 274,
+      "imageCount": 9,
+      "hash": "60587c0574ff91d95dcc65a6c3add32a975c1ee2687e6263c91c0b784b936b0c"
+    },
+    {
+      "id": "b0b1e080-997d-458e-b956-7a4ef8340965",
+      "legacyIds": [
+        "dessert_48708a65"
+      ],
+      "name": "酸奶意式奶冻",
+      "description": "一道改良自意大利经典的甜品，融入原味酸奶后口感更为清爽顺滑，甜而不腻，适合作为餐后小点搭配水果或果酱。奶制品带来丰富的钙质和蛋白质，营养温和。制作步骤简单，只需加热搅拌和冷藏定型，新手也能顺利上手，从准备到冷藏完成大约需要 5 小时。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1034,
+      "imageCount": 1,
+      "hash": "7b57d39799b2fc8aa4ce989f74dcd4ff6b63cb8106b9b981ab8e2045713146c9"
+    },
+    {
+      "id": "f8b4f227-35d3-4619-a122-f82164659313",
+      "legacyIds": [
+        "dessert_6b3856a6"
+      ],
+      "name": "提拉米苏",
+      "description": "这道意大利传统甜品无需烤箱，奶酪糊绵密轻盈，浸润咖啡液的手指饼干香醇柔软，属于入门级甜点。富含蛋白质和钙质，但糖分与热量较高，宜偶尔享用。操作简便，对烘焙新手十分友好，只需大约半 小时动手，再冷藏四小时即可成型品尝。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 809,
+      "imageCount": 1,
+      "hash": "fc21159a56a994c13952038705d74cc3c0f25504bf53d57e2f6c754c7675db9f"
+    },
+    {
+      "id": "1fb5e575-8cae-44d9-8614-cb558103f261",
+      "legacyIds": [
+        "dessert_dd04e783"
+      ],
+      "name": "无厨师机蜂蜜面包",
+      "description": "这是一款无需厨师机的家常蜂蜜小面包，松软香甜，底部略带脆感，表面刷满蜂蜜水再撒上芝麻，透着朴实的甜香。主要用料为高筋面粉、牛奶、鸡蛋和黄油，提供充足的碳水化合物、蛋白质和钙质，作为早餐或加餐都很安心。做法简单，全程手揉，发酵时间灵活，甚至可以提前一晚放入冰箱冷藏，第二天再烘烤，对新手相当友好。制作耗时大约 3 小时，其中大部分是发面等待时间，实际动手并不费力。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 176,
+      "imageCount": 1,
+      "hash": "8d4deb410de0dbdf16286d522a038596580cc7e8c0cfe6649ade46917e5352aa"
+    },
+    {
+      "id": "51e511d9-8906-49ac-8879-511a3db89197",
+      "legacyIds": [
+        "dessert_6b0341a7"
+      ],
+      "name": "雪花酥",
+      "description": "雪花酥是一道口感酥脆香甜、奶香浓郁的小甜点，属于简单快手的家常烘焙，也很适合装盒送礼。由于含有黄油、奶粉和混合坚果，能提供丰富的能量和蛋白质，不过热量较高，适合偶尔享用。制作难度适中，对新手有一定挑战，但只要注意火候和搅拌手法，一般只需 30 分钟就能完成。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1313,
+      "imageCount": 1,
+      "hash": "5a004b5e331d37c5b69d7df8ea939b20b33ce349ab5863db8e14d6efb7a6628e"
+    },
+    {
+      "id": "28a554ad-4365-4c31-9510-0ed4c2951969",
+      "legacyIds": [
+        "dessert_f4064f61"
+      ],
+      "name": "英式司康",
+      "description": "英式司康是一款经典英式下午茶点心，外酥内软，蛋奶香气浓郁，搭配果酱或奶油食用风味更佳。它主要由面粉、黄油、鸡蛋和淡奶油制成，富含碳水化合物和蛋白质，能快速补充能量。制作过程较为简单，只要掌握基本揉面手法，新手也能胜任，从准备到出炉大约需要一小时。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1197,
+      "imageCount": 1,
+      "hash": "72e6ce168957257150610db2cf1f6d3c4e0e0a50238b755d614b3d546d430f4b"
+    },
+    {
+      "id": "5870bfd6-a30f-419f-b143-6457b419fc4f",
+      "legacyIds": [
+        "dessert_ceec2289"
+      ],
+      "name": "芋泥雪媚娘",
+      "description": "芋泥雪媚娘外皮软糯 Q 弹，内馅是细腻香甜的芋泥与轻盈奶油，口感层次丰富，是一道源自家常创意的中式甜品。芋头和紫薯提供膳食纤维与花青素，牛奶和淡奶油补充钙质，营养均衡。制作无需烤箱，步骤简单，对新手很友好，即使不擅烘焙也能轻松完成。从头到尾大约需要两小时，就能做出让孩子爱不释口的自制小点心。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 160,
+      "imageCount": 1,
+      "hash": "f351f065e5dfa42b95022c514bd8cf7f6d251bb50a7e029884e1bc91898ef0a7"
+    },
+    {
+      "id": "7976af2a-a07f-4265-ac2a-29ee3811cf8a",
+      "legacyIds": [
+        "dessert_41a0ab6c"
+      ],
+      "name": "炸鲜奶",
+      "description": "炸鲜奶是一道外壳酥脆、内馅柔软的甜点。制作本身不难，但奶糊必须充分加热并冷藏定型，否则切块和油炸时容易散开。实际操作约需 30 分钟，另需至少 2 小时冷藏定型。",
+      "category": "dessert",
+      "categoryName": "甜品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1100,
+      "imageCount": 1,
+      "hash": "bcdcf37747ef451eed7713191ad325d599b0f63ebe8d1c306224cc815db61b6b"
+    },
+    {
+      "id": "1d748e68-a4f2-44be-a668-0048c42f0e21",
+      "legacyIds": [
+        "drink_d4f5d31d"
+      ],
+      "name": "耙耙柑茶",
+      "description": "耙耙柑茶是一款融合了柑橘清甜与茉莉花香的果茶饮品，口感清爽回甘，属于创意调饮，不限于特定菜系。耙耙柑富含维生素 C 与膳食纤维，搭配绿茶饮用能带来清新提神的体验。做法非常简单，新手友好，从泡茶到搅拌全程仅需约 15 分钟即可完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 81,
+      "imageCount": 1,
+      "hash": "f3668ee53da21fabaf045764b4f8517d8bc978c4c7662fecc9ba26b939ab2427"
+    },
+    {
+      "id": "c391af27-1526-4fa1-8ef2-1a92bb40f476",
+      "legacyIds": [
+        "drink_db3b0b04"
+      ],
+      "name": "百香果橙子特调",
+      "description": "这是一道酸甜清爽的夏日饮品，融合了百香果的热带果香与橙子的鲜甜，搭配茉莉绿茶或苏打气泡水，口感层次分明，冰爽解腻。富含维生素 C，有助增强免疫力和滋润肌肤。包含腌制、泡茶、榨汁等步骤，操作略多但难度适中，新手也能尝试。需提前一天腌制百香果，总耗时约 24 小时，实际动手时间仅 大约 30 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 173,
+      "imageCount": 2,
+      "hash": "f912bd9594f29bdd3c9f11af0af91a39a3d9fec15c4a8e3e32b13aed049624b7"
+    },
+    {
+      "id": "3e7fb8a6-36a5-498d-87d5-54ab6acf5c4c",
+      "legacyIds": [
+        "drink_c658432d"
+      ],
+      "name": "冰粉",
+      "description": "石凉粉是河南信阳的传统小吃，口感爽滑如果冻，配以薄荷汁或柠檬汁清凉解暑，属于豫菜系。由冰粉籽手工揉搓而成，天然无添加，含有丰富的植物胶质。制作非常简单，对新手友好，全程约需 3 小时，其中 2.5 小时为静置凝固时间，几乎不占用人工。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 110,
+      "imageCount": 2,
+      "hash": "5902f3d925f9fc01ae77a4a212799acc725a01f92dc8ee910204f7e41ce38c8f"
+    },
+    {
+      "id": "c145a730-05d0-4065-8c25-52162424fc2c",
+      "legacyIds": [
+        "drink_37772636"
+      ],
+      "name": "菠萝咖啡特调",
+      "description": "这道特调饮品融合了咖啡的醇香与菠萝的酸甜，气泡清爽、奶盖绵密，口感层次丰富。菠萝富含维生素 C 和膳食纤维，搭配咖啡能提神醒脑。制作难度中等，只需打发奶油并混合液体，全程约 10 分钟即可完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 180,
+      "imageCount": 1,
+      "hash": "ecdf99858a7f4ff08ffd16d92b8cfaf1bb7394d36ea2e147e7e2bc441d46f2d8"
+    },
+    {
+      "id": "ecbe5282-36ba-49d2-8918-1e26d99f6aef",
+      "legacyIds": [
+        "drink_17a8d980"
+      ],
+      "name": "冬瓜茶",
+      "description": "冬瓜茶是一款清爽解暑的传统饮品，口感甘甜柔和，带有冬瓜特有的清香，冰镇后风味更佳。冬瓜本身低热量、富含水分，搭配冰糖熬制，能补充能量、生津止渴。制作不复杂，但对新手而言需要一些耐心，全程大约需要 4 到 5 小时。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 296,
+      "imageCount": 0,
+      "hash": "a8a7d4610a11b6a80b8e02e7b9e55b5875aa32d50ef6fc1fee331d0418faaa78"
+    },
+    {
+      "id": "616d8294-f70c-43a6-b852-c45131388dcb",
+      "legacyIds": [
+        "drink_5274087c"
+      ],
+      "name": "海边落日",
+      "description": "这款鸡尾酒色彩层次分明，底部红石榴糖浆似晚霞，中间橙汁透亮，上层蓝橙酒液如海水，整体呈现海边落日的意境，喝起来酸甜清爽，带朗姆酒香。橙汁和柠檬汁含少量维生素 C，酒精能帮助放松。调酒步骤不复杂，但倒液沿搅拌棒做出分层需要一点耐心，新手跟着做也能成功，准备加调制大约一刻钟搞定。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 173,
+      "imageCount": 1,
+      "hash": "c76eb176c4e0614f26637d0a65fde91cf0b6ae0fc37b63786385c88de738d7d5"
+    },
+    {
+      "id": "06be4a1f-1428-47d4-8a2c-374ab3a35675",
+      "legacyIds": [
+        "drink_f6a7c72d"
+      ],
+      "name": "金菲士",
+      "description": "经典金酒鸡尾酒，酸甜适口，气泡激爽。柠檬提供丰富维 C，搭配蔗糖糖浆平衡酸度。制作非常简单，新手只需 5 分钟即可调制完成，适合在家轻松享用。注意饮酒有害健康，请勿过量。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 150,
+      "imageCount": 1,
+      "hash": "47ab31759f4efa3121fb9e89ebc5069052331dd3148e10b7435b80f814311a7a"
+    },
+    {
+      "id": "67576de7-154e-425a-bf66-6f373cdd04e5",
+      "legacyIds": [
+        "drink_9e3b1e0b"
+      ],
+      "name": "金汤力",
+      "description": "这是一款经典的金酒鸡尾酒，口感清爽微苦，带有柠檬的明亮酸香与汤力水的细腻气泡，入口轻盈畅快。虽然主要提供水分和少量酒精带来的热量，新鲜柠檬汁能补充维生素 C，帮助提神。做法非常简单，新手也能轻松掌握，预计只需 5 分钟即可完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 205,
+      "imageCount": 1,
+      "hash": "70652135cee3c7d91d33ff918798756c4c300557c3fb6f5f2f64f7a09a2ff6f2"
+    },
+    {
+      "id": "27af4f39-c893-41e6-a4bb-451f1dc3b223",
+      "legacyIds": [
+        "drink_6cd87843"
+      ],
+      "name": "酒酿醪糟",
+      "description": "这是一道传统中式发酵甜品，口感清甜微醺，带着淡淡的酒香。具有健脾开胃、促进消化的作用。制作过程简单有趣，虽然需要等待发酵，但动手操作并不复杂，非常适合作为发酵入门。预计制作总时长约 2 天，其中实际动手时间仅需 大约 1 小时。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 420,
+      "imageCount": 2,
+      "hash": "03f77573cdd81d8a268ce6303516efffae0d5f6b3d8d104e6fb45fb16acf9130"
+    },
+    {
+      "id": "07c1a5a9-e4fd-478a-9767-eeb5887f8563",
+      "legacyIds": [
+        "drink_8175c20b"
+      ],
+      "name": "可乐桶",
+      "description": "可乐桶是一款简单易调的休闲鸡尾酒，口感清爽甜润，可乐的气泡和柠檬汁很好地中和了威士忌的烈感，适合聚会场合。主要提供能量，柠檬补充维生素 C。整个调配过程只需 5 分钟即可完成，新手也能轻松上手。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 450,
+      "imageCount": 0,
+      "hash": "438f6ae40493836717f7a0e11d68682ea1febd116a70855839beff5b35ed48d2"
+    },
+    {
+      "id": "b1aa483a-be7c-4d31-afdd-0d8b7b4419b8",
+      "legacyIds": [
+        "drink_0e3331c9"
+      ],
+      "name": "奶茶",
+      "description": "这是一道用红茶和奶粉轻松调制的家常饮品，茶香与奶香交融，口感顺滑温暖。红茶中的茶多酚搭配牛奶的蛋白质和钙质，既能提神又补充日常营养。做法非常简单，新手也能一次成功，仅需大约半 小时就能喝上自制奶茶。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 81,
+      "imageCount": 0,
+      "hash": "56c09f43811449893e20e7eb2302aa80aad925f819de733560fbae3e244457b0"
+    },
+    {
+      "id": "47d62a85-f258-4a58-8fcd-254e306dc05f",
+      "legacyIds": [
+        "drink_c06cf165"
+      ],
+      "name": "柠檬水",
+      "description": "这道饮品以新鲜柠檬为主角，搭配果蜜调和，酸甜平衡，冰镇后更感清凉解暑。柠檬富含维生素 C，经常饮用有助于补充营养、提神美白。制作步骤极简，只需捶打、加料、摇晃，新手也能在三五分钟内完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 141,
+      "imageCount": 1,
+      "hash": "eb4dc91b92932a70d1e8220a32414e1b98a027efd2e2f35dee62d529691a82ff"
+    },
+    {
+      "id": "5d429d11-4d84-4931-8b09-f422cb6603f9",
+      "legacyIds": [],
+      "name": "牛油果拉西",
+      "description": "这是一款融合了印度传统酸奶饮品“拉西”的创新饮品，口感绵密顺滑、清甜不腻，特别适合作为早餐或午后提神饮品。牛油果富含单不饱和脂肪酸与膳食纤维，搭配酸奶的优质蛋白和益生菌，一杯便能提供持久饱腹感。制作极为简单，新手也能零失败，从备料到享用只需 大约 5 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 392,
+      "imageCount": 0,
+      "hash": "3454eda740ec4d5488018d2b2884bac9f684c9652ff7ce27ff3c56113b9e8d15"
+    },
+    {
+      "id": "63c9c421-7bce-49ee-b356-83564f89cbe1",
+      "legacyIds": [
+        "drink_75684b66"
+      ],
+      "name": "奇异果菠菜特调",
+      "description": "这是一道清爽健康的果蔬特饮，口感酸甜细腻，带有奇异果与苹果的天然果香，菠菜味清淡不抢。富含维生素 C 和膳食纤维，有助于促进消化。制作非常简单，新手也能一次成功，全程预计只需 10 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 184,
+      "imageCount": 1,
+      "hash": "24c8129d15e05b1457476eec255389e4018b9ec923ebedf7c262f0804984f7a5"
+    },
+    {
+      "id": "24befcfa-b92a-4bb7-a0cd-e2ef374efd01",
+      "legacyIds": [
+        "drink_207d7850"
+      ],
+      "name": "砂糖椰子冰沙",
+      "description": "砂糖椰子冰沙是一道极具热带风情的快手冷饮，清甜的椰香融合粗粒黄糖的焦香，口感绵密冰爽。椰子水富含天然电解质与矿物质，能快速补充水分，咖啡调糖增添碳水能量。制作门槛极低，只要提前将椰汁冻硬，敲打成沙即可，对新手毫无压力。从冷冻到出品需提前准备 10 小时以上，但动手操作仅需几分钟，很适合作为悠闲的午后冰品。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 231,
+      "imageCount": 1,
+      "hash": "505b4475a6c7171e321c9b1e20b1a70875866ce83d80a3288aba755bb2964837"
+    },
+    {
+      "id": "d2cbe9a2-8ad3-4477-a96d-5c1712b60838",
+      "legacyIds": [
+        "drink_7269c4a9"
+      ],
+      "name": "酸梅汤",
+      "description": "酸梅汤是一道酸甜可口、清凉解暑的传统饮品，冰镇后饮用尤为沁人心脾。配方中的乌梅、山楂、甘草等原料有助于生津止渴、消食开胃。做法简单，新手友好，只需浸泡、熬煮和冷藏即可。制作全程包括浸泡、两次煎煮和冷藏，大约需要 6 小时以上，建议提前准备。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 359,
+      "imageCount": 1,
+      "hash": "8d44dec4aba7d4a3852b79227e80701307f162f8485864019b55c61c671ab20e"
+    },
+    {
+      "id": "29dbe4d8-66bd-4ded-be97-f9a4fac41331",
+      "legacyIds": [
+        "drink_f7b9c13a"
+      ],
+      "name": "酸梅汤（半成品加工）",
+      "description": "酸梅汤（半成品加工）是一道酸甜爽口的夏日消暑饮品，传统京味风格。酸梅汤本身有生津止渴、帮助消化的好处。做法极其简单，只需按顺序搅拌即可，对新手毫无难度，全程大约五分钟就能完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 603,
+      "imageCount": 0,
+      "hash": "ebb6166a6baa9d8aefb6a8f323aa667bbb6b14f303950536fa718ef8c9e6542c"
+    },
+    {
+      "id": "7e3e5eb7-4c1f-4202-aa43-59ec693ba01c",
+      "legacyIds": [
+        "drink_9270dca7"
+      ],
+      "name": "泰国手标红茶",
+      "description": "这是一道源自泰国街头的经典奶茶，茶香浓郁，口感绵密顺滑，炼乳与牛奶带来香甜奶味。茶奶结合可提供少量蛋白质和钙，但含糖量较高，适宜作为消暑解渴的饮品。制作步骤简单，但需反复过滤茶汤并等待长时间冷藏，整体耗时约 4 小时 20 分钟，对新手稍有耐心即可完成。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 185,
+      "imageCount": 1,
+      "hash": "f3bcab7d45d42e7deb3ce39952ac2048c6f80e38a29bb28186f16a8e16223664"
+    },
+    {
+      "id": "966afb08-2e39-4540-8468-52e079f6602d",
+      "legacyIds": [
+        "drink_a8ab9cf7"
+      ],
+      "name": "杨枝甘露",
+      "description": "这是一道改良版的经典港式甜品，用奇亚籽代替西谷米，口感滑嫩又带有籽粒的细微嚼劲，芒果的香甜与葡萄柚的微酸交织，椰奶增添浓郁。富含膳食纤维、维生素 C 和优质脂肪，清爽解暑。制作非常简单，新手也能轻松完成，从备料到享用只需约 20 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 661,
+      "imageCount": 0,
+      "hash": "9574733af149b46a021e90dfc25b9790de28789b1409ef8773ba28c813b367d9"
+    },
+    {
+      "id": "426f5a7c-b6f8-474c-8ad3-0220b0af63fe",
+      "legacyIds": [],
+      "name": "印度奶茶",
+      "description": "印度奶茶是一道充满异域风情的家常饮品，以红茶、牛奶和多种香料现煮而成，口感浓郁顺滑，带有生姜、豆蔻、肉桂交织的辛香暖意。牛奶提供优质蛋白和钙质，香料则有助于暖身驱寒、促进消化。制作过程简单直观，对新手友好，从备料到入口只需大约 10 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 135,
+      "imageCount": 0,
+      "hash": "f9de839dc143f10d2979ed6837a4f3b1fd98eb1e3e0599bdf7554e81619ff5d7"
+    },
+    {
+      "id": "70b6d1b4-3d30-4dfe-98a5-06a34417b927",
+      "legacyIds": [
+        "drink_d439d193"
+      ],
+      "name": "长岛冰茶",
+      "description": "长岛冰茶是一款口感酷似冰茶、入口柔和但酒精度颇高的经典鸡尾酒。它本身营养价值不高，偶尔小酌可放松身心，但切勿过量。做法非常简单，只需按比例混合四种基酒、甜酒和果汁，新手也能轻松调制。从准备到完成仅需 大约 5 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 281,
+      "imageCount": 0,
+      "hash": "f7848e3ca65d6b05204e73e63c9ce0b6129262002eae14656a618a1eab90a70e"
+    },
+    {
+      "id": "638c4612-f474-4b31-a0b1-d319c36c9963",
+      "legacyIds": [
+        "drink_56393998"
+      ],
+      "name": "B52轰炸机",
+      "description": "这款鸡尾酒口感层次分明，入口先是伏特加的烈，紧接着是咖啡奶油的回甘，点燃后饮用有独特的冰火体验，属于经典创意鸡尾酒。咖啡酒与百利甜酒提供了少量咖啡因和奶脂，但整体营养以酒精为主。制作需要练习分层倒酒和点火技巧，对新手稍有难度，整个过程大约只需 5 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 80,
+      "imageCount": 0,
+      "hash": "c533592fbf9a27d0e43d8051b0f8ec6a4a0482ebae6273d1b37fe895f360c66e"
+    },
+    {
+      "id": "d74daed2-54e7-45d4-b691-94d374058cb9",
+      "legacyIds": [
+        "drink_a3cda7a8"
+      ],
+      "name": "Mojito莫吉托",
+      "description": "这款鸡尾酒口感清爽酸甜，带有薄荷的清凉和朗姆酒的微醺，是经典的夏季饮品。酒精含量较低，佐以富含维生素 C 的青柠，能生津解渴、提神醒脑。制作十分简单，对新手友好，从备料到完成只需大约十 分钟。",
+      "category": "drink",
+      "categoryName": "饮料",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 187,
+      "imageCount": 0,
+      "hash": "7508093166eb54915777305e5561e8b84a8ad168482f65c1f0ded7490b2fa388"
+    },
+    {
+      "id": "e469eb85-f19c-476b-a0f7-8064d32d108b",
+      "legacyIds": [],
+      "name": "奥尔良风味烤鸡腿",
+      "description": "奥尔良风味烤鸡腿是一道简单易做的菜，富含蛋白质和铁。总共花费约 3 小时，其中手动操作时间约 20 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 955,
+      "imageCount": 0,
+      "hash": "8efa7a7d19e7b2c71c52ef6727438a069018f4ec9de906acc846fbb2a0e30fe6"
+    },
+    {
+      "id": "73b93360-ad02-4448-82f4-0dfb4c4aa29d",
+      "legacyIds": [],
+      "name": "澳门湿版免治牛肉饭",
+      "description": "这是一道经典的澳门葡式风味快餐，牛肉碎嫩滑咸香，裹着浓郁酱汁和半熟蛋液，拌入米饭后口感油润诱人。牛肉末提供优质蛋白质，搭配鸡蛋和洋葱，营养均衡管饱。操作步骤简单易上手，特别适合新手尝试，从备料到出锅大约只需 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1011,
+      "imageCount": 1,
+      "hash": "4f76e9953e60ff14f3064be962b31bf5fd6e50f4acda61eb60ab659b2e077617"
+    },
+    {
+      "id": "7f6cf452-6f56-4d04-a1cf-081127e0bf3c",
+      "legacyIds": [
+        "meat_dish_57c87c3f"
+      ],
+      "name": "巴基斯坦牛肉咖喱",
+      "description": "这道巴基斯坦风味咖喱牛肉香浓软糯，酸辣开胃，带着浓郁的香料气息。牛肉提供优质蛋白，搭配番茄和酸奶，营养均衡。做法不算繁琐，但慢炖需要一点耐心，很适合在闲暇的周末从容准备。从头到尾大约两个半小时，就能端出一锅温暖的异国美味。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 602,
+      "imageCount": 6,
+      "hash": "143bac50743c91e7a583c5cb9d29ddaab5c2d84b989ffe9a52731367dc90e44d"
+    },
+    {
+      "id": "e91f03d7-dd3c-421e-92c9-04b4dfa142f3",
+      "legacyIds": [
+        "meat_dish_54f909ad"
+      ],
+      "name": "白菜猪肉炖粉条",
+      "description": "猪肉白菜炖粉条是东北地区经典的家常炖菜，汤汁浓郁咸鲜，五花肉软烂、粉条吸饱肉香后滑韧入味，白菜清甜解腻。整道菜荤素搭配均衡，能提供蛋白质、维生素和碳水化合物，营养饱腹。制作过程需要一些耐心，特别是粉条处理和炖煮火候，对新手有一定挑战，但按步骤操作不易失败，从头到尾大约需要 45 分钟即可上桌。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1880,
+      "imageCount": 0,
+      "hash": "5e2f4980229a47b5da688f97a7207cb94a79fc344319338e26a222d30826383b"
+    },
+    {
+      "id": "05ad02a6-8ae0-4094-b173-43fd5fc0b934",
+      "legacyIds": [],
+      "name": "豉汁排骨",
+      "description": "这是一道粤式茶楼里的人气蒸点，豉香醇厚，排骨滑嫩脱骨。排骨提供优质蛋白和钙质，发酵豆豉增添风味也更利吸收。做法需经过泡洗、腌制和控火蒸制，对新手稍有考验，但步骤清晰易上手，从备料到出锅大约只需 1 小时。剩余的汤汁用来拌饭或拌面格外鲜美。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1513,
+      "imageCount": 0,
+      "hash": "77b0c54b4ef07bc8a6b9f3faec0601b41e39f8ff0b6b3a832b0fe5118a410d53"
+    },
+    {
+      "id": "b9e1af90-06f0-4690-8ba4-d39fd5e55b55",
+      "legacyIds": [
+        "meat_dish_d2a7aa78"
+      ],
+      "name": "豉汁蒸白鱔",
+      "description": "豉汁蒸白鱔是一道粤式经典蒸菜，豆豉蒜蓉的酱香渗透进鱼肉，口感嫩滑鲜美。白鱔富含优质蛋白和多种不饱和脂肪酸，对身体有滋补作用。操作步骤清晰，但处理生鱼和掌握火候稍有挑战，适合有一定基础的厨友。从备料到上桌大约需要 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 472,
+      "imageCount": 1,
+      "hash": "14eab7339bb08bee003f6d29a7e93ed88b6af63020036e3e8bef0e210cd6a8bf"
+    },
+    {
+      "id": "7f081104-fe39-42eb-a899-9387a856d613",
+      "legacyIds": [],
+      "name": "葱烧鸡腿",
+      "description": "葱烧鸡腿是一道只靠鸡腿和大葱两种核心食材就能完成的下饭家常菜。鸡腿肉外焦里嫩，葱香浓郁，做法简单，全程一口锅，新手也能一次成功。蛋白质丰富，搭配米饭尤其合适，适合工作日快手晚餐。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 850,
+      "imageCount": 0,
+      "hash": "3dd1258fa3f6e0924ecd97a8cb88d49fd4aa4f3a06404dd272c7c81230033f28"
+    },
+    {
+      "id": "a02cfd77-fd5a-49c8-a8df-4777e285ee87",
+      "legacyIds": [
+        "meat_dish_e9abca43"
+      ],
+      "name": "带把肘子",
+      "description": "带把肘子是陕西大荔的传统名菜，因脚爪形似把柄而得名。成菜肘皮胶粘软糯，肉质酥烂不腻，蘸甜面酱佐葱段食用，咸香醇厚。富含胶原蛋白和优质蛋白质，滋补养颜。制作需去骨、定形、长时间蒸制，对新手有一定挑战，预计整个制作过程约需 3.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1037,
+      "imageCount": 0,
+      "hash": "f59891b3b3d247d442c7f4d5173d7ef121d1894db01453b22e426cfbefeb9698"
+    },
+    {
+      "id": "e4db258e-1302-4d77-a30b-5d4d9c3a9c50",
+      "legacyIds": [
+        "meat_dish_3d4beeb5"
+      ],
+      "name": "冬瓜酿肉",
+      "description": "冬瓜酿肉是一道荤素搭配的家常蒸菜，口感鲜嫩爽滑，肉馅的咸香与冬瓜的清甜相互融合，清爽不腻。猪肉末提供优质蛋白质和必需氨基酸，冬瓜则有助于清热利尿、补充水分。做法简单，即使是新手也能轻松上手，只需稍加练习卷肉技巧即可。从备料到出锅，大约需要 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 578,
+      "imageCount": 6,
+      "hash": "1a2379333145ebed3a0c0791bced17ac5f4be8735be48abfa71430f1f07034d3"
+    },
+    {
+      "id": "94633c49-a35c-474a-83bc-f58b48600660",
+      "legacyIds": [
+        "meat_dish_681edd4d"
+      ],
+      "name": "豆豉鲮鱼油麦菜",
+      "description": "豆豉鲮鱼油麦菜是一道咸香下饭的快手家常小炒，源于粤式罐头菜肴，油麦菜清脆、鲮鱼酥香。荤素搭配，富含蛋白质和膳食纤维。做法简单，对新手十分友好，一般十五分钟即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 416,
+      "imageCount": 1,
+      "hash": "3b0f688404de893e958a2c9d951eea1e48ea74ed589a0f8bfcf8b168be6a2a9a"
+    },
+    {
+      "id": "b530f9ad-0dee-4a9f-a7f0-673c1189e527",
+      "legacyIds": [
+        "meat_dish_397dfb8e"
+      ],
+      "name": "番茄红酱",
+      "description": "这款意式风味酱料香浓可口，蔬菜与牛肉的搭配带来丰富口感。它富含蛋白质和多种维生素，营养均衡。制作过程稍有繁琐，需要一些烹饪基础，例如炒出颗粒感的牛肉和控火慢煮。从备料到完成约需一小时，一次可多做一些冷冻保存，随取随用十分方便。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1955,
+      "imageCount": 0,
+      "hash": "de587e5f3a5288a6a51decdc8a1819f3c87d843cc1c9623795cf9b8b95ffaeb8"
+    },
+    {
+      "id": "616cba69-519a-4c10-a6fb-7adc95b499c2",
+      "legacyIds": [
+        "meat_dish_a6142d4e"
+      ],
+      "name": "粉蒸肉",
+      "description": "粉蒸肉是一道经典中式蒸菜，香味浓郁，口感软糯，属于广泛流传的家常风味。五花肉提供优质蛋白质和脂肪，搭配土豆等根茎蔬菜，营养均衡。此菜适合有一定烹饪经验的人士制作，从准备到完成大约需要 90 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1606,
+      "imageCount": 0,
+      "hash": "b009d40cded10df5924de4a25cd40a353ffd901230ea085a99e4d19db0d67b19"
+    },
+    {
+      "id": "6b659392-8ae2-496b-b382-3bf3f02b0f1e",
+      "legacyIds": [],
+      "name": "腐乳肉",
+      "description": "这是一道经典的江南家常菜，五花肉与红腐乳同炖，色泽红亮如琥珀，肉质酥烂到入口即化，咸甜交织的酒香与豆香在舌尖层层展开。富含优质蛋白质和 B 族维生素，经慢火煨煮后更易消化。制作流程需要耐心把控火候和收汁，对新手来说有一定挑战，预计制作时长约 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1190,
+      "imageCount": 0,
+      "hash": "05af418f05a2e6dc7dbe11f2daea7dec77490f3027214d220702ed0342246003"
+    },
+    {
+      "id": "27357681-47de-4aa5-bacb-345bfba07158",
+      "legacyIds": [
+        "meat_dish_3ca3f659"
+      ],
+      "name": "干煸仔鸡",
+      "description": "这是一道源自北大食堂、甜辣风味的创新川菜，鸡肉先腌后炸，外酥里嫩，土豆香糯，青椒脆爽，裹满红亮的甜辣酱汁，咸甜微辣十分开胃。富含蛋白质、碳水化合物及维生素。制作涉及油炸和酱汁熬制，对新手稍有挑战，但按步骤操作即可成功，全程约需 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1300,
+      "imageCount": 1,
+      "hash": "eed20bea1c296280d7027e72bc5d625d66ee9cc7d62eedd578fc4a2f37418406"
+    },
+    {
+      "id": "d2191e61-d8ef-4063-8eec-1c4ff3016542",
+      "legacyIds": [
+        "meat_dish_c1e02e44"
+      ],
+      "name": "宫保鸡丁",
+      "description": "这道川味名菜以糊辣荔枝味见长，小酸甜中透着干辣椒与花椒的香气，鸡丁嫩滑、花生酥脆，口感层次丰富。富含优质蛋白和不饱和脂肪酸，开胃下饭。做法分成简易和进阶两版，对新手比较友好，提前规划好腌制时间即可。从备料到出锅大约需要 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1790,
+      "imageCount": 1,
+      "hash": "f2a06fa04849993c5cfc9687d0272c832387ff95c8326e790f3d45d0dad3ae16"
+    },
+    {
+      "id": "388a8a05-ca30-4ff8-a378-5e28cddfc24b",
+      "legacyIds": [
+        "meat_dish_8af007ba"
+      ],
+      "name": "咕噜肉",
+      "description": "咕噜肉是一道经典粤式家常菜，酸甜开胃、外酥里嫩，菠萝的果香让肉块吃起来格外清爽解腻。猪肉提供优质蛋白质，青椒和菠萝则补充维生素与膳食纤维。这道菜的难点在于掌握炸肉的火候，对新手略有挑战，但只要按步骤操作便能成功。从腌制到出锅，全程大约需要 40 分钟，很适合为家人做一道下饭快菜。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 673,
+      "imageCount": 0,
+      "hash": "c3d1d201986bc6a0e8375c6ba10a3b13839fe17eb1e5e89ae9d3bf0a42d1f16b"
+    },
+    {
+      "id": "6522c371-6b96-4b57-8b68-ecabd5714008",
+      "legacyIds": [
+        "meat_dish_00560d1c"
+      ],
+      "name": "广式萝卜牛腩",
+      "description": "这是一道广式家常炖菜，牛腩软烂入味，萝卜吸饱汤汁后清甜浓郁，整体酱香回甘。富含优质蛋白和膳食纤维，开胃助消化。制作步骤稍多但难度适中，新手按部就班也能成功。预计从头到尾大约需要 2.5 小时完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 483,
+      "imageCount": 1,
+      "hash": "4561d2b28e00ed351caa7e0b459a00f28b0129c0035176ce7acd4830754df07c"
+    },
+    {
+      "id": "b20d3e67-ffae-4c0d-b53e-33ec6be3f440",
+      "legacyIds": [
+        "meat_dish_5aaba9a1"
+      ],
+      "name": "贵州辣子鸡",
+      "description": "贵州辣子鸡是贵州地区的经典家常菜，以糍粑辣椒和多种香料烹制而成，鸡肉香糯软烂，土豆绵密入味，整体风味香辣浓郁。鸡肉富含优质蛋白质，搭配土豆等配菜，营养均衡。这道菜步骤较多，对新手有一定挑战，但按部就班也能成功。从备料到出锅，预计需要 1.大约 5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1441,
+      "imageCount": 1,
+      "hash": "f3fbc6b8d215a8026f596c771e6c0e6bd6d25da4f09ab37d78b35bd48f797611"
+    },
+    {
+      "id": "740da080-cfa8-4cc8-9b11-bfb165fe38ef",
+      "legacyIds": [],
+      "name": "桂林十八酿",
+      "description": "桂林传统酿菜系列，将调好味的猪肉、虾滑等馅料酿入青椒、苦瓜、田螺、茄子等十多种中空食材中，煎焖成菜，一菜一味，鲜香多汁，口感软嫩或弹牙，属于浓郁的地方家常风味。馅料提供优质蛋白质，搭配多种蔬菜，富含维生素与膳食纤维，营养较为均衡。制作步骤需要逐一填馅和掌控火候，稍需耐心，但操作逻辑简单，厨艺新手也能尝试，预计全部完成约需 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 468,
+      "imageCount": 6,
+      "hash": "66a96ee5c25969638a52d8334ceaf5fabf0c506882bb45ffba0d16a287525c0c"
+    },
+    {
+      "id": "cee343f9-332c-4e83-ab56-ac7c5ae03173",
+      "legacyIds": [
+        "meat_dish_75c92169"
+      ],
+      "name": "荷兰豆炒腊肠",
+      "description": "荷兰豆炒腊肠是一道清爽咸香的家常小炒，腊肠的油脂润着翠绿的荷兰豆，口感脆嫩不腻。荷兰豆富含优质蛋白质和多种维生素，有助于增强机体抗病能力。做法简单，几乎不需要刀工，初学者也能快速上手，从备料到出锅大约只需 15 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 606,
+      "imageCount": 2,
+      "hash": "99ce98e631854e7732d344d4fb265862367acd009893c4ae5915c4aaf3a426c7"
+    },
+    {
+      "id": "565bc38f-90b6-4b5e-90fe-540d3542dc78",
+      "legacyIds": [
+        "meat_dish_44f4ad30"
+      ],
+      "name": "黑椒牛柳",
+      "description": "黑椒牛柳是一道广受欢迎的家常小炒，黑椒风味浓郁，牛柳嫩滑，搭配甜脆的洋葱和彩椒，荤素均衡，口味老少咸宜。牛肉富含优质蛋白和铁，彩椒和洋葱能补充多种维生素。这道菜对新手十分友好，从备料到出锅，通常一小时以内就能完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 216,
+      "imageCount": 1,
+      "hash": "dafc694ab276b746128f692b30d80b5e4a60f928ca83081b97d275310e87fd1e"
+    },
+    {
+      "id": "13f30a16-a271-4541-b76a-926deb007fce",
+      "legacyIds": [],
+      "name": "红烧鸡翅",
+      "description": "红烧鸡翅是一道家常下饭菜，咸鲜带甜、色泽红亮，肉质嫩滑易脱骨。鸡翅富含优质蛋白质与胶原蛋白，营养好吸收。制作难度适中，新手按步骤操作也能顺利掌握，从备料到出锅大约需要 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1016,
+      "imageCount": 0,
+      "hash": "12cd0cded563789e1d5906f6be9295939829ede44ea87f9692a71c72264ec163"
+    },
+    {
+      "id": "771291ff-d116-484e-8911-0b11ac613fed",
+      "legacyIds": [
+        "meat_dish_89adeae2"
+      ],
+      "name": "红烧猪蹄",
+      "description": "红烧猪蹄是一道汤汁浓郁、肉质软糯的经典家常菜，咸香甜美，极为下饭。猪蹄富含胶原蛋白和蛋白质，营养丰富。这道菜对新手有一定挑战，但借助高压锅可以简化流程，有一定烹饪基础更易上手。从备料到完成大约需要 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 639,
+      "imageCount": 1,
+      "hash": "5a7a94e4c663c35669172305cd6ff706c0dc4e2ae68c364566abdead13b6d696"
+    },
+    {
+      "id": "7d9783c4-162a-480c-acd9-936745b934c4",
+      "legacyIds": [
+        "meat_dish_4193001d"
+      ],
+      "name": "湖南家常红烧肉",
+      "description": "湖南家常红烧肉是一道湘味浓郁的家常菜，五花肉经慢炖后肥而不腻、入口软糯，咸香中带着微辣回甘。富含优质蛋白和脂肪，能为身体提供充足能量。制作需要一些耐心，对新手有一定挑战，但按步骤操作不难掌握，预计全程约 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1348,
+      "imageCount": 1,
+      "hash": "3eea44e77f9b124acb779df585992d5c574dcbfbd4524169ab6ea8a458221bd3"
+    },
+    {
+      "id": "9014829b-4dbc-4a7d-a3f9-e138fe66cbe2",
+      "legacyIds": [
+        "meat_dish_ee019d33"
+      ],
+      "name": "虎皮肘子",
+      "description": "这道菜成品色泽红亮，肘皮呈现诱人的虎皮纹路，口感软烂入味，肥而不腻，瘦肉松软，属于传统中式宴客大菜。猪肘富含胶原蛋白和优质蛋白，经过长时间炖煮后更易吸收，对皮肤和关节有一定滋养效果。制作过程包含烧皮、油炸、炒糖色和高压炖煮等多个步骤，对新手来说挑战较大，建议有一定烹饪基础再尝试。从预处理到上桌，预计总耗时约 2.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1018,
+      "imageCount": 0,
+      "hash": "114adf22b7f61e25fc6ad0d0172078a2986e3b5e8a2ccbb9ce3df51badbc0568"
+    },
+    {
+      "id": "a2b6a9f9-4c18-4c4e-b3d8-4fd7ab669306",
+      "legacyIds": [
+        "meat_dish_c1ef9da3"
+      ],
+      "name": "黄瓜炒肉",
+      "description": "这是一道清爽脆嫩的家常快手菜，咸鲜适口，带有蒜香与微辣。富含蛋白质和多种维生素，有助于清热补水。对新手比较友好，只要注意火候就能成功，预计制作时长约 25 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 550,
+      "imageCount": 0,
+      "hash": "97496f390013743774a0d78947827c5c8ced050abb9fd758c7c164a0343386ca"
+    },
+    {
+      "id": "bf426888-a6b0-468f-8339-8b20ca8b71b1",
+      "legacyIds": [
+        "meat_dish_2eb1a2a9"
+      ],
+      "name": "黄焖鸡",
+      "description": "黄焖鸡是一道以鸡腿、香菇、青椒为主料的家常菜，汤汁浓郁，鸡肉滑嫩，咸鲜微甜，十分下饭。富含优质蛋白质和菌菇多糖等营养。炒糖色环节稍有挑战，但可用老抽替代，整体难度不高，新手也能顺利掌握。从备菜到出锅，大约需要 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 766,
+      "imageCount": 0,
+      "hash": "62603160d1f562815fc4161e066d359e7ad4b318c8b1e450abbd3e2eb67e81f2"
+    },
+    {
+      "id": "d41ff35b-aa67-4460-9b44-d65e2e7eada5",
+      "legacyIds": [],
+      "name": "黄油鸡",
+      "description": "这是一道源自印度的经典咖喱菜肴，以烤制后再炖煮的鸡腿肉搭配番茄、黄油和奶油制成的酱汁，口感醇厚丝滑，酸甜微辣，带有独特的香料复合香气。鸡肉、酸奶和腰果提供了丰富的蛋白质与健康脂肪，番茄和香料也带来一定的维生素与抗氧化物。制作有一定挑战，需要掌握火候和香料的平衡，加上腌制时间共约 1 小时 45 分钟方可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 641,
+      "imageCount": 0,
+      "hash": "15f2eca712466302e6bacd0873f3f8f65e6f91f97913032cba0f4f3ef7c01255"
+    },
+    {
+      "id": "89b0763f-e0bc-43fc-ad0f-6a80097107d0",
+      "legacyIds": [
+        "meat_dish_7175adfc"
+      ],
+      "name": "徽派红烧肉",
+      "description": "徽派红烧肉是一道色泽红亮、肥而不腻的经典徽式家常菜，口感软糯 Q 弹，咸甜交融。以五花肉为主料，富含优质蛋白质和脂肪，能提供充沛能量。烹制需掌握炒糖色与火候，稍有挑战，预估制作时长约 45 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 3847,
+      "imageCount": 2,
+      "hash": "1c27a2e31b5ad9184b26d0f6de1222f01eabc4dad1a996e7f843884506d0ef2c"
+    },
+    {
+      "id": "a27d314e-92e9-433f-8f5f-18e7ae22fb08",
+      "legacyIds": [
+        "meat_dish_2e95ad17"
+      ],
+      "name": "回锅肉",
+      "description": "回锅肉是四川传统名菜，以二刀肉或五花肉为主料，成菜色泽红亮，肥肉透明微卷、瘦肉干香不柴，口感肥而不腻，咸鲜微辣，带有蒜苗与豆瓣酱的复合香气。猪肉富含优质蛋白和必需脂肪酸，搭配青红椒、蒜苗可补充维生素。这道菜步骤稍多，包含煮、切、煸炒，对火候和刀工有一定要求，但按流程操作新手也能成功，预计全程耗时约 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 997,
+      "imageCount": 2,
+      "hash": "81a26ea81c2214a252804b5e438050c0abdfdad0351a4cb9465162535c803c87"
+    },
+    {
+      "id": "37a08712-3b0e-4194-93f0-45acaacb010f",
+      "legacyIds": [
+        "meat_dish_3048f1f9"
+      ],
+      "name": "尖椒炒牛肉",
+      "description": "一道家常小炒，咸香微辣，牛肉滑嫩入味，尖椒清脆爽口。牛肉提供优质蛋白和铁，尖椒富含维生素 C，搭配起来营养均衡。虽然腌制需要一些耐心，但操作步骤明确，新手也能上手，难度适中。从备料到出锅大约需要 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 449,
+      "imageCount": 0,
+      "hash": "43395725cae7749ee78c075f866a929473fbd17479acdf6b4a0d4ea440b1daac"
+    },
+    {
+      "id": "a2908bd7-9745-47b2-b15f-dff9bdcf1007",
+      "legacyIds": [
+        "meat_dish_80c5aed8"
+      ],
+      "name": "尖叫牛蛙",
+      "description": "这道菜鲜辣开胃，蛙肉滑嫩弹牙，是一道典型的川味家常菜。牛蛙本身高蛋白、低脂肪，搭配泡姜泡椒等发酵食材，有助于促进食欲。做法相对直接，但油温控制和调味比例需要稍加留意，一般初学者也能在 1 到 2 小时内完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1643,
+      "imageCount": 1,
+      "hash": "947d86558c6fdd20d8dfdc33150c90dfc94d86a9e247230d4d740a75d60f256c"
+    },
+    {
+      "id": "b0ac9539-45d7-4d74-9ef3-49c94b4f9db2",
+      "legacyIds": [
+        "meat_dish_1b1e4405"
+      ],
+      "name": "煎烤羊排",
+      "description": "一道外酥里嫩、香气浓郁的料理，先以香料炖煮再煎出金黄脆壳，风味浓郁不腻，是家常宴客两相宜的硬菜。羊肉富含优质蛋白和铁、锌等矿物质，有助于温补气血。做法步骤稍多，但只要按流程走，新手也能拿下；使用高压锅全程约 1 小时，普通锅约 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1850,
+      "imageCount": 0,
+      "hash": "4c30e7d36c79798abc4b633f341d3ad9aee562e891ddef3edc83bf36b7ed4bee"
+    },
+    {
+      "id": "2d40c216-30c1-4b22-bad4-d4ee2aed59f5",
+      "legacyIds": [
+        "meat_dish_31376e9b"
+      ],
+      "name": "简易红烧肉",
+      "description": "这道家常美味色泽红润油亮，口感软糯，肥而不腻，酱香浓郁，搭配米饭特别过瘾。五花肉提供优质蛋白质和必需脂肪酸，加上鹌鹑蛋或豆皮，营养更全面。做法对新手相当友好，从备料到出锅大约需要 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 2775,
+      "imageCount": 2,
+      "hash": "57424956e1cbde6113d35500b5daf8d6d7aaf05612ed90c2875ac25722c9335a"
+    },
+    {
+      "id": "89417637-080f-43b4-8eaa-b9d9e31a8af3",
+      "legacyIds": [
+        "meat_dish_bcba4438"
+      ],
+      "name": "姜炒鸡",
+      "description": "姜炒鸡是湖南风味的下饭菜肴，鸡肉干香入味，姜香浓郁，辣而不燥。鸡肉富含优质蛋白，生姜有助于驱寒暖胃、促进食欲。做法简单，新手也能轻松掌握。从腌制到出锅大约需要 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1539,
+      "imageCount": 1,
+      "hash": "f600b929c8e38495fadb38518261595807be7964ef64dca0f3c2250851f3c871"
+    },
+    {
+      "id": "425ce9f0-0bcb-45b1-a23f-ac920455f284",
+      "legacyIds": [
+        "meat_dish_416b2f4f"
+      ],
+      "name": "姜葱捞鸡",
+      "description": "姜葱捞鸡是一道粤式经典家常菜，鸡肉嫩滑多汁，葱姜香气浓郁，咸鲜适口，十分下饭。鸡腿肉提供优质蛋白质，搭配姜葱能温中散寒、促进食欲。整体操作以蒸制和手撕为主，步骤清晰，对新手来说比较容易上手。从备料到完成大约需要 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 549,
+      "imageCount": 0,
+      "hash": "65329f7996eb9aa48c86c83e0635a69e1b29395537c41e1faf7050cda39da5b2"
+    },
+    {
+      "id": "ca1c4775-5d84-4010-8c98-43d22817369d",
+      "legacyIds": [
+        "meat_dish_f1f10752"
+      ],
+      "name": "酱牛肉",
+      "description": "酱牛肉是一道北派家常冷荤，酱香浓郁，口感紧实不散，嚼劲十足。牛腱子肉富含优质蛋白和多种氨基酸，慢炖后更易消化吸收。制作过程不算复杂，但包含腌制、慢炖和长时间冷藏，对新手来说需要些耐心，从头到尾大约需要 10 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 2265,
+      "imageCount": 1,
+      "hash": "efa3323a4e1e653dedcc5bb59a5743c5a70def5ff354960ee7d1a278761fc4d0"
+    },
+    {
+      "id": "c497e815-98e7-4abc-852e-1a57d9317adf",
+      "legacyIds": [
+        "meat_dish_20fa43aa"
+      ],
+      "name": "酱排骨",
+      "description": "酱排骨色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜，是一道经典的家常菜。排骨富含优质蛋白质和钙质，营养均衡。制作涉及炒糖色和较长时间炖煮，对新手有一定挑战，但只要按步骤操作，也能顺利掌握。预计从备料到出锅约需 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1351,
+      "imageCount": 2,
+      "hash": "1742276fb245291d562ee4d69472d1095ca72769439d512b5f3d013c17d33a2c"
+    },
+    {
+      "id": "7e27ee2c-3412-4a75-a9cd-367716f4559d",
+      "legacyIds": [
+        "meat_dish_38608d65"
+      ],
+      "name": "茭白炒肉",
+      "description": "茭白炒肉是一道家常快手菜，口感鲜嫩爽脆，咸鲜适口，属于典型的江南家常风味。茭白富含膳食纤维和多种维生素，搭配瘦肉提供优质蛋白，荤素搭配均衡营养。烹饪难度中等，新手稍加练习即可掌握，预计制作时长约 20 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 515,
+      "imageCount": 2,
+      "hash": "9b7baba0dfd3a567bce873c18a9026221eedd953f6a81097da9abde5257f5dce"
+    },
+    {
+      "id": "f7c0e3ee-4b31-4d76-a1f2-0788325fa55c",
+      "legacyIds": [
+        "meat_dish_5ba6c453"
+      ],
+      "name": "椒盐排条",
+      "description": "椒盐排条是上海本帮菜里的经典家常菜，外酥里嫩，咸香适口。猪大排提供优质蛋白质和必需氨基酸，能补充体力。这道菜虽然步骤稍多，但跟着流程走并不难，新手也可以大胆尝试。从备料到出锅，大约需要 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1290,
+      "imageCount": 0,
+      "hash": "ca498707a23f14f10bc4cb0db7a1af94f1bc1fad1ff56468b4dfa421c1938a01"
+    },
+    {
+      "id": "42f0f3db-9359-4f1c-b4b7-468440135fb0",
+      "legacyIds": [
+        "meat_dish_3f206910"
+      ],
+      "name": "芥末罗氏虾",
+      "description": "这道菜鲜香微辣，芥末风味浓郁，虾肉紧实弹嫩，是一道快手家常海鲜菜。虾本身富含优质蛋白和钙，脂肪含量低，搭配芥末开胃解腻。中等难度，只要按步骤调制碗汁、控制火候，新手也能较快上手，全程约需 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 579,
+      "imageCount": 1,
+      "hash": "1dd4e761db2e867a42cbda6bea750266b5ef72fe88ae4de47198bb98fd27cc73"
+    },
+    {
+      "id": "6f55d34f-29f5-4c73-8bee-e0273a45c4e9",
+      "legacyIds": [
+        "meat_dish_bf17c0af"
+      ],
+      "name": "咖喱肥牛",
+      "description": "咖喱肥牛是一道浓郁下饭的家常菜，咖喱的辛香与肥牛的脂香融合，搭配土豆、胡萝卜等蔬菜，口感绵软醇厚。富含蛋白质、维生素和钙质，荤素搭配均衡。做法简单，对新手友好，一般只需 40 分钟就能端上餐桌，很适合作为便当菜。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1821,
+      "imageCount": 1,
+      "hash": "5b70a827538b0e96873cdb3c83eda692e50caf0dd3784a401c295a2e058ae815"
+    },
+    {
+      "id": "64285e29-f85e-4afc-b5f3-be98f127ecc1",
+      "legacyIds": [
+        "meat_dish_9e1bc5ae"
+      ],
+      "name": "烤鸡翅",
+      "description": "腌制入味的鸡中翅经高温烘烤，外皮微焦、内里鲜嫩多汁，带有黑胡椒和酱油的咸香。富含优质蛋白质和胶原蛋白。难度适中，新手也能轻松上手，从准备到出炉大约需要 1 小时。还可按喜好添加蜂蜜或五香粉增添风味。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 187,
+      "imageCount": 0,
+      "hash": "6f3533979baa7fd290b410118ea35c42fbe3cccfbdf9a6ac4a514b5d3bbc64b0"
+    },
+    {
+      "id": "aa603211-23fb-493b-aab0-f5c375913e32",
+      "legacyIds": [
+        "meat_dish_36033c14"
+      ],
+      "name": "可乐鸡翅",
+      "description": "可乐鸡翅色泽红亮、口感嫩滑，味道咸甜适口，是一道流行于家庭餐桌的创意菜肴。鸡翅富含优质蛋白质与脂肪，搭配可乐烹煮后肉质更为软烂。制作过程需要掌握煎制与收汁的火候，对新手有一定挑战，但跟随步骤仍可成功。从备料到完成大约耗时 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 960,
+      "imageCount": 0,
+      "hash": "8570fab1613858f3060c9d937f1d3ed56fa3b6e939d733210edcb93850d7eaae"
+    },
+    {
+      "id": "24666da4-1ad2-4214-b05f-e9f145a66b86",
+      "legacyIds": [],
+      "name": "空气炸锅脆皮现腌炸鸡",
+      "description": "空气炸锅炸鸡是一道先腌后炸的家常肉菜，外壳酥脆、内里多汁，调味可以按口味灵活切换。鸡翅富含优质蛋白和脂肪，适合作为正餐主菜或加餐。实操约 55-70 分钟（含一次裹粉；若选二次裹粉时约 70-90 分钟），如追求最佳效果，可冷藏腌制过夜（提前一天准备，第二天再炸）。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 700,
+      "imageCount": 0,
+      "hash": "44f59316c6b872580ab8cd5c8b974279b71812fffb7c7f5d7aaced3046654fe1"
+    },
+    {
+      "id": "33fda8d0-5a39-4870-8356-836b71513569",
+      "legacyIds": [
+        "meat_dish_0d68f3cc"
+      ],
+      "name": "口水鸡",
+      "description": "口水鸡是一道经典的四川凉菜，红油包裹的鸡肉冰爽 Q 弹、麻辣鲜香，夏季食用开胃解腻。鸡肉富含优质蛋白，搭配花生碎和香料，提供能量与风味。制作难度中等，需注意煮鸡火候和红油调味，适合有一定下厨经验的烹饪者。从备料、煮鸡、冷却到淋汁完成，预计耗时约 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1392,
+      "imageCount": 1,
+      "hash": "60143f6cbdec4a01f1cc36f22a760473126e0e74eaafcbe5ee4d639a0efef120"
+    },
+    {
+      "id": "ae8ca940-41ca-4c67-b99d-f7fa328ee0a1",
+      "legacyIds": [
+        "meat_dish_5ba24ca7"
+      ],
+      "name": "辣椒炒肉",
+      "description": "辣椒炒肉是一道湘味浓郁的家常菜，辣椒干香微焦，肉片滑嫩入味，咸鲜微辣十分下饭。猪肉富含优质蛋白质和 B 族维生素，青椒则提供丰富的维生素 C。这道菜需要掌握干煸和快炒的火候，适合有一定烹饪基础的朋友尝试。从备料到出锅，大约需要 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 425,
+      "imageCount": 0,
+      "hash": "f75ffd1e963c0ebeba53ce94cd82440229d5a938fed58cdad8157f0692d77bfd"
+    },
+    {
+      "id": "fdd20bf0-29cd-404e-9414-a7cbc66ae5be",
+      "legacyIds": [
+        "meat_dish_434c23ca"
+      ],
+      "name": "老妈蹄花",
+      "description": "老妈蹄花汤色奶白，猪蹄软烂脱骨，口感细腻，配上酸辣蘸汁十分开胃，是经典的川式家常菜。猪蹄富含胶原蛋白，白芸豆增添绵密口感，营养丰富。操作需要高压锅和提前浸泡，对新手有一定挑战，但按步骤来做不难掌握。含浸泡和压煮，全程大约需要 2 小时（不含提前一晚浸泡白芸豆的时间）。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1425,
+      "imageCount": 3,
+      "hash": "a5781459ed54e4cb6eca39b4f42a5262bb81b467f1e8c150b355baf8f43180a7"
+    },
+    {
+      "id": "90770dd0-1358-44f3-9cc8-433397747bab",
+      "legacyIds": [
+        "meat_dish_fb72a88d"
+      ],
+      "name": "老式锅包肉",
+      "description": "锅包肉是东北经典名菜，起源于哈尔滨道台府，以白醋调出鲜明酸香，外壳酥脆、肉片滑嫩，酸甜爽口。猪肉提供优质蛋白质，搭配葱姜等蔬菜开胃解腻。这道菜需要掌握挂浆、油温和复炸技巧，烹饪难度中等偏上，新手需要耐心练习。从腌肉、调糊到炸制出锅，预计制作时长约 90 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 882,
+      "imageCount": 1,
+      "hash": "abcd97b0a5370f3cddf92e6f291294e0ed5578eb5628c0445e348dfd21434cd0"
+    },
+    {
+      "id": "dda5cba3-b8f6-41f9-841b-689db20f05ca",
+      "legacyIds": [
+        "meat_dish_729e078b"
+      ],
+      "name": "冷吃兔",
+      "description": "这是一道经典的四川自贡盐帮菜，麻辣干香，兔肉紧实有嚼劲，入口先辣后鲜，回味悠长。兔肉高蛋白低脂肪，富含卵磷脂和多种氨基酸，营养丰富且易于消化。制作过程需处理多种香料并严格控制火候，对新手有一定挑战。从备料到炒制完成约需 1.5 小时，但放置一夜后风味更佳，值得提前准备。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 590,
+      "imageCount": 0,
+      "hash": "57ad946ea34cb7772d5107e71df5e4de320fce1419d40e26609ad0940751ef02"
+    },
+    {
+      "id": "fe0888fe-67d4-4e30-8771-a94da2d8ba00",
+      "legacyIds": [
+        "meat_dish_636dd586"
+      ],
+      "name": "荔枝肉",
+      "description": "荔枝肉是一道酸甜酥香的福州传统闽菜，外焦里嫩的肉块裹着红亮的酱汁，搭配水果添入清爽果香。猪瘦肉富含优质蛋白质，凤梨含有膳食纤维和维生素，能帮助开胃解腻。制作过程需要切肉、挂糊和两次油炸，略有挑战但步骤明确，适合有一定下厨基础的美食爱好者尝试，大约 45 分钟就能端上餐桌。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 681,
+      "imageCount": 7,
+      "hash": "8746f228bd3a6437f3d7e44964fede29be00cd03ee17183894cc5f6daf6c800d"
+    },
+    {
+      "id": "119d99e1-b2c3-4c9e-b4b0-ab8013263d97",
+      "legacyIds": [
+        "meat_dish_ae21bab1"
+      ],
+      "name": "凉拌鸡丝",
+      "description": "![凉拌鸡丝成品](./凉拌鸡丝.jpg)\n一道少油低卡的家常凉菜，鸡丝嫩滑入味，麻油与香醋调和出微麻微酸的清爽口感，适合夏日解腻。鸡胸肉富含优质蛋白且脂肪含量低。做法简单，新手也能轻松上手，从备料到完成大约只需 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 293,
+      "imageCount": 3,
+      "hash": "4a56467cde7fff0a3bc9b00551f1485f42b8ac39294aac0a9cdff317b8d5b7b6"
+    },
+    {
+      "id": "6b1ecf5b-5429-4636-9785-2a024e2452cb",
+      "legacyIds": [
+        "meat_dish_47781bb0"
+      ],
+      "name": "卤菜",
+      "description": "这是一道经典中式卤味，肉质鲜嫩入味，香气浓郁，卤汁可反复使用、越陈越香，适合做凉菜、下酒或搭配主食。菜品富含优质蛋白和多种维生素，营养均衡。制作需要一点耐心，但步骤清晰，对新手比较友好。提前浸泡去血水、熬糖色和高压卤制约需 1 小时，再浸泡过夜让风味充分渗入，第二天取出切片即可享用。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 467,
+      "imageCount": 3,
+      "hash": "a549efa321488ccdbd9b4ccd4eca4d8816197dfb485b49263096c9bb72f051d9"
+    },
+    {
+      "id": "491ede60-3121-4bb7-9575-d0efa5298e56",
+      "legacyIds": [
+        "meat_dish_508da0e4"
+      ],
+      "name": "萝卜炖羊排",
+      "description": "这道汤菜清鲜不腻，羊肉软烂入味，萝卜饱吸汤汁后甘甜绵糯，是北方冬季常见的家常暖身菜。羊肉富含优质蛋白和铁，萝卜含有维生素与膳食纤维，两者搭配温补脾胃、驱寒助消化。虽然需经焯水去腥和两次炖煮，但步骤清晰易循，新手也能顺利上手。整体制作大约需要两小时，若用高压锅可缩短至大约一 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1259,
+      "imageCount": 0,
+      "hash": "49a472ef1ceaa8bd1b57b1c2b8501eb4b983d9ead02fd8cf82e1fe56eaac02c6"
+    },
+    {
+      "id": "97d4c178-aced-4d56-8e37-f6fd075ec80b",
+      "legacyIds": [
+        "meat_dish_99855032"
+      ],
+      "name": "麻辣香锅",
+      "description": "一道麻辣浓郁的川味家常菜，汇集蔬菜、肉类和豆制品，口感香辣过瘾、层次丰富。荤素搭配提供了优质蛋白质和多种维生素，营养全面。操作步骤清晰，需要掌握焯水和翻炒火候，对新手有一定挑战，总制作时间约 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1050,
+      "imageCount": 0,
+      "hash": "078c72c19940373a0ae4e9f8690af0008b795d4bf8453cb8391111eabd25c43c"
+    },
+    {
+      "id": "2473f530-e247-477a-bab0-7087e21565f5",
+      "legacyIds": [
+        "meat_dish_8a77749e"
+      ],
+      "name": "麻婆豆腐",
+      "description": "这道香辣滑嫩的豆腐菜以咸鸭蛋替代传统豆瓣酱，咸鲜中带着微麻微辣，格外开胃下饭。富含优质蛋白和钙、铁等多种微量元素。制作难度适中，对新手友好，全程约需 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 476,
+      "imageCount": 1,
+      "hash": "4178f5ac3a796c2116918e345de926f36dfc107aa036bbd60312807d918898e7"
+    },
+    {
+      "id": "efc6195d-7eff-47b8-8b5f-d209f1d7b43e",
+      "legacyIds": [
+        "meat_dish_6161ffca"
+      ],
+      "name": "蚂蚁上树",
+      "description": "蚂蚁上树是一道经典的川味家常菜，咸香微辣，粉丝软滑吸汁，肉末细嫩鲜香。以红薯粉丝和肉末为主料，富含碳水化合物与蛋白质，能快速补充能量。制作难度中等，步骤清晰，对新手比较友好，全程约需 20 分钟即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 791,
+      "imageCount": 0,
+      "hash": "74fea5c4ffb5ffbe2ab9dc7b9283fe26cee0489f50bfda6b074e559aab6c9227"
+    },
+    {
+      "id": "e52789d6-4016-4f22-b986-7bd7d344cd56",
+      "legacyIds": [
+        "meat_dish_34f34b23"
+      ],
+      "name": "梅菜扣肉",
+      "description": "这是一道客家传统名菜，成菜酱红油亮、汤汁黏稠，扣肉肥而不腻、软烂醇香。五花肉富含优质蛋白和脂肪酸，搭配梅干菜能提供膳食纤维。整体工序稍多，需要掌握煮、炸、蒸的火候，对新手有一定挑战。从备料到出锅，连同浸泡梅菜的时间在内，大约需要 2.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 3756,
+      "imageCount": 4,
+      "hash": "47ebce962de23df19397fbd3b1d5b5a87f4ca054aeac4f0bd14129136f34d2f4"
+    },
+    {
+      "id": "dabc7c1d-aae3-4d5d-81b6-389ffdbf6a11",
+      "legacyIds": [
+        "meat_dish_961cfd00"
+      ],
+      "name": "奶酪培根通心粉",
+      "description": "奶酪培根通心粉是经典美式家常菜，口感浓郁绵密，奶酪包裹弹牙通心粉，搭配香脆培根，咸香满足。富含蛋白质与钙质，但热量和脂肪较高，建议偶尔享用。制作需要一定耐心，掌握基础白酱和火候对新手略有挑战，整体难度中等。不烘烤时约 30 分钟即可上桌，若选择烘烤需额外预热和烤制，总时长约 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 728,
+      "imageCount": 2,
+      "hash": "9e09c4207412b28886be8887ae8455215e6708d22e676ec3b2d77657ee8dd820"
+    },
+    {
+      "id": "c3833b1b-bb97-445f-a8ca-0b2d45019a94",
+      "legacyIds": [
+        "meat_dish_03899e47"
+      ],
+      "name": "南派红烧肉",
+      "description": "这道红烧肉成菜色泽红亮，肥肉入口即化、瘦肉酥烂不柴，咸中带甜，是典型的南方甜口风味。五花肉提供优质蛋白和丰富的胶原蛋白，香辛料还能去腥暖胃。制作虽需熬糖色与慢炖，但每一步都拆解得清晰易懂，新手跟着操作也能成功，全程约 1.5 小时即可端上桌。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 3248,
+      "imageCount": 0,
+      "hash": "7231904bd5d761008a770ad8ed7de4a27dda15682ed4d8dba49b0109734b7a8f"
+    },
+    {
+      "id": "f7920bfc-462e-428d-983c-5bcf577e4358",
+      "legacyIds": [
+        "meat_dish_1a794fd7"
+      ],
+      "name": "牛排",
+      "description": "这是一道经典的西式煎牛排，焦香外壳包裹着鲜嫩多汁的肉心，搭配黄油、大蒜和香草，风味浓郁。富含优质蛋白质、油脂及铁、锌等矿物质。烹饪流程对新手较为友好，但掌握火候仍需一些练习，全程 15-30 分钟即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1605,
+      "imageCount": 1,
+      "hash": "6c95c8a344dbe0c228f3d9df79ab80f43852e7c39ffab328ed82a2325115a2aa"
+    },
+    {
+      "id": "4b096f85-b7ef-4526-8a00-e1157c29c296",
+      "legacyIds": [
+        "meat_dish_a4ad82bb"
+      ],
+      "name": "农家一碗香",
+      "description": "这是一道咸香下饭的湖南家常小炒，五花肉的油润、鸡蛋的嫩滑与青椒的清香彼此融合，口感层次丰富。猪肉与鸡蛋提供优质蛋白质，搭配青椒补充维生素 C，营养均衡。中等难度，需要注意煸炒火候和调味顺序，新手稍加练习也能做好。预计备菜 7 分钟，烹饪 10 分钟，总共约 17 分钟就能出锅。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1638,
+      "imageCount": 1,
+      "hash": "450325496e7b45bb37404d55969564f8de0e1dc3f58713ec74fd2db436d697c5"
+    },
+    {
+      "id": "2fca4f32-1cac-4378-95d4-848568409a5e",
+      "legacyIds": [
+        "meat_dish_d5104e31"
+      ],
+      "name": "啤酒鸭",
+      "description": "这是一道风味独特的家常菜肴，鸭肉鲜香软烂，透着淡淡啤酒清香，热而不浮、香而不腻。鸭肉富含蛋白质，啤酒去腥增香，搭配食用更有滋味。做法对新手友好，从备料到出锅大约需要 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 170,
+      "imageCount": 1,
+      "hash": "2c4a77a2b303c495cce08c8b40f14aba17f202bed2dc177cf53bdd36255f93fc"
+    },
+    {
+      "id": "0f6c480d-2aef-4477-9365-0841df061cbc",
+      "legacyIds": [
+        "meat_dish_6412ed06"
+      ],
+      "name": "黔式腊肠娃娃菜",
+      "description": "这道菜咸鲜可口，融合了黔式腊肠的醇香与娃娃菜的清甜，是西南菜系中少见的不辣风味，南北皆宜。娃娃菜富含维生素和膳食纤维，搭配腊肠的蛋白质与脂肪，营养均衡。制作过程极为简单，无需掌握火候和额外调味，从备料到出锅仅需 15 分钟，非常适合新手和忙碌的日常。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 1030,
+      "imageCount": 1,
+      "hash": "0c66e7d660012cd82f8700a5d451c84832b2017c3f40b139d0c20edcd04555e2"
+    },
+    {
+      "id": "dfd6d5ad-3402-4356-bcd0-07a1aa854b65",
+      "legacyIds": [],
+      "name": "青椒酿",
+      "description": "这道广西经典家常菜以青椒包裹调好味的肉馅或虾滑，煎至表皮起皱呈虎皮色后焖煮入味，青椒清香与馅料鲜美交融，咸香微辣，十分下饭。猪肉和虾仁提供优质蛋白质，青椒富含维生素 C，营养均衡。制作需要一点耐心酿馅，但整体流程清晰，跟着步骤操作一般 30 分钟就能完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1403,
+      "imageCount": 3,
+      "hash": "31b4b043b99a4003434b6ca3a0f175e44b04b640c03bab5cf7875f969b398d06"
+    },
+    {
+      "id": "7aee0527-4850-48dc-9e41-66fe99d1abee",
+      "legacyIds": [
+        "meat_dish_a5693a08"
+      ],
+      "name": "青椒土豆炒肉",
+      "description": "青椒土豆炒肉是一道荤素搭配的家常小炒，口感鲜香脆嫩，酱香浓郁，特别下饭。土豆富含碳水化合物和维生素 C，青椒提供丰富的维生素 C 和膳食纤维，搭配猪肉的优质蛋白质，营养均衡。这道菜做法不复杂，对新手比较友好，从备料到出锅大约只需 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1288,
+      "imageCount": 0,
+      "hash": "36bdf96accc2722070090e734705a975f911540176d0a30a39c406b267a417db"
+    },
+    {
+      "id": "6ec6341b-6aee-4592-977e-4a0d3ddd9236",
+      "legacyIds": [
+        "meat_dish_19771810"
+      ],
+      "name": "清蒸鳜鱼",
+      "description": "清蒸鳜鱼肉质细嫩，鲜甜本味突出，是讲究原汁原味的家常河鲜做法。鳜鱼富含优质蛋白和多种微量元素，易于消化吸收。处理时需小心鱼鳍，但整体步骤不复杂，新手稍加注意也能胜任。从备料到出锅，大约只需半小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 359,
+      "imageCount": 1,
+      "hash": "96154e5e350fb8d7f9893d0acfff27886739df0f0b2daaeaf22cb6c2075e04bd"
+    },
+    {
+      "id": "c74275e6-a44e-4b06-8e29-557f5b7271ab",
+      "legacyIds": [
+        "meat_dish_edfdae61"
+      ],
+      "name": "肉饼炖蛋",
+      "description": "肉饼炖蛋是一道咸鲜滑嫩的传统家常菜，肉饼吸饱了酱汁，鸡蛋卧在其中，口感软嫩又下饭。它富含优质蛋白质和多种氨基酸，能很好地补充体力。做法十分简单，对厨房新手非常友好，从备料到出锅大约只需要 20 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1124,
+      "imageCount": 0,
+      "hash": "a6b83396d5b7085cdecc381af3066fe39bed15b4f84d17f36360eb4db828f8f5"
+    },
+    {
+      "id": "e1222637-48ef-48d7-8ad1-55505cc6a22d",
+      "legacyIds": [
+        "meat_dish_f850fc61"
+      ],
+      "name": "杀猪菜",
+      "description": "这是一道源自东北的经典炖菜，酸爽鲜香、暖心暖胃。酸菜富含乳酸菌和膳食纤维，排骨提供优质蛋白与钙质，血肠则能补充铁元素。制作时需要耐心处理血肠以防煮爆，对厨房新手有一定挑战。从备料到出锅，预计耗时约一小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1657,
+      "imageCount": 0,
+      "hash": "db1a9f031ccffb7e88ba77e7a03a259eb48097d07cb052e13d85ce2e814338a9"
+    },
+    {
+      "id": "d3ad3369-b7f7-4806-8189-b409f1447d84",
+      "legacyIds": [
+        "meat_dish_81f950f4"
+      ],
+      "name": "山西过油肉",
+      "description": "过油肉是山西传统名菜，肉片滑嫩、蒜苔爽脆，咸鲜微酸，带着陈醋的醇香，属于典型的地方家常风味。猪里脊提供优质蛋白，搭配木耳、蒜苔和葱头，营养均衡。这道菜对火候和上浆技巧有一定要求，更适合有一定下厨基础的爱好者尝试。从备料到出锅，大约需要 40 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 679,
+      "imageCount": 0,
+      "hash": "7187dc11f8652e484b5cf9319f3f3fa2965fb3f4a9889d70e544a4bb20bc33d3"
+    },
+    {
+      "id": "a4e65bcd-9275-4b8c-90c4-abacfd8c6cad",
+      "legacyIds": [
+        "meat_dish_af71c9ca"
+      ],
+      "name": "商芝肉",
+      "description": "商芝肉是陕西商县的传统风味菜，色泽红润，质地软嫩，肥而不腻，带有商芝独特的清香。猪肉提供优质蛋白和脂肪，蕨类蔬菜商芝则增添了膳食纤维和多种微量元素。这道菜工序繁琐，对刀工和火候均有要求，适合有一定烹饪基础的人挑战。从备料到成菜，全程大约需要 2.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1621,
+      "imageCount": 0,
+      "hash": "6d210b24e65734a7394b5bf9f372becc94440c574779892dc31aeaae22e5ca55"
+    },
+    {
+      "id": "7502d6eb-f7d9-4a0c-a633-b92abc2b52d1",
+      "legacyIds": [
+        "meat_dish_4610a4c2"
+      ],
+      "name": "瘦肉土豆片",
+      "description": "一道快手家常小炒，肉片滑嫩，土豆片软韧入味，带有蒜苗清香，属于典型的家常菜风格。瘦肉富含优质蛋白质和铁质，土豆提供碳水化合物和膳食纤维，搭配均衡。制作流程简单明了，需注意刀工和火候，适合有一定基础的新手尝试。从备料到出锅，预计 大约 1 小时即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 585,
+      "imageCount": 1,
+      "hash": "828f7078a5fd44d2cc9d1372c3f8f7a0b87c1f3c797a38cef9b4c6ba5f32e6df"
+    },
+    {
+      "id": "0f604966-0fde-4f0d-a143-db93b85dae69",
+      "legacyIds": [
+        "meat_dish_084f8cca"
+      ],
+      "name": "水煮牛肉",
+      "description": "水煮牛肉是川菜中的经典麻辣味型，口感滑嫩、汤汁红亮、香辣烫鲜。牛肉富含优质蛋白质和铁，搭配豆芽可补充膳食纤维。这道菜对新手来说不算太难，但需注意火候和泼油安全，整体制作约需四十分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 431,
+      "imageCount": 12,
+      "hash": "446e563e613f77e1cc7cabb1d0ece746154179f4dcbf53d805d4cd682d0146b2"
+    },
+    {
+      "id": "a7c6fb59-32da-4c27-9f63-fff5ce9c5b6d",
+      "legacyIds": [
+        "meat_dish_8e08b242"
+      ],
+      "name": "水煮肉片",
+      "description": "水煮肉片是一道麻辣鲜香、肉片滑嫩、配菜爽脆的经典川菜，极其适合下饭。猪里脊提供优质蛋白质，搭配豆芽等蔬菜，营养均衡。做法稍显繁琐，尤其需要耐心腌制肉片和制作刀口辣椒，新手大约需要 1 至 2 小时完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 361,
+      "imageCount": 0,
+      "hash": "76973ff38c61911d92038e154f807afdff5648ea1a782a30d1757950512d14d1"
+    },
+    {
+      "id": "f28ba20a-d586-42ef-95d7-6372b29f2960",
+      "legacyIds": [
+        "meat_dish_71197600"
+      ],
+      "name": "蒜苔炒肉末",
+      "description": "蒜苔炒肉末是北方家常菜，咸鲜脆嫩，蒜香浓郁。蒜苔富含膳食纤维和维生素，五花肉提供蛋白质，荤素搭配均衡。做法简单，备料轻松，新手也能快速上手。从切配到出锅大约只需 10 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 258,
+      "imageCount": 0,
+      "hash": "dc0977f1039cb0f861f99d1b1af2562f68e28682aa39cfdab6af7870a5e279bc"
+    },
+    {
+      "id": "f4b90a81-8157-43c0-abdf-cda798bb6e50",
+      "legacyIds": [
+        "meat_dish_4cb5520b"
+      ],
+      "name": "台式卤肉饭",
+      "description": "台式卤肉饭是一道浓香四溢的台湾家常料理，肉条软糯入味，酱汁琥珀般油亮，浇在热米饭上满口脂香。富含优质蛋白、胶原蛋白和碳水，能快速补充能量。做法对新手非常友好，只需备好食材、掌握火候，全程约 1.5 小时即可完成，其中动手操作仅需半小时，剩下的交给小火慢炖。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1495,
+      "imageCount": 1,
+      "hash": "721bc7279e54f71a765ad0e7186f9f35d394d8d69388e8a99778c7885bafa2c9"
+    },
+    {
+      "id": "aa096790-e383-415a-ad53-4c2115d79fb0",
+      "legacyIds": [
+        "meat_dish_5542a24a"
+      ],
+      "name": "糖醋里脊",
+      "description": "糖醋里脊酸甜浓郁、外酥里嫩，是广受欢迎的家常风味，在多地域菜系中都很常见。猪里脊提供优质蛋白，但裹粉油炸和糖醋汁使整体热量偏高。制作时需要掌握腌制、复炸和调汁火候，对新手稍有挑战，建议提前备好料并一气呵成。从备料到出锅大约需要 45 分钟到 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1573,
+      "imageCount": 0,
+      "hash": "491f8b36226a20161877f6c6e89b0b7e95c146bb13231936788f6e9d461d8fde"
+    },
+    {
+      "id": "a45da1d2-c782-4842-9dcc-776ec8f50aa1",
+      "legacyIds": [
+        "meat_dish_f8a5fa31"
+      ],
+      "name": "糖醋排骨",
+      "description": "糖醋排骨是一道酸甜可口、外酥里嫩的传统名菜，广受欢迎。排骨富含优质蛋白和钙质，有较好的滋补效果。这道菜涉及焯水、油炸、炒糖色和收汁等多个步骤，对火候和调味有一定要求，不算特别适合新手，但按照优化后的流程操作成功率较高。预计制作时长为 大约 45 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1022,
+      "imageCount": 2,
+      "hash": "3db0f85b3339efa87c120d729727ede9458efdcb7b19d622025d6a937f18808e"
+    },
+    {
+      "id": "4486322b-9061-4912-a13e-460cc993974e",
+      "legacyIds": [],
+      "name": "田螺酿",
+      "description": "田螺酿是阳朔“十八酿”之首，螺肉韧而紧致、猪肉嫩滑，紫苏薄荷清香扑鼻，曾登上《舌尖上的中国 2》。富含蛋白质和多种微量元素，螺肉与猪肉搭配营养互补。这道菜步骤稍多，对新手有一定挑战，需提前半天让田螺吐沙，正式制作约 40 分钟，适合节假日全家一起动手。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 533,
+      "imageCount": 5,
+      "hash": "e5885c25a638a36a7e8d7f6fb8fc466940616d623b9883244ba489e5998d41bd"
+    },
+    {
+      "id": "dbb4df07-c493-4a05-b6ff-f58015f5fb6d",
+      "legacyIds": [
+        "meat_dish_e77fbcc3"
+      ],
+      "name": "甜辣烤全翅",
+      "description": "这道甜辣烤全翅利用空气炸锅烹制，外皮微焦、内里多汁，甜中带辣的风味很受欢迎。鸡肉富含优质蛋白质，用空气炸代替油炸大幅减少了油脂，吃起来负担更轻。制作流程清晰明了，只需提前腌制并中途翻面一次，对新手也比较友好。从处理食材到出锅大约需要 3 个小时，大部分是静置腌制的时间，实际操作并不繁琐。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 775,
+      "imageCount": 0,
+      "hash": "69fdf03de9bb444b1c67ba28182f8a2e313b39503de03999b7dbcff2f29f958b"
+    },
+    {
+      "id": "e4c865dd-52e1-47a7-8193-4911178f5984",
+      "legacyIds": [
+        "meat_dish_49d5e1bf"
+      ],
+      "name": "土豆炖排骨",
+      "description": "排骨软烂脱骨，土豆绵软入味，酱香浓郁微甜微辣，是一道典型的北方家常炖菜。富含蛋白质、钙质和碳水化合物，营养均衡。制作略有难度，需掌握炒糖色与火候，但步骤清晰，新手也能尝试，全程大约 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 991,
+      "imageCount": 0,
+      "hash": "3a79209ea38c77146b72687410221a362de5368f27c91e10a9b98e86758427ad"
+    },
+    {
+      "id": "2131436a-bacd-4209-84a5-131162fc8b4f",
+      "legacyIds": [
+        "meat_dish_09b7f756"
+      ],
+      "name": "无骨鸡爪",
+      "description": "![无骨鸡爪成品](./无骨鸡爪.jpg)\n酸辣开胃、口感 Q 弹，是一道家常凉拌小吃。鸡爪富含胶原蛋白，对皮肤有益。去骨步骤繁琐费力，制作难度较高，不太适合新手尝试。全程耗时约 8 小时 15 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 815,
+      "imageCount": 1,
+      "hash": "38f4b616ee97eacfd897b0a21f89b748fa68a4f1f9447cd5eb55231fe41e7097"
+    },
+    {
+      "id": "99911a9b-e710-4ac5-b810-025172ecf57d",
+      "legacyIds": [
+        "meat_dish_098bb293"
+      ],
+      "name": "西红柿牛腩",
+      "description": "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，是道开胃下饭的家常菜。富含蛋白质、维生素和番茄红素，营养均衡。对新手有一定挑战，需要掌握炖肉火候和番茄炒汁的技巧。一般初学者大约需要 90 分钟完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1569,
+      "imageCount": 0,
+      "hash": "b2551b3da0ee72be735d549d5ac9da67a6511ede29092aec9f1f8d6b156fb0b7"
+    },
+    {
+      "id": "21623dea-d4c7-498a-a30b-65879a411850",
+      "legacyIds": [
+        "meat_dish_bba098ff"
+      ],
+      "name": "西红柿土豆炖牛肉",
+      "description": "一道家常炖菜，酸甜开胃，汤汁浓郁，牛肉软烂，土豆绵密。牛肉提供优质蛋白，西红柿富含番茄红素，搭配土豆和洋葱，营养均衡。操作简单，无需复杂技巧，新手也能轻松上手。从备菜到出锅大约需要 1 至 1.5 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 827,
+      "imageCount": 1,
+      "hash": "5ff1bcb9ae749f4a803b4b18780a1a11efdc9f899004364f6149c0314668f9c1"
+    },
+    {
+      "id": "1d3ac2ba-a6ab-44a4-8795-b9a6d61bcc17",
+      "legacyIds": [
+        "meat_dish_bc5b39f0"
+      ],
+      "name": "乡村啤酒鸭",
+      "description": "鸭肉与啤酒同炖，汤汁浓郁，肉质鲜香软烂，还带有一股淡淡的啤酒清香，是一道风味独特的家常菜。鸭肉本身滋补，富含蛋白质、B 族维生素和多种矿物质，搭配啤酒炖煮后更易入味。这道菜步骤虽稍多，但操作并不复杂，一般初学者只需 大约 1 小时即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1324,
+      "imageCount": 0,
+      "hash": "3be44db4e4e861ea4da011cb6631e1fa29f182797ae8ab73faf134877136e599"
+    },
+    {
+      "id": "dcc1781e-ba7b-4005-a851-eac346faf398",
+      "legacyIds": [
+        "meat_dish_2262770f"
+      ],
+      "name": "香干芹菜炒肉",
+      "description": "香干芹菜炒肉是一道家常小炒，豆干柔韧、芹菜爽脆、猪肉嫩滑，咸鲜微辣。芹菜富含膳食纤维，豆干和猪肉提供优质植物蛋白与动物蛋白。做法简单，对新手友好，从备料到出锅大约只需 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 741,
+      "imageCount": 1,
+      "hash": "b8d5eb9088203e97b4f2eac8c70c3eca4762edf2a886d780dfda676d2bd73324"
+    },
+    {
+      "id": "845fd148-bc41-4fe9-8296-264483cb2370",
+      "legacyIds": [
+        "meat_dish_0ef2a9ee"
+      ],
+      "name": "香干肉丝",
+      "description": "香干肉丝是一道咸香下饭的家常小炒，肉丝嫩滑，香干柔韧，青椒爽脆。富含动物性与植物性双重蛋白质，搭配青椒补充维生素。难度适中，新手稍加练习即可掌握，预计制作时长约 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 472,
+      "imageCount": 0,
+      "hash": "801ce7c2f20852d678f25ec095a1a63f2a730522a6ea6600ab7d59480d219080"
+    },
+    {
+      "id": "254b163d-4090-45ab-a2bc-4eee4cec2df2",
+      "legacyIds": [
+        "meat_dish_64e44d83"
+      ],
+      "name": "香菇滑鸡",
+      "description": "香菇滑鸡是一道以鸡腿肉和香菇为主料的家常菜，鸡腿肉经过煸炒和焖煮后口感滑嫩，搭配香菇独特的菌香，汤汁浓郁鲜美，属于老少皆宜的粤式风味。鸡肉富含优质蛋白质和多种氨基酸，香菇含有香菇多糖和膳食纤维，有助于增强免疫力和促进消化。这道菜需要一些刀工和火候控制，对新手有一定挑战，整体制作约需 1 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 608,
+      "imageCount": 1,
+      "hash": "291d6da29534c4921e4d6ce70f1c47856329262b8b7c9379db9fbea98d3b0bd4"
+    },
+    {
+      "id": "120d0d50-e385-41a0-a969-fdee45b5ce5b",
+      "legacyIds": [
+        "meat_dish_55461f37"
+      ],
+      "name": "香煎五花肉",
+      "description": "香煎五花肉是一道家常风味的快手荤菜，五花肉片煎得焦香微脆、肥而不腻，搭配脆爽的生菜叶和咸鲜豆瓣酱，入口酱香浓郁又解腻。猪肉富含优质蛋白质和脂肪，能快速补充能量，生菜则提供膳食纤维和维生素，营养更均衡。这道菜适合有一定下厨基础的朋友，新手只要注意火候和防溅油也能轻松上手，从备料到出锅大约半小时即可享用。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 2985,
+      "imageCount": 1,
+      "hash": "c31326c06fbef87f66e33fe38be173298557f8db59cf73c27afcd20cbfa52b86"
+    },
+    {
+      "id": "61d9a10c-4735-460c-b9ee-59b7161d750a",
+      "legacyIds": [
+        "meat_dish_3098f98f"
+      ],
+      "name": "香辣鸡爪煲",
+      "description": "香辣浓郁、口感 Q 弹，是一道常见的家常下饭菜。鸡爪富含胶原蛋白，有助滋润皮肤、强健筋骨。制作需要先去趾甲，若用整只鸡爪还需去骨，对新手略有挑战，但耐心按步骤操作也能成功。从焯水到小火慢煮再翻炒入味，全程约需 45 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 986,
+      "imageCount": 2,
+      "hash": "97e6c4f601f229965fa968df7756742293448918b50ffef2b0243856162c7e32"
+    },
+    {
+      "id": "25f2238a-32c7-412b-924b-6cb20af5ac2b",
+      "legacyIds": [
+        "meat_dish_986fb362"
+      ],
+      "name": "湘祁米夫鸭",
+      "description": "湖南两祁地区传统特色菜，鸭肉煸炒后裹上混合米粉蒸制，口感软糯，咸香入味，回味悠长。鸭肉富含优质蛋白质和 B 族维生素，搭配米粉提供能量，营养均衡。制作需先煸炒再高压蒸制，稍有难度，适合有一定烹饪基础的朋友。从备料到出锅大约需要 1 小时，若选用老鸭需延长蒸制时间。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1332,
+      "imageCount": 5,
+      "hash": "8b29349462a88a06cb873e707dcdae32ed8c1d13671f31dbf9f69493077076b5"
+    },
+    {
+      "id": "c515f909-1f30-46a4-9b04-feb6492ca705",
+      "legacyIds": [
+        "meat_dish_f841899b"
+      ],
+      "name": "小炒黄牛肉",
+      "description": "这道湘味小炒以大火爆炒逼出牛肉的嫩滑与椒香，口感鲜辣劲爽、芹菜脆嫩，极具湖南风味。牛里脊提供优质蛋白和易吸收的铁质，搭配芹菜增添膳食纤维，营养均衡。备料与烹饪步骤简单明了，全程旺火快炒，对新手十分友好，从切配到出锅大约一小时即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 619,
+      "imageCount": 1,
+      "hash": "b2988c3422a96d43f4d27bef25c8e9fb689f7708151ca370b7cf41439534e864"
+    },
+    {
+      "id": "17529edc-2ab2-4701-83b0-6dad48b10f01",
+      "legacyIds": [
+        "meat_dish_4bfb3820"
+      ],
+      "name": "小炒鸡肝",
+      "description": "这道鸡肝小炒蒜香浓郁，口感嫩滑带点孜然的焦香，是一道家常风味小炒。鸡肝富含铁、维生素 A 和优质蛋白，有助补血明目。制作时需掌握焯水去腥的技巧，对新手略有挑战，从备料到出锅大约需要四十分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 760,
+      "imageCount": 1,
+      "hash": "c8dbaa8cb2cd86094e1b1c0dd527f98036789b2324c1530bcee64ac58b0bfa2d"
+    },
+    {
+      "id": "66d9d788-8c1a-4182-bc1e-ce051833c429",
+      "legacyIds": [
+        "meat_dish_d6fb088d"
+      ],
+      "name": "小炒肉",
+      "description": "小炒肉是一道香辣下饭的经典湘式家常菜，五花肉片焦香不腻，搭配鲜辣椒与豆豉、豆瓣酱炒出浓郁酱香。富含优质蛋白质和脂肪，辣椒能提供丰富的维生素 C，有助开胃暖身。制作难度中等，适合有一定基础的新手尝试，需注意肉片腌制和火候把控。从备料到出锅大约需要 1 小时，其中腌制 30 分钟，炒制过程约 15 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 2873,
+      "imageCount": 0,
+      "hash": "ae463cc711d2b5a43e6a203c847dce3de9914afa6bb172ffbe2e473bfbc555e0"
+    },
+    {
+      "id": "63d5bd52-6ad9-41ab-a0f0-0d7499d44cb3",
+      "legacyIds": [
+        "meat_dish_958b437b"
+      ],
+      "name": "小米辣炒肉",
+      "description": "小米辣炒肉香辣过瘾，是一道典型的西南风味下饭菜，猪肉的鲜嫩搭配小米辣的爽辣，令人食欲大开。猪肉富含蛋白质和脂肪，辣椒提供丰富的维生素 C，能够促进食欲。虽然需要掌握爆香和翻炒的火候，但步骤清晰，新手也能轻松上手，预计制作时长约 25 分钟。注意，这道菜辣味突出，不建议清淡饮食者尝试。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 620,
+      "imageCount": 0,
+      "hash": "d51a95ecec6f1823f6bbc935ef5135c87b6156a9e5098d7d1d9cdbe7f8988627"
+    },
+    {
+      "id": "7e1e358a-311c-436c-a23a-ac4c675ca637",
+      "legacyIds": [
+        "meat_dish_dd46b330"
+      ],
+      "name": "小酥肉",
+      "description": "小酥肉外酥里嫩，咸香中带着花椒的微麻，是川渝地区家家户户都会做的家常炸物。猪肉富含蛋白质和脂肪，油炸后热量较高，适合偶尔解馋。这道菜步骤稍多，需掌握初炸定型与复炸上色的火候，对新手略有挑战，预计从头到尾约 1 小时 30 分钟完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1939,
+      "imageCount": 0,
+      "hash": "4b7ea49509422aa4af815458d12bcb858e668876ad945f1fb4fdb9ae8a028b4a"
+    },
+    {
+      "id": "1d25f058-1bc8-4b97-9e26-608baa7d7f10",
+      "legacyIds": [
+        "meat_dish_b7cffd5d"
+      ],
+      "name": "新疆大盘鸡",
+      "description": "新疆大盘鸡是一道风味浓郁、色彩鲜艳的新疆家常菜，鸡肉鲜嫩不柴，土豆软糯吸汁，麻辣中带着微甜回甘。富含优质蛋白质和碳水化合物，搭配彩椒还能补充维生素 C。制作过程需要炒糖色和掌握收汁火候，对新手有一定挑战，但跟随步骤细心操作并不难，整体大约 1 小时可以完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1108,
+      "imageCount": 2,
+      "hash": "bc5d936e1c448351e8ec51780e475298d10b86a8051256d071a43d0bd0e61791"
+    },
+    {
+      "id": "4ac78131-f1a0-44ab-a977-ab1ea2a30aa0",
+      "legacyIds": [
+        "meat_dish_7ad1b139"
+      ],
+      "name": "血浆鸭",
+      "description": "血浆鸭是一道湖南武冈传统名菜，鸭肉香酥脆嫩，浸透醋血后连姜和辣椒都变得甜净不辣。鸭肉与鸭血提供优质蛋白和铁质，适合补血养身。制作步骤较多，需要留意火候和翻炒，但跟着步骤操作，初学者也能在 大约 2 小时完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 2482,
+      "imageCount": 2,
+      "hash": "474fed2f8b3bcfbc1097a0ae928dc29f661c36b258aa61047df15c2cee591bef"
+    },
+    {
+      "id": "54c5c9c0-9640-4d34-bbfd-a9a70cb27955",
+      "legacyIds": [
+        "meat_dish_f1f2077d"
+      ],
+      "name": "羊排焖面",
+      "description": "![羊排焖面](./羊排焖面.jpg)\n羊排焖面是一道肉香浓郁、面条筋道的北方家常硬菜，羊排软烂，宽面吸足汤汁，每一口都满足。这道菜有肉有面有菜，一顿饭就能补齐人体所需的蛋白质、碳水和脂肪，营养全面。制作时需要先炖羊排再和面焖面，步骤稍多，更适合有一定下厨经验的朋友尝试，预计全程大约花费一个半小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1616,
+      "imageCount": 1,
+      "hash": "f90102a16992182eed56c89e2fed52710fcd2bce9a32439e71bae1efcec382b1"
+    },
+    {
+      "id": "a0f4e0ba-171d-4e11-a11e-f2ba31eb28b3",
+      "legacyIds": [
+        "meat_dish_31e10602"
+      ],
+      "name": "洋葱炒猪肉",
+      "description": "这是一道家常风味小炒，咸中带甜，酱香浓郁，洋葱炒软后滋味温和，搭配嫩滑猪肉片非常下饭。猪肉提供优质蛋白质和 B 族维生素，洋葱含膳食纤维和多种抗氧化物，开胃助消化。操作简单，新手也能轻松上手，预计制作时长仅需 15 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 979,
+      "imageCount": 0,
+      "hash": "e809aa04a63a89a56c3f26c4295c191f5fe08ef6d19163f8eca65ccf203487cd"
+    },
+    {
+      "id": "a5aa1ad7-5cb3-4270-ad7e-ab0f036b08ab",
+      "legacyIds": [
+        "meat_dish_28a28bc6"
+      ],
+      "name": "意式烤鸡",
+      "description": "意式烤鸡是一道带有地中海风味的家常烤箱菜。鸡腿肉经过蒜香橄榄油腌制，烤后外皮微焦、内里鲜嫩多汁，搭配柠檬汁和欧芹，口感清爽不腻。鸡肉富含优质蛋白质，橄榄油提供不饱和脂肪酸，营养均衡。制作难度适中，需要提前预热烤箱，新手跟着步骤也能顺利完成，从腌制到出炉总计约五十分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 315,
+      "imageCount": 0,
+      "hash": "ae2b3a7e424510da86c4d5523234105a5536ea0ed0b5e65173d03aad20d3dc3f"
+    },
+    {
+      "id": "7b0e4c64-7d10-4dda-bbe9-dc473319fc39",
+      "legacyIds": [
+        "meat_dish_4c4e57de"
+      ],
+      "name": "鱼香茄子",
+      "description": "鱼香茄子是一道经典的川味家常菜，酸甜微辣，茄子软糯吸汁，非常下饭。茄子富含膳食纤维和多种维生素，搭配肉末能补充蛋白质。制作难度中等，需要掌握炸茄子和调味技巧，新手稍加练习也能成功。从备料到出锅大约需要 30 分钟。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 579,
+      "imageCount": 7,
+      "hash": "aaa666012f25ebcd74059d83222cef98cd1f5f4e5b8958e934a37bf94ebe8a07"
+    },
+    {
+      "id": "39ac35fc-d6f5-41ad-8031-2ee3ed5558c4",
+      "legacyIds": [
+        "meat_dish_06dbad58"
+      ],
+      "name": "鱼香肉丝",
+      "description": "鱼香肉丝是一道经典川菜，口味酸甜微辣，肉丝滑嫩，配以胡萝卜、青椒和木耳，口感丰富。富含蛋白质和多种维生素，荤素搭配，营养均衡。制作有一定难度，需要调好鱼香汁并掌握翻炒火候，新手建议严格按步骤操作。预计制作时长约 40 分钟（不含木耳泡发时间）。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 421,
+      "imageCount": 0,
+      "hash": "1204b07df900c603d104e0f8c3c9921ba77e9d2ca2dd43b619e728ef4b7a8f85"
+    },
+    {
+      "id": "bfb26ac5-c1e3-4d91-a534-972274c633a2",
+      "legacyIds": [
+        "meat_dish_003ec59b"
+      ],
+      "name": "枝竹羊腩煲",
+      "description": "这是一道源自广东的传统煲仔菜，羊肉与腐竹在柱侯酱和腐乳的调和下，酱香浓郁，口感肥美而不腻口，暖身暖心，尤其适合寒冬食用。羊肉富含蛋白质和铁质，能温补气血，腐竹则提供优质植物蛋白，搭配起来营养均衡。虽然备料和炖煮步骤较多，但全程火候控制并不复杂，新手只需按部就班也能成功。预计从准备到出锅约需两个半小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 2391,
+      "imageCount": 0,
+      "hash": "5d51a51564b6d94e23dafed874832123e952ef139bdbdc190e8c0934bb31b3bb"
+    },
+    {
+      "id": "da2a7767-4a12-44c4-9661-1e1a58146252",
+      "legacyIds": [
+        "meat_dish_3dcc00ec"
+      ],
+      "name": "猪皮冻",
+      "description": "猪皮冻是北方年夜饭常见的传统凉菜，晶莹剔透，口感滑嫩 Q 弹，特别适合下酒。猪皮富含胶原蛋白，有美容养颜的作用。这道菜难度稍高，需要耐心处理猪皮去腥和长时间熬煮，预计制作时长约 24 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1630,
+      "imageCount": 1,
+      "hash": "7970feb0ac9e869ec8306839c0a902f229880dde7204df2ebafd12f2326dba75"
+    },
+    {
+      "id": "894423df-cbf6-4375-b8a6-2672c8ebd7f2",
+      "legacyIds": [
+        "meat_dish_862866d2"
+      ],
+      "name": "猪肉烩酸菜",
+      "description": "猪肉烩酸菜是一道北方家常炖菜，酸香浓郁，五花肉软烂，排骨入味。主要提供蛋白质，酸菜也带来乳酸菌等有益成分。做法步骤清晰，新手也能按部就班完成，但需耐心慢炖，从头到尾大约需要 3 小时。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1817,
+      "imageCount": 0,
+      "hash": "277eca13bb7f7945f8b59d1e8d9d60f9c84c8572bd9fba649058a332e198e6ee"
+    },
+    {
+      "id": "c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b",
+      "legacyIds": [
+        "meat_dish_ab906096"
+      ],
+      "name": "柱候牛腩",
+      "description": "这是一道经典广式风味菜肴，肉香浓郁，色泽红亮，带筋牛腩软烂入味，口感丰富。富含优质蛋白质和胶原蛋白，滋补暖身。虽需一定耐心，但使用高压锅能大幅缩短时间，对新手也较友好。普通炖煮约需 3 小时，用高压锅则约 1 小时即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 980,
+      "imageCount": 16,
+      "hash": "e0c69be2fd284927c70992a852a397e4d70617d5cf22e3df40ad0fd72cce31ee"
+    },
+    {
+      "id": "2472a34f-0c57-4a30-acdb-b3a56bda6f0c",
+      "legacyIds": [
+        "meat_dish_e4a18a12"
+      ],
+      "name": "孜然牛肉",
+      "description": "孜然牛肉是一道香辣鲜嫩的家常小炒，浓郁的孜然风味与牛肉的软滑、青椒的清脆融合得恰到好处。牛肉富含优质蛋白和铁，搭配青椒还能补充维生素，营养均衡。制作需要一些刀工和火候把控，适合有一定下厨基础的爱好者尝试。算上腌肉和备菜，全程大约 45 分钟就能端上餐桌。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 612,
+      "imageCount": 0,
+      "hash": "02706dd21fd0e01a64c0d558b6907deb6448e587970f54188750ec214cc5969b"
+    },
+    {
+      "id": "4d73d40d-afb9-4d65-864b-fe18e0557be4",
+      "legacyIds": [],
+      "name": "淄博烧烤",
+      "description": "这是一道山东淄博特色烧烤，小饼卷肉配大葱的吃法风味独特，肉香、酱香与葱香交融，口感层次丰富。五花肉富含优质蛋白质和脂肪，大葱提供膳食纤维，搭配小饼能快速补充能量。制作需要控制炭火火候和翻烤技巧，对新手稍具挑战，全程约 40 分钟即可完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 650,
+      "imageCount": 1,
+      "hash": "1295d557b85980f13c0dae530a2a7a5763ca73532e19d453a99d6d512180ac78"
+    },
+    {
+      "id": "f0419c94-7799-4730-99f1-0dec94ec2aa3",
+      "legacyIds": [
+        "meat_dish_fd11a11f"
+      ],
+      "name": "醉排骨",
+      "description": "醉排骨是福州传统名菜，口感外酥里嫩，酸甜开胃，带着独特的鱼露鲜香。排骨富含蛋白质和钙质，营养解馋。这道菜需要掌握挂糊和复炸的技巧，更适合有一定下厨经验的朋友尝试，全程大约需要 40 分钟完成。",
+      "category": "meat_dish",
+      "categoryName": "荤菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 934,
+      "imageCount": 1,
+      "hash": "ef2bb07f521b37b49baa943a01e994c799951b1bf0c32dc9ceca4c485ff02ad0"
+    },
+    {
+      "id": "fba1859d-c58b-4174-bc70-87e74731213a",
+      "legacyIds": [
+        "semi-finished_007a3967"
+      ],
+      "name": "半成品意面",
+      "description": "这是一道利用市售半成品快速完成的西式简餐，面条弹韧有嚼劲，搭配现成酱料风味浓郁。以碳水化合物为主，能迅速补充能量，并含有蛋白质。制作难度极低，新手也能零失误，从开火到装盘仅需约 2 分钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 578,
+      "imageCount": 0,
+      "hash": "dfe2857e4fc386885e2eee259146231bc476f124580150b08138250115bc67b3"
+    },
+    {
+      "id": "2fc62a6b-1f32-4640-afb7-d14c0c7e1c45",
+      "legacyIds": [
+        "semi-finished_a8e716f9"
+      ],
+      "name": "空气炸锅鸡翅中",
+      "description": "这是一道方便省事的家常快手菜，鸡翅外焦里嫩，自带油脂香气，比快餐店的更对胃口。鸡翅中富含优质蛋白和脂肪，能量充足。对新手非常友好，实际操作只需几分钟，全程大约四十分钟就能吃上。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 504,
+      "imageCount": 2,
+      "hash": "6e228f64283557e8d79a8d80018e6470b11b064a747a236b19babf92511ad175"
+    },
+    {
+      "id": "84be1776-f503-4e5b-b07c-71a6ac8b3194",
+      "legacyIds": [
+        "semi-finished_0b36bd6b"
+      ],
+      "name": "空气炸锅羊排",
+      "description": "这道菜做法超级懒人，用空气炸锅能逼出多余油脂，成品外焦里嫩、蒜香浓郁，风味主要取决于羊排本身品质。羊肉富含优质蛋白和铁、锌等微量元素，有助于温补气血、增强体质。烹饪难度适中，新手也能轻松上手，实际动手操作仅需 10 分钟，算上腌制总时长约 40 分钟就能端上餐桌。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 473,
+      "imageCount": 1,
+      "hash": "7cd45c4e09120280fa4f58882e1e70628505d3ec864bd5294949d3aa04d3317e"
+    },
+    {
+      "id": "dbcc1629-b0a3-43e9-8ef6-4aa554b4e8fa",
+      "legacyIds": [
+        "semi-finished_97c9158e"
+      ],
+      "name": "懒人蛋挞",
+      "description": "这道甜品利用现成的蛋挞皮和蛋挞液，外皮酥香、内馅嫩滑，带有焦糖斑点，是经典粤式点心中最易上手的版本。主要成分鸡蛋和牛奶提供了优质蛋白质与钙质，适合作为家庭小点心。整个操作只需组装和烘烤，对完全零基础的新手也很友好，从预热烤箱到出炉约需 40 分钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 137,
+      "imageCount": 1,
+      "hash": "56fd4c1cd3122e8670358a85dd822e9afd8a3ad6be0e2f55f6890a8450fb6d98"
+    },
+    {
+      "id": "61f9fb74-8488-4532-bc6b-8463fcdd3b93",
+      "legacyIds": [
+        "semi-finished_06007ff7"
+      ],
+      "name": "凉皮",
+      "description": "凉皮是一道源自陕西的家常小吃，口感筋道爽滑，酸辣开胃，带有浓郁的芝麻酱香。芝麻酱和面筋提供了丰富的植物蛋白与钙质，搭配清脆的黄瓜和绿豆芽，富含维生素和膳食纤维。整体操作难度中等，只需简单煮烫、切丝和调汁，一般初学者也能从容完成。从备料到上桌大约需要 40 分钟，非常适合夏日餐桌。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 761,
+      "imageCount": 0,
+      "hash": "4a8a667c515740b9f816cf1d15732021554858224c04bbf1cfc65b917b0201e8"
+    },
+    {
+      "id": "8820a01e-bee8-4b99-be45-b8abb1e810a4",
+      "legacyIds": [
+        "semi-finished_6f634d4b"
+      ],
+      "name": "牛油火锅底料",
+      "description": "这道重庆火锅底料以大量牛油为基底，糅合糍粑辣椒和多种香辛料，熬出的底料麻辣醇厚、香气浓烈，是涮烫毛肚、鸭肠等食材的灵魂。牛油和猪油提供了丰富能量，辣椒与花椒能温中散寒、促进食欲，但油脂含量较高，宜节制食用。制作过程需精准控制油温和翻炒火候，对新手有一定挑战，从备料到完成约需 1 小时。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 585,
+      "imageCount": 0,
+      "hash": "05e4b5fd6fb5f887c5c25bd01855510a35e3db5417b1b698aaad4531ef0b0ac2"
+    },
+    {
+      "id": "4557d4f1-f582-451e-81e9-585ed2e46ded",
+      "legacyIds": [
+        "semi-finished_1a3f71a6"
+      ],
+      "name": "速冻馄饨",
+      "description": "速冻馄饨皮薄馅嫩，汤清味鲜，是一道便捷的家常面食。主要提供碳水化合物和蛋白质，便于快速补充能量。做法简单，对新手非常友好，使用电饭煲即可完成，从烧水到出锅大约需要 55 分钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 540,
+      "imageCount": 0,
+      "hash": "297593fdc23fd3d5877eaf27e2d26b4fedf8a1446e302103ba935d454f34df48"
+    },
+    {
+      "id": "b21faaa7-fb5d-4f06-9192-625250a5e843",
+      "legacyIds": [
+        "semi-finished_1a33daed"
+      ],
+      "name": "速冻水饺",
+      "description": "这是一道源自中国的家常面食，采用市售冻饺速成，皮薄馅丰，口感鲜香。佐以醋、姜、蒜等蘸料，滋味更添层次。作为一餐，它能提供充足的蛋白质与碳水，营养饱腹。制作毫无难点，新手也能轻松上手，前后仅需大约一 刻钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 502,
+      "imageCount": 0,
+      "hash": "306d63b69a3c6c4ae685db358bea3565ffa8b297ee3bffcf247209583de7c706"
+    },
+    {
+      "id": "6efa4dee-94c6-43d9-b4b0-8f3ce13516c2",
+      "legacyIds": [
+        "semi-finished_1163d186"
+      ],
+      "name": "速冻汤圆",
+      "description": "速冻汤圆是一道快速方便的微波炉甜点，外皮软糯、内馅香甜，属于中式传统小吃。主要提供碳水化合物，能迅速补充能量。做法极易上手，新手也能轻松完成，从准备到出锅仅需大约 6 分钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 568,
+      "imageCount": 1,
+      "hash": "8dc99f3b0969b86829a45f69b3086da98c26535566123c86666ce91a33fd9429"
+    },
+    {
+      "id": "ec4df1a0-e909-4ef8-9312-745492fee2d8",
+      "legacyIds": [
+        "semi-finished_3338e9eb"
+      ],
+      "name": "炸薯条",
+      "description": "炸薯条外酥里软，金黄咸香，属于广受欢迎的快餐小食。土豆提供碳水化合物和膳食纤维，但油炸或空气炸制后热量较高。使用半成品薯条和空气炸锅，操作简单，新手也能轻松上手。从预热到出锅，大约需要 25 分钟。",
+      "category": "semi-finished",
+      "categoryName": "半成品",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1132,
+      "imageCount": 1,
+      "hash": "be7c7283ca88b4d88153ca934e825c79f60afda7a31fc147792f0d9e29d681a3"
+    },
+    {
+      "id": "e5c56598-4dc6-47aa-92d8-7e6e4604e759",
+      "legacyIds": [
+        "soup_fb933150"
+      ],
+      "name": "昂刺鱼豆腐汤",
+      "description": "昂刺鱼豆腐汤是一道口感鲜嫩、汤白味浓的家常汤品，鱼肉刺少肉嫩，豆腐滑润，带有胡椒的微辛暖意，适合各个年龄层。鱼富含优质蛋白质，搭配豆腐能补充钙质，营养均衡好吸收。制作过程不算复杂，只要注意去腥和煎鱼防粘，一般初学者也可以上手，预计制作时长约 40 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 321,
+      "imageCount": 3,
+      "hash": "c3cf6c864b031125f2ab9a013c8305ac7396fd4bf880b120575ccf33204f9f2a"
+    },
+    {
+      "id": "0032e10b-1f73-456f-b118-aeeb1749a312",
+      "legacyIds": [
+        "soup_b942dbb7"
+      ],
+      "name": "陈皮排骨汤",
+      "description": "这道汤品属于粤式老火靓汤，汤色清亮，入口甘润回香，带有陈皮的独特陈韵。排骨提供优质蛋白质和钙质，搭配陈皮、西洋参、石斛等食材，有助于理气健脾、滋阴润肺，适合长期熬夜或咽喉不适时饮用。整体操作不难，只需备好料、掌握炖煮时间，新手也能轻松完成。从备菜到出锅大约需要两小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 365,
+      "imageCount": 1,
+      "hash": "7b04de82829f1341778156b3cd40975954f99c0084e0e62f6c814cd8b13e49d8"
+    },
+    {
+      "id": "1c237f3a-756c-40d8-8206-3159f06a2aa7",
+      "legacyIds": [
+        "soup_06a69c63"
+      ],
+      "name": "番茄牛肉蛋花汤",
+      "description": "番茄牛肉蛋花汤是一道酸甜开胃的家常汤品，口感鲜嫩顺滑。牛肉富含优质蛋白和铁，番茄提供番茄红素和维生素 C，鸡蛋则补充卵磷脂。做法简单，新手也能轻松掌握，通常大约半 小时就能端上餐桌。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 262,
+      "imageCount": 0,
+      "hash": "531189635c657db157fa3c375742d96c8f9469cccee2469a9ed89b047bff819c"
+    },
+    {
+      "id": "d3c91ac0-e0ab-46df-87e7-aac631c8127f",
+      "legacyIds": [
+        "soup_c43fdbeb"
+      ],
+      "name": "勾芡香菇汤",
+      "description": "香菇勾芡汤汤浓味鲜，滑润适口，是一道快手的家常汤品。香菇含有丰富的氨基酸和多糖，有助于增强免疫力。制作过程需要一些基本的控火和勾芡技巧，但对新手依然友好。从备料到出锅，大约只需 25 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 146,
+      "imageCount": 3,
+      "hash": "90c7a788928b831d5f6ef4479d82e3f401ba6e9eb6773545838acbc96598ef51"
+    },
+    {
+      "id": "9ce517d1-711e-41f3-a080-ddb5ea994b82",
+      "legacyIds": [],
+      "name": "黄瓜皮蛋汤",
+      "description": "黄瓜皮蛋汤是一道快手家常汤品，口味清淡，带着皮蛋与蒜瓣煸炒出的焦香，暖心暖胃且不油腻。黄瓜清热补水，皮蛋提供一定蛋白质，低脂少负担。做法几乎没有技术门槛，厨房新手也能轻松完成，从备料到出锅只需大约十 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 311,
+      "imageCount": 0,
+      "hash": "c1a05519ac54e7fa5090a1d8d6f093d67caeacef5d5924d23ce9096d15ff43f6"
+    },
+    {
+      "id": "6592daed-4e6c-45dd-9868-b3b19f4ee590",
+      "legacyIds": [
+        "soup_80838622"
+      ],
+      "name": "金针菇汤",
+      "description": "这是一道清淡爽口的家常汤品，口味鲜美，属简易快手菜。金针菇含有丰富的氨基酸和膳食纤维，加鸡蛋还能补充优质蛋白。制作门槛极低，新手也能轻松驾驭，从备菜到出锅大约只需 10 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 149,
+      "imageCount": 0,
+      "hash": "ac4618143adebcbde95f8e0442e56fe6595d855d794537ebfea785aa096860a3"
+    },
+    {
+      "id": "abedffd6-30a7-474e-92b1-34494f97a5e6",
+      "legacyIds": [
+        "soup_57a75a8a"
+      ],
+      "name": "菌菇炖乳鸽",
+      "description": "菌菇炖乳鸽汤色清亮、肉质细嫩，菌香与鸽鲜交融，属于家常粤式炖汤。乳鸽富含优质蛋白和多种氨基酸，菌菇提供多糖与膳食纤维，温和滋补。整道菜需先将乳鸽焯水去腥，再与玉米、菌菇同炖，对火候和时间的把控略有一些要求，新手稍加注意也能驾驭。从备料到出锅，使用高压锅约需 45 分钟，瓦罐慢炖则需 1 小时出头。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 324,
+      "imageCount": 1,
+      "hash": "af6ff3263f8c5be87c9ef4af5664a02ad840747ed6af15e0ad4ff9fc3dd9bebd"
+    },
+    {
+      "id": "667153fd-e7a9-4131-aa6e-817259411465",
+      "legacyIds": [
+        "soup_a5a476c6"
+      ],
+      "name": "腊八粥",
+      "description": "腊八粥是一道传统节令甜粥，粥体粘稠软糯，融合了多种谷物、豆类和干果的复合香气。富含碳水化合物、矿物质和多种维生素，莲子还有养心安神之效，适合工作压力大的人食用。虽然食材种类多，但操作简单，耐心慢熬即可，对新手友好。除去浸泡等准备时间，熬煮约需 3 小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 2042,
+      "imageCount": 0,
+      "hash": "92fa6489e9b327c53d93390a21b9991393ecd1c4acb0938c734ba048cec3e00c"
+    },
+    {
+      "id": "80c9759a-2d63-4082-96db-6ae3cd27ec39",
+      "legacyIds": [
+        "soup_45e226fc"
+      ],
+      "name": "罗宋汤",
+      "description": "一道源自俄罗斯甜菜汤、在上海改良的海派家常汤品，以番茄和牛肉为主调，口感酸甜浓郁、醇厚鲜美。富含优质蛋白、番茄红素及多种维生素，营养均衡。制作简单，对初学者友好，全程预计 2–3 小时即可完成。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 2006,
+      "imageCount": 0,
+      "hash": "e11ac031cb227c77175eeb2cbe58fc9130a5dd6805440a9f738fe6ee0c2bfbc9"
+    },
+    {
+      "id": "2c89bb3d-edcd-40b1-8e0b-7a7330720fc6",
+      "legacyIds": [
+        "soup_2d791764"
+      ],
+      "name": "米粥",
+      "description": "白粥清淡绵软，是家常必备的暖胃主食，米香纯粹，老少皆宜。富含碳水化合物和少量蛋白质，易于消化吸收，有补脾、和胃、清肺的食养之效。操作简单，只需掌握好火候和水量，初学者也能轻松完成，全程约需 25 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 308,
+      "imageCount": 0,
+      "hash": "8cf0f6bdffe087926f9fdcbdc3e292f172c332e4b2c50ec5b5d9a41c45c756ad"
+    },
+    {
+      "id": "9f62817c-714f-46b4-b156-f5076ec79a81",
+      "legacyIds": [
+        "soup_653aa229"
+      ],
+      "name": "奶油蘑菇汤",
+      "description": "这是一道经典法式浓汤，口感丝滑绵密，菌香与奶香交融。蘑菇富含膳食纤维和微量元素，牛奶则提供优质蛋白与钙质。做法非常简单，新手也能轻松驾驭，从备料到完成大约需要 30 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 426,
+      "imageCount": 0,
+      "hash": "9f77e6c55bf1d0fdbb3db569480b794611f127923e4b69d4a3dbbcf561acbe33"
+    },
+    {
+      "id": "a1984eb8-3eed-42fd-89e9-7c11b817ab8e",
+      "legacyIds": [
+        "soup_9f67a0b4"
+      ],
+      "name": "排骨苦瓜汤",
+      "description": "排骨苦瓜汤是一道汤色清亮、鲜美回甘的粤式家常汤品，排骨软烂、苦瓜清热解腻。富含蛋白质与维生素，虾皮还能补充钙质。处理过程需要焯水去腥、仔细去除苦瓜瓤，对新手有一定挑战，但借助电压力锅可大幅简化；传统慢炖需 2 至 4 小时，建议提前 4 小时准备，压力锅则只需约 1 小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 905,
+      "imageCount": 0,
+      "hash": "5727fd1101d1a2f325193a66ea5f1c068acd98204eeba31a66f58c2115796aaa"
+    },
+    {
+      "id": "afc5bfe4-cfbf-4a80-bda8-6f30b71561fb",
+      "legacyIds": [],
+      "name": "排骨山药玉米汤",
+      "description": "排骨山药玉米汤清甜醇厚，山药软糯、玉米回甘，融合了排骨的鲜香，属于老少皆宜的家常汤品。它富含蛋白质、膳食纤维和多种维生素，有健脾益胃、增强抵抗力的作用。做法简单，预处理和炖煮步骤清晰，新手也能轻松上手，全程大约需要 1 小时即可完成。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1054,
+      "imageCount": 0,
+      "hash": "c3dd987993bd180c97cc7bad4a6cf31eabbcc8b77a17201209c1e6b2088ff790"
+    },
+    {
+      "id": "be4d8bf8-8206-4079-9f84-eb151f16b1bb",
+      "legacyIds": [
+        "soup_2943fbd7"
+      ],
+      "name": "皮蛋瘦肉粥",
+      "description": "皮蛋瘦肉粥是广东经典的家常粥品，粥底绵密顺滑，皮蛋的醇香与瘦肉的鲜嫩融合，口感温润鲜美。它富含碳水化合物和优质蛋白质，搭配蔬菜，营养较为均衡，易于消化吸收。这道粥步骤虽多，但操作直观，新手跟着流程也能顺利完成，预计制作时长约 1.5 小时，借助电饭锅的预约或保温功能，作为早餐尤为方便。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 776,
+      "imageCount": 0,
+      "hash": "3daeda1ce9a9f328026365f6af478871f0eb794255d5b0ed8a48998feaece676"
+    },
+    {
+      "id": "209c55b7-c645-4ced-8723-ceaf06b39ff4",
+      "legacyIds": [
+        "soup_caabf3d3"
+      ],
+      "name": "生汆丸子汤",
+      "description": "生汆丸子汤口感鲜嫩弹滑，是一道原汁原味的家常汤品。猪肉提供优质蛋白质，搭配木耳、黄花等食材，营养较为均衡。制作中需要自己剁肉并掌握挤丸子的火候，稍有些门槛，更适合有一定基础的厨艺爱好者。从备料到上桌大约需要 1 小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 857,
+      "imageCount": 0,
+      "hash": "6dbe52759533ad5682010ce9c84f5126067d2ff4a326d562330670d40a068e79"
+    },
+    {
+      "id": "4ede8682-ef50-42a1-8d1c-cedc56edb48a",
+      "legacyIds": [
+        "soup_92395d98"
+      ],
+      "name": "西红柿鸡蛋汤",
+      "description": "西红柿鸡蛋汤是一道酸甜开胃、口感滑嫩的家常汤品，做法极简，属于老少皆宜的大众菜肴。富含番茄红素、维生素 C 和优质蛋白质，营养均衡易吸收。对新手非常友好，快手省时，预计制作时长 大约 15 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 258,
+      "imageCount": 0,
+      "hash": "6bf8cf262d5843d31ca0896de9aabf2fb7e2b5543e4ff4e3571daf58ab267401"
+    },
+    {
+      "id": "02ea63c1-f526-4b5e-a7f8-76f4c3783d09",
+      "legacyIds": [
+        "soup_6e1a34c6"
+      ],
+      "name": "小米粥",
+      "description": "小米粥是一道北方常见的家常粥品，口感绵滑，米香浓郁，熬出的米油尤其养胃。它富含蛋白质、脂肪、碳水化合物和胡萝卜素，维生素 B1 含量在粮食中名列前茅，容易消化吸收。做法非常简单，新手也能轻松掌握，从烧水到出锅大约需要 30-35 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 362,
+      "imageCount": 0,
+      "hash": "58be6335744dfd950276f116bf11333c1b4a1324c05ba33000926a28084de0a9"
+    },
+    {
+      "id": "4912af52-7a01-45cc-a4d6-08c7b9e40460",
+      "legacyIds": [
+        "soup_6d327a99"
+      ],
+      "name": "羊肉汤",
+      "description": "羊肉汤是一道家常暖身汤品，汤色乳白，肉质鲜嫩，带有大葱和白胡椒的清香与微辛。富含蛋白质、钙、铁等营养成分，有温补脾胃、抵御寒冷的功效。制作步骤简单，新手也能轻松掌握，整个烹饪过程大约需要 30 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 599,
+      "imageCount": 1,
+      "hash": "643f416dc932cb05f372dd9c5640671f2446b5e8f6553523b88385517d6b7435"
+    },
+    {
+      "id": "ff3f4253-80d8-4bb8-82a6-d834b8c166aa",
+      "legacyIds": [
+        "soup_d0b872ce"
+      ],
+      "name": "银耳莲子粥",
+      "description": "银耳莲子粥清甜润滑，银耳软糯、莲子绵密，是常见的滋补粥品。富含天然胶质、膳食纤维及多种微量元素，有助养心安神。制作需经历浸泡和慢熬，对新手的耐心是个考验，全程大约需要 3.5 小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 282,
+      "imageCount": 1,
+      "hash": "137b9dfe95b924d272c1588bde8505b7c4b9387254263eb8fd52491381fcbec0"
+    },
+    {
+      "id": "1d2ef664-be62-4627-9d49-76a0391fcfbc",
+      "legacyIds": [
+        "soup_b2467519"
+      ],
+      "name": "玉米排骨汤",
+      "description": "玉米排骨汤是一道鲜美清甜的家常汤品，排骨软烂，玉米和胡萝卜带来自然甜味。富含蛋白质、维生素和膳食纤维，营养均衡。做法简单，对新手友好，只需将排骨焯水煸香后慢炖约一小时即可完成。从备菜到出锅大约需要一个半小时。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1724,
+      "imageCount": 1,
+      "hash": "f4efee9bd1f7ee2809c9135bd0c94e527c40fd6528c686dad597b8270b0fb937"
+    },
+    {
+      "id": "54698df5-f798-44ef-ad1e-632a8c65c2c8",
+      "legacyIds": [
+        "soup_677af26e"
+      ],
+      "name": "朱雀汤",
+      "description": "朱雀汤是一道豫东地区的家常快手汤品，口感顺滑香甜，带着芝麻油的醇香。鸡蛋提供优质蛋白质，制作非常简单，只需烧水冲蛋几步就能完成，前后不到十分钟即可上桌，还有清热去火的效果。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 168,
+      "imageCount": 1,
+      "hash": "0ee185c6cd03397d6b2b3aeeab225f48bee2145df539a377e738def6088c79f0"
+    },
+    {
+      "id": "a97de2a3-b302-467b-82e3-af03197399f3",
+      "legacyIds": [
+        "soup_6ab42daf"
+      ],
+      "name": "紫菜蛋花汤",
+      "description": "紫菜蛋花汤是一道清淡鲜美的家常汤品，属于中式简易汤菜。紫菜富含碘、钙和膳食纤维，鸡蛋提供优质蛋白质，二者搭配营养均衡。做法非常简单，对新手友好，从准备到出锅仅需约 20 分钟。",
+      "category": "soup",
+      "categoryName": "汤粥",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 217,
+      "imageCount": 0,
+      "hash": "1888c2dd4300ea351242fa8fda7b235837f0ddb79ae51ab62c835376c3a36d48"
+    },
+    {
+      "id": "43fb0388-e92b-4a8d-a3ce-e31398d24282",
+      "legacyIds": [
+        "staple_a7520caa"
+      ],
+      "name": "炒方便面",
+      "description": "这道炒方便面口感 Q 弹筋道，咸香入味，是一道改良自传统煮面的家常快手主食。搭配鸡蛋和火腿肠，丰富了蛋白质和能量来源。做法简单，只需注意冷水冲面保持口感，新手也能轻松完成，全程大约 15 分钟即可出锅。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 789,
+      "imageCount": 1,
+      "hash": "ae4388fe57e803455413e47a277efb871c0488625c96a21f7fe4a55575afcd46"
+    },
+    {
+      "id": "050756c9-57ae-4fb0-bc2e-1b9f71a9e4a4",
+      "legacyIds": [
+        "staple_670f34b7"
+      ],
+      "name": "炒河粉",
+      "description": "炒河粉是一道流行于广东地区的经典小吃，讲究镬气十足、干香爽滑，河粉软韧透亮，搭配肉丝、豆芽和黄瓜丝，口感层次丰富。主要提供碳水化合物和蛋白质，蔬菜的加入也补充了维生素与膳食纤维。按本菜谱操作难度适中，即便新手只要备齐材料也能尝试，整个制作过程约需 30 分钟即可端上餐桌。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 822,
+      "imageCount": 0,
+      "hash": "1fbc952822e24c4dbf6c23e0a043f42cbb8cd533ab7ff2c615217e7075bebe62"
+    },
+    {
+      "id": "6f82d987-4870-4168-b8d4-bfd4befb119b",
+      "legacyIds": [
+        "staple_2b2ce621"
+      ],
+      "name": "炒凉粉",
+      "description": "炒凉粉是一道山西、陕西地区的特色小吃，入口滑嫩，咸香微辣，带着蒜香和酱香。凉粉主要由淀粉制成，能提供丰富的碳水化合物，快速补充能量。烹饪难度适中，适合有一定基础的新手尝试，全程制作大约需要 15 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 567,
+      "imageCount": 1,
+      "hash": "a53ae6866c7b028b9ddf4cc5a87c1a2b66e505e08a2693f8bbaa59f81fd80ea2"
+    },
+    {
+      "id": "485eac2d-fa54-421a-8dea-a3e956b7a4ad",
+      "legacyIds": [
+        "staple_96435ae4"
+      ],
+      "name": "炒馍",
+      "description": "炒馍是一道咸香酥脆的家常面食，属于北方风味。馒头丁炒至金黄，外脆里软，孜然与五香粉的加入让风味更加浓郁。可搭配鸡蛋提供蛋白质，搭配小葱增添清香，营养均衡。制作难度适中，新手也能很快上手，预计 大约 15 分钟即可出锅享用。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 767,
+      "imageCount": 0,
+      "hash": "f61e4c3facda61cd040956f716be95052fd8d67e3b8bdcc6ef9492b5e42a7ca9"
+    },
+    {
+      "id": "f0a1d835-e5c1-4b90-b86f-9f02b8e95bc8",
+      "legacyIds": [
+        "staple_9fbf6ff3"
+      ],
+      "name": "炒年糕",
+      "description": "这是一道闽南风味的主食，年糕软糯弹牙，带着葱油的焦香，家常又饱腹。以米粉制成的年糕提供充足碳水化合物，搭配鸡蛋和青菜能补充蛋白质与维生素，营养均衡。做法简单，对新手友好，从准备到出锅大约需要 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 960,
+      "imageCount": 0,
+      "hash": "f163aa6fbf8697d271ec0f3e72facd876b5445f258becdc8549912ff6c73f20c"
+    },
+    {
+      "id": "19864ff6-697b-49b1-a9e4-0e8a28f023c9",
+      "legacyIds": [
+        "staple_999f6d62"
+      ],
+      "name": "炒意大利面",
+      "description": "这道炒意大利面软糯爽口，搭配肥牛和酱料，酱香浓郁，是带有西式风味的家常主食。富含碳水化合物与蛋白质，能快速补充能量。做法简单，新手也能轻松掌握，全程大约需要 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 406,
+      "imageCount": 1,
+      "hash": "11fc1470a49cf7c7d8750672fd94294ade5cc150509ae126b09a76d389aadb46"
+    },
+    {
+      "id": "3a2a1876-9e5a-4173-9b73-e1dc6a3fb01b",
+      "legacyIds": [
+        "staple_7a00e41e"
+      ],
+      "name": "葱油拌面",
+      "description": "葱油拌面是一道经典的上海家常面点，以独特的葱油香味著称，做法简单快捷。富含碳水化合物和脂肪，能快速补充能量。一般初学者只需 20 分钟即可完成，非常适合作为日常快手晚餐。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 355,
+      "imageCount": 0,
+      "hash": "a84ba685beca932843286428a31be96b3d955621b8e9cffa1bc403a70066ed95"
+    },
+    {
+      "id": "8dfe1b70-1127-4bd7-8b47-7ecf01c936a6",
+      "legacyIds": [
+        "staple_4de2502c"
+      ],
+      "name": "蛋包饭",
+      "description": "以嫩滑蛋皮包裹茄汁炒饭，口感丰富，酸甜开胃，是一道经典的日式家庭料理。富含蛋白质、碳水和多种维生素，营养均衡。包裹蛋皮需要一点技巧，但整体难度适中，新手也可尝试，从准备到完成约需 25 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 695,
+      "imageCount": 0,
+      "hash": "def9cb556cccd12c2568ed576c5bbfcb290493da3f57bb61137181be87ca1c4a"
+    },
+    {
+      "id": "4022068a-c878-4640-9829-d21cdba9f848",
+      "legacyIds": [
+        "staple_e0de9c26"
+      ],
+      "name": "蛋炒饭",
+      "description": "一道家常蛋炒饭，金黄的蛋丝裹着粒粒分明的米饭，搭配火腿、胡萝卜和黄瓜，口感丰富，咸香适口。鸡蛋提供优质蛋白，胡萝卜增添维生素，碳水化合物带来充足能量。制作步骤稍多，但新手按流程操作也能成功，全程大约需要 25 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 853,
+      "imageCount": 0,
+      "hash": "37668542f428b85fdf0ad042868785938fbdadb8306d03a6dc355fa11bd0db08"
+    },
+    {
+      "id": "38df1a1b-e199-4390-87f8-c65eed9b643e",
+      "legacyIds": [
+        "staple_12ea157a"
+      ],
+      "name": "电饭煲三文鱼炊饭",
+      "description": "这是一道融合日式炊饭做法的家常料理，米饭吸饱牛油和三文鱼的香气，口感浓郁鲜香。三文鱼提供优质蛋白和不饱和脂肪酸，搭配菌菇更添膳食纤维。操作极其简单，只需用电饭煲一键完成，从备料到出锅大约 45 分钟，非常适合新手尝试。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 889,
+      "imageCount": 1,
+      "hash": "21488172367d706e75e986720f42fc189df16ffec537195ce02d9d9349b34599"
+    },
+    {
+      "id": "68264b7a-88d6-4adf-896f-8704439352bd",
+      "legacyIds": [
+        "staple_d8f08766"
+      ],
+      "name": "电饭煲蒸米饭",
+      "description": "一道家喻户晓的基础主食，米香纯粹、口感软糯，因水量调节可偏硬或偏润。富含碳水化合物，能快速补充能量，适合搭配各类菜肴。操作极其简单，新手也能轻松上手，从洗米到焖好大约需要四十分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 442,
+      "imageCount": 0,
+      "hash": "6666338d800ce9a2835e1d1f92bace6aa6f349a1444571e7d11261abd8b68a12"
+    },
+    {
+      "id": "261c8dfb-c4c6-4af5-ac02-b85278b995ff",
+      "legacyIds": [
+        "staple_12c809c7"
+      ],
+      "name": "豆角焖面",
+      "description": "豆角焖面是一道北方家常面食，面条吸饱汤汁，口感软韧咸香，带着豆角的清爽和肉片的油润。五花肉提供蛋白质和脂肪，豆角富含膳食纤维和维生素，荤素搭配均衡。整体操作不难，但需要留意火候和加汤时机，适合有一定下厨经验的朋友尝试，一般约 30 分钟就能端上桌。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1386,
+      "imageCount": 0,
+      "hash": "0a96f6a2741098586ca50eb3b3f0da50c0865be21ebeb8639f5d2d8cc2dbd570"
+    },
+    {
+      "id": "b3e1edae-5f28-46c0-aa23-c220f5a194b9",
+      "legacyIds": [
+        "staple_b6d28a64"
+      ],
+      "name": "韩式拌饭",
+      "description": "韩式拌饭是一道色彩缤纷、口感丰富的韩国家常料理，甜辣酱汁包裹着米饭、蔬菜、牛肉和溏心蛋，拌匀后一口满足。多种蔬菜提供维生素和膳食纤维，牛肉和鸡蛋补充优质蛋白，营养均衡。制作简单但备菜步骤稍多，新手也能从容完成，从准备到上桌大约需要 45 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1080,
+      "imageCount": 1,
+      "hash": "1e5a11caffb3ac77e17bf0bafde91b2f2e34ea7b7e1b59b6b8b8ff5646b96ada"
+    },
+    {
+      "id": "700bac34-9b2c-4ed0-ae45-3276c61035e4",
+      "legacyIds": [
+        "staple_e03d57aa"
+      ],
+      "name": "河南蒸面条",
+      "description": "河南蒸面条是源自河南的家常小吃，面条先蒸后炒再蒸，油润入味，口感劲道爽滑。五花肉和蒜薹提供丰富的蛋白质和膳食纤维，搭配主食带来均衡营养。制作步骤稍多一些，但对新手而言只要按顺序操作就能成功。从备料到出锅，总共约需 40 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 3066,
+      "imageCount": 1,
+      "hash": "b3092f2fe09f0d71198e2ec9c379b29659cdb3c0d3833bacf815418cd4fbaf03"
+    },
+    {
+      "id": "c4df6a13-2f02-4b2c-a10f-140b13945a6d",
+      "legacyIds": [],
+      "name": "红芸豆拌饭",
+      "description": "这道北印度家常菜是旁遮普邦和德里地区的传统美食，番茄洋葱汤汁浓郁辛香，炖煮后红芸豆软糯入味，与热米饭拌食温暖饱腹。豆子富含蛋白质、膳食纤维和多种微量元素，营养均衡。做法简单，初学者也能轻松上手，全程制作约 40 分钟，但干豆需提前浸泡 8 小时。浓郁的家常滋味，有妈妈的味道。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1842,
+      "imageCount": 0,
+      "hash": "2af375c596d767753d12a39b440b000d5a761054b0b66b4de2de82664dbfd108"
+    },
+    {
+      "id": "30f04138-07fe-41fc-afb0-66ed966bbb43",
+      "legacyIds": [
+        "staple_1eb80185"
+      ],
+      "name": "火腿饭团",
+      "description": "![火腿饭团](./饭团.png)\n一道简单快手的日式风味饭团，咸香火腿搭配沙拉酱与海苔，口感丰富饱腹。富含碳水化合物、蛋白质和维生素，能快速补充能量。制作难度极低，新手也能轻松上手，从煮饭到完成大约只需 1 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 665,
+      "imageCount": 1,
+      "hash": "7f2c86a2852ba0776bd629087ae9d0d8be1635aa069640d6a69a7d9bba31ab5d"
+    },
+    {
+      "id": "9b5fb9f7-fd5b-4820-956d-82aa8aa3036a",
+      "legacyIds": [
+        "staple_d92e76bc"
+      ],
+      "name": "基础牛奶面包",
+      "description": "这款基础牛奶面包通过酵头预发酵简化了传统面包的制作，成品奶香浓郁，质地松软。富含碳水化合物和蛋白质，能为身体提供能量。难度适中，适合烘焙新手尝试，全程大约需要 200 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 2048,
+      "imageCount": 10,
+      "hash": "fb4d9b31628c85a4965f1a8449771af923fd8ded10b18efb88f5ce11c1488f37"
+    },
+    {
+      "id": "9f282cec-7c3d-4a0a-b6ca-ba2c738f527a",
+      "legacyIds": [
+        "staple_b2f26072"
+      ],
+      "name": "茄子肉煎饼",
+      "description": "这道家常煎饼融合了腊肉的咸香与茄子的软糯，外皮酥脆、内里绵润，是一道充满乡土风味的米粉主食。它富含碳水化合物和优质蛋白质，茄子还能提供膳食纤维和维生素，荤素搭配营养均衡。制作难度中等，需要掌握面糊稠度和煎制火候，但初学者跟着步骤操作也能成功。从备料到出锅大约需要 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 904,
+      "imageCount": 8,
+      "hash": "abb862ca79d55bed9a02a39d1a464869dad78bf04a6f06bf1e4a2b30eac12496"
+    },
+    {
+      "id": "b98c4053-deaf-4455-9644-c5c4830a81cb",
+      "legacyIds": [
+        "staple_b2db871d"
+      ],
+      "name": "鲣鱼海苔玉米饭",
+      "description": "这是一道鲜香味美的日式简餐，米饭粒粒分明，融合了鲣鱼的咸鲜、海苔的酥香与玉米的甜脆。鲣鱼富含优质蛋白和 DHA，搭配海苔的矿物质和玉米的膳食纤维，营养均衡。做法非常简单，新手也能轻松完成，实际动手仅需 5 分钟，加上煮饭总共约 40 分钟即可享用。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 383,
+      "imageCount": 1,
+      "hash": "68dd7e2ab4d68e11f7bb5d218984a6324983e26d81842dc825af3de556dddf1a"
+    },
+    {
+      "id": "c2809d21-c91e-4328-ac88-53abb43c5c4b",
+      "legacyIds": [
+        "staple_50491397"
+      ],
+      "name": "酱拌荞麦面",
+      "description": "酱拌荞麦面酸甜可口、清凉爽滑，是一道简单快手的家常凉拌面。荞麦面富含膳食纤维和蛋白质，搭配黄瓜、胡萝卜增添清爽口感与维生素，营养均衡。只需煮面、切菜、拌入老干妈，几步搞定，对新手非常友好，一般约 20 分钟便可完成。冷藏后食用风味更佳。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 475,
+      "imageCount": 2,
+      "hash": "3da5536d2431b26136cae36b58261783a9908648f258b7f5c1515f69b11072b2"
+    },
+    {
+      "id": "06eb168a-7db0-4087-8a8f-6be336608334",
+      "legacyIds": [
+        "staple_45415bbf"
+      ],
+      "name": "韭菜盒子",
+      "description": "韭菜盒子是一道传统中式面点，外皮金黄酥脆，内馅鲜香多汁。韭菜搭配虾仁和鸡蛋，富含维生素与优质蛋白质。做法简单，对新手也很友好，从和面到出锅大约需要 2.5 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 794,
+      "imageCount": 0,
+      "hash": "e9eed31439ace2e2794cc0309e1d746c20212784b83a0ba28071118234706330"
+    },
+    {
+      "id": "78c2ef45-0a52-42bd-bf2b-166bd940ba99",
+      "legacyIds": [],
+      "name": "可乐炒饭",
+      "description": "这道菜以可乐替代糖调味，带来独特的焦香微甜风味，酱汁浓郁包裹粒粒米饭，属于创意家常炒饭。鸡蛋和火腿肠提供优质蛋白质与能量，搭配主食米饭，营养均衡管饱。操作步骤直观，适合新手尝试，一般 大约 20 分钟便可端上桌。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 913,
+      "imageCount": 0,
+      "hash": "dd810b96fbd5b3d8f661d242df4337c02613f09e193cebfb5ae22c93daec11e5"
+    },
+    {
+      "id": "87ec9876-95de-4c3c-8500-3432fb28d1cb",
+      "legacyIds": [
+        "staple_36dd07ed"
+      ],
+      "name": "空气炸锅照烧鸡饭",
+      "description": "这道日式照烧风味的鸡肉饭，甜咸酱汁浓郁，表层烘烤得略微焦脆，内里软嫩多汁，搭配米饭非常下饭。鸡肉和鸡蛋提供丰富的优质蛋白，不过酱油和糖的用量较多，更适合偶尔改善口味。做法简单，只需混合原料交给空气炸锅，新手也能轻松搞定，从准备到出锅大约需要 1 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1854,
+      "imageCount": 1,
+      "hash": "c243a245493d14f6376236692109add275929d1068b64441f38ffbd8309cf129"
+    },
+    {
+      "id": "ddcb7d00-7b40-4ff9-9375-b1549478691d",
+      "legacyIds": [
+        "staple_bc665093"
+      ],
+      "name": "醪糟小汤圆",
+      "description": "醪糟小汤圆是一道香甜软糯的传统中式甜品，酒酿的微酸与糯米的绵滑交融，暖胃又舒心。它富含碳水化合物和少量 B 族维生素，能快速补充能量，也有助促进血液循环。做法毫无门槛，对新手特别友好，从烧水到出锅只需约 15 分钟，是一碗随时都能轻松完成的家常甜汤。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 957,
+      "imageCount": 0,
+      "hash": "bda4d18e8e86776b2293fe969b904ebc53e395b1a75af34e37c2d9b24632f8c3"
+    },
+    {
+      "id": "b7d1a11c-86e8-450d-9ce4-f32b1d05ea3e",
+      "legacyIds": [
+        "staple_c6933182"
+      ],
+      "name": "老干妈拌面",
+      "description": "一道香辣开胃的家常快手面食，面条筋道裹满老干妈的豆豉辣香，酱油提鲜，简单却滋味十足。作为主食能快速补充碳水化合物和能量，辣椒素还有助促进食欲。制作毫无门槛，新手也能轻松驾驭，从烧水到出锅只需大约十 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 502,
+      "imageCount": 0,
+      "hash": "a5ddfdaffb15197bc67e990afd648236c2866369c96d9b1fa57e7c381ab1d4f9"
+    },
+    {
+      "id": "b227e2aa-12c6-4432-88d7-1df2ecd37aff",
+      "legacyIds": [
+        "staple_dd81a330"
+      ],
+      "name": "老友猪肉粉",
+      "description": "老友猪肉粉酸辣鲜香，米粉爽滑，带着豆豉与酸笋特有的浓郁风味，是典型的南宁家常味。猪肉提供优质蛋白质，米粉则快速补充碳水能量。整体制作中等难度，需注意提前泡发米粉，熟练后大约四十分钟就能端上桌。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 927,
+      "imageCount": 1,
+      "hash": "94e35f5363eb962c8ad5df3ca6edb57d539475689f477b8e68d5d9004e599e97"
+    },
+    {
+      "id": "d21dd613-3511-48e7-8010-cabda19cad14",
+      "legacyIds": [
+        "staple_4b64abee"
+      ],
+      "name": "烙饼",
+      "description": "这道家常烙饼层次分明，外皮酥脆内里柔软，带着油酥的焦香，是北方餐桌上常见的主食。主要提供碳水化合物和能量，适合搭配菜肴一起食用。制作需要一点手法，尤其卷酥和擀饼环节，但跟着步骤操作并不难，新手也能掌握。从和面到烙好，大约需要 1 个小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1185,
+      "imageCount": 1,
+      "hash": "50287acb02a1fe4d5d846584bc08da730cf260dbafba9847ccc7645c59b9e8c4"
+    },
+    {
+      "id": "e725561d-3b0e-4e15-9906-d86ad3ec3a04",
+      "legacyIds": [],
+      "name": "利提巧卡",
+      "description": "利提巧卡是印度比哈尔邦的传统主食，由烤得金黄的麦球和烟熏风味的蔬菜泥组成，口感外脆内软，香气浓郁。烤鹰嘴豆粉馅料富含植物蛋白和膳食纤维，搭配茄子、番茄、土豆等蔬菜，营养丰富。制作需要和面、包馅、烤制以及处理蔬菜，步骤较多，对新手有一定挑战，全程大约需要 60 分钟完成。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1019,
+      "imageCount": 0,
+      "hash": "f0766fbd54c3b31f253bf1b931bb7521df1e432d799b5e7117e261d934f2c8da"
+    },
+    {
+      "id": "d0735957-035f-4089-baa3-26a14faec17c",
+      "legacyIds": [
+        "staple_8de7954b"
+      ],
+      "name": "凉粉",
+      "description": "凉粉是一道源自四川的传统小吃，口感冰凉爽滑，酸辣开胃，很适合夏天消暑。主要原料是豌豆淀粉，富含碳水化合物，能为身体快速补充能量。制作过程不算复杂，但需要耐心搅煮和长时间冷藏定型，对新手来说难度适中。从煮制到完成大约需要 3-4 小时，其中大部分是等待冷藏的时间，动手操作只需大约半 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 539,
+      "imageCount": 11,
+      "hash": "0cb42fcabe16bf2b4ae93e685865a2297eb192ae6474f87c0844c82856f652af"
+    },
+    {
+      "id": "d70776a4-cbd9-4cac-a7fb-da7b691c98ef",
+      "legacyIds": [
+        "staple_693aee62"
+      ],
+      "name": "螺蛳粉",
+      "description": "螺蛳粉是广西柳州的特色小吃，汤鲜味浓，酸辣爽口，米粉软滑筋道。口味上融合了螺蛳汤的鲜美、酸笋的独特发酵风味和辣椒油的刺激，层次分明。作为主食，米粉提供充足碳水化合物，螺蛳肉包和配料带来一定蛋白质，酸笋则有助于开胃促消化。这道菜所需操作简单，只需按顺序煮熟米粉和调味即可，对新手非常友好。从烧水到出锅，最快约十分钟就能端上餐桌，适合快手解决一餐。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 1109,
+      "imageCount": 0,
+      "hash": "020c4367bf2971884933ed4eec04143939e0c5834e4c82eaf3ad5596753a5725"
+    },
+    {
+      "id": "8ee57f98-adf3-4f25-84d3-5be5f88dde12",
+      "legacyIds": [
+        "staple_6cc3231a"
+      ],
+      "name": "麻辣减脂荞麦面",
+      "description": "麻辣汤底融合了火锅底料与花生酱、牛奶，口感浓郁顺滑，带有鲜明麻辣风味。搭配高纤维荞麦面与新鲜蔬菜，低卡饱腹，适合减脂期享用。做法毫无难度，无需厨艺基础，全程约 20 分钟即可端锅开吃。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 790,
+      "imageCount": 0,
+      "hash": "86765eb28758760b1f17772cc261274a806982a45aff13c13ede78d3fb282fbd"
+    },
+    {
+      "id": "b822722e-e5e9-49d0-80c3-9e2315623283",
+      "legacyIds": [
+        "staple_53d8ce09"
+      ],
+      "name": "麻油拌面",
+      "description": "麻油香气浓郁，搭配老抽与胡椒粉简单调味，咸香适口，是一道省时省钱的家常拌面。面条提供充足碳水化合物，麻油含有不饱和脂肪酸与维生素 E，能为身体补充能量。制作毫无难度，厨房新手也能轻松上手，从煮水到拌好只需大约十分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 451,
+      "imageCount": 0,
+      "hash": "d94bc3277fb63372a1ff602f6e4bf889d52fa6b4063539aa557d98834b37d3a9"
+    },
+    {
+      "id": "fc4fa08b-83ef-4598-9ae5-4f2576c9cabd",
+      "legacyIds": [
+        "staple_04eb8c97"
+      ],
+      "name": "披萨饼皮",
+      "description": "披萨饼皮采用低温隔夜发酵，成品饼底柔软又略带嚼劲，属于家常西式面点。主要提供碳水化合物和少量优质脂肪。制作流程简单，但需要耐心等待面团发酵，对新手也算友好。从准备到烘烤完成，算上隔夜冷藏时间大约需要 10-14 小时，适合提前一天备好。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 537,
+      "imageCount": 1,
+      "hash": "a6a536cf3245c978b99faaab15df0d7c05390f56a818dc5191f5e5de7f179d11"
+    },
+    {
+      "id": "143fda7b-8f7e-4ac8-ada6-f019104ac02c",
+      "legacyIds": [
+        "staple_f66fc662"
+      ],
+      "name": "热干面",
+      "description": "热干面是武汉最具代表性的小吃之一，属于鄂菜系。碱水面条筋道爽滑，裹满浓稠的芝麻酱，搭配酸豆角、萝卜干和肉末，咸香微辣，滋味醇厚。主要提供碳水化合物和蛋白质，芝麻酱也富含钙质。制作简单快捷，新手也能轻松上手，从煮面到拌好大约只需十几分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1341,
+      "imageCount": 0,
+      "hash": "e9279b82af1e910852750f601ebf14dbb42ba27a83ad5c03171a400e3618f477"
+    },
+    {
+      "id": "8f1a8456-4abc-4e8e-9023-b966b23b5810",
+      "legacyIds": [
+        "staple_f92443e0"
+      ],
+      "name": "日式肥牛丼饭",
+      "description": "一道经典的日式家常盖饭，肥牛片与白洋葱在咸甜酱汁中炖煮入味，肉质软嫩，洋葱甜润，汁香浓郁。牛肉提供优质蛋白和血红素铁，洋葱富含膳食纤维与多种抗氧化物。制作不算复杂，新手只要跟着步骤操作也能轻松完成，炒煮过程约需 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 774,
+      "imageCount": 1,
+      "hash": "014f505286cabbb0f70e648129e1e50fc05898fea1d64e27f664a68eb9671e88"
+    },
+    {
+      "id": "a0cfeb4d-8ff3-419f-b1f0-462828002a85",
+      "legacyIds": [
+        "staple_bbe73a88"
+      ],
+      "name": "日式咖喱饭",
+      "description": "日式咖喱饭是一道浓郁醇厚的家常和风料理，以咖喱块调味，搭配土豆、胡萝卜、洋葱和肉类，口感顺滑绵密、辛香微甜。它富含蛋白质、碳水与多种维生素，能为身体提供充足能量。做法整体不算复杂，但需要掌握火候与搅拌技巧，适合稍有下厨经验的朋友尝试。从备料到出锅约需 1 小时，冷藏后风味更佳。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 730,
+      "imageCount": 1,
+      "hash": "9797d8a6af30b08f1912c203bb8e2d666fd9af90e53c74b6877f7d37dff07b6c"
+    },
+    {
+      "id": "cb2e9b9d-a0fb-4b3d-b1e6-e2ad4e89caea",
+      "legacyIds": [
+        "staple_397be2b0"
+      ],
+      "name": "肉蛋盖饭",
+      "description": "这道菜酱香浓郁、咸甜适口，肉馅焦香、鸡蛋嫩滑，盖在热米饭上十分满足，属于家常快手料理。富含优质蛋白质和必需氨基酸，能快速补充能量。做法简单直观，新手也能轻松上手，从备料到出锅大约只需十五分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1822,
+      "imageCount": 0,
+      "hash": "41197e077bb95dca6f0d0a78a11540f59bf50318d1d1466e6e0d4caa397125ef"
+    },
+    {
+      "id": "66d92835-250b-4ee4-9eb8-4bca25423df0",
+      "legacyIds": [
+        "staple_4c5b7982"
+      ],
+      "name": "陕西油泼面",
+      "description": "这道西北传统面食以筋道的扯面和热油泼出的香辣风味著称，是陕西家喻户晓的日常主食。面条富含碳水化合物，搭配青菜和豆芽，能快速补充能量，膳食搭配合理。整个流程简单明了，对新手十分友好，从备料到出锅大约只需 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 771,
+      "imageCount": 2,
+      "hash": "1c36e3d3a1a7b58a4f62065f5cbe6bec019f1e64ea2831f3400df243b6a2f7ea"
+    },
+    {
+      "id": "56e3011d-113b-4e8b-a32e-86507c8f9d4a",
+      "legacyIds": [
+        "staple_6abcc2f3"
+      ],
+      "name": "手工水饺",
+      "description": "手工水饺是一道中式经典主食，皮薄馅大、鲜美多汁，饱腹又可以根据个人口味随意调味。猪肉馅提供优质蛋白质和脂肪，搭配韭菜还能补充维生素与膳食纤维。这道菜品对新手来说难度较高，需要掌握和面、擀皮、调馅和煮饺的火候，预计制作时间约 3 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 1313,
+      "imageCount": 0,
+      "hash": "d9ea60cdc5f0cb337eff1bf17e7f58b783c37d34594454dfafe79dc666bfb5fd"
+    },
+    {
+      "id": "c01cc713-12dc-4a12-a42f-c5ee73226492",
+      "legacyIds": [
+        "staple_aea9ae4a"
+      ],
+      "name": "酸辣蕨根粉",
+      "description": "酸辣蕨根粉口感爽滑筋道，酸辣开胃，是一道家常凉菜，也可当作主食享用。蕨根粉富含淀粉和膳食纤维，能为身体提供能量。这道菜做法格外简单，对新手非常友好，从准备到完成只需 10 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 318,
+      "imageCount": 0,
+      "hash": "3cbef406cd26ca2b6a8a012db519c71c850a0b58691fdfe9a38aa38b97372a4b"
+    },
+    {
+      "id": "b8cb9ef1-a138-4ea3-b81d-8988e497e6ae",
+      "legacyIds": [
+        "staple_d10ca7ec"
+      ],
+      "name": "汤面",
+      "description": "汤面是一道自由搭配的家常主食，汤汁清爽，面条软滑，兼容各种荤素食材，味道可鲜可淡。它富含碳水化合物和优质蛋白质，搭配蔬菜还能补充维生素与膳食纤维，营养均衡又饱腹。做法非常简单，无需厨艺基础，新手也能轻松驾驭。从准备食材到出锅，一般约需 30 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 565,
+      "imageCount": 0,
+      "hash": "cb47e28c3c60e4eea9b2193f7200faa9270bce4414c0905b5eea3b6862b9c66c"
+    },
+    {
+      "id": "f8ea5fd9-e86b-43be-8466-ae7b6c444bd5",
+      "legacyIds": [
+        "staple_262c78e6"
+      ],
+      "name": "微波炉腊肠煲仔饭",
+      "description": "这是一道简单快手的粤式风味主食，米饭吸足腊肠油脂后油润咸香，搭配脆嫩青菜和胡萝卜，口感层次丰富。富含碳水化合物、蛋白质和多种维生素，营养均衡。烹饪用微波炉操作，对新手十分友好，预计全程仅需 15 分钟即可享用。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 1039,
+      "imageCount": 1,
+      "hash": "8072ddf2f41c5ac44f0acf8b717adde8b49ec0453293e6af67d1f87684f331ed"
+    },
+    {
+      "id": "f62d6719-198f-4e48-a590-a16fc3e3dcaf",
+      "legacyIds": [
+        "staple_07dd9e62"
+      ],
+      "name": "西红柿鸡蛋挂面",
+      "description": "西红柿鸡蛋挂面是一道家常快手面食，酸甜咸鲜，汤汁浓郁，面条劲道，属于融入北方风味的日常主食。鸡蛋提供优质蛋白，西红柿富含番茄红素和维生素，搭配碳水主食，营养均衡。操作简单，步骤清晰，对新手友好，从备料到完成大约只需 20 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 654,
+      "imageCount": 5,
+      "hash": "3e999a859af2d2c2cea39abcac73e0a9ecfe47072111fa7dfd98079021c1f012"
+    },
+    {
+      "id": "40567245-58b1-4d44-8f18-77a82e6d2804",
+      "legacyIds": [],
+      "name": "鲜肉烧卖",
+      "description": "这是一道江南风味的精致点心，皮薄如纸，馅料饱满多汁，咬开时肉香、笋鲜与皮冻融化后的汤汁交融，咸中带甜，口感软嫩弹牙。猪肉和虾仁提供优质蛋白质，冬笋与香菇增添膳食纤维和微量元素，低脂版本进一步减少了饱和脂肪。虽然包制手法需要一点耐心，但整体步骤清晰，新手多加练习也能掌握，从拌馅到出锅大约需要一小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1485,
+      "imageCount": 0,
+      "hash": "59a188dd4ff879a4ac283324b39fc7b67ce42270b8840df5e1ab18cbfe693886"
+    },
+    {
+      "id": "42f36605-0381-4bce-a047-f9829a170964",
+      "legacyIds": [],
+      "name": "咸肉菜饭",
+      "description": "这是一道充满上海弄堂风情的家常主食，咸肉的醇香与青菜的清甜在猪油的点化下融进每一粒米饭，既有锅巴焦脆，又保留菜梗爽嫩，层次分明。青菜富含维生素和膳食纤维，咸肉提供蛋白质与能量，荤素搭配均衡。做法并不复杂，但需要掌握分次下菜叶的小技巧，对新手而言稍有挑战。从头备料到出锅，大约需要 1 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 847,
+      "imageCount": 0,
+      "hash": "d37eaf24f91d3f83e8f298dcc557ac06ab8503d7b699ddebbd7af57862e28157"
+    },
+    {
+      "id": "3ebce8b4-92e1-4ce4-8685-87bbc552b556",
+      "legacyIds": [
+        "staple_0473e652"
+      ],
+      "name": "扬州炒饭",
+      "description": "这是一道配料丰富的升级版炒饭，米饭粒粒分明，鸡蛋嫩滑，搭配虾仁、午餐肉和蔬菜丁，口感层次鲜明，属于淮扬菜系中的经典主食。富含优质蛋白、碳水化合物和多种维生素，营养均衡。步骤虽多但操作直观，对初级烹饪者也较为友好，只需耐心备料。预计制作时长约 1 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1769,
+      "imageCount": 1,
+      "hash": "bf40a73a646e844b1849dbbe161c905f54eb925ee6e77dc036cb1b0c1e838849"
+    },
+    {
+      "id": "ce74c51c-e660-47ff-9f3a-f7d07488b1a9",
+      "legacyIds": [
+        "staple_5b8e7b4c"
+      ],
+      "name": "意式肉酱面",
+      "description": "意式肉酱面是一道简单快手的家常西餐，酱汁浓郁、面条筋道，适合忙碌的日常。肉末和洋葱搭配成品意面酱，能快速补充蛋白质与碳水化合物，洋葱还含有膳食纤维。做法对初学者十分友好，全程只需简单切炒，熟练后 15 分钟就能端上桌，比方便面更满足。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 1199,
+      "imageCount": 3,
+      "hash": "47276d5677516bca510dff993f4f0261edaf7a7131cfeb8a8d4cb3bc174578bc"
+    },
+    {
+      "id": "52344315-85f3-4138-b52f-df1c48f83cf7",
+      "legacyIds": [],
+      "name": "印度烤饼",
+      "description": "这是一道印度风味的发酵烤饼，外表微焦酥脆，内部松软有嚼劲，是咖喱的绝佳搭档。富含碳水化合物和蛋白质，酸奶的加入也让面饼更易消化。制作稍有难度，需注意面团软硬和火候，但平底锅即可操作，提前 1 小时发酵，总耗时约 1.5 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 559,
+      "imageCount": 0,
+      "hash": "4d33fec41c896a42bd6d425139f690cea4e49ea6b3251e389f81ddb7b35c6f97"
+    },
+    {
+      "id": "c91fb224-294f-40aa-aa79-d8f1baccc8b8",
+      "legacyIds": [],
+      "name": "印度焖饭",
+      "description": "印度焖饭是源自莫卧儿帝国时期的皇家料理，米粒细长、香料气息浓郁，鸡肉嫩滑、米饭粒粒分明，层次丰富。富含蛋白质和多种香料精华，能提振食欲。制作步骤较繁琐，对新手不太友好，全程约需 90 分钟（鸡肉需提前腌制 1 小时）。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 5,
+      "estimatedCaloriesKcal": 730,
+      "imageCount": 0,
+      "hash": "d400ac3c63fb3665b66573d6684a789c0e0dbe96a512f5e1ca1a22ec9fcffb32"
+    },
+    {
+      "id": "96b13e23-d60a-4d3c-ba51-d17f3a5e7926",
+      "legacyIds": [],
+      "name": "鹰嘴豆炸饼",
+      "description": "鹰嘴豆咖喱配油炸面饼是北印度经典街头小吃，松软的炸饼搭配香料浓郁的鹰嘴豆，口感层次丰富，酸辣咸香。鹰嘴豆富含植物蛋白和膳食纤维，饱腹又营养。制作步骤稍多，但跟着流程走并不难，适合有一定基础的家常烹饪。约 50 分钟即可完成（鹰嘴豆需提前浸泡 8 小时）。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1098,
+      "imageCount": 0,
+      "hash": "8ccc366cecd99e9a88e21b11593b0814d808bdf89577029186e023bd5bc319f7"
+    },
+    {
+      "id": "2fdbaf14-da70-4cd5-b3e9-1ab080b1e7fa",
+      "legacyIds": [
+        "staple_ab754a08"
+      ],
+      "name": "炸酱面",
+      "description": "炸酱面是一道酱香浓郁、面条劲道的传统北京家常面食，搭配清爽菜码，咸甜适口。主要营养来自瘦肉蛋白质和蔬菜维生素，能为人体提供充足能量。做法对新手友好，预计制作时长约 30 分钟，熟练掌握后可通过备菜与炒酱并行进一步缩短时间。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1272,
+      "imageCount": 0,
+      "hash": "b9aa95a1adf9965e21bf468a0fb4df5fb0579d9683c3002a1e923ecaba8bed80"
+    },
+    {
+      "id": "5291793e-255a-47b1-a554-a8c4fc1fe2e8",
+      "legacyIds": [],
+      "name": "照烧鸡腿饭",
+      "description": "照烧鸡腿饭是一道甜咸适口的下饭菜，鸡腿煎得焦香后融入浓郁酱汁，口感嫩滑入味。鸡腿肉富含优质蛋白，搭配西兰花和胡萝卜能补充膳食纤维与维生素。制作稍需一点去骨技巧，但整体不复杂，新手跟着步骤也能成功。从备料到出锅，大约 30 分钟就能端上餐桌。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1670,
+      "imageCount": 0,
+      "hash": "b1cc4c571f12da5ecfc9a8a8b3c16a48fa3d18d32ed08a11de6cd86d917a1af2"
+    },
+    {
+      "id": "4043b5a9-3fc6-45fd-ab4b-ad3978d8f3a5",
+      "legacyIds": [
+        "staple_76eda847"
+      ],
+      "name": "蒸卤面",
+      "description": "这是一道豫南地区经典的家常面食，荤素搭配，面条吸足汤汁，口感软韧，咸香入味。五花肉提供优质蛋白质和脂肪，芹菜富含膳食纤维。做法简单易学，新手也能从容上手，整体制作约需一小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1563,
+      "imageCount": 0,
+      "hash": "dbb0624b5cd83ba10f5c7b5aff08e6680a038c5d989ccaaa22ab58bcc5acc224"
+    },
+    {
+      "id": "ca6b7deb-ec59-4285-99e1-6bf91e9c8477",
+      "legacyIds": [
+        "staple_0694cdeb"
+      ],
+      "name": "芝麻烧饼",
+      "description": "![芝麻烧饼-预览图-1](./芝麻烧饼.jpg)\n芝麻烧饼是北方家喻户晓的面点，外皮沾满芝麻酥香可口，内层层次分明、松软适口。面粉提供充足的碳水化合物，芝麻含有丰富的钙和不饱和脂肪酸。制作过程虽然包含揉面、做油酥等步骤，但操作并不复杂，初学者也能跟着做出来。从备料到出锅大约需要 40 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 282,
+      "imageCount": 1,
+      "hash": "20a3b9af5a1637d982a5e1c346350911f2f31a2f95115f18c31d43e39929d2d2"
+    },
+    {
+      "id": "86437d6b-c2ec-404d-8ecc-ffcfb745280f",
+      "legacyIds": [
+        "staple_3f5fd253"
+      ],
+      "name": "中式馅饼",
+      "description": "这道饼外皮微脆内里松软，馅料咸香，属于家常面食。富含碳水化合物和蛋白质，搭配胡萝卜和鸡蛋更添营养。制作难度中等，新手需掌握火候，但步骤明确易上手。从备料到完成大约需要 1 小时。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 1265,
+      "imageCount": 0,
+      "hash": "22e431fba2313f67c99c58e4c92b3c98e86d8cb311599ab693400f2b4903cacc"
+    },
+    {
+      "id": "5d373bf0-f36f-4205-8123-90938a9152b8",
+      "legacyIds": [],
+      "name": "猪油拌饭",
+      "description": "这是一道充满南方家常气息的简单拌饭，米粒被融化的猪油包裹，透着酱油的咸鲜和葱花的清香，是许多孩子食欲不振时的安心之选。主要提供快速碳水与脂肪能量，但胆固醇较高，不宜常吃。制作毫无门槛，哪怕完全不会做饭也能轻松完成，煮好的米饭只要几分钟就能拌出一碗香喷喷的主食。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 420,
+      "imageCount": 0,
+      "hash": "2812db0a2535bd66ff900b39a3ea198c206f3b7e5ba129d12980ffc2e5e7ff27"
+    },
+    {
+      "id": "6b6abe5e-9f8b-4427-beae-947ff72b975a",
+      "legacyIds": [
+        "staple_e4f7a374"
+      ],
+      "name": "煮锅蒸米饭",
+      "description": "这是一道朴实无华的家常主食，用普通煮锅就能做出软糯适口的米饭。白米饭主要提供碳水化合物，为身体快速补充能量。做法极为简单，新手只需全程关注火候即可轻松掌握，从下米到出锅大约需要 25 分钟。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 418,
+      "imageCount": 1,
+      "hash": "5957e16006d56f21a68cc9622a71de8e8cbfadba38b07e2aa4d4a7ab640b61b7"
+    },
+    {
+      "id": "c37fc79a-5063-4b15-b874-06fe26f65ef5",
+      "legacyIds": [
+        "staple_179b8ad7"
+      ],
+      "name": "煮泡面加蛋",
+      "description": "煮泡面加蛋是一道便捷的快手主食，口感顺滑，汤味浓郁，适合随时填饱肚子。主要提供碳水化合物和蛋白质，能快速补充能量。做法极其简单，只需烧水、煮面、打入鸡蛋煮熟，新手也能轻松掌握，全程大约 10 分钟即可完成。",
+      "category": "staple",
+      "categoryName": "主食",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 550,
+      "imageCount": 0,
+      "hash": "e1350f498f3979eb8b5c3d6859d726095e3d99a1fa179babd32279330cb73af3"
+    },
+    {
+      "id": "2836cdfa-4c76-4329-b10c-f5916dcefb9e",
+      "legacyIds": [
+        "vegetable_dish_17333c69"
+      ],
+      "name": "拔丝土豆",
+      "description": "拔丝土豆是一道经典的鲁菜，成菜色泽金黄、糖丝细长，外脆里糯、香甜可口。土豆富含碳水化合物和维生素 C，能快速补充能量。这道菜有一定难度，新手需注意熬糖火候，避免翻沙或焦苦。从备料到出锅，预计制作时长约 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1158,
+      "imageCount": 4,
+      "hash": "1540a78a6b743190f7cc510c914dfcf934aed142231c61c05f6163f9355d45d2"
+    },
+    {
+      "id": "0f51da35-16a4-43e2-ad71-ce1959547b16",
+      "legacyIds": [
+        "vegetable_dish_9db3e8b3"
+      ],
+      "name": "白灼菜心",
+      "description": "这道经典粤菜采用白灼技法，沸水快焯保留菜心的清甜与脆嫩，根茎尤为爽口，味道清淡鲜美。富含维生素 C 和膳食纤维，低脂低热量，适合追求健康饮食的人群。做法非常简单，预估难度仅两星，一般初学者只需 15 分钟即可完成，是快速补充绿叶蔬菜的理想选择。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 86,
+      "imageCount": 1,
+      "hash": "1da1d7d387c46d6c3a90974c2fed98f1645cf657951c1ef9e8272751ed290506"
+    },
+    {
+      "id": "70cb4e79-fda8-4e0f-ab03-b0c5a568bebf",
+      "legacyIds": [
+        "vegetable_dish_fa2b187c"
+      ],
+      "name": "包菜炒鸡蛋粉丝",
+      "description": "包菜炒鸡蛋粉丝是一道咸鲜可口的家常快手菜，脆甜的包菜丝与软韧的粉丝、嫩滑的鸡蛋相互融合，口感层次丰富。包菜富含维生素和膳食纤维，鸡蛋提供优质蛋白质，胡萝卜增添营养，荤素搭配均衡。制作时需要提前浸泡粉丝，整体流程稍多但操作并不复杂，对新手有一定挑战性。从备料到出锅，大约需要 1 小时 20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 570,
+      "imageCount": 1,
+      "hash": "8d9809db5addf69ae91a9f3b17d1208acce3ebaa0efb19b129a89472d5ad2175"
+    },
+    {
+      "id": "9e106acb-bc40-464a-976d-9b7dfce197d1",
+      "legacyIds": [
+        "vegetable_dish_0112ec98"
+      ],
+      "name": "菠菜炒鸡蛋",
+      "description": "菠菜炒鸡蛋是一道清淡爽口的家常快手菜，菠菜软嫩、鸡蛋鲜香，属于南北皆宜的大众风味。菠菜富含铁、叶酸和维生素，鸡蛋提供优质蛋白与卵磷脂，搭配食用有助于补血养气、增强体质。整道菜操作简单，非常适合烹饪新手，从备料到出锅大约只需 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 350,
+      "imageCount": 1,
+      "hash": "bbc6fa71e65a644601483dfff9520097adc42c5ebbc4a63df67c07681146aa43"
+    },
+    {
+      "id": "2135a4a7-96ac-4120-bad7-b35498f9a587",
+      "legacyIds": [
+        "vegetable_dish_d5797f24"
+      ],
+      "name": "炒滑蛋",
+      "description": "炒滑蛋是一道口感嫩滑、蛋香浓郁的经典家常菜，带有淡淡的奶香。鸡蛋富含优质蛋白质和多种维生素，营养丰富，易于吸收。做法非常友好，新手也能轻松掌握，从备料到出锅只需约 5 分钟，是忙碌时快速补充能量的理想选择。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 391,
+      "imageCount": 1,
+      "hash": "431e7401ec8d8cbcae68250fa7d4be0514ce4601e91f6816da6ef3d7694e1bde"
+    },
+    {
+      "id": "0324501e-a800-43b5-b77f-711ad45244ff",
+      "legacyIds": [
+        "vegetable_dish_176efb96"
+      ],
+      "name": "炒茄子",
+      "description": "这道家常炒茄子软嫩入味，酱香浓郁，加八角后风味更足。茄子富含膳食纤维、维生素 P 和钾元素，有助于保护心血管。做法简单，对新手友好，全程大火快炒，从备料到出锅大约二十分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 610,
+      "imageCount": 0,
+      "hash": "189712d4fb054ccb11d1389eff01058b7818e5fe6ec630f917ca2c82d027c116"
+    },
+    {
+      "id": "ba9b0d44-9b7d-4df3-8f3f-34832f2d1fee",
+      "legacyIds": [
+        "vegetable_dish_2522b448"
+      ],
+      "name": "炒青菜",
+      "description": "这是一道清爽可口的家常素菜，口感脆嫩、咸鲜回甘。青菜富含维生素与膳食纤维，有助于促进消化。做法非常简单，零基础也能轻松驾驭，从备菜到出锅大约只需 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 152,
+      "imageCount": 0,
+      "hash": "5b338502511153c231e44746146ce3914a567f0ad88ab5a74e405e1bfda5126b"
+    },
+    {
+      "id": "e9f8525b-67f7-4549-b90e-b6989f2b4daa",
+      "legacyIds": [
+        "vegetable_dish_82f297df"
+      ],
+      "name": "葱煎豆腐",
+      "description": "外焦里嫩，葱香浓郁，咸鲜微辣，是一道家常风味。豆腐富含植物蛋白和钙质，搭配青椒和葱段，营养均衡。制作难度适中，煎豆腐时需掌握小火慢煎，新手按步骤耐心操作也能做好，全程约 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 364,
+      "imageCount": 0,
+      "hash": "5c6014551e21fe8371fa720f7fef57684bd9500de84d016ace959db9af9ad552"
+    },
+    {
+      "id": "d3fa410a-5071-4c43-89eb-82dd68565bb6",
+      "legacyIds": [
+        "vegetable_dish_6d092c28"
+      ],
+      "name": "脆皮豆腐",
+      "description": "脆皮豆腐外酥里嫩，酱汁咸甜适口，是一道快手下饭菜。豆腐富含植物蛋白和钙质，鸡蛋提供优质蛋白，营养搭配均衡。制作需要耐心煎出金黄脆皮，但步骤清晰，初学者也能掌握，全程大约需要 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 840,
+      "imageCount": 0,
+      "hash": "738e1de7c4a43008d63ac62137ed59963f98a8061c3cc5a3ddea29a5e9d26723"
+    },
+    {
+      "id": "3fffc974-e368-4349-8d28-96939ae3c76f",
+      "legacyIds": [
+        "vegetable_dish_cd042334"
+      ],
+      "name": "地三鲜",
+      "description": "地三鲜是东北经典家常菜，茄子软糯、土豆绵香、尖椒清脆，酱香咸鲜十分下饭。食材搭配可提供丰富的维生素与膳食纤维，土豆还带来满足的碳水能量。这道菜需要油炸和快速翻炒，有一定技巧要求，新手需稍加练习，制作全程约需 40 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 264,
+      "imageCount": 1,
+      "hash": "62e88ce2547cc32072b1307cbadc0eba20f03aff3d275b16fcd49a4e6b8f7248"
+    },
+    {
+      "id": "7f57401f-a29e-4002-97b8-edc115f2314d",
+      "legacyIds": [
+        "vegetable_dish_ddf35bd4"
+      ],
+      "name": "干锅花菜",
+      "description": "干锅花菜是一道湘味家常菜，口感脆嫩干香，五花肉焦香四溢，带着微微辣意。花菜富含维生素 C 和膳食纤维，搭配五花肉补充蛋白质与能量。制作难度适中，只需注意焯水后充分沥干并把五花肉煸出油脂，适合有一定基础的烹饪新手。从准备到出锅大约需要 40 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 759,
+      "imageCount": 1,
+      "hash": "43ff9294bc9915c28184e16b8db4f379f7497cdcb77eeaa9fadd585880f84521"
+    },
+    {
+      "id": "7011494d-372c-43a2-ba22-2c1504bb3f76",
+      "legacyIds": [
+        "vegetable_dish_ed1125b8"
+      ],
+      "name": "蚝油三鲜菇",
+      "description": "蚝油三鲜菇是一道鲜美滑嫩的家常快手菜，菌菇吸饱蚝油酱汁，口感软滑有嚼劲，带着微微辣意，清爽不腻。富含植物蛋白、膳食纤维和多种维生素，搭配西蓝花营养均衡。制作简单，新手也能轻松掌握，从备料到出锅仅需 大约 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 222,
+      "imageCount": 2,
+      "hash": "ccb7cb5df1b5e8297d63d26c3794f06583328dde799b1732c464cc443d98b677"
+    },
+    {
+      "id": "d10c40e8-09cc-46fa-920f-e2f91d8a81e5",
+      "legacyIds": [
+        "vegetable_dish_d55a92f5"
+      ],
+      "name": "蚝油生菜",
+      "description": "蚝油生菜是一道爽口鲜香的家常菜，脆嫩的生菜淋上蒜香蚝油汁，咸中带甜，属于粤菜和川菜馆都很常见的快手素菜。富含维生素和膳食纤维，有助于促进消化。做法对新手非常友好，从洗菜到出锅大约只需 15 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 125,
+      "imageCount": 0,
+      "hash": "df7b4a9220c1ff77cadecab8d117d0f0175cf08c9bfc7f690b5fd4c9e28b82e6"
+    },
+    {
+      "id": "829fb8a2-634e-4cb1-b8d1-a52136e2b145",
+      "legacyIds": [
+        "vegetable_dish_e376aaf7"
+      ],
+      "name": "红烧冬瓜",
+      "description": "红烧冬瓜是一道色泽红亮、香鲜味美的家常素菜，口感软糯入味，属于大众喜爱的中式烧菜。冬瓜本身富含水分、膳食纤维和维生素 C，具有清热解暑、利尿消肿的作用，搭配简单的调味料，营养又好消化。这道菜对初学者比较友好，操作步骤清晰，只需掌握好火候和调味，预计制作时长约 25 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 519,
+      "imageCount": 2,
+      "hash": "a522198f6000f43b1b652023933844357cefb4fe04ec96cf3775484c247729ca"
+    },
+    {
+      "id": "14a61cfb-863f-4b9a-9d67-b4d720d234c7",
+      "legacyIds": [
+        "vegetable_dish_6815ec92"
+      ],
+      "name": "红烧茄子",
+      "description": "红烧茄子是一道咸香浓郁的家常下饭菜，软糯的茄块吸饱汤汁，搭配柿子椒和番茄，酸辣适口。茄子富含膳食纤维和维生素 P，炸过的茄块香而不腻。制作需要挂糊油炸并慢烧入味，步骤略多但对新手仍可尝试，专注细节就能成功。从备料到出锅大约需要 45 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 547,
+      "imageCount": 0,
+      "hash": "3d00691289193af86d78ceaf2ee54bae4c959328fd61a4974384f9cd2042b6d4"
+    },
+    {
+      "id": "bd663883-d9d5-4d83-8611-ac0694c4709a",
+      "legacyIds": [
+        "vegetable_dish_a9895d68"
+      ],
+      "name": "虎皮青椒",
+      "description": "虎皮青椒是一道家常小菜，外皮微焦起皱，口感软嫩带脆，咸鲜中透着酸甜，十分开胃下饭。青椒富含维生素 C 和膳食纤维，有助于增强免疫力、促进消化。制作过程简单明了，只需掌握按压和火候，对新手也比较友好，一般约 15 分钟就能完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 341,
+      "imageCount": 1,
+      "hash": "278596fb021bedd52e8aac252c65883512e330d4a50dd59d561cb0f4468d091f"
+    },
+    {
+      "id": "fd06e02d-4f6d-40db-89e1-20bb7ba0dc75",
+      "legacyIds": [
+        "vegetable_dish_b7d3f0b0"
+      ],
+      "name": "话梅煮毛豆",
+      "description": "话梅煮毛豆是一道酸甜开胃的家常小菜，口感清爽软糯，带有梅子的自然果香。毛豆富含植物蛋白和膳食纤维，有助于补充能量、促进消化。做法非常简单，新手也能轻松上手，全程只需 35 到 45 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 454,
+      "imageCount": 1,
+      "hash": "28a45718b4a35907aa0cc0fcba99c94f18a6986c032b83146fb185319b0febed"
+    },
+    {
+      "id": "66ac8564-eb71-4795-9b2b-18b74fd15e00",
+      "legacyIds": [
+        "vegetable_dish_b663bdad"
+      ],
+      "name": "鸡蛋羹",
+      "description": "这道菜是一道简单快手的家常蒸菜，口感嫩滑如果冻，咸鲜适口，常作为早餐或配餐出现在各地餐桌。鸡蛋提供优质蛋白质和卵磷脂，易于消化吸收。对新手十分友好，只需简单几步就能蒸出平整细腻的蛋羹，全程大约需要 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 168,
+      "imageCount": 1,
+      "hash": "249c06da19cb55de6bf2b8e3992f8d047bf4c7469a4586458b96a729c5ed4f47"
+    },
+    {
+      "id": "ded9ee1a-5e10-42e7-9077-fa9ecb76a822",
+      "legacyIds": [
+        "vegetable_dish_2291424d"
+      ],
+      "name": "鸡蛋花",
+      "description": "一道简单易做的家常食疗汤饮，有甜咸两种风味，口感柔滑嫩爽，属于民间润喉小方。富含优质蛋白质和卵磷脂，易于消化吸收，可缓解喉咙干痒不适。制作极简单，初学者看一遍就能上手，从烧水到完成大约只需 5 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 107,
+      "imageCount": 0,
+      "hash": "9519de833095b4cb77c1ac9d307203379aa450afe823e51da0c3bdc74877c5f7"
+    },
+    {
+      "id": "6e8e0bec-dc9a-40c9-9901-bca5e8dd051b",
+      "legacyIds": [
+        "vegetable_dish_f29b01cd"
+      ],
+      "name": "鸡蛋火腿炒黄瓜",
+      "description": "这是一道清爽快手的家常小炒，咸鲜适口，黄瓜脆嫩、鸡蛋软滑、火腿增香，属于大众化的中式家常菜。鸡蛋提供优质蛋白，黄瓜富含维生素和水分，火腿补充风味，整体营养均衡。烹饪步骤简单明了，难度很低，对厨房新手非常友好。从备菜到出锅，全程只需约 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 337,
+      "imageCount": 0,
+      "hash": "db57f96e1ccae5beeb404a596b4b98d27f174078c620668ce801df90b5f939c8"
+    },
+    {
+      "id": "f2bdece5-22a4-42a6-9b72-8ac4070ac697",
+      "legacyIds": [
+        "vegetable_dish_eaadc904"
+      ],
+      "name": "茄子炖土豆",
+      "description": "茄子炖土豆是一道东北家常炖菜，口感绵软咸香，带着辣椒的微辣和蒜香，十分下饭。茄子富含花青素和膳食纤维，土豆提供碳水化合物和维生素 C，加上猪肉的蛋白质，营养均衡又饱腹。这道菜操作流程简单，但需要掌握翻炒和收汁的火候，对新手有一定挑战，预估难度中等。从备料到出锅大约需要 45 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 623,
+      "imageCount": 0,
+      "hash": "6d06f3d30ab3fb7a504da57ac23b0ecb3a0d0ce4176cfd3b2672bda75f08f20d"
+    },
+    {
+      "id": "a350774d-3fdd-41e9-8e41-c68c903e4426",
+      "legacyIds": [],
+      "name": "家常日本豆腐",
+      "description": "家常日本豆腐是一道外酥里嫩的家常快手菜，金黄脆壳包裹着柔滑的玉子豆腐，搭配青椒、胡萝卜等时蔬，可调成咸鲜或酸甜风味，脆嫩咸香。日本豆腐以鸡蛋为主要原料，富含优质蛋白，加上木耳和蔬菜，营养均衡。需要一点煎豆腐的技巧，难度适中，新手也能尝试，全程大约 30 分钟即可上桌。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 946,
+      "imageCount": 0,
+      "hash": "03ffda4ac1cf35d48c908bff02ff8c0038f8f04b8a240f821fefc1332d867371"
+    },
+    {
+      "id": "cce1177c-1178-4b7f-a2d0-f00a94bf2443",
+      "legacyIds": [
+        "vegetable_dish_9411cc9e"
+      ],
+      "name": "椒盐玉米",
+      "description": "一道外酥里嫩、咸香扑鼻的风味小食，有着川菜馆里常见的干香口感，咬开是玉米自带的清甜。玉米提供丰富的碳水化合物与膳食纤维，搭配芝麻还能补充优质脂肪和维生素 E。这道菜步骤略多但操作简单，需要一点耐心抖水裹粉，对新手比较友好。从解冻到出锅大约需要 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 693,
+      "imageCount": 1,
+      "hash": "bace2cb42bca464fc7d3aac7fe5be28b7e0530a2f594b465057d401a4adaa740"
+    },
+    {
+      "id": "454a46fb-a280-4dc0-a433-c9fa97dfebc2",
+      "legacyIds": [],
+      "name": "金钱蛋",
+      "description": "金钱蛋是一道外焦里嫩、咸香微辣的湘味家常菜，煎至金黄的蛋片形似铜钱，寓意吉祥。鸡蛋与青红椒搭配，富含优质蛋白质和多种维生素，营养均衡。制作难度中等，新手稍加练习也能掌握，全程约需 30 分钟即可完成下饭菜。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 427,
+      "imageCount": 0,
+      "hash": "7cfca0e868ba7e509e2f936fdb2f45ae3337fcfc807624e66f2f33fad3a44e36"
+    },
+    {
+      "id": "96c9b4dd-cf29-4050-9f31-1faf88b4ae6a",
+      "legacyIds": [
+        "vegetable_dish_3d4f47b4"
+      ],
+      "name": "金针菇日本豆腐煲",
+      "description": "金针菇日本豆腐煲是一道酱香浓郁的家常下饭菜，豆腐外焦里嫩，金针菇爽滑入味。金针菇富含氨基酸和膳食纤维，日本豆腐提供优质蛋白，营养开胃。这道菜步骤简单，新手也能轻松掌握，从备菜到出锅大约需要 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 606,
+      "imageCount": 0,
+      "hash": "391fb742add47b08705c2e54e87ce68cf1d28902e4c334e951e030b15e5d21fc"
+    },
+    {
+      "id": "7c8d2daf-f5e7-430d-83ea-73ddaa2f7e80",
+      "legacyIds": [],
+      "name": "韭菜炒蛋",
+      "description": "韭菜炒蛋是一道经典的家常菜，韭菜香气浓郁，鸡蛋嫩滑鲜美，简单易做，营养丰富。韭菜含有丰富的维生素和纤维素，鸡蛋提供优质蛋白质。这道菜制作简单，原材料易得，特别适合厨房新手入门，从头备菜到盛盘出锅大约只需 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 180,
+      "imageCount": 0,
+      "hash": "eb3c34aa4c92e2e4fd1be446a61fe15521c6197473a7d64ca9a357cbec82b23b"
+    },
+    {
+      "id": "7642c183-5f08-46fe-8435-4ff618cf8707",
+      "legacyIds": [
+        "vegetable_dish_275fbd17"
+      ],
+      "name": "烤茄子",
+      "description": "烤茄子香气浓郁、外焦里嫩，孜然和蒜蓉的辛香完美融入软糯的茄肉，是街头烧烤风味在家轻松复刻的菜品。茄子富含维生素 P 和花青素，有助于保护心血管、抗氧化。做法需要用到烤箱，但步骤清晰，新手也能在大约半 小时完成，很适合作为家庭聚餐的快手下饭菜。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 145,
+      "imageCount": 1,
+      "hash": "6e0380c525cb07fb89e0fefc985759a73eaf00a0ef027efbf0a080b204bf8260"
+    },
+    {
+      "id": "38cf4ee6-08e7-400c-a277-908eee40958f",
+      "legacyIds": [
+        "vegetable_dish_be313e6e"
+      ],
+      "name": "榄菜肉末四季豆",
+      "description": "榄菜肉末四季豆是潮汕风味浓厚的家常小炒，口感咸香脆嫩，十分下饭。四季豆富含膳食纤维与维生素，搭配肉末能提供优质蛋白，橄榄菜则带来独特的鲜咸风味。这道菜步骤清晰，新手也能较快上手，只需注意将四季豆彻底炒熟。从备料到出锅，大约三十分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 720,
+      "imageCount": 1,
+      "hash": "50656239b2f5314da9199ecdaf8c5b08edb06d7a59f5e3e7d8bc6e4130285723"
+    },
+    {
+      "id": "c1166938-fe89-46db-9e1d-f90147a64e95",
+      "legacyIds": [
+        "vegetable_dish_d4dd30fc"
+      ],
+      "name": "雷椒皮蛋",
+      "description": "雷椒皮蛋是一道卖相朴实但风味十足的家常凉菜，青椒的焦香与皮蛋的醇滑交融，酸辣开胃，尤其适合夏日佐餐。皮蛋富含蛋白质和矿物质，青椒提供丰富的维生素 C，大蒜则有助增进食欲。整道菜操作简单，新手也能轻松驾驭，从备料到完成大约只需 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 448,
+      "imageCount": 0,
+      "hash": "bd34a19cebd5f12b921df6f233e59138648d6a85bdd5de95d1b726f2202abd31"
+    },
+    {
+      "id": "7bdfa9a0-1c0b-4c45-8f02-9aebc40f1d3f",
+      "legacyIds": [
+        "vegetable_dish_222c2eed"
+      ],
+      "name": "凉拌豆腐",
+      "description": "这道凉菜清爽可口，富含植物蛋白和钙质，低脂健康，制作简单快捷，一般初学者只需要 10 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 343,
+      "imageCount": 0,
+      "hash": "37343957d2cd2514908839dcf60c3515cd91293989f266cf9d70b826b3ff0b1a"
+    },
+    {
+      "id": "1dec1642-4939-4d4c-b86b-ca87484d1a67",
+      "legacyIds": [
+        "vegetable_dish_7e19aaf5"
+      ],
+      "name": "凉拌黄瓜",
+      "description": "这是一道清爽开胃的家常凉菜，口感脆嫩，酸香适口。黄瓜富含水分和维生素，有助于清热解暑、美容养颜。做法非常简单，对新手友好，只需拍碎、调味、腌制 15 分钟，全程约 20 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 107,
+      "imageCount": 0,
+      "hash": "e0549fd608df5e2a6dce6d4fc6f59e24948f86282fdec57aea47790c99806a6f"
+    },
+    {
+      "id": "a30fb81a-1b25-4e37-903d-acfdf84d8065",
+      "legacyIds": [
+        "vegetable_dish_52c78242"
+      ],
+      "name": "凉拌金针菇",
+      "description": "凉拌金针菇是一道简单快捷的家常开胃凉菜，口感脆嫩爽滑，咸鲜微酸。金针菇富含膳食纤维和多种维生素，热量较低。制作全程只需焯烫和调味，对新手非常友好，忙碌时也能快速准备。从备菜到完成大约只需 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 163,
+      "imageCount": 0,
+      "hash": "39519f18687b3f0e10c32746fd01ce10530842130963a7aabe0fda3a672e1b05"
+    },
+    {
+      "id": "979fe760-169f-4391-88b6-5d417dcb58c3",
+      "legacyIds": [
+        "vegetable_dish_3248b36a"
+      ],
+      "name": "凉拌木耳",
+      "description": "凉拌木耳，由于发放物资中有很多干货，木耳是较为健康的食物。且凉拌木耳的烹饪方式也相对简单。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 129,
+      "imageCount": 10,
+      "hash": "88c6c54ddede535878974d9c103453469e1ce23576eefa5488586f033330c009"
+    },
+    {
+      "id": "0845e580-b058-4aa4-a5e7-ce716e4c07b6",
+      "legacyIds": [
+        "vegetable_dish_20cca943"
+      ],
+      "name": "凉拌莴笋",
+      "description": "一道清脆爽口的家常凉拌小菜，莴笋经过腌制后格外脆嫩，带着微微辣意，十分开胃。富含维生素与膳食纤维，热量不高。做法简单，对新手很友好，从备料到上桌大约二十分钟，冰镇后风味更佳。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 295,
+      "imageCount": 1,
+      "hash": "0a7cb79464699c0f82a3175777b3b23071697d0c20e8e90c7e85690e25d04c06"
+    },
+    {
+      "id": "d7f9e0cd-52f9-46bf-8aab-f90e6aa0474f",
+      "legacyIds": [
+        "vegetable_dish_ab718bbb"
+      ],
+      "name": "凉拌油麦菜",
+      "description": "一道清爽解腻的家常凉菜，芝麻酱的醇厚包裹着油麦菜的脆嫩，酸甜咸香交织，非常开胃。油麦菜富含维生素和膳食纤维，芝麻酱则补充钙与健康脂肪，营养均衡。做法毫无难度，切一切、拌一拌就行，从准备到上桌只需十几分钟，特别适合新手和忙碌时快速成菜。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 191,
+      "imageCount": 0,
+      "hash": "d78c4af9f3d5fc8a2655a0702067daf5a37d02c1c1c821c5297e49451d64233f"
+    },
+    {
+      "id": "f1ecf330-b3a1-44d9-8a41-85f6e555445d",
+      "legacyIds": [],
+      "name": "皮蛋豆腐",
+      "description": "皮蛋豆腐是一道清爽开胃的凉拌家常菜，松花蛋 Q 弹滑嫩，嫩豆腐入口即化，咸香微酸的口味特别下饭。豆腐富含优质植物蛋白和钙，皮蛋则提供铁、维生素 A 等营养素，搭配食用易于消化吸收。制作过程几乎零门槛，新手也能轻松完成，从备料到上桌仅需 大约 5 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 566,
+      "imageCount": 0,
+      "hash": "8a3687d04c721623923885cd32c4bd19be844369b26696d84ae34d2f5a77ee6c"
+    },
+    {
+      "id": "9a75aca3-1b0d-4327-a125-a6f2937bb378",
+      "legacyIds": [
+        "vegetable_dish_dca37e25"
+      ],
+      "name": "蒲烧茄子",
+      "description": "蒲烧茄子是一道咸甜交织、口感软糯的家常菜，借鉴日式蒲烧风味却用中式煎烧手法烹制。茄子富含膳食纤维和多种维生素，有助于清热活血。难度适中，对新手稍需耐心，预计制作时长约 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 326,
+      "imageCount": 0,
+      "hash": "664ba7674bd2b0666f2d7bb070c645a296f66915f255e0b9b10e0999868e2470"
+    },
+    {
+      "id": "c0819a92-6029-4c5e-a17f-3ecfce8e5210",
+      "legacyIds": [],
+      "name": "乾隆白菜",
+      "description": "乾隆白菜是一道经典的北京风味凉菜，以手撕白菜心拌上浓稠芝麻酱汁，口感酸甜爽脆、醇厚开胃。白菜富含维生素和膳食纤维，芝麻酱则带来优质脂肪与钙质，清爽解腻又营养。全程不炒不煮，调酱拌匀即可，对新手十分友好，一般仅需 10 分钟便能端上餐桌。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 150,
+      "imageCount": 1,
+      "hash": "1a38e654038de737e89aa88c34c73c5ecc2f5283696574e7cf127e6997e631a4"
+    },
+    {
+      "id": "888c30cd-d1f8-4bb8-bd35-87cba90d5b44",
+      "legacyIds": [
+        "vegetable_dish_c802865b"
+      ],
+      "name": "芹菜拌茶树菇",
+      "description": "这是一道清爽脆嫩的凉拌菜，芹菜脆嫩与茶树菇的嚼劲相得益彰，口感层次丰富。富含多种维生素和矿物质，营养又开胃。做法非常简单，新手也能轻松掌握，从备菜到完成只需约 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 127,
+      "imageCount": 2,
+      "hash": "6d84892ab1712d6739825997fbbd4b35f52128311068b9ddb180f4b336b040fe"
+    },
+    {
+      "id": "d1456127-aea3-4b9c-9e16-e4a9e941730a",
+      "legacyIds": [
+        "vegetable_dish_e1eb3209"
+      ],
+      "name": "清炒花菜",
+      "description": "一道常见的家常素菜，口感脆嫩爽口。富含维生素 C 和膳食纤维。做法简单快捷，一般初学者仅需 15 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 211,
+      "imageCount": 0,
+      "hash": "1077c84293d127143ffb404405dadda1deff0de6c2933a795917d1acb61e8a0d"
+    },
+    {
+      "id": "7d03562a-082c-459e-8939-c02acd550c6c",
+      "legacyIds": [
+        "vegetable_dish_6a816343"
+      ],
+      "name": "清蒸南瓜",
+      "description": "一道原汁原味的家常蒸菜，最大程度保留南瓜的天然甜味与营养，口感软糯香甜，既可当甜点也可作主食。南瓜富含β-胡萝卜素和膳食纤维，有益视力与肠胃健康。制作极其简单，新手也能轻松搞定，从切配到出锅仅需 15-20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 1,
+      "estimatedCaloriesKcal": 80,
+      "imageCount": 0,
+      "hash": "efad4da7b88d59e81384bc0cd4e7c00102de8d02f7d6fe01539fdfbc089dd9e1"
+    },
+    {
+      "id": "0ab03eff-f47f-4e42-9878-360f08b1802f",
+      "legacyIds": [
+        "vegetable_dish_6af9ab96"
+      ],
+      "name": "陕北熬豆角",
+      "description": "这是一道西北农家风味的炖菜，豆角绵软、土豆沙糯、番茄汤汁浓郁，酸香开胃。富含膳食纤维、维生素和碳水化合物，营养均衡。做法极其简单，食材用量可随喜好调整，几乎没有失败的可能，对新手特别友好。从备料到出锅，大约只需 30 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 191,
+      "imageCount": 0,
+      "hash": "0145b4246658966823a1e86218f1a1637907b2c34fda10b9eb0c2011f0f02519"
+    },
+    {
+      "id": "38237b4c-952b-4771-9b65-d4bf4e58a551",
+      "legacyIds": [
+        "vegetable_dish_7c982b8e"
+      ],
+      "name": "上汤娃娃菜",
+      "description": "这道上汤娃娃菜清甜鲜美，口感软嫩，属于家常素菜，尤其适合减肥期间食用。娃娃菜富含维生素和膳食纤维，低脂低热量，搭配皮蛋和午餐肉增添风味又不会过多增加负担。制作难度适中，新手也能尝试，从备菜到出锅大约只需 20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 158,
+      "imageCount": 1,
+      "hash": "3946637eeeb44d4ccdda5d689e0576acdfe7460df25d662da39941a4fdc78bb7"
+    },
+    {
+      "id": "d002f6b3-80eb-4199-9e4a-9e15b0ef65e3",
+      "legacyIds": [
+        "vegetable_dish_b8a552e4"
+      ],
+      "name": "手撕包菜",
+      "description": "手撕包菜是一道酸辣脆爽的经典湘菜，成菜包菜脆嫩入味，五花肉干香不腻，开胃下饭。包菜富含维生素 C 和膳食纤维，搭配五花肉能提供蛋白质和能量。制作时需要掌握大火快炒的火候，对新手稍有挑战，但按步骤操作也能成功。从备料到出锅大约 20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 1663,
+      "imageCount": 4,
+      "hash": "699a1113f70a96503774cc00a8a427f29b443e7096009d4bded4ec1ef917966c"
+    },
+    {
+      "id": "c09dd562-6f8f-4cb8-af90-cbb5a610789e",
+      "legacyIds": [
+        "vegetable_dish_849db323"
+      ],
+      "name": "水油焖蔬菜",
+      "description": "水油焖蔬菜是一道简单快手的家常佐餐，通过沸水加几滴油和调料，让叶菜口感软嫩、色泽油亮，既清爽又带有淡淡油香。这种做法有助于提高脂溶性维生素的吸收率，比生吃蔬菜更有营养价值。烹饪难度低，对新手非常友好，从洗菜到出锅一般只需 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 92,
+      "imageCount": 0,
+      "hash": "7098021feeba66c8eba924d54d865b5ea8a004e4d325394fac8d0d440b845895"
+    },
+    {
+      "id": "00c3e18a-849f-494f-b82e-9c863b5b96d3",
+      "legacyIds": [
+        "vegetable_dish_707c735b"
+      ],
+      "name": "松仁玉米",
+      "description": "松仁玉米是一道口感清甜脆嫩的家常快手菜，松仁香酥、玉米甜润，属于广受欢迎的北方家常风味。玉米和松仁搭配，能提供丰富的膳食纤维、不饱和脂肪酸和多种维生素，营养均衡。做法简单，新手也能轻松驾驭，从备料到出锅一般只需大约十五 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 580,
+      "imageCount": 0,
+      "hash": "0429fa3ac2a37308c726390f266fd66f4dac558f4652fa0133844460d26019ec"
+    },
+    {
+      "id": "32906072-1b07-49b3-8ff5-cba048fe1866",
+      "legacyIds": [
+        "vegetable_dish_43f0a330"
+      ],
+      "name": "素炒豆角",
+      "description": "这是一道酱香浓郁的家常小炒，豆角软嫩入味，鲜辣下饭。富含膳食纤维和多种维生素，有助于促进消化。做法简单，新手也能轻松上手，从备菜到出锅大约 20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 107,
+      "imageCount": 0,
+      "hash": "03369616511170fc48e0b46bb61502ac16ea3cc74047220b1356cdba4c8e6c62"
+    },
+    {
+      "id": "2f8e1fcb-1721-4f67-93aa-44f19146853f",
+      "legacyIds": [
+        "vegetable_dish_506d310c"
+      ],
+      "name": "酸辣土豆丝",
+      "description": "酸辣开胃的经典家常菜，口感脆爽，色泽鲜亮，属于大众喜爱的快手小炒。土豆提供碳水化合物和钾元素，辣椒富含维生素 C，有助于增进食欲。操作步骤简单明了，对新手十分友好，从备料到出锅大约只需 20 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 374,
+      "imageCount": 0,
+      "hash": "9d9951587447f00744d55966ae202c3bf9a15661118e02150f945ebbe4e4b36c"
+    },
+    {
+      "id": "25e4c78f-6a46-4643-9293-e8a61912067a",
+      "legacyIds": [],
+      "name": "蒜蓉炒芹菜",
+      "description": "蒜蓉炒芹菜是一道清脆爽口、蒜香浓郁的家常快手素菜。芹菜富含膳食纤维、维生素 K 和钾元素。这道菜的灵魂在于「脆」——大火快炒半分钟即出锅，口感脆生生的，一口咬下去还有汁水。从备料到出锅大约只需 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 150,
+      "imageCount": 1,
+      "hash": "1626a70e47060cb3dd2fc08cf47e546e48095d96dbea0df90941e07e38352360"
+    },
+    {
+      "id": "2c5c8ffd-5d19-49b3-a2fe-0b177eab3ef9",
+      "legacyIds": [
+        "vegetable_dish_8301a7b3"
+      ],
+      "name": "蒜蓉空心菜",
+      "description": "蒜蓉空心菜是一道清脆爽口、蒜香浓郁的家常快手菜，属于典型的川式小炒风味。空心菜富含膳食纤维、维生素和钙质，有助于促进肠道蠕动。做法非常简单，对新手十分友好，从备料到出锅大约只需 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 440,
+      "imageCount": 1,
+      "hash": "b4e15ebf47101ff22cde93a85b9821faf4a0a21b2f89f98d0e2c0cff99cfe6c9"
+    },
+    {
+      "id": "7aa4195e-231e-4152-b00f-5c007cadf839",
+      "legacyIds": [
+        "vegetable_dish_81a3a7b8"
+      ],
+      "name": "蒜蓉西兰花",
+      "description": "这道家常蔬菜以蒜香浓郁、调味简单见长，西兰花焯水后软嫩或微脆，清淡鲜美。富含维生素 C、膳食纤维和多种抗氧化物质，是营养均衡的快手素菜。制作过程不难，新手也能轻松掌握，从备料到出锅一般约 15 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 187,
+      "imageCount": 0,
+      "hash": "76ddf88e6bd067393eb30f8968017d4e4517f40632a3b18cbef8579bed4518f1"
+    },
+    {
+      "id": "c85eb87a-79fc-416b-9c69-deec70333772",
+      "legacyIds": [
+        "vegetable_dish_efb666d9"
+      ],
+      "name": "糖拌西红柿",
+      "description": "这是一道适合夏季的家常凉菜，酸甜爽口，制作简便。西红柿富含维生素 C，开胃解腻。新手也能轻松完成，整个过程（包含冷藏）约 15 分钟即可上桌。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 104,
+      "imageCount": 1,
+      "hash": "964fead1fba14b6660c589a4667ee971e93f057d3a7162c0b356072ede65ca49"
+    },
+    {
+      "id": "59000a27-7853-4eea-ad59-9c626bfd0911",
+      "legacyIds": [
+        "vegetable_dish_5ddd10d5"
+      ],
+      "name": "微波炉鸡蛋羹",
+      "description": "![微波炉鸡蛋羹](./微波炉鸡蛋羹.jpg)\n微波炉鸡蛋羹是一道简单快手的家常蒸蛋，口感嫩滑细腻，尤其适合作为夜宵或快速加餐。鸡蛋富含优质蛋白质和多种维生素，能为身体提供必要营养，虾皮还补充了钙质。这道菜对新手非常友好，无需掌握火候技巧，从打蛋调味到出炉，全程仅需约 10 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 160,
+      "imageCount": 1,
+      "hash": "499ad9590df212cf1a6b7a994ab3eb090addb9866f54336f723a2067bc3f5101"
+    },
+    {
+      "id": "419f234a-956c-425a-9323-043d1d8709e9",
+      "legacyIds": [
+        "vegetable_dish_38609c21"
+      ],
+      "name": "莴笋叶煎饼",
+      "description": "莴笋叶煎饼是一道简单快手的家常小吃，口感外酥里嫩，带有莴笋叶的清香味。莴笋叶富含维生素和膳食纤维，搭配鸡蛋补充优质蛋白，营养均衡。制作过程无需复杂技巧，只需搅拌并煎制两面，新手也很容易上手，预计从备料到出锅仅需 大约 10 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 477,
+      "imageCount": 3,
+      "hash": "5b33244be3a91a3e11f65a5ac1d733c8e6a6bed2b2410d9d35e83de1726eb123"
+    },
+    {
+      "id": "f5bb3c5b-b901-45d5-aa0d-185c02b26f5f",
+      "legacyIds": [
+        "vegetable_dish_94504627"
+      ],
+      "name": "西红柿炒鸡蛋",
+      "description": "一道酸甜开胃的家常菜肴，嫩滑的鸡蛋裹着软烂多汁的西红柿，是中国家庭餐桌上的经典味道。鸡蛋提供优质蛋白质，西红柿富含维生素 C 和番茄红素，营养均衡好吸收。步骤简单，原材料易得，特别适合厨房新手入门，从头备菜到盛盘出锅大约只需 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 252,
+      "imageCount": 0,
+      "hash": "b12c9d330acad0ece5caaa1c276845d37dfe3b8c69d8b35a7f9e6abb2cfd0d7e"
+    },
+    {
+      "id": "0b4212d1-c638-4e16-9081-7214e35e1c56",
+      "legacyIds": [
+        "vegetable_dish_9be9b313"
+      ],
+      "name": "西红柿豆腐汤羹",
+      "description": "一道清淡鲜美的家常汤羹，酸甜开胃，口感嫩滑。西红柿富含维生素 C 和番茄红素，搭配鸡蛋与豆腐，能补充优质蛋白，营养均衡易吸收。做法简单，只需切配翻炒和煮制，新手也能轻松掌握，从准备到出锅大约 15 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 242,
+      "imageCount": 1,
+      "hash": "d3cf2528ad2a47e1568dcbf0707eff895b95bc881a4182ba1a3187ffd8a55fcd"
+    },
+    {
+      "id": "afd67abe-b463-48a0-be73-5154d3df2ff9",
+      "legacyIds": [
+        "vegetable_dish_766fa6e4"
+      ],
+      "name": "西葫芦炒鸡蛋",
+      "description": "西葫芦炒鸡蛋是一道清爽可口的家常快手菜，西葫芦软嫩多汁、鸡蛋鲜香松软，加入西红柿后更添酸甜风味，十分下饭。鸡蛋提供优质蛋白质和卵磷脂，西葫芦含有丰富的维生素 C 和膳食纤维，搭配食用营养均衡。制作过程简单，对新手非常友好，从备料到出锅一般初学者只需 15 分钟即可完成。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 224,
+      "imageCount": 1,
+      "hash": "193342d53d73016bae76f694d0901bb4b0cdb0172c6cbaf0bd8dc0ec5b94a280"
+    },
+    {
+      "id": "addd859b-ccd1-4678-9878-b51042ca5837",
+      "legacyIds": [
+        "vegetable_dish_68e6de93"
+      ],
+      "name": "小炒藕丁",
+      "description": "小炒藕丁是一道快手家常素菜，藕丁脆嫩爽口，咸鲜中带着微微辣意，非常下饭。莲藕富含膳食纤维和维生素，有助于清热润燥。制作简单，只要注意藕丁焯水和调味，厨房新手也能轻松完成。全程大约 20 分钟就能端上餐桌。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 214,
+      "imageCount": 1,
+      "hash": "98928ce910891c0ac7baf7415d0fd5e920f1c680d6a52b8144ccb22eb9c30d21"
+    },
+    {
+      "id": "94066175-4fcc-4839-bdbc-90d16bf84166",
+      "legacyIds": [
+        "vegetable_dish_4ba1c728"
+      ],
+      "name": "洋葱炒鸡蛋",
+      "description": "洋葱炒鸡蛋是一道咸香适口、葱香浓郁的家常菜肴，鸡蛋嫩滑，洋葱清甜，属于国民下饭菜。鸡蛋富含优质蛋白质和多种维生素，洋葱含有膳食纤维和抗氧化物质，是一道营养均衡的快手菜。这道菜操作极其简单，对新手非常友好，从备料到出锅只需约 5 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 562,
+      "imageCount": 1,
+      "hash": "51845c965f4124623ff53c291ee2adb1e2f65514ddb012418d320b0f5bbb366f"
+    },
+    {
+      "id": "197d2653-6741-4718-a85f-8afe87e1cc14",
+      "legacyIds": [],
+      "name": "印度葫芦丸子",
+      "description": "这道北印度素菜将葫芦擦丝与鹰嘴豆粉团成丸子，油炸后浸入番茄洋葱咖喱，外酥内软、酱汁浓郁香辛。瓠瓜清润、鹰嘴豆粉提供植物蛋白与膳食纤维，是一道饱腹又均衡的素食。制作涉及油炸和熬酱，步骤稍多但按序操作不难掌握，全程大约需要 40 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 4,
+      "estimatedCaloriesKcal": 571,
+      "imageCount": 0,
+      "hash": "8da6d434481cfdebcda076a8eb2fdc98fb2bb7515447ea40ed8e4ceb54432d20"
+    },
+    {
+      "id": "18d7c38c-2506-4762-ac79-2d0c14e6c358",
+      "legacyIds": [],
+      "name": "印度土豆花菜",
+      "description": "这道印度家常素菜以干香金黄、香料浓郁为特点，土豆绵软、花菜略带焦边，属于北印度风味。土豆和花菜富含膳食纤维与维生素 C，营养均衡。做法简单，对新手友好，从准备到出锅约需 25 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 668,
+      "imageCount": 0,
+      "hash": "431469bdd4589b8deb20061be3a73c3a435405c8f1c9de8ff9b808926a610cc5"
+    },
+    {
+      "id": "3d8cb173-7899-4c57-b798-2851b38387d5",
+      "legacyIds": [
+        "vegetable_dish_8461cd0d"
+      ],
+      "name": "油醋爆蛋",
+      "description": "这是一道湘味十足的家常快手下饭菜，酸辣鲜香，鸡蛋焦香蓬松裹满浓郁汤汁，十分开胃。鸡蛋提供优质蛋白质和卵磷脂，搭配香醋更有助于促进食欲。做法极其简单，新手友好，从准备到出锅仅需大约十分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 2,
+      "estimatedCaloriesKcal": 471,
+      "imageCount": 0,
+      "hash": "39e79d98063738c349a580202003378de8bf518e4c9555eee8556a455867cd83"
+    },
+    {
+      "id": "1d1cd427-2060-4c0e-8470-16bb6bd2e17f",
+      "legacyIds": [
+        "vegetable_dish_dc28d501"
+      ],
+      "name": "蒸箱鸡蛋羹",
+      "description": "这是一道利用蒸箱快速制作的嫩滑家常蛋羹，口感可调，水少则弹、水多则嫩。富含优质蛋白质和多种营养素，易于消化吸收。难度适中，新手稍加注意即可掌握，从准备到出锅大约只需 15 分钟。",
+      "category": "vegetable_dish",
+      "categoryName": "素菜",
+      "difficulty": 3,
+      "estimatedCaloriesKcal": 118,
+      "imageCount": 0,
+      "hash": "c8c235e62d16bceac46ba017b6e9de9304b15e14beaf602a98a46f057c6d88a4"
+    }
+  ],
+  "tips": [
+    {
+      "id": "tips_advanced_120ea12c",
+      "title": "辅料技巧",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "6bf54039f3cb34b43760b48a814d81099bb67951a0d5ad660da5a132f833d7a1"
+    },
+    {
+      "id": "tips_advanced_643e6941",
+      "title": "糖色的炒制",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "b28bcd8b8e352541a04a11c6bd92f65aa0dd264917a044516b32d41ac8d7d2a2"
+    },
+    {
+      "id": "tips_advanced_baf16ff3",
+      "title": "油温判断技巧及常见温度和单位换算表",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "927d0a7bbdc8f96c219e498406890d7ce84d91950eeacbc416ea1b7b16a25315"
+    },
+    {
+      "id": "tips_advanced_86e4b143",
+      "title": "做菜专业术语",
+      "category": "advanced",
+      "categoryName": "进阶知识",
+      "hash": "bfe39bd74cf886fffd046080ca401e2341871813e6f60b7d9717e96d5ec5032c"
+    },
+    {
+      "id": "tips_general_437ff646",
+      "title": "厨房准备",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "300d2994d1a12edac6fff79d7011d5af299759f6f581fede0d777b58ebe1bb0c"
+    },
+    {
+      "id": "tips_general_31cf7819",
+      "title": "如何决策吃什么",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "1a172b988b9f5e2d875b5d435e9c9a1cfa92a88c293993bf67abf60a0b118eef"
+    },
+    {
+      "id": "tips_general_96d4ce86",
+      "title": "如何洗碗",
+      "category": "general",
+      "categoryName": "基础知识",
+      "hash": "4f040bd08d5beb7c8e69ffe2fe5103dc4710f50ac4191e68be4292ab113f7252"
+    },
+    {
+      "id": "tips_learn_bfb8a52d",
+      "title": "焯水",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "d00a962fbf69ad2039cdfe84c28e8a352c7c6c91e218fd2d1b68b35d73acc676"
+    },
+    {
+      "id": "tips_learn_18a7f609",
+      "title": "炒/煎",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "7a0a9404541c1ba7b7e1e6b6cad590c8e835b98e78c425ecb66c6b6aa7af4260"
+    },
+    {
+      "id": "tips_learn_2cafb838",
+      "title": "凉拌",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "feb2c2ae41947dd440acdf9f33762590c2f7d0afc39c00c035ea5ea22d0d5772"
+    },
+    {
+      "id": "tips_learn_5f8b33ae",
+      "title": "去腥",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "5193a0ea3d7a527f38a0eed250cc8be6fc8139f27eb37ad1e435ad80519024c4"
+    },
+    {
+      "id": "tips_learn_50d892d9",
+      "title": "食品安全",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "384d5903da281181bd767af399d64b713d00075c3cdd28f26b9843bbdbf50e86"
+    },
+    {
+      "id": "tips_learn_da10c0fb",
+      "title": "使用空气炸锅",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "f88252fef3f970756888b8e08abf1fb8d3fb156c4f47f6e6642f91a70a48bada"
+    },
+    {
+      "id": "tips_learn_5bc00924",
+      "title": "使用微波炉",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "2a54928e4dd16fdfde911904517fd592c6adc2f626c6726014b78bf2191aea65"
+    },
+    {
+      "id": "tips_learn_50ddd8bd",
+      "title": "腌（肉）",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "c25b78fdac52300b4c7fa2f1b10e78f21070aff66c00664b9e234a1477a72126"
+    },
+    {
+      "id": "tips_learn_8cedf993",
+      "title": "蒸",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "7ffdc770475ea5ffd7a1fac902c3ecb4eb4ffce8d6c15bc991f2a1db6f116f65"
+    },
+    {
+      "id": "tips_learn_ca3c962e",
+      "title": "蒸（米）/炖（使用电饭煲/高压锅/电压力锅）",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "b392f8a8a5eee8610783ce338ea035f3bfd7782517a44ec9fc72399f03dd9a20"
+    },
+    {
+      "id": "tips_learn_db109b60",
+      "title": "煮",
+      "category": "learn",
+      "categoryName": "基础技法",
+      "hash": "7ab99c6d54089f155c5193b06ec72eb6dda21d2275481b919a9cbe3e14122cd8"
+    }
+  ],
+  "hash": "01c25f66c8f34d9a95c6e97d0f54c982e50e9c86492522999267998e7e3dda4d"
+}

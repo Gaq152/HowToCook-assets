@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "id": "454a46fb-a280-4dc0-a433-c9fa97dfebc2",
+  "legacyIds": [],
+  "name": "金钱蛋",
+  "description": "金钱蛋是一道外焦里嫩、咸香微辣的湘味家常菜，煎至金黄的蛋片形似铜钱，寓意吉祥。鸡蛋与青红椒搭配，富含优质蛋白质和多种维生素，营养均衡。制作难度中等，新手稍加练习也能掌握，全程约需 30 分钟即可完成下饭菜。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 427,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "线椒",
+      "markdown": "线椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米淀粉（可选）",
+      "markdown": "玉米淀粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 线椒\r\n- 小米辣\r\n- 豆瓣酱\r\n- 蒜\r\n- 小葱\r\n- 玉米淀粉（可选）\r\n- 食用油\r\n- 生抽\r\n- 蚝油\r\n- 糖",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米淀粉",
+      "text": "玉米淀粉 40 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 20-35 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "线椒",
+      "text": "线椒 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 6-15 g（约 2-5 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 10 g（约 2-3 瓣）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 3 g（约 1-2 根）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 鸡蛋 5 个\r\n- 玉米淀粉 40 g\r\n- 食用油 20-35 ml\r\n- 线椒 15 g\r\n- 小米辣 6-15 g（约 2-5 个）\r\n- 豆瓣酱 15 ml\r\n- 蒜 10 g（约 2-3 瓣）\r\n- 小葱 3 g（约 1-2 根）\r\n- 生抽 15 ml\r\n- 蚝油 15 ml\r\n- 糖 5 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋冷水下锅，大火煮开转小火煮 8 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "用自来水冲凉，方便剥皮"
+    },
+    {
+      "kind": "step",
+      "description": "蒜切沫（粒径不大于 1 mm），线椒和小米辣切小粒（约 2-3 mm）"
+    },
+    {
+      "kind": "step",
+      "description": "每个熟鸡蛋沿短轴切成体积类似的 4 份"
+    },
+    {
+      "kind": "step",
+      "description": "如果打算沾淀粉，每片鸡蛋粘上淀粉，抖掉多余的淀粉"
+    },
+    {
+      "kind": "step",
+      "description": "锅内放入 25 ml 油（如果不沾淀粉，放 20 ml），放入熟鸡蛋片"
+    },
+    {
+      "kind": "step",
+      "description": "煎至微焦黄后，补 10 ml 油（如果不沾淀粉，补 10 ml），翻面"
+    },
+    {
+      "kind": "step",
+      "description": "第二面微黄后，加入线椒、小米辣、蒜末煎制约一分钟，翻面"
+    },
+    {
+      "kind": "step",
+      "description": "接着加豆瓣酱煎制约几十秒，翻面"
+    },
+    {
+      "kind": "step",
+      "description": "生抽、耗油、糖调成汁，轻轻颠锅后即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋冷水下锅，大火煮开转小火煮 8 分钟\r\n2. 用自来水冲凉，方便剥皮\r\n3. 蒜切沫（粒径不大于 1 mm），线椒和小米辣切小粒（约 2-3 mm）\r\n4. 每个熟鸡蛋沿短轴切成体积类似的 4 份\r\n5. 如果打算沾淀粉，每片鸡蛋粘上淀粉，抖掉多余的淀粉\r\n6. 锅内放入 25 ml 油（如果不沾淀粉，放 20 ml），放入熟鸡蛋片\r\n7. 煎至微焦黄后，补 10 ml 油（如果不沾淀粉，补 10 ml），翻面\r\n8. 第二面微黄后，加入线椒、小米辣、蒜末煎制约一分钟，翻面\r\n9. 接着加豆瓣酱煎制约几十秒，翻面\r\n10. 生抽、耗油、糖调成汁，轻轻颠锅后即可出锅",
+  "tips": "- 原汁原味的做法建议放 15 g，不能吃辣的减少到 6 g，还可以剔除辣椒籽\r\n- 推荐使用不粘锅，使用不粘锅时初次放油可以减少 5 ml\r\n- 应确保鸡蛋剥皮时已经完全凝固\r\n- 不宜过度翻炒，容易散\r\n- 参考资料：[【步骤图】湘菜馆-金钱蛋的做法_湘菜馆-金钱蛋的做法步骤_家常菜_下厨房](https://www.xiachufang.com/recipe/107161729/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 原汁原味的做法建议放 15 g，不能吃辣的减少到 6 g，还可以剔除辣椒籽\r\n- 推荐使用不粘锅，使用不粘锅时初次放油可以减少 5 ml\r\n- 应确保鸡蛋剥皮时已经完全凝固\r\n- 不宜过度翻炒，容易散\r\n- 参考资料：[【步骤图】湘菜馆-金钱蛋的做法_湘菜馆-金钱蛋的做法步骤_家常菜_下厨房](https://www.xiachufang.com/recipe/107161729/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/金钱蛋.md"
+  },
+  "hash": "7cfca0e868ba7e509e2f936fdb2f45ae3337fcfc807624e66f2f33fad3a44e36"
+}

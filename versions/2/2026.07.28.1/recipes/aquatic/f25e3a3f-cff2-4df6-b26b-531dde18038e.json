@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "id": "f25e3a3f-cff2-4df6-b26b-531dde18038e",
+  "legacyIds": [],
+  "name": "酱炖蟹",
+  "description": "这道菜是浙江平湖地区的秋日限定咸鲜风味，蟹黄绵润裹着酱香，蟹肉清甜，汤汁拌饭一绝。富含优质蛋白和微量元素。难度适中，适合有基础的新手，从准备到出锅大约 30 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 468,
+  "requirements": [
+    {
+      "text": "螃蟹（首选河蟹，次选梭子蟹）",
+      "markdown": "螃蟹（首选河蟹，次选梭子蟹）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖（可选）",
+      "markdown": "冰糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜油（未脱色的菜籽油，俗称“毛菜油”或“土菜油”，备选花生油）",
+      "markdown": "菜油（未脱色的菜籽油，俗称“毛菜油”或“土菜油”，备选花生油）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老姜",
+      "markdown": "老姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋（可选）",
+      "markdown": "鸡蛋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉末（可选）",
+      "markdown": "猪肉末（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 螃蟹（首选河蟹，次选梭子蟹）\r\n- 豆瓣酱\r\n- 冰糖（可选）\r\n- 老抽\r\n- 菜油（未脱色的菜籽油，俗称“毛菜油”或“土菜油”，备选花生油）\r\n- 番茄酱\r\n- 料酒\r\n- 老姜\r\n- 小葱\r\n- 鸡蛋（可选）\r\n- 猪肉末（可选）",
+  "ingredients": [
+    {
+      "name": "螃蟹",
+      "text": "螃蟹 500 g（约 3-4 只中等河蟹）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 30-50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 0-15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜油",
+      "text": "菜油 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老姜",
+      "text": "老姜 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（约 50 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉末",
+      "text": "猪肉末 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 500 mL",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 螃蟹 500 g（约 3-4 只中等河蟹）\r\n- 豆瓣酱 30-50 g\r\n- 冰糖 0-15 g\r\n- 老抽 15 ml\r\n- 菜油 20 ml\r\n- 番茄酱 15 ml\r\n- 料酒 5 ml\r\n- 老姜 10 g\r\n- 葱 10 g\r\n- 鸡蛋 1 个（约 50 g）\r\n- 猪肉末 50 g\r\n- 水 500 mL",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "把螃蟹刷洗干净，然后在砧板上对半劈开"
+    },
+    {
+      "kind": "step",
+      "description": "锅里下菜油，放入姜末和豆瓣酱爆香，加入冰糖炒化，直到冒小气泡就盛出"
+    },
+    {
+      "kind": "step",
+      "description": "在盘子里铺上一层酱，然后把切好的螃蟹切开面朝下，整齐排放在酱上"
+    },
+    {
+      "kind": "step",
+      "description": "放点葱段和姜片，建议敲个鸡蛋或在盘底铺肉末"
+    },
+    {
+      "kind": "step",
+      "description": "上锅蒸 10-12 分钟"
+    }
+  ],
+  "operationMarkdown": "1. 把螃蟹刷洗干净，然后在砧板上对半劈开\r\n2. 锅里下菜油，放入姜末和豆瓣酱爆香，加入冰糖炒化，直到冒小气泡就盛出\r\n3. 在盘子里铺上一层酱，然后把切好的螃蟹切开面朝下，整齐排放在酱上\r\n4. 放点葱段和姜片，建议敲个鸡蛋或在盘底铺肉末\r\n5. 上锅蒸 10-12 分钟",
+  "tips": "- 咸口放 50 g 豆瓣酱，甜口减少豆瓣酱的用量并加入冰糖和番茄酱\r\n- 出锅后再撒上一点葱花会更香也更好看\r\n- 参考资料：[秋风起，平湖这道美味很下饭_潮新闻官网](https://tidenews.com.cn/news.html?id=2925971)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 咸口放 50 g 豆瓣酱，甜口减少豆瓣酱的用量并加入冰糖和番茄酱\r\n- 出锅后再撒上一点葱花会更香也更好看\r\n- 参考资料：[秋风起，平湖这道美味很下饭_潮新闻官网](https://tidenews.com.cn/news.html?id=2925971)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/酱炖蟹.md"
+  },
+  "hash": "a8e022d0d9adf246958a299f428509685994297646956274ab2ff4667737a282"
+}

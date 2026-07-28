@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "2c1c9338-dd9a-44ca-9c23-f4828f939914",
+  "legacyIds": [
+    "aquatic_376efe24"
+  ],
+  "name": "葱烧海参",
+  "description": "这是一道经典的鲁菜家常烧制海味，以浓郁的葱香和软糯入味的海参为特色，汤汁稠亮咸鲜回甜。海参富含胶原蛋白与多种微量元素，对滋养身体很有益处。整体烹饪难度不高，但需提前花时间将干海参充分泡发，实际烧制过程约三十分钟即可完成，新手只要按步骤操作也容易成功。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 299,
+  "requirements": [
+    {
+      "text": "泡发好的海参海参",
+      "markdown": "泡发好的海参![海参](./海参.jpeg)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱葱白",
+      "markdown": "大葱葱白",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 泡发好的海参![海参](./海参.jpeg)\r\n- 大葱葱白",
+  "ingredients": [
+    {
+      "name": "泡发好的海参（北极参）",
+      "text": "泡发好的海参（北极参） 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱葱白",
+      "text": "大葱葱白 1 根大葱的葱白即可",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 20-25ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 泡发好的海参（北极参） 4 个\r\n- 大葱葱白 1 根大葱的葱白即可\r\n- 食用油 20-25ml\r\n- 蚝油 20g\r\n- 生抽 5g\r\n- 白糖 2g\r\n- 淀粉 2g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "葱白切成 1cm 的段，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "海参切成 1cm 的段，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "准备一个空碗，倒入 20g 蚝油， 10g 生抽， 2g 白糖，搅拌均匀。![料汁](./酱汁.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "另一个空碗倒入淀粉，水，制备水淀粉，勾芡用。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 20ml - 25ml 食用油。等待 10 秒让油温升高。"
+    },
+    {
+      "kind": "step",
+      "description": "放入葱白，调*小火*，注意不要让葱白变焦。大概煎 3-5 分钟即可。![葱白](./葱白.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子夹出葱白，放入盘中备用。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入调好的料汁，炒香，**等待 1 - 2 分钟** 。"
+    },
+    {
+      "kind": "step",
+      "description": "放入切好的海参，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入 100 ml 的水， 中小火， **等待 5 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "等待锅中汤汁快干的时候，加入水淀粉，加入前面取出的葱白"
+    },
+    {
+      "kind": "step",
+      "description": "在外观*呈粘稠状态*后关火，盛盘 ![葱烧海参-预览图-5](./葱烧海参.jpeg)"
+    }
+  ],
+  "operationMarkdown": "1. 葱白切成 1cm 的段，备用。\r\n2. 海参切成 1cm 的段，备用。\r\n3. 准备一个空碗，倒入 20g 蚝油， 10g 生抽， 2g 白糖，搅拌均匀。![料汁](./酱汁.jpeg)\r\n4. 另一个空碗倒入淀粉，水，制备水淀粉，勾芡用。\r\n5. 热锅，锅内放入 20ml - 25ml 食用油。等待 10 秒让油温升高。\r\n6. 放入葱白，调*小火*，注意不要让葱白变焦。大概煎 3-5 分钟即可。![葱白](./葱白.jpeg)\r\n7. 用筷子夹出葱白，放入盘中备用。\r\n8. 倒入调好的料汁，炒香，**等待 1 - 2 分钟** 。\r\n9. 放入切好的海参，翻炒 1 分钟\r\n10. 加入 100 ml 的水， 中小火， **等待 5 分钟**\r\n11. 等待锅中汤汁快干的时候，加入水淀粉，加入前面取出的葱白\r\n12. 在外观*呈粘稠状态*后关火，盛盘 ![葱烧海参-预览图-5](./葱烧海参.jpeg)",
+  "tips": "- 操作时，需要注意观察锅中的水量，如快见底的时候就直接接入水淀粉即可。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意观察锅中的水量，如快见底的时候就直接接入水淀粉即可。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/2c1c9338-dd9a-44ca-9c23-f4828f939914_0.webp",
+    "images/aquatic/2c1c9338-dd9a-44ca-9c23-f4828f939914_1.webp",
+    "images/aquatic/2c1c9338-dd9a-44ca-9c23-f4828f939914_2.webp",
+    "images/aquatic/2c1c9338-dd9a-44ca-9c23-f4828f939914_3.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/葱烧海参/葱烧海参.md"
+  },
+  "hash": "cd2efa4680ea3e3af4c0e27f318670df4ccfa72fd5ccecb2131131ecff8fc32b"
+}

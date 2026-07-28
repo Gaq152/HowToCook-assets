@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "id": "b72ae61a-5433-4587-88a3-1a0dfc69bcdf",
+  "legacyIds": [
+    "breakfast_6f83af1c"
+  ],
+  "name": "蒸水蛋",
+  "description": "这是一道以滑嫩如布丁的口感和清雅鲜美的风味见长的家常菜，南北通吃，北方常亲切地称其为“鸡蛋糕儿”。鸡蛋富含优质蛋白和卵磷脂，是日常补充营养的便捷之选。做法只需掌握蛋水比例和小火慢蒸的诀窍，对新手非常友好，从准备到出锅通常 大约 15 分钟就能完成。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 143,
+  "requirements": [
+    {
+      "text": "新鲜鸡蛋",
+      "markdown": "新鲜鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "热水",
+      "markdown": "热水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "锡纸或保鲜膜",
+      "markdown": "锡纸或保鲜膜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜鸡蛋\r\n- 热水\r\n- 锡纸或保鲜膜",
+  "ingredients": [
+    {
+      "name": "鸡蛋两只",
+      "text": "鸡蛋两只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "热水",
+      "text": "热水 260ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋两只\r\n- 盐 2g\r\n- 热水 260ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋打入碗中，打散"
+    },
+    {
+      "kind": "step",
+      "description": "取其他容器，倒入 1.5 倍（半个蛋壳为 0.5 倍水）于蛋液的温水（温度 20~30），将盐倒入水中化开"
+    },
+    {
+      "kind": "step",
+      "description": "将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀，气泡之类的可以用舀出丢弃，过筛则口感更加。"
+    },
+    {
+      "kind": "step",
+      "description": "使用锡纸包裹盛蛋液的碗（或用盘子盖住），置入提前带盖并加入大约 3cm 深度水的锅中"
+    },
+    {
+      "kind": "step",
+      "description": "中火烧至水开，转最小的火继续蒸 4 分钟"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋打入碗中，打散\r\n2. 取其他容器，倒入 1.5 倍（半个蛋壳为 0.5 倍水）于蛋液的温水（温度 20~30），将盐倒入水中化开\r\n3. 将盐水倒入鸡蛋液中，顺时针或逆时针单方向搅拌均匀，气泡之类的可以用舀出丢弃，过筛则口感更加。\r\n4. 使用锡纸包裹盛蛋液的碗（或用盘子盖住），置入提前带盖并加入大约 3cm 深度水的锅中\r\n5. 中火烧至水开，转最小的火继续蒸 4 分钟",
+  "tips": "- 一般出锅稍晾即可食用，保留鸡蛋原香的终极口感\r\n- 也可加入蒸鱼豉油，葱花香油作为佐料。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 一般出锅稍晾即可食用，保留鸡蛋原香的终极口感\r\n- 也可加入蒸鱼豉油，葱花香油作为佐料。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/蒸水蛋.md"
+  },
+  "hash": "2278047d78a190ab3dfaa2f91e083085a751dd625ce1b7cf53c89168aa8d6071"
+}

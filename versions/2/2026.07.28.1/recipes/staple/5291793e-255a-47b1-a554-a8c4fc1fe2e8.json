@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 2,
+  "id": "5291793e-255a-47b1-a554-a8c4fc1fe2e8",
+  "legacyIds": [],
+  "name": "照烧鸡腿饭",
+  "description": "照烧鸡腿饭是一道甜咸适口的下饭菜，鸡腿煎得焦香后融入浓郁酱汁，口感嫩滑入味。鸡腿肉富含优质蛋白，搭配西兰花和胡萝卜能补充膳食纤维与维生素。制作稍需一点去骨技巧，但整体不复杂，新手跟着步骤也能成功。从备料到出锅，大约 30 分钟就能端上餐桌。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1670,
+  "requirements": [
+    {
+      "text": "鸡腿",
+      "markdown": "鸡腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蜂蜜（可选）",
+      "markdown": "蜂蜜（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑椒碎",
+      "markdown": "黑椒碎",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑椒粉",
+      "markdown": "黑椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西兰花（没有就用不辣的青椒代替）",
+      "markdown": "西兰花（没有就用不辣的青椒代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡腿\r\n- 料酒\r\n- 生抽\r\n- 蜂蜜（可选）\r\n- 黑椒碎\r\n- 黑椒粉\r\n- 盐\r\n- 西兰花（没有就用不辣的青椒代替）\r\n- 胡萝卜\r\n- 老抽\r\n- 大蒜\r\n- 生姜\r\n- 食用油\r\n- 清水\r\n- 米饭",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "text": "鸡腿 500 g（约 3 只）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蜂蜜",
+      "text": "蜂蜜 15 ml（没有时使用白糖 20 g + 玉米淀粉 5 g + 0.5 ml 柠檬汁或醋代替）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑椒碎",
+      "text": "黑椒碎 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑椒粉",
+      "text": "黑椒粉 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2.5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西兰花",
+      "text": "西兰花 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 12 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 10 g（拍碎，不用切末）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15-25 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米饭",
+      "text": "米饭 300-400 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 1-2 个人吃。\r\n\r\n每份：\r\n\r\n- 鸡腿 500 g（约 3 只）\r\n- 料酒 15 ml\r\n- 生抽 30 ml\r\n- 蜂蜜 15 ml（没有时使用白糖 20 g + 玉米淀粉 5 g + 0.5 ml 柠檬汁或醋代替）\r\n- 黑椒碎 5 g\r\n- 黑椒粉 5 g\r\n- 盐 2.5 g\r\n- 西兰花 50 g\r\n- 胡萝卜 50 g\r\n- 老抽 12 ml\r\n- 大蒜 10 g（拍碎，不用切末）\r\n- 生姜 10 g\r\n- 食用油 15-25 ml\r\n- 清水 30 ml\r\n- 米饭 300-400 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 1-2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "取一只鸡腿，鸡皮朝下放在砧板上"
+    },
+    {
+      "kind": "step",
+      "description": "用刀尖沿着鸡腿骨头的轮廓轻轻划开，从一端到另一端"
+    },
+    {
+      "kind": "step",
+      "description": "用手指或刀背慢慢推开鸡肉，让骨头暴露出来。如果遇到筋膜，用刀尖切断"
+    },
+    {
+      "kind": "step",
+      "description": "当鸡肉完全分离后，握住骨头一端，轻轻扭转并拔出"
+    },
+    {
+      "kind": "step",
+      "description": "重复上述步骤将所有鸡腿去骨"
+    },
+    {
+      "kind": "step",
+      "description": "去骨鸡腿加入黑胡椒粉、黑胡椒碎、盐、姜片腌制 5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "碗里加入料酒、生抽、蜂蜜、老抽清水拌匀"
+    },
+    {
+      "kind": "step",
+      "description": "蔬菜焯水 1-2 分钟煮熟捞起"
+    },
+    {
+      "kind": "step",
+      "description": "热锅放油 15 ml 放入拍碎的大蒜爆香"
+    },
+    {
+      "kind": "step",
+      "description": "放入鸡腿中小火煎至两面金黄，如果感觉锅中太干，补 5-10 ml 油"
+    },
+    {
+      "kind": "step",
+      "description": "加入调好的酱汁，盖好盖子中小火（在燃气灶上使用小火）焖 5-10 分钟熟透，酱汁浓稠起泡即可"
+    },
+    {
+      "kind": "step",
+      "description": "切件，和蔬菜一起摆在饭面，淋入煎鸡腿的酱汁就可以慢慢享用啦"
+    }
+  ],
+  "operationMarkdown": "1. 取一只鸡腿，鸡皮朝下放在砧板上\r\n2. 用刀尖沿着鸡腿骨头的轮廓轻轻划开，从一端到另一端\r\n3. 用手指或刀背慢慢推开鸡肉，让骨头暴露出来。如果遇到筋膜，用刀尖切断\r\n4. 当鸡肉完全分离后，握住骨头一端，轻轻扭转并拔出\r\n5. 重复上述步骤将所有鸡腿去骨\r\n6. 去骨鸡腿加入黑胡椒粉、黑胡椒碎、盐、姜片腌制 5 分钟\r\n7. 碗里加入料酒、生抽、蜂蜜、老抽清水拌匀\r\n8. 蔬菜焯水 1-2 分钟煮熟捞起\r\n9. 热锅放油 15 ml 放入拍碎的大蒜爆香\r\n10. 放入鸡腿中小火煎至两面金黄，如果感觉锅中太干，补 5-10 ml 油\r\n11. 加入调好的酱汁，盖好盖子中小火（在燃气灶上使用小火）焖 5-10 分钟熟透，酱汁浓稠起泡即可\r\n12. 切件，和蔬菜一起摆在饭面，淋入煎鸡腿的酱汁就可以慢慢享用啦",
+  "tips": "- 如果使用白砂糖、淀粉组合代替一定让白砂糖和淀粉完全溶解再下锅，否则容易糊锅\r\n- 焖煮时每隔 3-5 分钟翻搅一下，避免局部过热\r\n- 如果酱汁冒大泡、颜色变深褐，或边缘出现细密焦糖结晶，立即关火\r\n\r\n- 参考资料：[【照烧鸡腿饭的做法步骤图，照烧鸡腿饭怎么做好吃】小晓姐姐_下厨房](https://www.xiachufang.com/recipe/104126605/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果使用白砂糖、淀粉组合代替一定让白砂糖和淀粉完全溶解再下锅，否则容易糊锅\r\n- 焖煮时每隔 3-5 分钟翻搅一下，避免局部过热\r\n- 如果酱汁冒大泡、颜色变深褐，或边缘出现细密焦糖结晶，立即关火\r\n\r\n- 参考资料：[【照烧鸡腿饭的做法步骤图，照烧鸡腿饭怎么做好吃】小晓姐姐_下厨房](https://www.xiachufang.com/recipe/104126605/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/照烧鸡腿饭.md"
+  },
+  "hash": "b1cc4c571f12da5ecfc9a8a8b3c16a48fa3d18d32ed08a11de6cd86d917a1af2"
+}

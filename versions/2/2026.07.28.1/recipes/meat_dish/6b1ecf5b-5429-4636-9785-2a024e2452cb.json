@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 2,
+  "id": "6b1ecf5b-5429-4636-9785-2a024e2452cb",
+  "legacyIds": [
+    "meat_dish_47781bb0"
+  ],
+  "name": "卤菜",
+  "description": "这是一道经典中式卤味，肉质鲜嫩入味，香气浓郁，卤汁可反复使用、越陈越香，适合做凉菜、下酒或搭配主食。菜品富含优质蛋白和多种维生素，营养均衡。制作需要一点耐心，但步骤清晰，对新手比较友好。提前浸泡去血水、熬糖色和高压卤制约需 1 小时，再浸泡过夜让风味充分渗入，第二天取出切片即可享用。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 467,
+  "requirements": [
+    {
+      "text": "卤料包（超市即可购买）",
+      "markdown": "卤料包（超市即可购买）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄豆酱",
+      "markdown": "黄豆酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "南腐乳",
+      "markdown": "南腐乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖（最好是黄冰糖，用于熬糖色）",
+      "markdown": "白糖（最好是黄冰糖，用于熬糖色）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛腱子（或其他肉类）",
+      "markdown": "牛腱子（或其他肉类）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "高压锅",
+      "markdown": "高压锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "滤网",
+      "markdown": "滤网",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 卤料包（超市即可购买）\r\n- 黄豆酱\r\n- 豆瓣酱\r\n- 蚝油\r\n- 南腐乳\r\n- 洋葱\r\n- 生姜\r\n- 大蒜\r\n- 干辣椒\r\n- 生抽\r\n- 老抽\r\n- 盐\r\n- 白糖（最好是黄冰糖，用于熬糖色）\r\n- 啤酒\r\n- 牛腱子（或其他肉类）\r\n- 高压锅\r\n- 滤网",
+  "ingredients": [
+    {
+      "name": "卤料包",
+      "text": "卤料包 1 包（约 10g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆酱",
+      "text": "黄豆酱 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "南腐乳",
+      "text": "南腐乳 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱 半个（约",
+      "text": "洋葱 半个（约 100g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 120ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 60ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10-15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 30g（用于熬糖色）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 1 罐(330ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛腱子",
+      "text": "牛腱子 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水 足量（需要没过所有肉类）",
+      "text": "清水 足量（需要没过所有肉类）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份约可供 2-3 人食用。\r\n\r\n每份：\r\n\r\n- 卤料包 1 包（约 10g）\r\n- 黄豆酱 15ml\r\n- 豆瓣酱 15ml\r\n- 蚝油 15ml\r\n- 南腐乳 15ml\r\n- 洋葱 半个（约 100g）\r\n- 生姜 30g\r\n- 大蒜 40g\r\n- 干辣椒 10g\r\n- 生抽 120ml\r\n- 老抽 60ml\r\n- 盐 10-15g\r\n- 白糖 30g（用于熬糖色）\r\n- 啤酒 1 罐(330ml)\r\n- 牛腱子 500g\r\n- 清水 足量（需要没过所有肉类）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份约可供 2-3 人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "建议在此之前查看炒[糖色](./../../condiment/糖色.md)教程"
+    },
+    {
+      "kind": "step",
+      "description": "牛腱子提前浸泡在冷水中 3 小时以上，去除血水"
+    },
+    {
+      "kind": "section",
+      "title": "准备卤水",
+      "description": "### 准备卤水"
+    },
+    {
+      "kind": "step",
+      "description": "准备糖色：锅中加入 30g 白糖，小火加热至糖完全融化并呈现棕褐色，加入 150ml 热水，搅拌均匀备用"
+    },
+    {
+      "kind": "step",
+      "description": "将洋葱切块，生姜和大蒜拍碎，干辣椒掰断备用"
+    },
+    {
+      "kind": "step",
+      "description": "在锅中加入足量的水，放入卤料包、洋葱、生姜、大蒜、干辣椒，大火烧开"
+    },
+    {
+      "kind": "step",
+      "description": "加入黄豆酱、豆瓣酱、蚝油和南腐乳各 15ml，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "倒入准备好的糖色，混合均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽 120ml 和老抽 60ml，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10-15g 盐调味"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 1 罐啤酒(330ml)，再次烧开"
+    },
+    {
+      "kind": "section",
+      "title": "卤制牛肉",
+      "description": "### 卤制牛肉"
+    },
+    {
+      "kind": "step",
+      "description": "牛腱子放入锅中焯水 2-3 分钟，捞出并用热水冲洗干净表面的浮沫"
+    },
+    {
+      "kind": "step",
+      "description": "将焯水后的牛腱子放入已烧开的卤水中，确保卤水没过所有肉类"
+    },
+    {
+      "kind": "step",
+      "description": "盖上高压锅盖，上汽后继续烹饪 25-30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "烹饪完成后，不要开盖保温，自然冷却并浸泡一晚上（这样会更入味）"
+    },
+    {
+      "kind": "step",
+      "description": "将卤好的肉取出放入冰箱冷藏，使其成型"
+    },
+    {
+      "kind": "step",
+      "description": "食用前取出切片，可直接食用或凉拌"
+    },
+    {
+      "kind": "section",
+      "title": "保存卤水",
+      "description": "### 保存卤水"
+    },
+    {
+      "kind": "step",
+      "description": "卤水重复使用方法：每次卤完肉后，将卤水过滤，去除所有固体内容物，重新烧开杀菌，冷却后可冷藏或冷冻保存。使用时按原配方比例重新添加调味料。（加水量根据卤水使用情况而定）"
+    },
+    {
+      "kind": "step",
+      "description": "卤水保存得当可以使用很长时间，且越老越香。"
+    },
+    {
+      "kind": "step",
+      "description": "**重要提示**：如卤制素菜，必须另取一部分卤水，单独使用，并且卤制完素菜的卤水不可重复使用。"
+    },
+    {
+      "kind": "section",
+      "title": "凉拌调料",
+      "description": "### 凉拌调料"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜末、葱花、白芝麻、辣椒粉按 1:1:1:1 的比例混合，依个人口味加小米辣，热植物油中加入少量芝麻油或藤椒油，分次泼在调料上，再加入生抽、醋、蚝油各 10ml，5ml 糖，味精/鸡精，最后 15ml 卤汤混合均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "凉拌时可搭配拍黄瓜、木耳、油炸花生米、香菜等配菜。"
+    }
+  ],
+  "operationMarkdown": "建议在此之前查看炒[糖色](./../../condiment/糖色.md)教程\r\n\r\n1. 牛腱子提前浸泡在冷水中 3 小时以上，去除血水\r\n\r\n### 准备卤水\r\n\r\n1. 准备糖色：锅中加入 30g 白糖，小火加热至糖完全融化并呈现棕褐色，加入 150ml 热水，搅拌均匀备用\r\n2. 将洋葱切块，生姜和大蒜拍碎，干辣椒掰断备用\r\n3. 在锅中加入足量的水，放入卤料包、洋葱、生姜、大蒜、干辣椒，大火烧开\r\n4. 加入黄豆酱、豆瓣酱、蚝油和南腐乳各 15ml，搅拌均匀\r\n5. 倒入准备好的糖色，混合均匀\r\n6. 加入生抽 120ml 和老抽 60ml，搅拌均匀\r\n7. 加入 10-15g 盐调味\r\n8. 倒入 1 罐啤酒(330ml)，再次烧开\r\n\r\n### 卤制牛肉\r\n\r\n1. 牛腱子放入锅中焯水 2-3 分钟，捞出并用热水冲洗干净表面的浮沫\r\n2. 将焯水后的牛腱子放入已烧开的卤水中，确保卤水没过所有肉类\r\n3. 盖上高压锅盖，上汽后继续烹饪 25-30 分钟\r\n4. 烹饪完成后，不要开盖保温，自然冷却并浸泡一晚上（这样会更入味）\r\n5. 将卤好的肉取出放入冰箱冷藏，使其成型\r\n6. 食用前取出切片，可直接食用或凉拌\r\n\r\n### 保存卤水\r\n\r\n1. 卤水重复使用方法：每次卤完肉后，将卤水过滤，去除所有固体内容物，重新烧开杀菌，冷却后可冷藏或冷冻保存。使用时按原配方比例重新添加调味料。（加水量根据卤水使用情况而定）\r\n2. 卤水保存得当可以使用很长时间，且越老越香。\r\n3. **重要提示**：如卤制素菜，必须另取一部分卤水，单独使用，并且卤制完素菜的卤水不可重复使用。\r\n\r\n### 凉拌调料\r\n\r\n1. 将蒜末、葱花、白芝麻、辣椒粉按 1:1:1:1 的比例混合，依个人口味加小米辣，热植物油中加入少量芝麻油或藤椒油，分次泼在调料上，再加入生抽、醋、蚝油各 10ml，5ml 糖，味精/鸡精，最后 15ml 卤汤混合均匀。\r\n2. 凉拌时可搭配拍黄瓜、木耳、油炸花生米、香菜等配菜。",
+  "tips": "- 卤水可另取一部分做牛肉面，作为白水面条的汤底，再加上自己喜欢的蔬菜，味道极佳。\r\n\r\n![牛肉面](./牛肉面.jpeg)\r\n\r\n卤水：\r\n![卤水](./卤水.jpeg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 卤水可另取一部分做牛肉面，作为白水面条的汤底，再加上自己喜欢的蔬菜，味道极佳。\r\n\r\n![牛肉面](./牛肉面.jpeg)\r\n\r\n卤水：\r\n![卤水](./卤水.jpeg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/6b1ecf5b-5429-4636-9785-2a024e2452cb_0.webp",
+    "images/meat_dish/6b1ecf5b-5429-4636-9785-2a024e2452cb_1.webp",
+    "images/meat_dish/6b1ecf5b-5429-4636-9785-2a024e2452cb_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/卤菜/卤菜.md"
+  },
+  "hash": "a549efa321488ccdbd9b4ccd4eca4d8816197dfb485b49263096c9bb72f051d9"
+}

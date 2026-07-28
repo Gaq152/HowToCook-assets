@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 2,
+  "id": "6b659392-8ae2-496b-b382-3bf3f02b0f1e",
+  "legacyIds": [],
+  "name": "腐乳肉",
+  "description": "这是一道经典的江南家常菜，五花肉与红腐乳同炖，色泽红亮如琥珀，肉质酥烂到入口即化，咸甜交织的酒香与豆香在舌尖层层展开。富含优质蛋白质和 B 族维生素，经慢火煨煮后更易消化。制作流程需要耐心把控火候和收汁，对新手来说有一定挑战，预计制作时长约 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 1190,
+  "requirements": [
+    {
+      "text": "带皮五花肉",
+      "markdown": "带皮五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红腐乳（推荐咸亨牌玫瑰腐乳）",
+      "markdown": "红腐乳（推荐咸亨牌玫瑰腐乳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱（可选）",
+      "markdown": "香葱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 带皮五花肉\r\n- 红腐乳（推荐咸亨牌玫瑰腐乳）\r\n- 冰糖\r\n- 老抽\r\n- 料酒\r\n- 香葱（可选）\r\n- 生姜\r\n- 清水\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "带皮五花肉",
+      "text": "带皮五花肉 400 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红腐乳",
+      "text": "红腐乳 30 g（约 2 块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "腐乳汁",
+      "text": "腐乳汁 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱白",
+      "text": "葱白 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 500 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份大约够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 带皮五花肉 400 g\r\n- 红腐乳 30 g（约 2 块）\r\n- 腐乳汁 15 ml\r\n- 冰糖 25 g\r\n- 老抽 5 ml\r\n- 料酒 15 ml\r\n- 葱白 15 g\r\n- 葱花 5 g\r\n- 生姜 10 g\r\n- 清水 500 ml\r\n- 食用油 10 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份大约够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "五花肉切成长宽 2.5 cm 的小块"
+    },
+    {
+      "kind": "step",
+      "description": "冷水放料酒姜片，五花肉放入开火慢慢加入到水沸腾后捞出"
+    },
+    {
+      "kind": "step",
+      "description": "玫瑰腐乳块和腐乳汁碾成泥，加冰糖、老抽调成酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "热锅冷油爆香葱姜，下肉块煸到金黄"
+    },
+    {
+      "kind": "step",
+      "description": "倒入腐乳酱炒匀加热水焖煮"
+    },
+    {
+      "kind": "step",
+      "description": "小火慢炖 40 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁，看到汤汁冒浓稠鱼眼泡时关火"
+    }
+  ],
+  "operationMarkdown": "1. 五花肉切成长宽 2.5 cm 的小块\r\n2. 冷水放料酒姜片，五花肉放入开火慢慢加入到水沸腾后捞出\r\n3. 玫瑰腐乳块和腐乳汁碾成泥，加冰糖、老抽调成酱汁\r\n4. 热锅冷油爆香葱姜，下肉块煸到金黄\r\n5. 倒入腐乳酱炒匀加热水焖煮\r\n6. 小火慢炖 40 分钟\r\n7. 大火收汁，看到汤汁冒浓稠鱼眼泡时关火",
+  "tips": "- 建议用单晶冰糖\r\n- 腐乳自带咸鲜，不用额外放盐\r\n- 大火收汁时要不断晃动锅体避免粘底\r\n- 参考资料：[【步骤图】腐乳肉的做法_腐乳肉的做法步骤_菜谱_下厨房](https://www.xiachufang.com/recipe/102507/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 建议用单晶冰糖\r\n- 腐乳自带咸鲜，不用额外放盐\r\n- 大火收汁时要不断晃动锅体避免粘底\r\n- 参考资料：[【步骤图】腐乳肉的做法_腐乳肉的做法步骤_菜谱_下厨房](https://www.xiachufang.com/recipe/102507/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/腐乳肉.md"
+  },
+  "hash": "05af418f05a2e6dc7dbe11f2daea7dec77490f3027214d220702ed0342246003"
+}

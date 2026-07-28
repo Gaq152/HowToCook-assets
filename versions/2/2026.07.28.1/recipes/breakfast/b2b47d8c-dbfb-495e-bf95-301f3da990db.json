@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "id": "b2b47d8c-dbfb-495e-bf95-301f3da990db",
+  "legacyIds": [
+    "breakfast_c3d2a2fd"
+  ],
+  "name": "鸡蛋三明治",
+  "description": "这是一道简单快手的西式简餐，吐司夹着绵密的鸡蛋酱和咸香培根，口感软嫩又带着焦香。鸡蛋富含优质蛋白，搭配培根和黄油能快速补充能量。操作非常友好，厨房新手也能轻松驾驭，全程只需 大约 10 分钟即可完成。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 560,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "吐司",
+      "markdown": "吐司",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "培根",
+      "markdown": "培根",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蛋黄酱",
+      "markdown": "蛋黄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒",
+      "markdown": "黑胡椒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 吐司\r\n- 培根\r\n- 黄油\r\n- 蛋黄酱\r\n- 盐\r\n- 黑胡椒",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "吐司",
+      "text": "吐司 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "培根",
+      "text": "培根 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蛋黄酱",
+      "text": "蛋黄酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒",
+      "text": "黑胡椒 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋 1 个\r\n- 吐司 2 片\r\n- 培根 2 片\r\n- 黄油 10 g\r\n- 蛋黄酱 20g\r\n- 盐 1g\r\n- 黑胡椒 2g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "吐司切去四边，备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋煮熟，捣碎"
+    },
+    {
+      "kind": "step",
+      "description": "混合鸡蛋、蛋黄酱、盐、黑胡椒"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入黄油，煎熟培根"
+    },
+    {
+      "kind": "step",
+      "description": "组装吐司，在两片吐司间加入制作好的鸡蛋酱及培根"
+    },
+    {
+      "kind": "step",
+      "description": "四边形吐司切成三角形装盘"
+    }
+  ],
+  "operationMarkdown": "1. 吐司切去四边，备用\r\n2. 鸡蛋煮熟，捣碎\r\n3. 混合鸡蛋、蛋黄酱、盐、黑胡椒\r\n4. 锅中加入黄油，煎熟培根\r\n5. 组装吐司，在两片吐司间加入制作好的鸡蛋酱及培根\r\n6. 四边形吐司切成三角形装盘",
+  "tips": "- 也可加入芝士、酸黄瓜等食材\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 也可加入芝士、酸黄瓜等食材\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/鸡蛋三明治.md"
+  },
+  "hash": "733c488ea64dc39d4d624e6f28ca74e63eb7ba85970b332d2a6f7750177081ae"
+}

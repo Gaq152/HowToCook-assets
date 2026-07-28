@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "id": "afd67abe-b463-48a0-be73-5154d3df2ff9",
+  "legacyIds": [
+    "vegetable_dish_766fa6e4"
+  ],
+  "name": "西葫芦炒鸡蛋",
+  "description": "西葫芦炒鸡蛋是一道清爽可口的家常快手菜，西葫芦软嫩多汁、鸡蛋鲜香松软，加入西红柿后更添酸甜风味，十分下饭。鸡蛋提供优质蛋白质和卵磷脂，西葫芦含有丰富的维生素 C 和膳食纤维，搭配食用营养均衡。制作过程简单，对新手非常友好，从备料到出锅一般初学者只需 15 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 224,
+  "requirements": [
+    {
+      "text": "西葫芦",
+      "markdown": "西葫芦",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西红柿（可选）",
+      "markdown": "西红柿（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 西葫芦\r\n- 鸡蛋\r\n- 西红柿（可选）\r\n- 食用盐\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "西葫芦",
+      "text": "西葫芦 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西红柿",
+      "text": "西红柿 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 6g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 2 人的份量：\r\n\r\n- 西葫芦 500g\r\n- 西红柿 100g\r\n- 鸡蛋 3 个\r\n- 食用油 10-20ml\r\n- 食用盐 6g",
+  "calculationNotes": [
+    "按照 2 人的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "西红柿洗净，切成小块，备用"
+    },
+    {
+      "kind": "step",
+      "description": "西葫芦洗净，切成边长约为 4cm 的菱形，备用"
+    },
+    {
+      "kind": "step",
+      "description": "打三个鸡蛋到碗里，打散搅匀，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 5ml - 10ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅内放入 5ml - 10ml 食用油，倒入西红柿，炒至变软"
+    },
+    {
+      "kind": "step",
+      "description": "倒入西葫芦一起翻炒均匀，放入 6g 食用盐，将火调小然后**等待 4 - 5 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "倒入备用的鸡蛋，中火翻炒 15 秒"
+    },
+    {
+      "kind": "step",
+      "description": "关火，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 西红柿洗净，切成小块，备用\r\n2. 西葫芦洗净，切成边长约为 4cm 的菱形，备用\r\n3. 打三个鸡蛋到碗里，打散搅匀，备用\r\n4. 热锅，锅内放入 5ml - 10ml 食用油\r\n5. 倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块后盛到碗里，备用\r\n6. 锅内放入 5ml - 10ml 食用油，倒入西红柿，炒至变软\r\n7. 倒入西葫芦一起翻炒均匀，放入 6g 食用盐，将火调小然后**等待 4 - 5 分钟**\r\n8. 倒入备用的鸡蛋，中火翻炒 15 秒\r\n9. 关火，盛盘",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/afd67abe-b463-48a0-be73-5154d3df2ff9_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md"
+  },
+  "hash": "193342d53d73016bae76f694d0901bb4b0cdb0172c6cbaf0bd8dc0ec5b94a280"
+}

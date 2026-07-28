@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "id": "7fca3472-00d2-4906-8347-c40a9ffb8028",
+  "legacyIds": [
+    "breakfast_6bcc5369"
+  ],
+  "name": "温泉蛋",
+  "description": "温泉蛋源自日本，蛋白呈半流动凝乳状，蛋黄却温润凝固，口感滑嫩细腻，与溏心蛋恰好相反。鸡蛋富含优质蛋白、卵磷脂和多种维生素，营养十分全面。制作时需要借助温度计将水温控制在 70℃，虽然对温度稍有要求，但步骤简单，耐心等待约半小时便能完成。佐以昆布酱油和葱花，鲜香清爽，是一道轻松上手的小食。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 72,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "厨房用温度计（尽量选用带有夹子的温度计）",
+      "markdown": "厨房用温度计（尽量选用带有夹子的温度计）",
+      "group": "必备工具",
+      "kind": "tool"
+    },
+    {
+      "text": "杯子（无特定要求，只要是杯子就行）",
+      "markdown": "杯子（无特定要求，只要是杯子就行）",
+      "group": "必备工具",
+      "kind": "tool"
+    },
+    {
+      "text": "昆布酱油（一种日式的少盐酱油，用于为温泉蛋调味）",
+      "markdown": "昆布酱油（一种日式的少盐酱油，用于为温泉蛋调味）",
+      "group": "副食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": "副食材",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "### 主食材\r\n\r\n- 鸡蛋\r\n\r\n### 必备工具\r\n\r\n- 厨房用温度计（尽量选用带有夹子的温度计）\r\n- 杯子（无特定要求，只要是杯子就行）\r\n\r\n### 副食材\r\n\r\n额外用作点缀的食材，可选\r\n\r\n- 昆布酱油（一种日式的少盐酱油，用于为温泉蛋调味）\r\n- 香葱",
+  "ingredients": [
+    {
+      "name": "鸡蛋的用量为",
+      "text": "鸡蛋的用量为 1 个，按照您的食量和锅的大小计算。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "厨房用温度计（尽量选用带有夹子的温度计）",
+    "杯子（无特定要求，只要是杯子就行）"
+  ],
+  "calculationMarkdown": "- 鸡蛋的用量为 1 个，按照您的食量和锅的大小计算。",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "煮蛋",
+      "description": "### 煮蛋"
+    },
+    {
+      "kind": "step",
+      "description": "在锅中盛装一定量自来水，确保水面没过约鸡蛋 3cm，水中插入温度计"
+    },
+    {
+      "kind": "step",
+      "description": "开火或打开电磁炉，逐渐调整电磁炉功率或火苗大小，使得水温保持在 **70 摄氏度**"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋放入锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动"
+    },
+    {
+      "kind": "step",
+      "description": "保持当前温度 **25 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "准备一杯冰水"
+    },
+    {
+      "kind": "step",
+      "description": "捞出鸡蛋，并立刻放入冰水中，**等待 3 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋打入小碗，完成制作"
+    }
+  ],
+  "operationMarkdown": "### 煮蛋\r\n\r\n1. 在锅中盛装一定量自来水，确保水面没过约鸡蛋 3cm，水中插入温度计\r\n2. 开火或打开电磁炉，逐渐调整电磁炉功率或火苗大小，使得水温保持在 **70 摄氏度**\r\n3. 将鸡蛋放入锅中。鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动\r\n4. 保持当前温度 **25 分钟**\r\n5. 准备一杯冰水\r\n6. 捞出鸡蛋，并立刻放入冰水中，**等待 3 分钟**\r\n7. 将鸡蛋打入小碗，完成制作",
+  "tips": "### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[锅中加水，插入温度计] --> B[控制水温到70℃]\r\n    B --> C[放入鸡蛋，保持水温为70℃ 25分钟]\r\n    B --> D[准备冰水]\r\n    C --> E\r\n    D --> E[鸡蛋捞出放入冰水，等待3分钟]\r\n    E --> F[鸡蛋打入小碗]\r\n```\r\n\r\n### 备注说明\r\n\r\n- 若使用机械式温度计（无需供电）则温度计探头需没入水中至少 6cm，若使用电子温度计则无特殊要求\r\n- 锅可以采用稍厚的锅，方便控制温度\r\n- 虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[锅中加水，插入温度计] --> B[控制水温到70℃]\r\n    B --> C[放入鸡蛋，保持水温为70℃ 25分钟]\r\n    B --> D[准备冰水]\r\n    C --> E\r\n    D --> E[鸡蛋捞出放入冰水，等待3分钟]\r\n    E --> F[鸡蛋打入小碗]\r\n```\r\n\r\n### 备注说明\r\n\r\n- 若使用机械式温度计（无需供电）则温度计探头需没入水中至少 6cm，若使用电子温度计则无特殊要求\r\n- 锅可以采用稍厚的锅，方便控制温度\r\n- 虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/温泉蛋/温泉蛋.md"
+  },
+  "hash": "95b506cf20ca22f52cb2256145bf6388ae808117c3cab0e80cd605d71939a2ac"
+}

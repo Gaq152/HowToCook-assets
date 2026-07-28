@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 2,
+  "id": "fdd20bf0-29cd-404e-9414-a7cbc66ae5be",
+  "legacyIds": [
+    "meat_dish_434c23ca"
+  ],
+  "name": "老妈蹄花",
+  "description": "老妈蹄花汤色奶白，猪蹄软烂脱骨，口感细腻，配上酸辣蘸汁十分开胃，是经典的川式家常菜。猪蹄富含胶原蛋白，白芸豆增添绵密口感，营养丰富。操作需要高压锅和提前浸泡，对新手有一定挑战，但按步骤来做不难掌握。含浸泡和压煮，全程大约需要 2 小时（不含提前一晚浸泡白芸豆的时间）。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1425,
+  "requirements": [
+    {
+      "text": "猪蹄（尽量选择猪前蹄：肉多筋多骨头少）",
+      "markdown": "猪蹄（尽量选择猪前蹄：肉多筋多骨头少）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芷",
+      "markdown": "白芷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "当归（可选）",
+      "markdown": "当归（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒油",
+      "markdown": "花椒油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油泼辣子（可选）",
+      "markdown": "油泼辣子（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芸豆（没有可用海带）",
+      "markdown": "白芸豆（没有可用海带）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪蹄（尽量选择猪前蹄：肉多筋多骨头少）\r\n- 葱\r\n- 姜\r\n- 料酒\r\n- 生抽\r\n- 白芷\r\n- 当归（可选）\r\n- 鸡精\r\n- 盐\r\n- 蒜\r\n- 小米椒\r\n- 白胡椒粉\r\n- 生抽\r\n- 香醋\r\n- 花椒油\r\n- 油泼辣子（可选）\r\n- 白芸豆（没有可用海带）",
+  "ingredients": [
+    {
+      "name": "猪蹄",
+      "text": "猪蹄：3 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芸豆",
+      "text": "白芸豆：200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "当归",
+      "text": "当归：2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉：5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片：30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "当归",
+      "text": "当归：2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜末",
+      "text": "蒜末：8g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精：2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽：25g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花：10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 猪蹄：3 根\r\n- 白芸豆：200g\r\n- 当归：2g\r\n- 白胡椒粉：5g\r\n- 姜片：30g\r\n- 当归：2g\r\n- 蒜末：8g\r\n- 鸡精：2g\r\n- 生抽：25g\r\n- 葱花：10g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "开始制作",
+      "description": "### 开始制作"
+    },
+    {
+      "kind": "step",
+      "description": "200g 白芸豆提前一晚清水浸泡备用"
+    },
+    {
+      "kind": "step",
+      "description": "准备猪前蹄，买菜的时候让师傅从中间劈开，用喷火枪去除毛囊，拿回家清洗"
+    },
+    {
+      "kind": "step",
+      "description": "冷水锅中加入猪蹄、大葱段、姜片、料酒，焯水十分钟，撇去浮沫，捞出洗干净备用"
+    },
+    {
+      "kind": "step",
+      "description": "高压锅中放入猪蹄、当归、白芷、白胡椒粉、姜片，上汽后压三十分钟，放入白芸豆，再压十分钟，这个时候如果汤底是奶白色，那么恭喜是正确的（如果中途需要加水，只能加热水）"
+    },
+    {
+      "kind": "step",
+      "description": "揭盖后加入盐、鸡精、葱花调味"
+    },
+    {
+      "kind": "step",
+      "description": "调制灵魂汁子：放入葱、蒜、小米椒，白胡椒粉、生抽、香醋、油泼辣子、花椒油、猪蹄原汤\n![老妈蹄花-预览图-3](./result2.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "灵魂汁子，浇给"
+    }
+  ],
+  "operationMarkdown": "### 开始制作\r\n\r\n1. 200g 白芸豆提前一晚清水浸泡备用\r\n2. 准备猪前蹄，买菜的时候让师傅从中间劈开，用喷火枪去除毛囊，拿回家清洗\r\n3. 冷水锅中加入猪蹄、大葱段、姜片、料酒，焯水十分钟，撇去浮沫，捞出洗干净备用\r\n4. 高压锅中放入猪蹄、当归、白芷、白胡椒粉、姜片，上汽后压三十分钟，放入白芸豆，再压十分钟，这个时候如果汤底是奶白色，那么恭喜是正确的（如果中途需要加水，只能加热水）\r\n\r\n![老妈蹄花-预览图-2](./result1.jpg)\r\n\r\n5. 揭盖后加入盐、鸡精、葱花调味\r\n6. 调制灵魂汁子：放入葱、蒜、小米椒，白胡椒粉、生抽、香醋、油泼辣子、花椒油、猪蹄原汤\r\n  ![老妈蹄花-预览图-3](./result2.jpg)\r\n7. 灵魂汁子，浇给",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/fdd20bf0-29cd-404e-9414-a7cbc66ae5be_0.webp",
+    "images/meat_dish/fdd20bf0-29cd-404e-9414-a7cbc66ae5be_1.webp",
+    "images/meat_dish/fdd20bf0-29cd-404e-9414-a7cbc66ae5be_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/老妈蹄花/老妈蹄花.md"
+  },
+  "hash": "a5781459ed54e4cb6eca39b4f42a5262bb81b467f1e8c150b355baf8f43180a7"
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "id": "aa603211-23fb-493b-aab0-f5c375913e32",
+  "legacyIds": [
+    "meat_dish_36033c14"
+  ],
+  "name": "可乐鸡翅",
+  "description": "可乐鸡翅色泽红亮、口感嫩滑，味道咸甜适口，是一道流行于家庭餐桌的创意菜肴。鸡翅富含优质蛋白质与脂肪，搭配可乐烹煮后肉质更为软烂。制作过程需要掌握煎制与收汁的火候，对新手有一定挑战，但跟随步骤仍可成功。从备料到完成大约耗时 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 960,
+  "requirements": [
+    {
+      "text": "鸡翅中",
+      "markdown": "鸡翅中",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可乐",
+      "markdown": "可乐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒或啤酒",
+      "markdown": "料酒或啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 鸡翅中\r\n* 可乐\r\n* 白糖\r\n* 生抽\r\n* 盐\r\n* 生姜\r\n* 料酒或啤酒\r\n* 小葱",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "text": "鸡翅 10 ～ 12 只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可乐",
+      "text": "可乐 500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 20 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱挽成结",
+      "text": "小葱挽成结",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 盘的份量：\r\n\r\n* 鸡翅 10 ～ 12 只\r\n* 可乐 500ml\r\n* 白糖 10 克\r\n* 生抽 15 克\r\n* 老抽 3 克\r\n* 盐 2 克\r\n* 生姜 2 片\r\n* 料酒 20 毫升\r\n* 小葱挽成结",
+  "calculationNotes": [
+    "按照 1 盘的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡翅入锅，倒入冷水淹没。放生姜 1 片和料酒 10 ～ 20 毫升。大火煮开（ 大约 2 分钟 ）后，撇去浮沫，沥出水分"
+    },
+    {
+      "kind": "step",
+      "description": "这一步针对冰鲜鸡翅，刚买来的鸡翅直接改刀用生抽进行腌制即可。"
+    },
+    {
+      "kind": "step",
+      "description": "捞出鸡翅，可用刀将两边各划上两口改刀。生抽约 10 克腌制鸡翅 10 分钟（生抽能完全包裹鸡翅表面入味就行）"
+    },
+    {
+      "kind": "step",
+      "description": "锅重新小火起油，先将剩余姜片爆香，然后下入腌好的鸡翅。将鸡翅煎至金黄翻面（直到两面金黄），用炒菜勺子翻动一下鸡翅，与姜片一起翻炒 4～5 下（目的是防止鸡翅和姜片粘黏）。"
+    },
+    {
+      "kind": "step",
+      "description": "鸡翅金黄，倒入可乐没过鸡翅，开大火将锅中可乐煮沸，然后撇去漂浮的黑色浮沫（包含血水）。此时加入葱结。"
+    },
+    {
+      "kind": "step",
+      "description": "调味：加入食用盐 2 克，白糖 10 克，生抽 3 克调味（可以适当用老抽调底色，3 克）。"
+    },
+    {
+      "kind": "step",
+      "description": "等到葱结变黄，和姜片一起捞出，转中火继续慢煮可乐鸡翅。"
+    },
+    {
+      "kind": "step",
+      "description": "等到可乐呈现挂丝状态，关小火让汁牢牢挂在鸡翅上。出锅，装盘。"
+    }
+  ],
+  "operationMarkdown": "1. 鸡翅入锅，倒入冷水淹没。放生姜 1 片和料酒 10 ～ 20 毫升。大火煮开（ 大约 2 分钟 ）后，撇去浮沫，沥出水分\r\n\r\n  * 这一步针对冰鲜鸡翅，刚买来的鸡翅直接改刀用生抽进行腌制即可。\r\n\r\n2. 捞出鸡翅，可用刀将两边各划上两口改刀。生抽约 10 克腌制鸡翅 10 分钟（生抽能完全包裹鸡翅表面入味就行）\r\n3. 锅重新小火起油，先将剩余姜片爆香，然后下入腌好的鸡翅。将鸡翅煎至金黄翻面（直到两面金黄），用炒菜勺子翻动一下鸡翅，与姜片一起翻炒 4～5 下（目的是防止鸡翅和姜片粘黏）。\r\n4. 鸡翅金黄，倒入可乐没过鸡翅，开大火将锅中可乐煮沸，然后撇去漂浮的黑色浮沫（包含血水）。此时加入葱结。\r\n5. 调味：加入食用盐 2 克，白糖 10 克，生抽 3 克调味（可以适当用老抽调底色，3 克）。\r\n6. 等到葱结变黄，和姜片一起捞出，转中火继续慢煮可乐鸡翅。\r\n7. 等到可乐呈现挂丝状态，关小火让汁牢牢挂在鸡翅上。出锅，装盘。",
+  "tips": "* 加入生姜爆香的同时能防止鸡翅粘锅。\r\n* 最后收汁时勿开过大火，防止味道偏苦。\r\n* 本菜品偏甜。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 加入生姜爆香的同时能防止鸡翅粘锅。\r\n* 最后收汁时勿开过大火，防止味道偏苦。\r\n* 本菜品偏甜。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/可乐鸡翅.md"
+  },
+  "hash": "8570fab1613858f3060c9d937f1d3ed56fa3b6e939d733210edcb93850d7eaae"
+}

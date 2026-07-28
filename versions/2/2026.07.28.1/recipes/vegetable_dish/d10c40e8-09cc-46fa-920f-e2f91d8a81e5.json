@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "id": "d10c40e8-09cc-46fa-920f-e2f91d8a81e5",
+  "legacyIds": [
+    "vegetable_dish_d55a92f5"
+  ],
+  "name": "蚝油生菜",
+  "description": "蚝油生菜是一道爽口鲜香的家常菜，脆嫩的生菜淋上蒜香蚝油汁，咸中带甜，属于粤菜和川菜馆都很常见的快手素菜。富含维生素和膳食纤维，有助于促进消化。做法对新手非常友好，从洗菜到出锅大约只需 15 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 125,
+  "requirements": [
+    {
+      "text": "生菜",
+      "markdown": "生菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 生菜\r\n- 蚝油\r\n- 大蒜\r\n- 生抽\r\n- 盐\r\n- 白糖\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "生菜",
+      "text": "生菜 1 棵( 200 g ± 50 )",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 6-8 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4-5 瓣（做成蒜泥或切碎）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 6 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 0.5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 1 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 5-8 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "这道菜分量和在川菜馆点的标准分量一样\r\n\r\n- 生菜 1 棵( 200 g ± 50 )\r\n- 蚝油 6-8 ml\r\n- 大蒜 4-5 瓣（做成蒜泥或切碎）\r\n- 生抽 6 ml\r\n- 盐 0.5 g\r\n- 白糖 1 g\r\n- 食用油 5-8 ml",
+  "calculationNotes": [
+    "这道菜分量和在川菜馆点的标准分量一样"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "生菜洗净并去掉烂菜叶。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，先放 1 L 清水（凉），然后在锅内放入 2 ml - 3 ml 食用油和 0.5 g 盐，等待锅中的水煮沸。"
+    },
+    {
+      "kind": "step",
+      "description": "水沸后，放入生菜，将**每一片**生菜叶都焯水 10 s。"
+    },
+    {
+      "kind": "step",
+      "description": "捞出生菜，控干水份，摆盘 。"
+    },
+    {
+      "kind": "step",
+      "description": "调汁：将生抽 10 ml 、蚝油 6-8 ml 、盐 0.5 g 、 白糖 1 g 放入碗中调匀，并加入 10-15 ml 清水（凉）搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "再开火，热锅，放入食用油 5-8 ml，油热放入蒜泥。"
+    },
+    {
+      "kind": "step",
+      "description": "等待有蒜香飘出，倒入调好的汁，煮沸即可，立马关火。"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中的汤汁均匀地**浇**在生菜上。"
+    }
+  ],
+  "operationMarkdown": "1. 生菜洗净并去掉烂菜叶。\r\n2. 热锅，先放 1 L 清水（凉），然后在锅内放入 2 ml - 3 ml 食用油和 0.5 g 盐，等待锅中的水煮沸。\r\n3. 水沸后，放入生菜，将**每一片**生菜叶都焯水 10 s。\r\n4. 捞出生菜，控干水份，摆盘 。\r\n5. 调汁：将生抽 10 ml 、蚝油 6-8 ml 、盐 0.5 g 、 白糖 1 g 放入碗中调匀，并加入 10-15 ml 清水（凉）搅拌均匀。\r\n6. 再开火，热锅，放入食用油 5-8 ml，油热放入蒜泥。\r\n7. 等待有蒜香飘出，倒入调好的汁，煮沸即可，立马关火。\r\n8. 将锅中的汤汁均匀地**浇**在生菜上。",
+  "tips": "这道菜富含维生素，做法简单，尝起来爽口又不上火。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "这道菜富含维生素，做法简单，尝起来爽口又不上火。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/蚝油生菜.md"
+  },
+  "hash": "df7b4a9220c1ff77cadecab8d117d0f0175cf08c9bfc7f690b5fd4c9e28b82e6"
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "id": "2135a4a7-96ac-4120-bad7-b35498f9a587",
+  "legacyIds": [
+    "vegetable_dish_d5797f24"
+  ],
+  "name": "炒滑蛋",
+  "description": "炒滑蛋是一道口感嫩滑、蛋香浓郁的经典家常菜，带有淡淡的奶香。鸡蛋富含优质蛋白质和多种维生素，营养丰富，易于吸收。做法非常友好，新手也能轻松掌握，从备料到出锅只需约 5 分钟，是忙碌时快速补充能量的理想选择。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 391,
+  "requirements": [
+    {
+      "text": "鸡蛋（最好是无菌蛋）",
+      "markdown": "鸡蛋（最好是无菌蛋）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋（最好是无菌蛋）\r\n- 牛奶",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 4 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鸡蛋 4 颗\r\n- 牛奶 30ml\r\n- 食用油 10ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用"
+    },
+    {
+      "kind": "step",
+      "description": "大火烧热平底锅约 30s, 加入 5ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "烧 30s 转小火, 并且放入搅拌好的鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒至鸡蛋大致凝固后关火，装盘"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋加入牛奶以及 5ml 食用油搅拌均匀，备用\r\n2. 大火烧热平底锅约 30s, 加入 5ml 食用油\r\n3. 烧 30s 转小火, 并且放入搅拌好的鸡蛋\r\n4. 在锅中静置 5 秒后，用锅铲将蛋液从边缘缓慢推向中间\r\n5. 翻炒至鸡蛋大致凝固后关火，装盘",
+  "tips": "- 最后可根据个人口味撒些黑胡椒或者盐来调味。\r\n\r\n参考资料\r\n\r\n- [甜琛廚房](http://sweetheartkitchen.com/recipes/scrambled-egg/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 最后可根据个人口味撒些黑胡椒或者盐来调味。\r\n\r\n参考资料\r\n\r\n- [甜琛廚房](http://sweetheartkitchen.com/recipes/scrambled-egg/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/2135a4a7-96ac-4120-bad7-b35498f9a587_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
+  },
+  "hash": "431e7401ec8d8cbcae68250fa7d4be0514ce4601e91f6816da6ef3d7694e1bde"
+}

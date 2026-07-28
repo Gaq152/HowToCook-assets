@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "id": "c2809d21-c91e-4328-ac88-53abb43c5c4b",
+  "legacyIds": [
+    "staple_50491397"
+  ],
+  "name": "酱拌荞麦面",
+  "description": "酱拌荞麦面酸甜可口、清凉爽滑，是一道简单快手的家常凉拌面。荞麦面富含膳食纤维和蛋白质，搭配黄瓜、胡萝卜增添清爽口感与维生素，营养均衡。只需煮面、切菜、拌入老干妈，几步搞定，对新手非常友好，一般约 20 分钟便可完成。冷藏后食用风味更佳。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 475,
+  "requirements": [
+    {
+      "text": "荞麦面",
+      "markdown": "荞麦面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄瓜",
+      "markdown": "黄瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红萝卜",
+      "markdown": "红萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老干妈",
+      "markdown": "老干妈",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 荞麦面\r\n* 黄瓜\r\n* 红萝卜\r\n* 老干妈",
+  "ingredients": [
+    {
+      "name": "荞麦面",
+      "text": "荞麦面 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄瓜",
+      "text": "黄瓜 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红萝卜",
+      "text": "红萝卜 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老干妈",
+      "text": "老干妈 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 荞麦面 100 g\r\n* 黄瓜 0.5 根\r\n* 红萝卜 0.5 根\r\n* 老干妈 20 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "荞麦面下冷水煮熟，8-10 分钟 后捞出沥干备用"
+    },
+    {
+      "kind": "step",
+      "description": "黄瓜、萝卜 切成小条"
+    },
+    {
+      "kind": "step",
+      "description": "将荞麦面、黄瓜、萝卜放入盘子，放上老干妈，搅拌"
+    }
+  ],
+  "operationMarkdown": "1. 荞麦面下冷水煮熟，8-10 分钟 后捞出沥干备用\r\n2. 黄瓜、萝卜 切成小条\r\n3. 将荞麦面、黄瓜、萝卜放入盘子，放上老干妈，搅拌\r\n\r\n![酱拌荞麦面-预览图-1](./1.jpeg)\r\n![酱拌荞麦面-预览图-2](./2.jpeg)",
+  "tips": "* 荞麦面沥干后可以放冰箱冰镇后口感更佳\r\n* 配料可以根据个人喜好选择其他，例如虾仁、肉沫等\r\n* 酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等\r\n* 荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 荞麦面沥干后可以放冰箱冰镇后口感更佳\r\n* 配料可以根据个人喜好选择其他，例如虾仁、肉沫等\r\n* 酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等\r\n* 荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/c2809d21-c91e-4328-ac88-53abb43c5c4b_0.webp",
+    "images/staple/c2809d21-c91e-4328-ac88-53abb43c5c4b_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md"
+  },
+  "hash": "3da5536d2431b26136cae36b58261783a9908648f258b7f5c1515f69b11072b2"
+}

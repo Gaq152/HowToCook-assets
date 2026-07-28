@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "id": "7e4f4c25-ca7b-46ec-83d3-612020768a05",
+  "legacyIds": [
+    "aquatic_a7a91bd9"
+  ],
+  "name": "红烧鱼",
+  "description": "红烧鱼是一道家常风味浓郁的经典菜，咸鲜微甜，鱼肉嫩滑入味，属于大众喜爱的中式烧菜。鱼肉富含优质蛋白和不饱和脂肪酸，营养易吸收。制作时需要处理生鱼和油煎，步骤稍多，对新手有一定挑战，但跟着菜谱操作也能成功。从备料到出锅，大约需要 40 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 570,
+  "requirements": [
+    {
+      "text": "姜、蒜瓣、干辣椒",
+      "markdown": "姜、蒜瓣、干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油、盐、料酒、醋、酱油、白砂糖",
+      "markdown": "油、盐、料酒、醋、酱油、白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鱼",
+      "markdown": "鱼",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": "可额外添加的材料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": "可额外添加的材料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": "可额外添加的材料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": "可额外添加的材料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "味精（鸡精）",
+      "markdown": "味精（鸡精）",
+      "group": "可额外添加的材料",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "- 姜、蒜瓣、干辣椒\r\n- 油、盐、料酒、醋、酱油、白砂糖\r\n- 鱼\r\n\r\n### 可额外添加的材料\r\n\r\n注意这些材料都是经验计算得出，除了香菜外其他多了并不是一件好事儿\r\n\r\n- 蚝油\r\n- 葱\r\n- 香菜\r\n- 小米椒\r\n- 味精（鸡精）",
+  "ingredients": [
+    {
+      "name": "鱼 建议新手以一条中等大小的鲫鱼上手",
+      "text": "鱼 建议新手以一条中等大小的鲫鱼上手，提前划好花刀，方便成熟（不然鱼背上容易夹生）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜丝",
+      "text": "姜丝，以正常老姜切 2-3 片，然后片丝即可",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 3-4 个，拍碎或者切碎或者切片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒（依照个人口味）2-3 个",
+      "text": "干辣椒（依照个人口味）2-3 个，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜按照个人口味",
+      "text": "香菜按照个人口味",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10g，如果辣椒辣度高，建议多一点",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1-2 根，正常就撒葱花",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 1-2，不放也可以，过来人的经验，最多放 2 个，不然辣度过高要菊花残。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精",
+      "text": "味精，看个人口味，不要放多，5g 即可。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油，5g 即可，和味精一个道理",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 鱼 建议新手以一条中等大小的鲫鱼上手，提前划好花刀，方便成熟（不然鱼背上容易夹生）\r\n* 姜丝，以正常老姜切 2-3 片，然后片丝即可\r\n* 蒜瓣 3-4 个，拍碎或者切碎或者切片\r\n* 干辣椒（依照个人口味）2-3 个，切碎\r\n* 香菜按照个人口味\r\n* 盐 10g，如果辣椒辣度高，建议多一点\r\n* 醋 5ml\r\n* 酱油 5ml\r\n* 白砂糖 10g\r\n* 葱 1-2 根，正常就撒葱花\r\n* 小米椒 1-2，不放也可以，过来人的经验，最多放 2 个，不然辣度过高要菊花残。\r\n* 味精，看个人口味，不要放多，5g 即可。\r\n* 蚝油，5g 即可，和味精一个道理",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "原材料准备",
+      "description": "### 原材料准备"
+    },
+    {
+      "kind": "step",
+      "description": "姜蒜准备好，切碎"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒切碎，和姜蒜一起"
+    },
+    {
+      "kind": "section",
+      "title": "最终步骤",
+      "description": "### 最终步骤"
+    },
+    {
+      "kind": "step",
+      "description": "加入 30-50ml 油，等待锅热..."
+    },
+    {
+      "kind": "step",
+      "description": "放入**擦干水分的鱼**（不想被热油溅一身的话），然后晃动锅，用热油煎鱼，注意这过程一定要小火"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼翻面，重复上面油煎过程"
+    },
+    {
+      "kind": "step",
+      "description": "放入姜蒜辣椒，翻炒出香味"
+    },
+    {
+      "kind": "step",
+      "description": "倒入料酒，稍微多一点，此过程注意安全，会起大量油烟"
+    },
+    {
+      "kind": "step",
+      "description": "倒入醋（喜欢醋可以多放一点）"
+    },
+    {
+      "kind": "step",
+      "description": "然后放入白砂糖，酱油（老抽)"
+    },
+    {
+      "kind": "step",
+      "description": "加入冷水，以刚好淹没鱼身为宜，然后调成中火，盖上锅盖，大概 1 分钟后将鱼翻身，继续盖上锅盖"
+    },
+    {
+      "kind": "step",
+      "description": "3-4 分钟后，加入盐、小米椒、蚝油（味精、鸡精等），然后继续盖上锅盖，后续继续要翻身"
+    },
+    {
+      "kind": "step",
+      "description": "当锅内汤汁收汁到鱼的脊背线上的鱼鳍下面一点点的时候（或者汤汁不多的时候），转小火，加入香菜，葱花，然后盖上锅盖 20 秒，关火"
+    },
+    {
+      "kind": "step",
+      "description": "起锅"
+    }
+  ],
+  "operationMarkdown": "### 原材料准备\r\n\r\n1. 姜蒜准备好，切碎\r\n2. 干辣椒切碎，和姜蒜一起\r\n\r\n### 最终步骤\r\n\r\n1. 加入 30-50ml 油，等待锅热...\r\n2. 放入**擦干水分的鱼**（不想被热油溅一身的话），然后晃动锅，用热油煎鱼，注意这过程一定要小火\r\n3. 将鱼翻面，重复上面油煎过程\r\n4. 放入姜蒜辣椒，翻炒出香味\r\n5. 倒入料酒，稍微多一点，此过程注意安全，会起大量油烟\r\n6. 倒入醋（喜欢醋可以多放一点）\r\n7. 然后放入白砂糖，酱油（老抽)\r\n8. 加入冷水，以刚好淹没鱼身为宜，然后调成中火，盖上锅盖，大概 1 分钟后将鱼翻身，继续盖上锅盖\r\n9. 3-4 分钟后，加入盐、小米椒、蚝油（味精、鸡精等），然后继续盖上锅盖，后续继续要翻身\r\n10. 当锅内汤汁收汁到鱼的脊背线上的鱼鳍下面一点点的时候（或者汤汁不多的时候），转小火，加入香菜，葱花，然后盖上锅盖 20 秒，关火\r\n11. 起锅",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/红烧鱼.md"
+  },
+  "hash": "76591c7ae0c5ed1043c4e116a1b41aee96b069fdc1503150a588fbb70493e668"
+}

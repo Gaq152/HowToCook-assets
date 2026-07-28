@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "id": "8314675b-a89b-457d-8e26-81c8ee9a8bb5",
+  "legacyIds": [
+    "aquatic_45c4788b"
+  ],
+  "name": "黄油煎虾",
+  "description": "黄油煎虾是一道风味浓郁、虾肉鲜嫩弹牙的家常海鲜菜。鲜虾富含优质蛋白和钙、锌等矿物质，搭配黄油增添了奶香与能量。制作相对简单，只需耐心处理活虾，新手也能顺利上手，总耗时约一小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 741,
+  "requirements": [
+    {
+      "text": "鲜虾（强推肉质紧实的九节虾，普通明虾也可以）",
+      "markdown": "鲜虾（强推肉质紧实的九节虾，普通明虾也可以）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油（推荐安佳，一次用一小盒 7g）",
+      "markdown": "黄油（推荐安佳，一次用一小盒 7g）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒粒（瓶磨的那种）",
+      "markdown": "黑胡椒粒（瓶磨的那种）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米酒",
+      "markdown": "米酒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鲜虾（强推肉质紧实的九节虾，普通明虾也可以）\r\n- 黄油（推荐安佳，一次用一小盒 7g）\r\n- 黑胡椒粒（瓶磨的那种）\r\n- 生抽\r\n- 盐\r\n- 白糖\r\n- 米酒",
+  "ingredients": [
+    {
+      "name": "鲜虾",
+      "text": "鲜虾 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 7g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒粒 大概",
+      "text": "黑胡椒粒 大概 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 45ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米酒",
+      "text": "米酒 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2.5ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鲜虾 300g\r\n- 黄油 7g\r\n- 黑胡椒粒 大概 15ml\r\n- 食用油 45ml\r\n- 生抽 10ml\r\n- 米酒 5ml\r\n- 白糖 10ml\r\n- 盐 2.5ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鲜虾摘除头部，顺带扯出虾线（这步处理不好可在下一步开背时取出虾线），使用剪刀剪开或菜刀片开虾背，沥干水分备用"
+    },
+    {
+      "kind": "step",
+      "description": "调制酱汁：小碗放入上述量的全部生抽、米酒、白糖、盐搅匀备用"
+    },
+    {
+      "kind": "step",
+      "description": "中大火热锅，热锅内放入食用油，等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "虾全部放入锅中，开始瓶磨黑胡椒，均匀地撒在虾上翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "虾变色后加入黄油，黄油完全融化后倒入调制酱汁，继续翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "大火翻炒 15 秒收汁即可装盘"
+    }
+  ],
+  "operationMarkdown": "1. 鲜虾摘除头部，顺带扯出虾线（这步处理不好可在下一步开背时取出虾线），使用剪刀剪开或菜刀片开虾背，沥干水分备用\r\n2. 调制酱汁：小碗放入上述量的全部生抽、米酒、白糖、盐搅匀备用\r\n3. 中大火热锅，热锅内放入食用油，等待 10 秒让油温升高\r\n4. 虾全部放入锅中，开始瓶磨黑胡椒，均匀地撒在虾上翻炒\r\n5. 虾变色后加入黄油，黄油完全融化后倒入调制酱汁，继续翻炒\r\n6. 大火翻炒 15 秒收汁即可装盘",
+  "tips": "- 虾开背才更好入味，不过处理时切记切记小心用刀，新手容易伤到手\r\n- [冯小厨的菜谱](https://www.bilibili.com/video/BV1g541177cd)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 虾开背才更好入味，不过处理时切记切记小心用刀，新手容易伤到手\r\n- [冯小厨的菜谱](https://www.bilibili.com/video/BV1g541177cd)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/8314675b-a89b-457d-8e26-81c8ee9a8bb5_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/黄油煎虾/黄油煎虾.md"
+  },
+  "hash": "759ea236af3df1a604a31be8fcb64328a634967f61624b9ab715222df935d71b"
+}

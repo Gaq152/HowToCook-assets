@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "e9f8525b-67f7-4549-b90e-b6989f2b4daa",
+  "legacyIds": [
+    "vegetable_dish_82f297df"
+  ],
+  "name": "葱煎豆腐",
+  "description": "外焦里嫩，葱香浓郁，咸鲜微辣，是一道家常风味。豆腐富含植物蛋白和钙质，搭配青椒和葱段，营养均衡。制作难度适中，煎豆腐时需掌握小火慢煎，新手按步骤耐心操作也能做好，全程约 30 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 364,
+  "requirements": [
+    {
+      "text": "白豆腐",
+      "markdown": "白豆腐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底锅",
+      "markdown": "平底锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 白豆腐\r\n- 葱\r\n- 青辣椒\r\n- 盐\r\n- 鸡精\r\n- 平底锅",
+  "ingredients": [
+    {
+      "name": "白豆腐的数量",
+      "text": "白豆腐的数量 = 份数 * 0.8 向上取整。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒的数量",
+      "text": "辣椒的数量 = 1.5 只/三人。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱的数量",
+      "text": "葱的数量 = 2 根/三人。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐量",
+      "text": "盐量 = 份数 * 3g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精量",
+      "text": "鸡精量 = 份数 * 1.5g。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用。\r\n\r\n总量：\r\n\r\n- 白豆腐的数量 = 份数 * 0.8 向上取整。\r\n- 辣椒的数量 = 1.5 只/三人。\r\n- 葱的数量 = 2 根/三人。\r\n- 盐量 = 份数 * 3g。\r\n- 鸡精量 = 份数 * 1.5g。\r\n\r\n使用上述条件，计算出计划使用的原材料比例，依口味调整。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用。",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例，依口味调整。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "豆腐洗净。切约 5 mm 厚度，置于碟中。"
+    },
+    {
+      "kind": "step",
+      "description": "葱洗净，除去根部，切成葱花，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "辣椒洗净，切开，去籽，切成 1cm * 1cm 状，备用、"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入份数 * 9ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "油入锅后，使其均匀布于锅底，均匀放入豆腐，小火煎至金黄翻面。"
+    },
+    {
+      "kind": "step",
+      "description": "待两面金黄，盛入碟中备用。"
+    },
+    {
+      "kind": "step",
+      "description": "补油至覆盖锅底，倒入辣椒大火翻炒，并铲碾 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入豆腐，翻炒，加入盐与鸡精，中火翻炒 1 分钟后倒入 10 ML 水，大火收汁。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅前撒上之前计算好的葱花，起锅盛盘。"
+    }
+  ],
+  "operationMarkdown": "1. 豆腐洗净。切约 5 mm 厚度，置于碟中。\r\n2. 葱洗净，除去根部，切成葱花，备用。\r\n3. 辣椒洗净，切开，去籽，切成 1cm * 1cm 状，备用、\r\n4. 热锅，加入份数 * 9ml 油。\r\n5. 油入锅后，使其均匀布于锅底，均匀放入豆腐，小火煎至金黄翻面。\r\n6. 待两面金黄，盛入碟中备用。\r\n7. 补油至覆盖锅底，倒入辣椒大火翻炒，并铲碾 3 分钟。\r\n8. 倒入豆腐，翻炒，加入盐与鸡精，中火翻炒 1 分钟后倒入 10 ML 水，大火收汁。\r\n9. 出锅前撒上之前计算好的葱花，起锅盛盘。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/葱煎豆腐.md"
+  },
+  "hash": "5c6014551e21fe8371fa720f7fef57684bd9500de84d016ace959db9af9ad552"
+}

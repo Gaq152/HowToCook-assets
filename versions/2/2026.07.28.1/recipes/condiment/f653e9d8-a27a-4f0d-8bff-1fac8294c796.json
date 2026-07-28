@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "f653e9d8-a27a-4f0d-8bff-1fac8294c796",
+  "legacyIds": [
+    "condiment_6df7e885"
+  ],
+  "name": "蒜香酱油",
+  "description": "蒜香酱油是一道蒜香浓郁、咸鲜油润的家常蘸料，常用于白切鸡、饺子等菜肴的提味。大蒜和芝麻分别具有抗菌和补充不饱和脂肪酸的作用。做法极其简单，对新手非常友好，全程只需大约 5 分钟即可完成。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 177,
+  "requirements": [
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生油",
+      "markdown": "花生油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蘸料碟",
+      "markdown": "蘸料碟",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 蒜头\r\n- 白芝麻\r\n- 花生油\r\n- 酱油\r\n- 蘸料碟",
+  "ingredients": [
+    {
+      "name": "蒜头",
+      "text": "蒜头 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻",
+      "text": "白芝麻 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生油",
+      "text": "花生油 15 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 30 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蘸料碟",
+      "text": "蘸料碟 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 蒜头 2 瓣\r\n- 白芝麻 5 克\r\n- 花生油 15 毫升\r\n- 酱油 30 毫升\r\n- 蘸料碟 1 个",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "拍碎蒜头"
+    },
+    {
+      "kind": "step",
+      "description": "往蘸料碟中加入酱油"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟"
+    },
+    {
+      "kind": "step",
+      "description": "半分钟后，关火，把热油倒入蘸料碟，用筷子搅拌即可"
+    }
+  ],
+  "operationMarkdown": "1. 拍碎蒜头\r\n2. 往蘸料碟中加入酱油\r\n3. 起锅，加入花生油，等到油温滚烫后加入拍好的蒜头，炸半分钟\r\n4. 半分钟后，关火，把热油倒入蘸料碟，用筷子搅拌即可",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/蒜香酱油.md"
+  },
+  "hash": "377db8fdeac72ea5ac48fa49e79abcfc3d719fa316d5e28a1e1ad6a6a4307c02"
+}

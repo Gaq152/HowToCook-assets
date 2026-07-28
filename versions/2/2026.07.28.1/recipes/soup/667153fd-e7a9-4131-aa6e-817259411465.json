@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 2,
+  "id": "667153fd-e7a9-4131-aa6e-817259411465",
+  "legacyIds": [
+    "soup_a5a476c6"
+  ],
+  "name": "腊八粥",
+  "description": "腊八粥是一道传统节令甜粥，粥体粘稠软糯，融合了多种谷物、豆类和干果的复合香气。富含碳水化合物、矿物质和多种维生素，莲子还有养心安神之效，适合工作压力大的人食用。虽然食材种类多，但操作简单，耐心慢熬即可，对新手友好。除去浸泡等准备时间，熬煮约需 3 小时。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 2042,
+  "requirements": [
+    {
+      "text": "饮用水",
+      "markdown": "饮用水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大米",
+      "markdown": "大米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糯米",
+      "markdown": "糯米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生",
+      "markdown": "花生",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红豆",
+      "markdown": "红豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红枣",
+      "markdown": "红枣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "粥锅（普通锅容易糊底，有条件可选择高压锅）",
+      "markdown": "粥锅（普通锅容易糊底，有条件可选择高压锅）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "中号玻璃碗（或其他中号不锈钢容器）",
+      "markdown": "中号玻璃碗（或其他中号不锈钢容器）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小碗若干",
+      "markdown": "小碗若干",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "薏米",
+      "markdown": "薏米",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "黑米",
+      "markdown": "黑米",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "小米",
+      "markdown": "小米",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "莲子",
+      "markdown": "莲子",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "绿豆",
+      "markdown": "绿豆",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "黄豆",
+      "markdown": "黄豆",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "豌豆",
+      "markdown": "豌豆",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "红腰豆",
+      "markdown": "红腰豆",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "桂圆（去种龙眼干）",
+      "markdown": "桂圆（去种龙眼干）",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "栗子",
+      "markdown": "栗子",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "去壳核桃",
+      "markdown": "去壳核桃",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "葡萄干",
+      "markdown": "葡萄干",
+      "group": "可选原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "冰糖（或白糖，调味用）",
+      "markdown": "冰糖（或白糖，调味用）",
+      "group": "可选原料",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "- 饮用水\r\n- 大米\r\n- 糯米\r\n- 花生\r\n- 红豆\r\n- 红枣\r\n- 粥锅（普通锅容易糊底，有条件可选择高压锅）\r\n- 中号玻璃碗（或其他中号不锈钢容器）\r\n- 小碗若干\r\n\r\n### 可选原料\r\n\r\n由于腊八粥的配方多样，下面的食材原料可以根据自己的口味偏好自行选择。\r\n\r\n- 薏米\r\n- 黑米\r\n- 小米\r\n- 莲子\r\n- 绿豆\r\n- 黄豆\r\n- 豌豆\r\n- 红腰豆\r\n- 桂圆（去种龙眼干）\r\n- 栗子\r\n- 去壳核桃\r\n- 葡萄干\r\n- 冰糖（或白糖，调味用）",
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "text": "饮用水 1 L",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大米",
+      "text": "大米 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糯米",
+      "text": "糯米 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "薏米",
+      "text": "薏米 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑米",
+      "text": "黑米 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米",
+      "text": "小米 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "莲子",
+      "text": "莲子 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "绿豆",
+      "text": "绿豆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红豆",
+      "text": "红豆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生",
+      "text": "花生 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆",
+      "text": "黄豆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豌豆",
+      "text": "豌豆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红枣",
+      "text": "红枣 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂圆",
+      "text": "桂圆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "栗子",
+      "text": "栗子 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "去壳核桃",
+      "text": "去壳核桃 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葡萄干",
+      "text": "葡萄干 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红腰豆",
+      "text": "红腰豆 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10~25 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "对于一人份（三小碗）的情况，一份的分量是：\r\n\r\n- 饮用水 1 L\r\n- 大米 50 g\r\n- 糯米 50 g\r\n- 薏米 50 g\r\n- 黑米 50 g\r\n- 小米 50 g\r\n- 莲子 25 g\r\n- 绿豆 25 g\r\n- 红豆 25 g\r\n- 花生 25 g\r\n- 黄豆 25 g\r\n- 豌豆 25 g\r\n- 红枣 25 g\r\n- 桂圆 25 g\r\n- 栗子 25 g\r\n- 去壳核桃 25 g\r\n- 葡萄干 25 g\r\n- 红腰豆 25 g\r\n- 冰糖 10~25 g\r\n\r\n以上原料分量可以按照自己的口味偏好适当调整，对于米类，不建议超过 150 g ，对于其他豆类，不建议超过 50 g 。",
+  "calculationNotes": [
+    "对于一人份（三小碗）的情况，一份的分量是：",
+    "以上原料分量可以按照自己的口味偏好适当调整，对于米类，不建议超过 150 g ，对于其他豆类，不建议超过 50 g 。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "提前洗净好绿豆、红豆、花生、黄豆、豌豆、红腰豆，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡一夜（或最少 8 小时）。"
+    },
+    {
+      "kind": "step",
+      "description": "提前洗净好大米、糯米、薏米、黑米、小米、莲子，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡 3 小时。"
+    },
+    {
+      "kind": "step",
+      "description": "将步骤 1 中准备好的盛有绿豆、红豆、花生、黄豆、豌豆、红腰豆的玻璃碗中的水分分离倒出，其余原料倒入粥锅中，加入 1 升饮用水（或漫过食材 1 拇指块），大火煮沸，煮沸后合上锅盖，小火煮 30 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将步骤 2 中准备好的盛有大米、糯米、薏米、黑米、小米、莲子的玻璃碗中的水分分离倒出，其余原料继续倒入粥锅中，合上锅盖，小火煮 60 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "洗净好红枣、桂圆、栗子、核桃、葡萄干（其中红枣切成小片）、冰糖，倒入锅中，合上锅盖，小火煮 60 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "确认煮出的粥粘稠后即可关火、盛盘、食用。"
+    }
+  ],
+  "operationMarkdown": "1. 提前洗净好绿豆、红豆、花生、黄豆、豌豆、红腰豆，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡一夜（或最少 8 小时）。\r\n2. 提前洗净好大米、糯米、薏米、黑米、小米、莲子，并用干净的玻璃碗盛放好，注入 3/4 玻璃碗大小的饮用水，浸泡 3 小时。\r\n3. 将步骤 1 中准备好的盛有绿豆、红豆、花生、黄豆、豌豆、红腰豆的玻璃碗中的水分分离倒出，其余原料倒入粥锅中，加入 1 升饮用水（或漫过食材 1 拇指块），大火煮沸，煮沸后合上锅盖，小火煮 30 分钟。\r\n4. 将步骤 2 中准备好的盛有大米、糯米、薏米、黑米、小米、莲子的玻璃碗中的水分分离倒出，其余原料继续倒入粥锅中，合上锅盖，小火煮 60 分钟。\r\n5. 洗净好红枣、桂圆、栗子、核桃、葡萄干（其中红枣切成小片）、冰糖，倒入锅中，合上锅盖，小火煮 60 分钟。\r\n6. 确认煮出的粥粘稠后即可关火、盛盘、食用。",
+  "tips": "- 往粥锅加入食材时，应当进行搅拌，使食材原料均匀分布在各处，并注意观察水位线，如发现水位线低于米线及食材应立即补水。\r\n- 注意控制火候，不要过大，定时搅拌。如果使用普通锅，建议烧开水后再下原料，搅拌到再次烧开改小火，避免锅底烧糊。如果有条件，建议改用高压锅或粥锅。\r\n- 参考资料：[全网最正宗腊八粥做法，香甜软糯一次成功！\\_哔哩哔哩\\_bilibili](https://www.bilibili.com/video/BV1Mt411H7by/?spm_id_from=333.1391.0.0&vd_source=2a1baf3b15cd0eb7f9396b4ad2708e44) 、 [腊八粥（在腊八节用多种食材熬制的粥）_百度百科](https://baike.baidu.com/item/腊八粥/27200)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 往粥锅加入食材时，应当进行搅拌，使食材原料均匀分布在各处，并注意观察水位线，如发现水位线低于米线及食材应立即补水。\r\n- 注意控制火候，不要过大，定时搅拌。如果使用普通锅，建议烧开水后再下原料，搅拌到再次烧开改小火，避免锅底烧糊。如果有条件，建议改用高压锅或粥锅。\r\n- 参考资料：[全网最正宗腊八粥做法，香甜软糯一次成功！\\_哔哩哔哩\\_bilibili](https://www.bilibili.com/video/BV1Mt411H7by/?spm_id_from=333.1391.0.0&vd_source=2a1baf3b15cd0eb7f9396b4ad2708e44) 、 [腊八粥（在腊八节用多种食材熬制的粥）_百度百科](https://baike.baidu.com/item/腊八粥/27200)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/腊八粥.md"
+  },
+  "hash": "92fa6489e9b327c53d93390a21b9991393ecd1c4acb0938c734ba048cec3e00c"
+}

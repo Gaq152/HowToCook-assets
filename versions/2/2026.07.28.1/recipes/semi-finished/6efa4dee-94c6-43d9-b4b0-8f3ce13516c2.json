@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "id": "6efa4dee-94c6-43d9-b4b0-8f3ce13516c2",
+  "legacyIds": [
+    "semi-finished_1163d186"
+  ],
+  "name": "速冻汤圆",
+  "description": "速冻汤圆是一道快速方便的微波炉甜点，外皮软糯、内馅香甜，属于中式传统小吃。主要提供碳水化合物，能迅速补充能量。做法极易上手，新手也能轻松完成，从准备到出锅仅需大约 6 分钟。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 568,
+  "requirements": [
+    {
+      "text": "速冻汤圆",
+      "markdown": "速冻汤圆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "微波炉",
+      "markdown": "微波炉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 速冻汤圆\r\n- 微波炉",
+  "ingredients": [
+    {
+      "name": "速冻汤圆",
+      "text": "速冻汤圆：11 个。数量取决于碗的大小。保证放入的汤圆最高不超过碗高度 - 5mm。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 速冻汤圆：11 个。数量取决于碗的大小。保证放入的汤圆最高不超过碗高度 - 5mm。",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "取出速冻汤圆，放入碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入开水，直至浸没汤圆。"
+    },
+    {
+      "kind": "step",
+      "description": "微波炉高火 4 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "假如汤圆均已吸水膨胀，则已熟。"
+    },
+    {
+      "kind": "step",
+      "description": "如果没熟，再加热 1 分钟。"
+    }
+  ],
+  "operationMarkdown": "1. 取出速冻汤圆，放入碗中。\r\n2. 倒入开水，直至浸没汤圆。\r\n3. 微波炉高火 4 分钟。\r\n4. 假如汤圆均已吸水膨胀，则已熟。\r\n5. 如果没熟，再加热 1 分钟。",
+  "tips": "- 注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。\r\n- 假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 注意先加汤圆再加热水，不要颠倒，不然汤圆倒入热水可能会溅出烫伤。以及无法控制水面高度可能溢出。\r\n- 假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/semi-finished/6efa4dee-94c6-43d9-b4b0-8f3ce13516c2_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/速冻汤圆/速冻汤圆.md"
+  },
+  "hash": "8dc99f3b0969b86829a45f69b3086da98c26535566123c86666ce91a33fd9429"
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "id": "67576de7-154e-425a-bf66-6f373cdd04e5",
+  "legacyIds": [
+    "drink_9e3b1e0b"
+  ],
+  "name": "金汤力",
+  "description": "这是一款经典的金酒鸡尾酒，口感清爽微苦，带有柠檬的明亮酸香与汤力水的细腻气泡，入口轻盈畅快。虽然主要提供水分和少量酒精带来的热量，新鲜柠檬汁能补充维生素 C，帮助提神。做法非常简单，新手也能轻松掌握，预计只需 5 分钟即可完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 205,
+  "requirements": [
+    {
+      "text": "金酒",
+      "markdown": "金酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "汤力水气泡水",
+      "markdown": "汤力水气泡水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "新鲜绿叶（可选，装饰用）",
+      "markdown": "新鲜绿叶（可选，装饰用）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "手动压汁器",
+      "markdown": "手动压汁器",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "原料\r\n\r\n- 金酒\r\n- 汤力水气泡水\r\n- 柠檬\r\n- 冰块\r\n- 新鲜绿叶（可选，装饰用）\r\n\r\n工具\r\n\r\n- 手动压汁器",
+  "ingredients": [
+    {
+      "name": "金酒",
+      "text": "金酒 30~40 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "汤力水气泡水",
+      "text": "汤力水气泡水 1 罐",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 350 毫升（含冰）\r\n\r\n- 金酒 30~40 毫升\r\n- 汤力水气泡水 1 罐\r\n- 柠檬 1 个\r\n- 冰块 100 克",
+  "calculationNotes": [
+    "一杯分量，约 350 毫升（含冰）"
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "柠檬的处理"
+    },
+    {
+      "kind": "step",
+      "description": "将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用"
+    },
+    {
+      "kind": "step",
+      "description": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用"
+    },
+    {
+      "kind": "note",
+      "description": "正式调配"
+    },
+    {
+      "kind": "step",
+      "description": "选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯"
+    },
+    {
+      "kind": "step",
+      "description": "将 100 克冰块放置在杯底"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 30~40 毫升金酒"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 15 毫升柠檬汁（如果喜酸可以加多点或全加）"
+    },
+    {
+      "kind": "step",
+      "description": "用勺子搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将之前准备的一片柠檬放置好"
+    },
+    {
+      "kind": "step",
+      "description": "缓慢沿杯壁注入汤力水直至满杯（不要倒在冰上，避免起泡流失）"
+    },
+    {
+      "kind": "step",
+      "description": "用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）"
+    },
+    {
+      "kind": "step",
+      "description": "在液面放置好装饰用的绿叶（可选）"
+    }
+  ],
+  "operationMarkdown": "柠檬的处理\r\n\r\n1. 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用\r\n2. 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用\r\n\r\n正式调配\r\n\r\n1. 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯\r\n2. 将 100 克冰块放置在杯底\r\n3. 倒入 30~40 毫升金酒\r\n4. 倒入 15 毫升柠檬汁（如果喜酸可以加多点或全加）\r\n5. 用勺子搅拌均匀\r\n6. 将之前准备的一片柠檬放置好\r\n7. 缓慢沿杯壁注入汤力水直至满杯（不要倒在冰上，避免起泡流失）\r\n8. 用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）\r\n9. 在液面放置好装饰用的绿叶（可选）",
+  "tips": "### 成品\r\n\r\n![金汤力-预览图-1](./gin-tonic.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 成品\r\n\r\n![金汤力-预览图-1](./gin-tonic.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/67576de7-154e-425a-bf66-6f373cdd04e5_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/金汤力/金汤力.md"
+  },
+  "hash": "70652135cee3c7d91d33ff918798756c4c300557c3fb6f5f2f64f7a09a2ff6f2"
+}

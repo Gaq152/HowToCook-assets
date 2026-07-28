@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "id": "b530f9ad-0dee-4a9f-a7f0-673c1189e527",
+  "legacyIds": [
+    "meat_dish_397dfb8e"
+  ],
+  "name": "番茄红酱",
+  "description": "这款意式风味酱料香浓可口，蔬菜与牛肉的搭配带来丰富口感。它富含蛋白质和多种维生素，营养均衡。制作过程稍有繁琐，需要一些烹饪基础，例如炒出颗粒感的牛肉和控火慢煮。从备料到完成约需一小时，一次可多做一些冷冻保存，随取随用十分方便。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1955,
+  "requirements": [
+    {
+      "text": "碎牛肉",
+      "markdown": "碎牛肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜",
+      "markdown": "芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "橄榄油",
+      "markdown": "橄榄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干罗勒或百里香（可选）",
+      "markdown": "干罗勒或百里香（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 碎牛肉\r\n- 蒜瓣\r\n- 胡萝卜\r\n- 芹菜\r\n- 洋葱\r\n- 橄榄油\r\n- 糖\r\n- 食盐\r\n- 胡椒粉\r\n- 番茄酱\r\n- 牛奶\r\n- 干罗勒或百里香（可选）",
+  "ingredients": [
+    {
+      "name": "碎牛肉",
+      "text": "碎牛肉 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜 半根",
+      "text": "胡萝卜 半根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芹菜 一根",
+      "text": "芹菜 一根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱 半个",
+      "text": "洋葱 半个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橄榄油",
+      "text": "橄榄油",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒粉",
+      "text": "黑胡椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 300ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 碎牛肉 500g\r\n- 蒜瓣 2 个\r\n- 胡萝卜 半根\r\n- 芹菜 一根\r\n- 洋葱 半个\r\n- 橄榄油\r\n- 糖 2g\r\n- 食盐 10g\r\n- 黑胡椒粉 5g\r\n- 番茄酱 300g\r\n- 牛奶 300ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将胡萝卜、芹菜、洋葱切碎，蒜瓣切片。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出。"
+    },
+    {
+      "kind": "step",
+      "description": "锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）。"
+    },
+    {
+      "kind": "step",
+      "description": "加入炒好的蔬菜们和番茄酱继续翻炒，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "分多次缓缓倒入牛奶，中小火煮 30 分钟，完成。"
+    }
+  ],
+  "operationMarkdown": "1. 将胡萝卜、芹菜、洋葱切碎，蒜瓣切片。\r\n2. 加入 10ml 橄榄油，热油下锅蔬菜，大火翻炒开始略微变色后盛出。\r\n3. 锅内加油 10ml，加蒜翻炒 10 秒，加入碎牛肉、糖、盐、胡椒粉和香料将牛肉炒脆（有颗粒感）。\r\n4. 加入炒好的蔬菜们和番茄酱继续翻炒，搅拌均匀。\r\n5. 分多次缓缓倒入牛奶，中小火煮 30 分钟，完成。",
+  "tips": "- **考虑各个品牌的番茄酱内含盐量不同，建议在炒牛肉时少放盐，煮的时候尝一下再调味**\r\n- **煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！**\r\n- 可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **考虑各个品牌的番茄酱内含盐量不同，建议在炒牛肉时少放盐，煮的时候尝一下再调味**\r\n- **煮酱料期间请搅动，以免粘锅。如果酱料变粘稠就可以出锅啦！**\r\n- 可根据个人口味，将碎牛肉替换成一半碎猪肉一半碎牛肉，牛奶替换成鸡汤或饮用水。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/番茄红酱.md"
+  },
+  "hash": "de587e5f3a5288a6a51decdc8a1819f3c87d843cc1c9623795cf9b8b95ffaeb8"
+}

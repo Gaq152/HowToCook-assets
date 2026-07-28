@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "id": "eaa8869d-0e12-4d34-aff2-5765d460c099",
+  "legacyIds": [
+    "aquatic_cde57a22"
+  ],
+  "name": "水煮鱼",
+  "description": "水煮鱼是一道麻辣鲜香、鱼肉嫩滑的经典川菜。巴沙鱼富含优质蛋白且脂肪含量低，搭配时令蔬菜营养均衡。做法中等难度，对新手有一定挑战，但按步骤操作也能成功。预计制作时长约 2 小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 248,
+  "requirements": [
+    {
+      "text": "巴沙鱼",
+      "markdown": "巴沙鱼",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蔬菜（比如土豆片/豆芽/花菜/生菜/……）",
+      "markdown": "蔬菜（比如土豆片/豆芽/花菜/生菜/……）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红油豆瓣酱",
+      "markdown": "红油豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "藤椒油",
+      "markdown": "藤椒油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜籽油",
+      "markdown": "菜籽油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "量杯",
+      "markdown": "量杯",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "厨房秤（可选）",
+      "markdown": "厨房秤（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大不锈钢碗",
+      "markdown": "大不锈钢碗",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 巴沙鱼\r\n- 蔬菜（比如土豆片/豆芽/花菜/生菜/……）\r\n- 红油豆瓣酱\r\n- 藤椒油\r\n- 菜籽油\r\n- 白胡椒粉\r\n- 蒜瓣\r\n- 盐\r\n- 糖\r\n- 量杯\r\n- 厨房秤（可选）\r\n- 大不锈钢碗",
+  "ingredients": [
+    {
+      "name": "巴沙鱼",
+      "text": "巴沙鱼 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蔬菜（比如土豆片/豆芽/花菜/生菜/……） 可有不同搭配",
+      "text": "蔬菜（比如土豆片/豆芽/花菜/生菜/……） 可有不同搭配，推荐合计重量 300g 至 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红油豆瓣酱",
+      "text": "红油豆瓣酱 40g （不怕辣想多加红油就多加 10 至 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆豉",
+      "text": "豆豉 10g （可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "藤椒油",
+      "text": "藤椒油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜籽油",
+      "text": "菜籽油 25ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "以下用量适合 3 至 5 人食用。\r\n\r\n- 巴沙鱼 500g\r\n- 蔬菜（比如土豆片/豆芽/花菜/生菜/……） 可有不同搭配，推荐合计重量 300g 至 500g\r\n- 红油豆瓣酱 40g （不怕辣想多加红油就多加 10 至 20g）\r\n- 豆豉 10g （可选）\r\n- 藤椒油 10ml\r\n- 菜籽油 25ml\r\n- 白胡椒粉 3g\r\n- 大蒜 2 瓣\r\n- 盐 5g\r\n- 糖 2g",
+  "calculationNotes": [
+    "以下用量适合 3 至 5 人食用。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "准备：巴沙鱼若是从冷冻柜里取出，需要放室温自然解冻 5 小时再做切片处理。"
+    },
+    {
+      "kind": "step",
+      "description": "切片：巴沙鱼撇成薄片，约 5cm 长，3cm 宽。"
+    },
+    {
+      "kind": "step",
+      "description": "[腌制](tips://learn/tips_learn_50ddd8bd)：将切好片的巴沙鱼放入大不锈钢碗中"
+    },
+    {
+      "kind": "step",
+      "description": "加入 30g 豆瓣酱，3g 盐，10ml 藤椒油，3g 白胡椒粉"
+    },
+    {
+      "kind": "step",
+      "description": "用手抓匀后加入 5ml 菜籽油收尾封住口味"
+    },
+    {
+      "kind": "step",
+      "description": "常温静置至少 30 分钟入味。"
+    },
+    {
+      "kind": "step",
+      "description": "备菜：大蒜切成蒜末。以 300g 花菜，200g 生菜为例，将花菜与生菜洗净。"
+    },
+    {
+      "kind": "step",
+      "description": "焯水与炒菜：花菜[开水锅焯水](tips://learn/tips_learn_bfb8a52d)备用；将生菜洗净晾干，炒熟备用（不用放油）。"
+    },
+    {
+      "kind": "step",
+      "description": "炒豆瓣酱：热锅冷油（菜籽油 20ml），加入 10g 豆瓣酱，10g 豆豉（可选），加入蒜末，**中火**慢炒。"
+    },
+    {
+      "kind": "step",
+      "description": "汆鱼片：加入 150ml 热水，水很快开后加入腌制好的鱼片，轻轻翻动让鱼片在水中散开，加入 2g 盐和 2g 糖调味（此时可根据个人口味调整盐的用量）。水再次沸腾后即可盛盘。"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘：先将熟的蔬菜盛至大碗中，然后将热的鱼片盛在蔬菜上面，浇上锅中剩余热汤即可！"
+    }
+  ],
+  "operationMarkdown": "1. 准备：巴沙鱼若是从冷冻柜里取出，需要放室温自然解冻 5 小时再做切片处理。\r\n2. 切片：巴沙鱼撇成薄片，约 5cm 长，3cm 宽。\r\n3. [腌制](tips://learn/tips_learn_50ddd8bd)：将切好片的巴沙鱼放入大不锈钢碗中\r\n4. 加入 30g 豆瓣酱，3g 盐，10ml 藤椒油，3g 白胡椒粉\r\n5. 用手抓匀后加入 5ml 菜籽油收尾封住口味\r\n6. 常温静置至少 30 分钟入味。\r\n7. 备菜：大蒜切成蒜末。以 300g 花菜，200g 生菜为例，将花菜与生菜洗净。\r\n8. 焯水与炒菜：花菜[开水锅焯水](tips://learn/tips_learn_bfb8a52d)备用；将生菜洗净晾干，炒熟备用（不用放油）。\r\n9. 炒豆瓣酱：热锅冷油（菜籽油 20ml），加入 10g 豆瓣酱，10g 豆豉（可选），加入蒜末，**中火**慢炒。\r\n10. 汆鱼片：加入 150ml 热水，水很快开后加入腌制好的鱼片，轻轻翻动让鱼片在水中散开，加入 2g 盐和 2g 糖调味（此时可根据个人口味调整盐的用量）。水再次沸腾后即可盛盘。\r\n11. 盛盘：先将熟的蔬菜盛至大碗中，然后将热的鱼片盛在蔬菜上面，浇上锅中剩余热汤即可！",
+  "tips": "- 垫底的蔬菜组合及用量可自由发挥，但需要注意各种蔬菜的特点，比如改成土豆的时候，需要将土豆片/土豆块煮熟（可以用筷子戳一戳确认）。\r\n- 红油豆瓣酱（辣度）以及盐的用量可根据个人口味调整。\r\n- 注意切鱼片的时候可以垂直于鱼片长条的方向先剁成 5cm 的鱼块，然后翻转 90 度斜着撇成薄片。\r\n- [腌制](tips://learn/tips_learn_50ddd8bd)的时候注意不要太用力抓。\r\n- [How to Fillet a Fish 怎样给鱼剔骨](https://www.youtube.com/watch?v=uXSgGtMkgro)\r\n\r\n### 参考资料\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 垫底的蔬菜组合及用量可自由发挥，但需要注意各种蔬菜的特点，比如改成土豆的时候，需要将土豆片/土豆块煮熟（可以用筷子戳一戳确认）。\r\n- 红油豆瓣酱（辣度）以及盐的用量可根据个人口味调整。\r\n- 注意切鱼片的时候可以垂直于鱼片长条的方向先剁成 5cm 的鱼块，然后翻转 90 度斜着撇成薄片。\r\n- [腌制](tips://learn/tips_learn_50ddd8bd)的时候注意不要太用力抓。\r\n- [How to Fillet a Fish 怎样给鱼剔骨](https://www.youtube.com/watch?v=uXSgGtMkgro)\r\n\r\n### 参考资料\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/水煮鱼.md"
+  },
+  "hash": "022e0fcb22c8af6c24357a6addaa7503095ae1653b3ec1ec99e046f5bb7306d0"
+}

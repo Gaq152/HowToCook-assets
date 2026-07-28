@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 2,
+  "id": "13f30a16-a271-4541-b76a-926deb007fce",
+  "legacyIds": [],
+  "name": "红烧鸡翅",
+  "description": "红烧鸡翅是一道家常下饭菜，咸鲜带甜、色泽红亮，肉质嫩滑易脱骨。鸡翅富含优质蛋白质与胶原蛋白，营养好吸收。制作难度适中，新手按步骤操作也能顺利掌握，从备料到出锅大约需要 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1016,
+  "requirements": [
+    {
+      "text": "新鲜鸡翅（推荐选择鸡翅中，肉质更嫩）",
+      "markdown": "新鲜鸡翅（推荐选择鸡翅中，肉质更嫩）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜片（推荐使用生姜，去腥效果更佳）",
+      "markdown": "姜片（推荐使用生姜，去腥效果更佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱段（推荐使用大葱白部分，香味更浓郁）",
+      "markdown": "葱段（推荐使用大葱白部分，香味更浓郁）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒（可选，不吃辣可省略）",
+      "markdown": "干辣椒（可选，不吃辣可省略）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄酒或料酒（二选一即可，黄酒风味更醇厚）",
+      "markdown": "黄酒或料酒（二选一即可，黄酒风味更醇厚）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉（推荐白胡椒粉，辛辣味较淡）",
+      "markdown": "胡椒粉（推荐白胡椒粉，辛辣味较淡）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻（熟）",
+      "markdown": "白芝麻（熟）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱花（点缀用）",
+      "markdown": "小葱花（点缀用）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜鸡翅（推荐选择鸡翅中，肉质更嫩）\r\n- 姜片（推荐使用生姜，去腥效果更佳）\r\n- 葱段（推荐使用大葱白部分，香味更浓郁）\r\n- 大蒜\r\n- 香叶\r\n- 八角\r\n- 干辣椒（可选，不吃辣可省略）\r\n- 冰糖\r\n- 黄酒或料酒（二选一即可，黄酒风味更醇厚）\r\n- 生抽\r\n- 老抽\r\n- 盐\r\n- 白糖\r\n- 胡椒粉（推荐白胡椒粉，辛辣味较淡）\r\n- 白芝麻（熟）\r\n- 小葱花（点缀用）",
+  "ingredients": [
+    {
+      "name": "新鲜鸡翅",
+      "text": "新鲜鸡翅 500g（约 8-10 个，单个鸡翅约 50-60g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片 4-5 片（约 10g，切片厚度约 2mm）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱段",
+      "text": "葱段 2-3 段（约 15g，每段长度约 3cm）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3-4 瓣（约 15g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 2 个（可选，约 5g，不吃辣可省略）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 15g（颗粒状冰糖）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄酒或料酒",
+      "text": "黄酒或料酒 35ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻",
+      "text": "白芝麻 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱花",
+      "text": "小葱花 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需确定计划做几份，一份够 3-4 人食用。\r\n\r\n每份：\r\n\r\n- 新鲜鸡翅 500g（约 8-10 个，单个鸡翅约 50-60g）\r\n- 姜片 4-5 片（约 10g，切片厚度约 2mm）\r\n- 葱段 2-3 段（约 15g，每段长度约 3cm）\r\n- 大蒜 3-4 瓣（约 15g）\r\n- 香叶 1 片\r\n- 八角 1 个\r\n- 干辣椒 2 个（可选，约 5g，不吃辣可省略）\r\n- 冰糖 15g（颗粒状冰糖）\r\n- 黄酒或料酒 35ml\r\n- 生抽 15ml\r\n- 老抽 5ml\r\n- 盐 3g\r\n- 白糖 2g\r\n- 胡椒粉 1g\r\n- 白芝麻 3g\r\n- 小葱花 5g\r\n- 食用油 10-15ml",
+  "calculationNotes": [
+    "每次制作前需确定计划做几份，一份够 3-4 人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将鸡翅洗净。用刀在鸡翅厚处划三刀，背面扎一刀，便于入味。"
+    },
+    {
+      "kind": "step",
+      "description": "如果鸡翅不新鲜，可在打完花刀之后用姜水泡 10-20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将 10g 姜片（3-4 片）、15g 葱段（2-3 段）备好；3-4 瓣大蒜（约 15g）用刀拍散（无需剁碎）；1 片香叶、1 个八角、2 个干辣椒（可选）整理好备用。"
+    },
+    {
+      "kind": "step",
+      "description": "起锅开火，锅中加入清水没过所有鸡翅，冷水下锅放入处理好的鸡翅，加入 20ml 黄酒或料酒、2 片姜片（约 5g），开大火烧至沸腾，沸腾后保持大火继续煮 2-3 分钟，撇去浮沫。"
+    },
+    {
+      "kind": "step",
+      "description": "煮好后将鸡翅捞出，用温水清洗 2 遍，彻底去除血沫，控干水分备用。"
+    },
+    {
+      "kind": "step",
+      "description": "另起锅，开火烧热后放入 10-15ml 食用油。"
+    },
+    {
+      "kind": "step",
+      "description": "待油温至 5 成热，加入 15g 冰糖，开大火将冰糖熬至完全融化，冰糖融化变色后转小火，继续炒至冰糖呈枣红色，立即放入控干水分的鸡翅，快速翻炒 1-2 分钟，使每只鸡翅均匀裹上糖色。"
+    },
+    {
+      "kind": "step",
+      "description": "加入准备好的 1 片香叶、1 个八角、2 个干辣椒（可选）、剩下的 2 片姜片（约 5g）、15g 葱段、拍散的大蒜，继续煸炒 30 秒至香料香味完全释放。"
+    },
+    {
+      "kind": "step",
+      "description": "沿锅边淋入 15ml 料酒或黄酒，15ml 生抽，快速翻炒 10 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "加入温水（水温约 50-60℃），水量以稍微没过所有鸡翅为准。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 5ml 老抽、3g 盐、2g 白糖、1g 胡椒粉，用炒勺轻轻搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖，开中火烧煮 7-8 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖，用筷子将锅中的香叶、八角、姜片、葱段、大蒜捡出丢弃。"
+    },
+    {
+      "kind": "step",
+      "description": "转大火，保持不断翻炒，将汤汁烧至粘稠状态（约 1-2 分钟）。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，将鸡翅盛入盘中，淋上锅中剩余的粘稠汤汁。"
+    },
+    {
+      "kind": "step",
+      "description": "最后撒上 3g 白芝麻和 5g 小葱花，完成制作。"
+    }
+  ],
+  "operationMarkdown": "1. 将鸡翅洗净。用刀在鸡翅厚处划三刀，背面扎一刀，便于入味。\r\n2. 如果鸡翅不新鲜，可在打完花刀之后用姜水泡 10-20 分钟。\r\n3. 将 10g 姜片（3-4 片）、15g 葱段（2-3 段）备好；3-4 瓣大蒜（约 15g）用刀拍散（无需剁碎）；1 片香叶、1 个八角、2 个干辣椒（可选）整理好备用。\r\n4. 起锅开火，锅中加入清水没过所有鸡翅，冷水下锅放入处理好的鸡翅，加入 20ml 黄酒或料酒、2 片姜片（约 5g），开大火烧至沸腾，沸腾后保持大火继续煮 2-3 分钟，撇去浮沫。\r\n5. 煮好后将鸡翅捞出，用温水清洗 2 遍，彻底去除血沫，控干水分备用。\r\n6. 另起锅，开火烧热后放入 10-15ml 食用油。\r\n7. 待油温至 5 成热，加入 15g 冰糖，开大火将冰糖熬至完全融化，冰糖融化变色后转小火，继续炒至冰糖呈枣红色，立即放入控干水分的鸡翅，快速翻炒 1-2 分钟，使每只鸡翅均匀裹上糖色。\r\n8. 加入准备好的 1 片香叶、1 个八角、2 个干辣椒（可选）、剩下的 2 片姜片（约 5g）、15g 葱段、拍散的大蒜，继续煸炒 30 秒至香料香味完全释放。\r\n9. 沿锅边淋入 15ml 料酒或黄酒，15ml 生抽，快速翻炒 10 秒。\r\n10. 加入温水（水温约 50-60℃），水量以稍微没过所有鸡翅为准。\r\n11. 加入 5ml 老抽、3g 盐、2g 白糖、1g 胡椒粉，用炒勺轻轻搅拌均匀。\r\n12. 盖上锅盖，开中火烧煮 7-8 分钟。\r\n13. 打开锅盖，用筷子将锅中的香叶、八角、姜片、葱段、大蒜捡出丢弃。\r\n14. 转大火，保持不断翻炒，将汤汁烧至粘稠状态（约 1-2 分钟）。\r\n15. 关火，将鸡翅盛入盘中，淋上锅中剩余的粘稠汤汁。\r\n16. 最后撒上 3g 白芝麻和 5g 小葱花，完成制作。",
+  "tips": "- 如果闻着有腥味，可以增加一倍香料用量。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果闻着有腥味，可以增加一倍香料用量。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/红烧鸡翅.md"
+  },
+  "hash": "12cd0cded563789e1d5906f6be9295939829ede44ea87f9692a71c72264ec163"
+}

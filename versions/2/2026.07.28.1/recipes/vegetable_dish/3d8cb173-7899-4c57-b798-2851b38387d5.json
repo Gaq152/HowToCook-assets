@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "id": "3d8cb173-7899-4c57-b798-2851b38387d5",
+  "legacyIds": [
+    "vegetable_dish_8461cd0d"
+  ],
+  "name": "油醋爆蛋",
+  "description": "这是一道湘味十足的家常快手下饭菜，酸辣鲜香，鸡蛋焦香蓬松裹满浓郁汤汁，十分开胃。鸡蛋提供优质蛋白质和卵磷脂，搭配香醋更有助于促进食欲。做法极其简单，新手友好，从准备到出锅仅需大约十分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 471,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油（可选但推荐）",
+      "markdown": "蚝油（可选但推荐）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖（可选）",
+      "markdown": "白糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 小米辣\r\n- 小葱\r\n- 蒜\r\n- 油\r\n- 香醋\r\n- 生抽\r\n- 蚝油（可选但推荐）\r\n- 白糖（可选）",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 10 g（约 3 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 35-50 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 15 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10-15 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 0-5 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 鸡蛋 4 个\r\n- 小米辣 10 g（约 3 个）\r\n- 食用油 35-50 mL\r\n- 小葱 10 g\r\n- 蒜 5 g\r\n- 香醋 15 mL\r\n- 生抽 10-15 mL\r\n- 蚝油 10 g\r\n- 白糖 0-5 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋不需打散，直接打入碗中备用"
+    },
+    {
+      "kind": "step",
+      "description": "香葱切 3cm 长小段即可"
+    },
+    {
+      "kind": "step",
+      "description": "蒜瓣和小米辣放入打蒜器，打成沫"
+    },
+    {
+      "kind": "step",
+      "description": "将香醋、生抽、蚝油、白糖、水加入小碗，搅拌均匀作为糖醋料汁"
+    },
+    {
+      "kind": "step",
+      "description": "油热倒入鸡蛋，等鸡蛋凝固之后铲成大块，倒入蒜沫、小米辣沫、倒入糖醋料汁"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁、快出锅时加入葱段即可"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋不需打散，直接打入碗中备用\r\n2. 香葱切 3cm 长小段即可\r\n3. 蒜瓣和小米辣放入打蒜器，打成沫\r\n4. 将香醋、生抽、蚝油、白糖、水加入小碗，搅拌均匀作为糖醋料汁\r\n5. 油热倒入鸡蛋，等鸡蛋凝固之后铲成大块，倒入蒜沫、小米辣沫、倒入糖醋料汁\r\n6. 大火收汁、快出锅时加入葱段即可",
+  "tips": "- 亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/油醋爆蛋.md"
+  },
+  "hash": "39e79d98063738c349a580202003378de8bf518e4c9555eee8556a455867cd83"
+}

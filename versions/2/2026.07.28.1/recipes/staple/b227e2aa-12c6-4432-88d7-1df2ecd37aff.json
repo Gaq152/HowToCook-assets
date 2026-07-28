@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "id": "b227e2aa-12c6-4432-88d7-1df2ecd37aff",
+  "legacyIds": [
+    "staple_dd81a330"
+  ],
+  "name": "老友猪肉粉",
+  "description": "老友猪肉粉酸辣鲜香，米粉爽滑，带着豆豉与酸笋特有的浓郁风味，是典型的南宁家常味。猪肉提供优质蛋白质，米粉则快速补充碳水能量。整体制作中等难度，需注意提前泡发米粉，熟练后大约四十分钟就能端上桌。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 927,
+  "requirements": [
+    {
+      "text": "米粉",
+      "markdown": "米粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉",
+      "markdown": "猪肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酸笋",
+      "markdown": "酸笋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "剁椒",
+      "markdown": "剁椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆豉",
+      "markdown": "豆豉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米醋",
+      "markdown": "米醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 米粉\r\n- 猪肉\r\n- 酸笋\r\n- 剁椒\r\n- 豆豉\r\n- 大蒜\r\n- 料酒\r\n- 生抽\r\n- 白糖\r\n- 米醋\r\n- 盐\r\n- 油\r\n- 生粉\r\n- 胡椒粉",
+  "ingredients": [
+    {
+      "name": "米粉（250g 记得",
+      "text": "米粉（250g 记得 50 度的温水泡半小时）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉(50g)",
+      "text": "猪肉(50g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸笋(50g)",
+      "text": "酸笋(50g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "剁椒（15g 辣椒剁完后",
+      "text": "剁椒（15g 辣椒剁完后, 个人需求适当放。 ）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆豉(30g)",
+      "text": "豆豉(30g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜(10g)",
+      "text": "大蒜(10g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒(10-20ml)",
+      "text": "料酒(10-20ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽(15ml)",
+      "text": "生抽(15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖（5g 如果不喜欢糖",
+      "text": "白糖（5g 如果不喜欢糖，可以考虑不放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米醋(5ml)",
+      "text": "米醋(5ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐(5ml)",
+      "text": "盐(5ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油(15ml)",
+      "text": "油(15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉(15ml)",
+      "text": "生粉(15ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉(10ml)",
+      "text": "胡椒粉(10ml)",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 米粉（250g 记得 50 度的温水泡半小时）\r\n- 猪肉(50g)\r\n- 酸笋(50g)\r\n- 剁椒（15g 辣椒剁完后, 个人需求适当放。 ）\r\n- 豆豉(30g)\r\n- 大蒜(10g)\r\n- 料酒(10-20ml)\r\n- 生抽(15ml)\r\n- 白糖（5g 如果不喜欢糖，可以考虑不放）\r\n- 米醋(5ml)\r\n- 盐(5ml)\r\n- 油(15ml)\r\n- 生粉(15ml)\r\n- 胡椒粉(10ml)",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "全部猪肉用料酒、盐、生抽、生粉、胡椒粉倒在一个碗里调味，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅不放油，下全部酸笋把水份炒干，炒干的酸笋中间留点空间"
+    },
+    {
+      "kind": "step",
+      "description": "放入 10ml - 15ml 食用油与全部大蒜、 剁椒、 豆豉到炒干的酸笋中间，全部推到中间炒出香味"
+    },
+    {
+      "kind": "step",
+      "description": "放入全部调味好的猪肉，持续放入 10ml 生抽炒一分钟"
+    },
+    {
+      "kind": "step",
+      "description": "放入 5ml 米醋、 10ml 生抽、450ml 清水一起煮开"
+    },
+    {
+      "kind": "step",
+      "description": "水煮开后，放入温水泡好的米粉，继续煮 3 分钟就可以盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 全部猪肉用料酒、盐、生抽、生粉、胡椒粉倒在一个碗里调味，备用\r\n2. 热锅不放油，下全部酸笋把水份炒干，炒干的酸笋中间留点空间\r\n3. 放入 10ml - 15ml 食用油与全部大蒜、 剁椒、 豆豉到炒干的酸笋中间，全部推到中间炒出香味\r\n4. 放入全部调味好的猪肉，持续放入 10ml 生抽炒一分钟\r\n5. 放入 5ml 米醋、 10ml 生抽、450ml 清水一起煮开\r\n6. 水煮开后，放入温水泡好的米粉，继续煮 3 分钟就可以盛盘",
+  "tips": "- 记得米粉必须是泡过的才好吃，没有泡过的话是很难吃的！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 记得米粉必须是泡过的才好吃，没有泡过的话是很难吃的！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/b227e2aa-12c6-4432-88d7-1df2ecd37aff_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/老友猪肉粉/老友猪肉粉.md"
+  },
+  "hash": "94e35f5363eb962c8ad5df3ca6edb57d539475689f477b8e68d5d9004e599e97"
+}

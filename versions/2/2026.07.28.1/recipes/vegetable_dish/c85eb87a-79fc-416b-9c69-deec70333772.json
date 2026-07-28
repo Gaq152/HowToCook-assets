@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "c85eb87a-79fc-416b-9c69-deec70333772",
+  "legacyIds": [
+    "vegetable_dish_efb666d9"
+  ],
+  "name": "糖拌西红柿",
+  "description": "这是一道适合夏季的家常凉菜，酸甜爽口，制作简便。西红柿富含维生素 C，开胃解腻。新手也能轻松完成，整个过程（包含冷藏）约 15 分钟即可上桌。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 104,
+  "requirements": [
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰箱",
+      "markdown": "冰箱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 西红柿\r\n- 白砂糖\r\n- 冰箱",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "text": "西红柿 2 个（每个西红柿约 100g，共 200g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份正好够 2 人吃。\r\n\r\n每份：\r\n\r\n- 西红柿 2 个（每个西红柿约 100g，共 200g）\r\n- 白砂糖 20g",
+  "calculationNotes": [
+    "一份正好够 2 人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "用刀将西红柿皮米字型划开"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边"
+    },
+    {
+      "kind": "step",
+      "description": "把西红柿的衣服脱光"
+    },
+    {
+      "kind": "step",
+      "description": "再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用"
+    },
+    {
+      "kind": "step",
+      "description": "全部切好后，将西红柿在盘子中均匀码一层"
+    },
+    {
+      "kind": "step",
+      "description": "撒上白糖，重复上面一步直到全部西红柿放完"
+    },
+    {
+      "kind": "step",
+      "description": "放入冰箱冷藏 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻"
+    }
+  ],
+  "operationMarkdown": "1. 用刀将西红柿皮米字型划开\r\n2. 用筷子插入西红柿的菊花，在燃气上转动烤 10 秒（或用开水冲 30 秒），直到西红柿皮卷边\r\n3. 把西红柿的衣服脱光\r\n4. 再西红柿大卸八块（沿纹路切可以更多的留汁水），去掉头部根蒂部，备用\r\n5. 全部切好后，将西红柿在盘子中均匀码一层\r\n6. 撒上白糖，重复上面一步直到全部西红柿放完\r\n7. 放入冰箱冷藏 10 分钟\r\n8. 一盘糖拌西红柿就好了，营养美味，酸甜爽口，夏日解暑又解腻",
+  "tips": "在制作过程中 请您小心使用刀具。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "在制作过程中 请您小心使用刀具。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/c85eb87a-79fc-416b-9c69-deec70333772_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md"
+  },
+  "hash": "964fead1fba14b6660c589a4667ee971e93f057d3a7162c0b356072ede65ca49"
+}

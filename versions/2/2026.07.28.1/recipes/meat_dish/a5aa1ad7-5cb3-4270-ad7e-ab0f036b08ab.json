@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "id": "a5aa1ad7-5cb3-4270-ad7e-ab0f036b08ab",
+  "legacyIds": [
+    "meat_dish_28a28bc6"
+  ],
+  "name": "意式烤鸡",
+  "description": "意式烤鸡是一道带有地中海风味的家常烤箱菜。鸡腿肉经过蒜香橄榄油腌制，烤后外皮微焦、内里鲜嫩多汁，搭配柠檬汁和欧芹，口感清爽不腻。鸡肉富含优质蛋白质，橄榄油提供不饱和脂肪酸，营养均衡。制作难度适中，需要提前预热烤箱，新手跟着步骤也能顺利完成，从腌制到出炉总计约五十分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 315,
+  "requirements": [
+    {
+      "text": "鸡腿肉",
+      "markdown": "鸡腿肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒",
+      "markdown": "黑胡椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "橄榄油",
+      "markdown": "橄榄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬汁",
+      "markdown": "柠檬汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "欧芹",
+      "markdown": "欧芹",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡腿肉\r\n- 盐\r\n- 黑胡椒\r\n- 橄榄油\r\n- 蒜\r\n- 柠檬汁\r\n- 欧芹",
+  "ingredients": [
+    {
+      "name": "鸡腿肉用量通常来说为",
+      "text": "鸡腿肉用量通常来说为 1-2 个/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐用量为",
+      "text": "盐用量为 2 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒用量为",
+      "text": "黑胡椒用量为 0.5 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橄榄油用量为",
+      "text": "橄榄油用量为 5 ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜用量为",
+      "text": "蒜用量为 1 瓣/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁用量为",
+      "text": "柠檬汁用量为 5ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "欧芹用量为",
+      "text": "欧芹用量为 1 根/人",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡腿肉用量通常来说为 1-2 个/人\r\n- 盐用量为 2 g/人\r\n- 黑胡椒用量为 0.5 g/人\r\n- 橄榄油用量为 5 ml/人\r\n- 蒜用量为 1 瓣/人\r\n- 柠檬汁用量为 5ml/人\r\n- 欧芹用量为 1 根/人\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "鸡肉的预处理",
+      "description": "### 鸡肉的预处理"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿肉涂上盐、黑胡椒、橄榄油和蒜末"
+    },
+    {
+      "kind": "step",
+      "description": "放入预热至 180 度的烤箱中，烤 30-40 分钟或至熟"
+    },
+    {
+      "kind": "section",
+      "title": "佐料的准备",
+      "description": "### 佐料的准备"
+    },
+    {
+      "kind": "step",
+      "description": "欧芹切成碎末备用"
+    },
+    {
+      "kind": "step",
+      "description": "柠檬挤出汁备用"
+    },
+    {
+      "kind": "section",
+      "title": "烤制",
+      "description": "### 烤制"
+    },
+    {
+      "kind": "step",
+      "description": "烤好的鸡肉取出，淋上柠檬汁"
+    },
+    {
+      "kind": "step",
+      "description": "撒上欧芹碎即可"
+    }
+  ],
+  "operationMarkdown": "### 鸡肉的预处理\r\n\r\n1. 鸡腿肉涂上盐、黑胡椒、橄榄油和蒜末\r\n2. 放入预热至 180 度的烤箱中，烤 30-40 分钟或至熟\r\n\r\n### 佐料的准备\r\n\r\n1. 欧芹切成碎末备用\r\n2. 柠檬挤出汁备用\r\n\r\n### 烤制\r\n\r\n1. 烤好的鸡肉取出，淋上柠檬汁\r\n2. 撒上欧芹碎即可",
+  "tips": "- 烤制时可以将鸡肉淋上蜂蜜或其他烤肉酱提升口感\r\n- 烤箱预热至 180 度，烤制时间根据鸡肉的大小和厚度而定，需确保鸡肉熟透\r\n- 鸡肉必须全熟才能吃，吃未全熟的鸡肉可能会导致食物中毒和感染细菌，如沙门氏菌和福氏杆菌等。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 烤制时可以将鸡肉淋上蜂蜜或其他烤肉酱提升口感\r\n- 烤箱预热至 180 度，烤制时间根据鸡肉的大小和厚度而定，需确保鸡肉熟透\r\n- 鸡肉必须全熟才能吃，吃未全熟的鸡肉可能会导致食物中毒和感染细菌，如沙门氏菌和福氏杆菌等。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/意式烤鸡.md"
+  },
+  "hash": "ae2b3a7e424510da86c4d5523234105a5536ea0ed0b5e65173d03aad20d3dc3f"
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 2,
+  "id": "06be4a1f-1428-47d4-8a2c-374ab3a35675",
+  "legacyIds": [
+    "drink_f6a7c72d"
+  ],
+  "name": "金菲士",
+  "description": "经典金酒鸡尾酒，酸甜适口，气泡激爽。柠檬提供丰富维 C，搭配蔗糖糖浆平衡酸度。制作非常简单，新手只需 5 分钟即可调制完成，适合在家轻松享用。注意饮酒有害健康，请勿过量。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 150,
+  "requirements": [
+    {
+      "text": "金酒",
+      "markdown": "金酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "苏打气泡水",
+      "markdown": "苏打气泡水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蔗糖糖浆",
+      "markdown": "[蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "新鲜绿叶（可选，装饰用）",
+      "markdown": "新鲜绿叶（可选，装饰用）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "手动压汁器",
+      "markdown": "手动压汁器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "雪克瓶（可选）",
+      "markdown": "雪克瓶（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "原料\r\n\r\n- 金酒\r\n- 苏打气泡水\r\n- 柠檬\r\n- [蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)\r\n- 冰块\r\n- 新鲜绿叶（可选，装饰用）\r\n\r\n工具\r\n\r\n- 手动压汁器\r\n- 雪克瓶（可选）",
+  "ingredients": [
+    {
+      "name": "金酒",
+      "text": "金酒 30~40 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "苏打气泡水",
+      "text": "苏打气泡水 1 罐",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1",
+      "text": "1 : 1 蔗糖糖浆 30~40 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 350 毫升（含冰）\r\n\r\n- 金酒 30~40 毫升\r\n- 苏打气泡水 1 罐\r\n- 柠檬 1 个\r\n- 1 : 1 蔗糖糖浆 30~40 克\r\n- 冰块 100 克",
+  "calculationNotes": [
+    "一杯分量，约 350 毫升（含冰）"
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "柠檬的处理"
+    },
+    {
+      "kind": "step",
+      "description": "将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用"
+    },
+    {
+      "kind": "step",
+      "description": "再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用"
+    },
+    {
+      "kind": "note",
+      "description": "正式调配（无雪克瓶）"
+    },
+    {
+      "kind": "step",
+      "description": "选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯"
+    },
+    {
+      "kind": "step",
+      "description": "将 100 克冰块放置在杯底"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 30~40 毫升金酒"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 20 毫升柠檬汁（如果喜酸可以加多点或全加）"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 30~40 克蔗糖糖浆"
+    },
+    {
+      "kind": "step",
+      "description": "用勺子搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将之前准备的一片柠檬放置好"
+    },
+    {
+      "kind": "step",
+      "description": "缓慢沿杯壁注入苏打气泡水直至满杯（不要倒在冰上，避免起泡流失）"
+    },
+    {
+      "kind": "step",
+      "description": "用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）"
+    },
+    {
+      "kind": "step",
+      "description": "在液面放置好装饰用的绿叶（可选）"
+    },
+    {
+      "kind": "note",
+      "description": "如果有雪克瓶，可以将以上步骤 2~6 替换为以下步骤"
+    },
+    {
+      "kind": "step",
+      "description": "将冰块、金酒、柠檬汁、蔗糖糖浆倒入雪克瓶，雪克均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将充分雪克的产物倒到杯子中（如果里面的冰太碎了，可以选择过滤其中的冰，重新往杯中补充冰块）"
+    }
+  ],
+  "operationMarkdown": "柠檬的处理\r\n\r\n1. 将柠檬对半切（**刀方向垂直于柠檬的头尾连线**），并从其中的一半中切取一片柠檬备用\r\n2. 再次将柠檬对半切，将得到的 4 角柠檬用压汁器压出柠檬汁置于容器中备用\r\n\r\n正式调配（无雪克瓶）\r\n\r\n1. 选择一个杯子，建议使用容量在 350~400 毫升的透明玻璃杯\r\n2. 将 100 克冰块放置在杯底\r\n3. 倒入 30~40 毫升金酒\r\n4. 倒入 20 毫升柠檬汁（如果喜酸可以加多点或全加）\r\n5. 倒入 30~40 克蔗糖糖浆\r\n6. 用勺子搅拌均匀\r\n7. 将之前准备的一片柠檬放置好\r\n8. 缓慢沿杯壁注入苏打气泡水直至满杯（不要倒在冰上，避免起泡流失）\r\n9. 用勺子轻轻上下提拉将液体搅拌均匀（不要旋转搅拌，避免起泡流失）\r\n10. 在液面放置好装饰用的绿叶（可选）\r\n\r\n如果有雪克瓶，可以将以上步骤 2~6 替换为以下步骤\r\n\r\n1. 将冰块、金酒、柠檬汁、蔗糖糖浆倒入雪克瓶，雪克均匀\r\n2. 将充分雪克的产物倒到杯子中（如果里面的冰太碎了，可以选择过滤其中的冰，重新往杯中补充冰块）",
+  "tips": "### 成品\r\n\r\n![金菲士-预览图-1](./gin-fizz.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 成品\r\n\r\n![金菲士-预览图-1](./gin-fizz.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/06be4a1f-1428-47d4-8a2c-374ab3a35675_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/金菲士/金菲士.md"
+  },
+  "hash": "47ab31759f4efa3121fb9e89ebc5069052331dd3148e10b7435b80f814311a7a"
+}

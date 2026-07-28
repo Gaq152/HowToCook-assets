@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "id": "64285e29-f85e-4afc-b5f3-be98f127ecc1",
+  "legacyIds": [
+    "meat_dish_9e1bc5ae"
+  ],
+  "name": "烤鸡翅",
+  "description": "腌制入味的鸡中翅经高温烘烤，外皮微焦、内里鲜嫩多汁，带有黑胡椒和酱油的咸香。富含优质蛋白质和胶原蛋白。难度适中，新手也能轻松上手，从准备到出炉大约需要 1 小时。还可按喜好添加蜂蜜或五香粉增添风味。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 187,
+  "requirements": [
+    {
+      "text": "鸡翅中",
+      "markdown": "鸡翅中",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒粉",
+      "markdown": "黑胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤箱",
+      "markdown": "烤箱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡翅中\r\n- 盐\r\n- 黑胡椒粉\r\n- 酱油\r\n- 料酒\r\n- 烤箱",
+  "ingredients": [
+    {
+      "name": "鸡翅用量为",
+      "text": "鸡翅用量为 3-4 个/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐的用量为",
+      "text": "盐的用量为 2 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒粉的用量为",
+      "text": "黑胡椒粉的用量为 1 g/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油的用量为",
+      "text": "酱油的用量为 3 ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒的用量为",
+      "text": "料酒的用量为 3 ml/人",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡翅用量为 3-4 个/人\r\n- 盐的用量为 2 g/人\r\n- 黑胡椒粉的用量为 1 g/人\r\n- 酱油的用量为 3 ml/人\r\n- 料酒的用量为 3 ml/人\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "鸡翅的预处理",
+      "description": "### 鸡翅的预处理"
+    },
+    {
+      "kind": "step",
+      "description": "鸡翅放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "加盐、黑胡椒粉、酱油、料酒进行腌制 30-40 分钟"
+    },
+    {
+      "kind": "section",
+      "title": "烤制过程",
+      "description": "### 烤制过程"
+    },
+    {
+      "kind": "step",
+      "description": "将烤箱预热至 200℃"
+    },
+    {
+      "kind": "step",
+      "description": "将腌制好的鸡翅均匀地放在烤盘上"
+    },
+    {
+      "kind": "step",
+      "description": "将烤盘放入烤箱中层，烤 15-20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出烤盘，将鸡翅翻面，再烤 15-20 分钟，直到熟透"
+    }
+  ],
+  "operationMarkdown": "### 鸡翅的预处理\r\n\r\n1. 鸡翅放入碗中\r\n2. 加盐、黑胡椒粉、酱油、料酒进行腌制 30-40 分钟\r\n\r\n### 烤制过程\r\n\r\n1. 将烤箱预热至 200℃\r\n2. 将腌制好的鸡翅均匀地放在烤盘上\r\n3. 将烤盘放入烤箱中层，烤 15-20 分钟\r\n4. 取出烤盘，将鸡翅翻面，再烤 15-20 分钟，直到熟透",
+  "tips": "- 可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气\r\n- 烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气\r\n- 烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/烤鸡翅.md"
+  },
+  "hash": "6f3533979baa7fd290b410118ea35c42fbe3cccfbdf9a6ac4a514b5d3bbc64b0"
+}

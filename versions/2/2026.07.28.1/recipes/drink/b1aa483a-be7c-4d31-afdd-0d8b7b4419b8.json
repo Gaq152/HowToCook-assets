@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "id": "b1aa483a-be7c-4d31-afdd-0d8b7b4419b8",
+  "legacyIds": [
+    "drink_0e3331c9"
+  ],
+  "name": "奶茶",
+  "description": "这是一道用红茶和奶粉轻松调制的家常饮品，茶香与奶香交融，口感顺滑温暖。红茶中的茶多酚搭配牛奶的蛋白质和钙质，既能提神又补充日常营养。做法非常简单，新手也能一次成功，仅需大约半 小时就能喝上自制奶茶。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 81,
+  "requirements": [
+    {
+      "text": "袋泡红茶（推荐立顿黄牌精选红茶）",
+      "markdown": "袋泡红茶（推荐立顿黄牌精选红茶）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "全脂奶粉或淡奶",
+      "markdown": "全脂奶粉或淡奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "杯子，例如带刻度的杯子，陶瓷杯或保温杯",
+      "markdown": "杯子，例如带刻度的杯子，陶瓷杯或保温杯",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 袋泡红茶（推荐立顿黄牌精选红茶）\r\n- 全脂奶粉或淡奶\r\n- 杯子，例如带刻度的杯子，陶瓷杯或保温杯",
+  "ingredients": [
+    {
+      "name": "袋泡红茶",
+      "text": "袋泡红茶 2 包（约 4g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "奶粉",
+      "text": "奶粉 11-12g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "砂糖",
+      "text": "砂糖 5-7g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 袋泡红茶 2 包（约 4g）\r\n- 奶粉 11-12g\r\n- 砂糖 5-7g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "取袋泡红茶 2 包放入杯中，加入 180-200mL **沸水**。"
+    },
+    {
+      "kind": "step",
+      "description": "**等待 20 - 30 分钟**。"
+    },
+    {
+      "kind": "step",
+      "description": "称取 11-12g 奶粉和 5-7g 砂糖，分别加入前一步骤得到的液体中。"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌均匀即可饮用。"
+    }
+  ],
+  "operationMarkdown": "1. 取袋泡红茶 2 包放入杯中，加入 180-200mL **沸水**。\r\n2. **等待 20 - 30 分钟**。\r\n3. 称取 11-12g 奶粉和 5-7g 砂糖，分别加入前一步骤得到的液体中。\r\n4. 搅拌均匀即可饮用。",
+  "tips": "- 加入沸水后，尽量保持杯子内部温暖，例如使用开口较小的杯子或盖上盖子。如果气温较低时，使用量杯量取可能导致沸水在冲入红茶前冷却，则可以不使用量杯量取而直接估计其体积。\r\n- 等待时间结束后可提起或搅动茶包以使冲泡更加均匀。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 加入沸水后，尽量保持杯子内部温暖，例如使用开口较小的杯子或盖上盖子。如果气温较低时，使用量杯量取可能导致沸水在冲入红茶前冷却，则可以不使用量杯量取而直接估计其体积。\r\n- 等待时间结束后可提起或搅动茶包以使冲泡更加均匀。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/奶茶.md"
+  },
+  "hash": "56c09f43811449893e20e7eb2302aa80aad925f819de733560fbae3e244457b0"
+}

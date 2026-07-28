@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "id": "70b6d1b4-3d30-4dfe-98a5-06a34417b927",
+  "legacyIds": [
+    "drink_d439d193"
+  ],
+  "name": "长岛冰茶",
+  "description": "长岛冰茶是一款口感酷似冰茶、入口柔和但酒精度颇高的经典鸡尾酒。它本身营养价值不高，偶尔小酌可放松身心，但切勿过量。做法非常简单，只需按比例混合四种基酒、甜酒和果汁，新手也能轻松调制。从准备到完成仅需 大约 5 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 281,
+  "requirements": [
+    {
+      "text": "金酒",
+      "markdown": "金酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "龙舌兰酒",
+      "markdown": "龙舌兰酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "伏特加",
+      "markdown": "伏特加",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白朗姆酒",
+      "markdown": "白朗姆酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "橙味甜酒",
+      "markdown": "橙味甜酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "枫糖浆",
+      "markdown": "枫糖浆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可乐",
+      "markdown": "可乐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "高球杯（容量 300ml）",
+      "markdown": "高球杯（容量 300ml）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 金酒\r\n- 龙舌兰酒\r\n- 伏特加\r\n- 白朗姆酒\r\n- 橙味甜酒\r\n- 柠檬\r\n- 枫糖浆\r\n- 可乐\r\n- 冰块\r\n- 高球杯（容量 300ml）",
+  "ingredients": [
+    {
+      "name": "金酒",
+      "text": "金酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "龙舌兰酒",
+      "text": "龙舌兰酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "伏特加",
+      "text": "伏特加 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白朗姆酒",
+      "text": "白朗姆酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橙味甜酒",
+      "text": "橙味甜酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁",
+      "text": "柠檬汁 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "枫糖浆",
+      "text": "枫糖浆 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可乐",
+      "text": "可乐 75ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一杯分量，约 300ml（含冰）：\r\n\r\n- 金酒 15ml\r\n- 龙舌兰酒 15ml\r\n- 伏特加 15ml\r\n- 白朗姆酒 15ml\r\n- 橙味甜酒 15ml\r\n- 柠檬汁 30ml\r\n- 枫糖浆 20ml\r\n- 可乐 75ml\r\n- 柠檬 1 个\r\n- 冰块 100 克",
+  "calculationNotes": [
+    "一杯分量，约 300ml（含冰）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "柠檬对半切，挤出 30ml 柠檬汁至杯中；"
+    },
+    {
+      "kind": "step",
+      "description": "依次向杯中加入："
+    },
+    {
+      "kind": "step",
+      "description": "15ml 金酒，"
+    },
+    {
+      "kind": "step",
+      "description": "15ml 龙舌兰酒，"
+    },
+    {
+      "kind": "step",
+      "description": "15ml 伏特加，"
+    },
+    {
+      "kind": "step",
+      "description": "15ml 白朗姆酒，"
+    },
+    {
+      "kind": "step",
+      "description": "15ml 橙味甜酒；"
+    },
+    {
+      "kind": "step",
+      "description": "向杯中缓慢倒入 20ml 枫糖浆，边倒边搅拌；"
+    },
+    {
+      "kind": "step",
+      "description": "向杯中加入 75ml 可乐；"
+    },
+    {
+      "kind": "step",
+      "description": "向杯中加入冰块直至满杯；"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻搅拌 20 秒；"
+    },
+    {
+      "kind": "step",
+      "description": "开始享用."
+    }
+  ],
+  "operationMarkdown": "1. 柠檬对半切，挤出 30ml 柠檬汁至杯中；\r\n2. 依次向杯中加入：\r\n\r\n  - 15ml 金酒，\r\n  - 15ml 龙舌兰酒，\r\n  - 15ml 伏特加，\r\n  - 15ml 白朗姆酒，\r\n  - 15ml 橙味甜酒；\r\n\r\n3. 向杯中缓慢倒入 20ml 枫糖浆，边倒边搅拌；\r\n4. 向杯中加入 75ml 可乐；\r\n5. 向杯中加入冰块直至满杯；\r\n6. 轻轻搅拌 20 秒；\r\n7. 开始享用.",
+  "tips": "长岛冰茶，不含茶却有着冰茶的口感，是一种有着较高酒精度（约 15%），但口感柔和易于接受的鸡尾酒。\r\n\r\n参考资料：[国际调酒师协会：长岛冰茶](https://iba-world.com/long-island-ice-tea/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "长岛冰茶，不含茶却有着冰茶的口感，是一种有着较高酒精度（约 15%），但口感柔和易于接受的鸡尾酒。\r\n\r\n参考资料：[国际调酒师协会：长岛冰茶](https://iba-world.com/long-island-ice-tea/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/长岛冰茶.md"
+  },
+  "hash": "f7848e3ca65d6b05204e73e63c9ce0b6129262002eae14656a618a1eab90a70e"
+}

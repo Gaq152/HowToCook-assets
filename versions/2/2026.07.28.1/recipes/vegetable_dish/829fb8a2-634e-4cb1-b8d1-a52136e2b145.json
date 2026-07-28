@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "id": "829fb8a2-634e-4cb1-b8d1-a52136e2b145",
+  "legacyIds": [
+    "vegetable_dish_e376aaf7"
+  ],
+  "name": "红烧冬瓜",
+  "description": "红烧冬瓜是一道色泽红亮、香鲜味美的家常素菜，口感软糯入味，属于大众喜爱的中式烧菜。冬瓜本身富含水分、膳食纤维和维生素 C，具有清热解暑、利尿消肿的作用，搭配简单的调味料，营养又好消化。这道菜对初学者比较友好，操作步骤清晰，只需掌握好火候和调味，预计制作时长约 25 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 519,
+  "requirements": [
+    {
+      "text": "冬瓜",
+      "markdown": "冬瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜末",
+      "markdown": "姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 冬瓜\r\n* 食用油\r\n* 料酒\r\n* 淀粉\r\n* 生抽\r\n* 老抽\r\n* 鸡精\r\n* 香葱\r\n* 姜末\r\n* 蚝油",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "text": "冬瓜 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 50 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 2 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱",
+      "text": "香葱 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 1 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 冬瓜 300 g\r\n* 食用油 50 ml\r\n* 料酒 2 ml\r\n* 淀粉 10 g\r\n* 生抽 10 ml\r\n* 老抽 15 ml\r\n* 鸡精 3 g\r\n* 香葱 0.5 根\r\n* 姜末 1 粒\r\n* 蚝油 15 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "冬瓜去皮，切 边长不超过 2cm 小块"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，放入冬瓜，缓缓翻滚煎炸 2 分钟 ，直至冬瓜表面泛金黄色"
+    },
+    {
+      "kind": "step",
+      "description": "取出冬瓜，放入大碗备用"
+    },
+    {
+      "kind": "step",
+      "description": "利用锅中的剩余油，依次放入姜末、生抽、蚝油，翻炒 15 S"
+    },
+    {
+      "kind": "step",
+      "description": "重新倒入冬瓜，翻炒 30 S 后，加入开水，水要没过冬瓜表面，大火煮 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入老抽上色，继续煮，直至冬瓜软糯（筷子可以轻松插近冬瓜）"
+    },
+    {
+      "kind": "step",
+      "description": "加入鸡精、料酒、香葱翻炒后 30 S， 取出冬瓜到大碗中"
+    },
+    {
+      "kind": "step",
+      "description": "锅中剩余汤汁保留，倒入水淀粉，煮开后汤汁浇灌在冬瓜表面"
+    }
+  ],
+  "operationMarkdown": "1. 冬瓜去皮，切 边长不超过 2cm 小块\r\n2. 起锅烧油，放入冬瓜，缓缓翻滚煎炸 2 分钟 ，直至冬瓜表面泛金黄色\r\n3. 取出冬瓜，放入大碗备用\r\n4. 利用锅中的剩余油，依次放入姜末、生抽、蚝油，翻炒 15 S\r\n5. 重新倒入冬瓜，翻炒 30 S 后，加入开水，水要没过冬瓜表面，大火煮 10 分钟\r\n6. 加入老抽上色，继续煮，直至冬瓜软糯（筷子可以轻松插近冬瓜）\r\n7. 加入鸡精、料酒、香葱翻炒后 30 S， 取出冬瓜到大碗中\r\n8. 锅中剩余汤汁保留，倒入水淀粉，煮开后汤汁浇灌在冬瓜表面\r\n\r\n![红烧冬瓜-预览图-1](./1.jpeg)\r\n![红烧冬瓜-预览图-2](./2.jpeg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/829fb8a2-634e-4cb1-b8d1-a52136e2b145_0.webp",
+    "images/vegetable_dish/829fb8a2-634e-4cb1-b8d1-a52136e2b145_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md"
+  },
+  "hash": "a522198f6000f43b1b652023933844357cefb4fe04ec96cf3775484c247729ca"
+}

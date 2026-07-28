@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "id": "25f2238a-32c7-412b-924b-6cb20af5ac2b",
+  "legacyIds": [
+    "meat_dish_986fb362"
+  ],
+  "name": "湘祁米夫鸭",
+  "description": "湖南两祁地区传统特色菜，鸭肉煸炒后裹上混合米粉蒸制，口感软糯，咸香入味，回味悠长。鸭肉富含优质蛋白质和 B 族维生素，搭配米粉提供能量，营养均衡。制作需先煸炒再高压蒸制，稍有难度，适合有一定烹饪基础的朋友。从备料到出锅大约需要 1 小时，若选用老鸭需延长蒸制时间。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1332,
+  "requirements": [
+    {
+      "text": "鸭子（必须新鲜现杀的）",
+      "markdown": "鸭子（必须新鲜现杀的）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糯米粉",
+      "markdown": "糯米粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "粘米粉",
+      "markdown": "粘米粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸肉粉",
+      "markdown": "蒸肉粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "细辣椒粉（吃辣则加）",
+      "markdown": "细辣椒粉（吃辣则加）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉（可加可不加）",
+      "markdown": "五花肉（可加可不加）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜蒜",
+      "markdown": "姜蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开水",
+      "markdown": "开水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸭子（必须新鲜现杀的）\r\n- 糯米粉\r\n- 粘米粉\r\n- 蒸肉粉\r\n- 细辣椒粉（吃辣则加）\r\n- 白胡椒粉\r\n- 五花肉（可加可不加）\r\n- 姜蒜\r\n- 盐\r\n- 食用油\r\n- 开水",
+  "ingredients": [
+    {
+      "name": "鸭子",
+      "text": "鸭子：1000g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糯米粉",
+      "text": "糯米粉：100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "粘米粉",
+      "text": "粘米粉: 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒸肉粉",
+      "text": "蒸肉粉: 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "细辣椒粉",
+      "text": "细辣椒粉: 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉：5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉：50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜蒜",
+      "text": "姜蒜：20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐：10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水：100g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "正常 3-4 人吃\r\n\r\n- 鸭子：1000g\r\n- 糯米粉：100g\r\n- 粘米粉: 300g\r\n- 蒸肉粉: 50g\r\n- 细辣椒粉: 50g\r\n- 白胡椒粉：5g\r\n- 五花肉：50g\r\n- 姜蒜：20g\r\n- 盐：10g\r\n- 食用油：10g\r\n- 开水：100g",
+  "calculationNotes": [
+    "正常 3-4 人吃"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将糯米粉、粘米粉、蒸肉粉、细辣椒粉、5 克盐、白胡椒粉倒一起搅匀"
+    },
+    {
+      "kind": "step",
+      "description": "鸭子让热心摊主剁成蒸煮块，姜切片，蒜子剥皮，五花肉切片即可"
+    },
+    {
+      "kind": "step",
+      "description": "热锅凉油煸炒五花肉出油，再加食用油烧热，下入鸭子煸炒"
+    },
+    {
+      "kind": "step",
+      "description": "鸭子煸炒到表皮焦变色，下入姜蒜和盐继续煸炒香味"
+    },
+    {
+      "kind": "step",
+      "description": "关小火倒入米粉翻炒，鸭肉均匀裹满米粉子，加入开水，少量多次的加，边加边翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒鸭肉和米粉有湿感，铲出入碗中，高压锅放水蒸 20-25 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "出锅前撒点葱花即可享用了"
+    }
+  ],
+  "operationMarkdown": "1. 将糯米粉、粘米粉、蒸肉粉、细辣椒粉、5 克盐、白胡椒粉倒一起搅匀\r\n2. 鸭子让热心摊主剁成蒸煮块，姜切片，蒜子剥皮，五花肉切片即可\r\n3. 热锅凉油煸炒五花肉出油，再加食用油烧热，下入鸭子煸炒\r\n4. 鸭子煸炒到表皮焦变色，下入姜蒜和盐继续煸炒香味\r\n5. 关小火倒入米粉翻炒，鸭肉均匀裹满米粉子，加入开水，少量多次的加，边加边翻炒\r\n6. 翻炒鸭肉和米粉有湿感，铲出入碗中，高压锅放水蒸 20-25 分钟\r\n7. 出锅前撒点葱花即可享用了",
+  "tips": "这是一道家乡菜。\r\n鸭子品种不限，这里买的是水鸭，价格 24。\r\n蒸 20 分钟，是老鸭的话，蒸一个小时以上。\r\n第一步中粘米粉是主要的粉子，糯米粉是加软糯口感，蒸肉粉是加五香味道，辣椒粉和胡椒粉是加复合香味。\r\n\r\n下面贴出重要步骤以供参考：\r\n\r\n![step①：准备米粉.jpg](./step①：准备米粉.jpg)\r\n![step②：煸炒鸭子.jpg](./step②：煸炒鸭子.jpg)\r\n![step③：米粉裹鸭.jpg](./step③：米粉裹鸭.jpg)\r\n![step④：高压锅蒸煮.jpg](./step④：高压锅蒸煮.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "这是一道家乡菜。\r\n鸭子品种不限，这里买的是水鸭，价格 24。\r\n蒸 20 分钟，是老鸭的话，蒸一个小时以上。\r\n第一步中粘米粉是主要的粉子，糯米粉是加软糯口感，蒸肉粉是加五香味道，辣椒粉和胡椒粉是加复合香味。\r\n\r\n下面贴出重要步骤以供参考：\r\n\r\n![step①：准备米粉.jpg](./step①：准备米粉.jpg)\r\n![step②：煸炒鸭子.jpg](./step②：煸炒鸭子.jpg)\r\n![step③：米粉裹鸭.jpg](./step③：米粉裹鸭.jpg)\r\n![step④：高压锅蒸煮.jpg](./step④：高压锅蒸煮.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/25f2238a-32c7-412b-924b-6cb20af5ac2b_0.webp",
+    "images/meat_dish/25f2238a-32c7-412b-924b-6cb20af5ac2b_1.webp",
+    "images/meat_dish/25f2238a-32c7-412b-924b-6cb20af5ac2b_2.webp",
+    "images/meat_dish/25f2238a-32c7-412b-924b-6cb20af5ac2b_3.webp",
+    "images/meat_dish/25f2238a-32c7-412b-924b-6cb20af5ac2b_4.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
+  },
+  "hash": "8b29349462a88a06cb873e707dcdae32ed8c1d13671f31dbf9f69493077076b5"
+}

@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 2,
+  "id": "66d9d788-8c1a-4182-bc1e-ce051833c429",
+  "legacyIds": [
+    "meat_dish_d6fb088d"
+  ],
+  "name": "小炒肉",
+  "description": "小炒肉是一道香辣下饭的经典湘式家常菜，五花肉片焦香不腻，搭配鲜辣椒与豆豉、豆瓣酱炒出浓郁酱香。富含优质蛋白质和脂肪，辣椒能提供丰富的维生素 C，有助开胃暖身。制作难度中等，适合有一定基础的新手尝试，需注意肉片腌制和火候把控。从备料到出锅大约需要 1 小时，其中腌制 30 分钟，炒制过程约 15 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 2873,
+  "requirements": [
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "朝天椒",
+      "markdown": "朝天椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆豉",
+      "markdown": "豆豉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 五花肉\r\n- 朝天椒\r\n- 小米椒\r\n- 豆豉\r\n- 豆瓣酱\r\n- 老抽\r\n- 淀粉\r\n- 盐\r\n- 葱\r\n- 蒜",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "text": "五花肉 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "朝天椒",
+      "text": "朝天椒 4 条",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 4 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆豉",
+      "text": "豆豉 10g，根据个人口味加减 ±5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 10g，根据个人口味加减 ±5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1-2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 0.5-1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 五花肉 500g\r\n- 朝天椒 4 条\r\n- 小米椒 4 颗\r\n- 豆豉 10g，根据个人口味加减 ±5g\r\n- 豆瓣酱 10g，根据个人口味加减 ±5g\r\n- 老抽 10ml\r\n- 淀粉 10g\r\n- 盐 1-2g\r\n- 葱 0.5-1 根\r\n- 蒜 2 瓣\r\n- 食用油 15ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "五花肉切片"
+    },
+    {
+      "kind": "step",
+      "description": "把肉放入器皿内，加入淀粉、老抽、盐搅拌腌制半小时"
+    },
+    {
+      "kind": "step",
+      "description": "葱切段"
+    },
+    {
+      "kind": "step",
+      "description": "小米椒、朝天椒斜刀切好"
+    },
+    {
+      "kind": "step",
+      "description": "热锅、倒油"
+    },
+    {
+      "kind": "step",
+      "description": "油热后加入五花肉煸炒。炒至变色后盛出来"
+    },
+    {
+      "kind": "step",
+      "description": "向锅中加蒜，煸出香味，加入豆豉，翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入豆瓣酱翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入炒好的五花肉继续的翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入小米椒、朝天椒、葱段翻炒 40 秒"
+    },
+    {
+      "kind": "step",
+      "description": "出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 五花肉切片\r\n2. 把肉放入器皿内，加入淀粉、老抽、盐搅拌腌制半小时\r\n3. 葱切段\r\n4. 小米椒、朝天椒斜刀切好\r\n5. 热锅、倒油\r\n6. 油热后加入五花肉煸炒。炒至变色后盛出来\r\n7. 向锅中加蒜，煸出香味，加入豆豉，翻炒均匀\r\n8. 加入豆瓣酱翻炒均匀\r\n9. 加入炒好的五花肉继续的翻炒均匀\r\n10. 加入小米椒、朝天椒、葱段翻炒 40 秒\r\n11. 出锅。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/小炒肉.md"
+  },
+  "hash": "ae463cc711d2b5a43e6a203c847dce3de9914afa6bb172ffbe2e473bfbc555e0"
+}

@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "id": "3ebce8b4-92e1-4ce4-8685-87bbc552b556",
+  "legacyIds": [
+    "staple_0473e652"
+  ],
+  "name": "扬州炒饭",
+  "description": "这是一道配料丰富的升级版炒饭，米饭粒粒分明，鸡蛋嫩滑，搭配虾仁、午餐肉和蔬菜丁，口感层次鲜明，属于淮扬菜系中的经典主食。富含优质蛋白、碳水化合物和多种维生素，营养均衡。步骤虽多但操作直观，对初级烹饪者也较为友好，只需耐心备料。预计制作时长约 1 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1769,
+  "requirements": [
+    {
+      "text": "冷饭（干一点的为佳）",
+      "markdown": "冷饭（干一点的为佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷冻去皮基围虾",
+      "markdown": "冷冻去皮基围虾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "午餐肉罐头",
+      "markdown": "午餐肉罐头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青豆",
+      "markdown": "青豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米粒（可选）",
+      "markdown": "玉米粒（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 冷饭（干一点的为佳）\r\n- 鸡蛋\r\n- 冷冻去皮基围虾\r\n- 午餐肉罐头\r\n- 青豆\r\n- 胡萝卜\r\n- 玉米粒（可选）\r\n- 葱\r\n- 油\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "冷饭",
+      "text": "冷饭 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2-3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷冻去头去皮基围虾",
+      "text": "冷冻去头去皮基围虾 10-15 只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "午餐肉罐头",
+      "text": "午餐肉罐头 150g（推荐上海梅林的火腿午餐肉罐头，340g 每罐，一次用半罐）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青豆",
+      "text": "青豆 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米粒",
+      "text": "玉米粒 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 30-40ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 12-15g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\r\n\r\n每份：\r\n\r\n- 冷饭 500g\r\n- 鸡蛋 2-3 个\r\n- 冷冻去头去皮基围虾 10-15 只\r\n- 午餐肉罐头 150g（推荐上海梅林的火腿午餐肉罐头，340g 每罐，一次用半罐）\r\n- 青豆 30g\r\n- 胡萝卜 30g\r\n- 玉米粒 30g\r\n- 葱 1 根\r\n- 油 30-40ml\r\n- 盐 12-15g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "胡萝卜切丁 0.2cm*0.2cm*0.2cm，备用"
+    },
+    {
+      "kind": "step",
+      "description": "午餐肉切丁 0.2cm*0.2cm*0.2cm，备用"
+    },
+    {
+      "kind": "step",
+      "description": "葱分别取葱白和葱绿，各切成 0.25-0.5cm 的小段，分开备用"
+    },
+    {
+      "kind": "step",
+      "description": "在碗中打入鸡蛋液，均匀搅拌，备用"
+    },
+    {
+      "kind": "step",
+      "description": "将胡萝卜，青豆，玉米粒煮熟捞出，备用（水别倒）"
+    },
+    {
+      "kind": "step",
+      "description": "将虾煮熟，捞出备用（水可以倒了）"
+    },
+    {
+      "kind": "step",
+      "description": "热锅热油，可以参考[学习炒与煎](tips://learn/tips_learn_18a7f609)中的热锅双油"
+    },
+    {
+      "kind": "step",
+      "description": "第二次倒油需使用 20-30ml 油，等到第二次凉油热了以后，缓慢倒入鸡蛋（控制碗到油直接的流注直径大约在 0.5cm）不要搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋凝固后立刻捞出，备用"
+    },
+    {
+      "kind": "step",
+      "description": "将午餐肉，青豆，胡萝卜，玉米粒，虾倒入锅中翻炒 1-2 分钟，装盘备用"
+    },
+    {
+      "kind": "step",
+      "description": "水冲一下锅，将杂物冲干净，保证锅内干净（可以有油但是不能有杂质）"
+    },
+    {
+      "kind": "step",
+      "description": "热锅热油(10ml)，将葱白放入爆香"
+    },
+    {
+      "kind": "step",
+      "description": "调至小火（如果油温过高可以关火 1-2 分钟），放入米饭，用铲子快速砸击米饭并翻炒，保证米饭均匀沾到油且粒粒分明"
+    },
+    {
+      "kind": "step",
+      "description": "倒入鸡蛋，继续砸击，使鸡蛋碎开并与米饭充分混合"
+    },
+    {
+      "kind": "step",
+      "description": "转大火，倒入其他所有备用配料，快速翻炒 1-2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "撒入盐，并翻炒至充分混合"
+    },
+    {
+      "kind": "step",
+      "description": "撒入葱绿，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "关火，装盘"
+    }
+  ],
+  "operationMarkdown": "1. 胡萝卜切丁 0.2cm*0.2cm*0.2cm，备用\r\n2. 午餐肉切丁 0.2cm*0.2cm*0.2cm，备用\r\n3. 葱分别取葱白和葱绿，各切成 0.25-0.5cm 的小段，分开备用\r\n4. 在碗中打入鸡蛋液，均匀搅拌，备用\r\n5. 将胡萝卜，青豆，玉米粒煮熟捞出，备用（水别倒）\r\n6. 将虾煮熟，捞出备用（水可以倒了）\r\n7. 热锅热油，可以参考[学习炒与煎](tips://learn/tips_learn_18a7f609)中的热锅双油\r\n\r\n  - 第二次倒油需使用 20-30ml 油，等到第二次凉油热了以后，缓慢倒入鸡蛋（控制碗到油直接的流注直径大约在 0.5cm）不要搅拌\r\n\r\n8. 鸡蛋凝固后立刻捞出，备用\r\n9. 将午餐肉，青豆，胡萝卜，玉米粒，虾倒入锅中翻炒 1-2 分钟，装盘备用\r\n10. 水冲一下锅，将杂物冲干净，保证锅内干净（可以有油但是不能有杂质）\r\n11. 热锅热油(10ml)，将葱白放入爆香\r\n12. 调至小火（如果油温过高可以关火 1-2 分钟），放入米饭，用铲子快速砸击米饭并翻炒，保证米饭均匀沾到油且粒粒分明\r\n13. 倒入鸡蛋，继续砸击，使鸡蛋碎开并与米饭充分混合\r\n14. 转大火，倒入其他所有备用配料，快速翻炒 1-2 分钟\r\n15. 撒入盐，并翻炒至充分混合\r\n16. 撒入葱绿，翻炒 1 分钟\r\n17. 关火，装盘",
+  "tips": "- 如做完后胳膊酸痛为正常现象，需加强上肢锻炼\r\n- 超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 很便宜，或者类似的都可以用（如下图）\r\n\r\n![Pams Mixed Veges](./veg.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如做完后胳膊酸痛为正常现象，需加强上肢锻炼\r\n- 超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 很便宜，或者类似的都可以用（如下图）\r\n\r\n![Pams Mixed Veges](./veg.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/3ebce8b4-92e1-4ce4-8685-87bbc552b556_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/扬州炒饭/扬州炒饭.md"
+  },
+  "hash": "bf40a73a646e844b1849dbbe161c905f54eb925ee6e77dc036cb1b0c1e838849"
+}

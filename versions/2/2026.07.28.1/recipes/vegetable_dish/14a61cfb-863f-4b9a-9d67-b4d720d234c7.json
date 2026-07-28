@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "id": "14a61cfb-863f-4b9a-9d67-b4d720d234c7",
+  "legacyIds": [
+    "vegetable_dish_6815ec92"
+  ],
+  "name": "红烧茄子",
+  "description": "红烧茄子是一道咸香浓郁的家常下饭菜，软糯的茄块吸饱汤汁，搭配柿子椒和番茄，酸辣适口。茄子富含膳食纤维和维生素 P，炸过的茄块香而不腻。制作需要挂糊油炸并慢烧入味，步骤略多但对新手仍可尝试，专注细节就能成功。从备料到出锅大约需要 45 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 547,
+  "requirements": [
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青茄子",
+      "markdown": "青茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大蒜\r\n- 大葱\r\n- 青辣椒\r\n- 洋葱\r\n- 西红柿\r\n- 青茄子\r\n- 盐\r\n- 酱油\r\n- 鸡蛋\r\n- 面粉\r\n- 淀粉",
+  "ingredients": [
+    {
+      "name": "青茄子的数量",
+      "text": "青茄子的数量 = 份数 * 0.7 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 = 份数 * 0.5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 = 份数 * 0.3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西红柿",
+      "text": "西红柿 = 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 = 半颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 = 3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 = 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 = 青茄子数量 * 150 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 = 面粉 / 4 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 = 茄子数量 * 7 克（向上取整）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人食用\r\n\r\n总量：\r\n\r\n- 青茄子的数量 = 份数 * 0.7 个\r\n- 青辣椒 = 份数 * 0.5 个\r\n- 洋葱 = 份数 * 0.3 个\r\n- 西红柿 = 1 个\r\n- 大葱 = 半颗\r\n- 大蒜 = 3 瓣\r\n- 鸡蛋 = 1 个\r\n- 面粉 = 青茄子数量 * 150 克\r\n- 淀粉 = 面粉 / 4 克\r\n- 酱油 = 茄子数量 * 7 克（向上取整）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "青茄子、青辣椒、西红柿、洋葱、大葱洗净。"
+    },
+    {
+      "kind": "step",
+      "description": "大葱切 5 毫米宽的葱花，大蒜扒皮并拍碎，西红柿切 6 立方厘米的块，青辣椒、洋葱切 5g 的块。"
+    },
+    {
+      "kind": "step",
+      "description": "茄子切菱形块（先切 2 公分厚的片，然后再把片切成 2 公分的条，最后斜刀切块儿...）。"
+    },
+    {
+      "kind": "step",
+      "description": "将面粉倒入盆中，依次加入少量水，搅拌均匀，呈粘稠糊状。"
+    },
+    {
+      "kind": "step",
+      "description": "加入淀粉，加入 30 克水，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋打到盆中，加入（面粉 / 20）克的盐，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将茄块倒入面糊中，搅拌使茄块的每一面都能沾上面糊。"
+    },
+    {
+      "kind": "step",
+      "description": "开大火，热锅，加入 500 毫升的油，当能看到锅里的油冒出一丝烟时，调至小火，将茄块用筷子夹入到油锅，待所有的茄块下锅之后，调至中火，直到茄块变金黄色时捞出，将油倒出。"
+    },
+    {
+      "kind": "step",
+      "description": "加入（份数 * 5）g 的油，放入大蒜、葱花，翻炒 15 秒，放入青辣椒块翻炒 30 秒，放入西红柿翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入炸好的茄块，加水面高度为锅内食材的 0.8 倍。"
+    },
+    {
+      "kind": "step",
+      "description": "放入酱油和（份数 * 3）g 的盐。"
+    },
+    {
+      "kind": "step",
+      "description": "等待，直到汤汁呈粘稠状（水位大概为剩余食材高度的 0.2-0.3 倍），开盖，盛出菜，关火。"
+    }
+  ],
+  "operationMarkdown": "1. 青茄子、青辣椒、西红柿、洋葱、大葱洗净。\r\n1. 大葱切 5 毫米宽的葱花，大蒜扒皮并拍碎，西红柿切 6 立方厘米的块，青辣椒、洋葱切 5g 的块。\r\n1. 茄子切菱形块（先切 2 公分厚的片，然后再把片切成 2 公分的条，最后斜刀切块儿...）。\r\n1. 将面粉倒入盆中，依次加入少量水，搅拌均匀，呈粘稠糊状。\r\n1. 加入淀粉，加入 30 克水，搅拌均匀。\r\n1. 将鸡蛋打到盆中，加入（面粉 / 20）克的盐，搅拌均匀。\r\n1. 将茄块倒入面糊中，搅拌使茄块的每一面都能沾上面糊。\r\n1. 开大火，热锅，加入 500 毫升的油，当能看到锅里的油冒出一丝烟时，调至小火，将茄块用筷子夹入到油锅，待所有的茄块下锅之后，调至中火，直到茄块变金黄色时捞出，将油倒出。\r\n1. 加入（份数 * 5）g 的油，放入大蒜、葱花，翻炒 15 秒，放入青辣椒块翻炒 30 秒，放入西红柿翻炒 30 秒。\r\n1. 放入炸好的茄块，加水面高度为锅内食材的 0.8 倍。\r\n1. 放入酱油和（份数 * 3）g 的盐。\r\n1. 等待，直到汤汁呈粘稠状（水位大概为剩余食材高度的 0.2-0.3 倍），开盖，盛出菜，关火。",
+  "tips": "在操作的第 4-6 步骤中要注意：\r\n一定要顺序执行，否则会有灾难性错误......\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "在操作的第 4-6 步骤中要注意：\r\n一定要顺序执行，否则会有灾难性错误......\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/红烧茄子.md"
+  },
+  "hash": "3d00691289193af86d78ceaf2ee54bae4c959328fd61a4974384f9cd2042b6d4"
+}

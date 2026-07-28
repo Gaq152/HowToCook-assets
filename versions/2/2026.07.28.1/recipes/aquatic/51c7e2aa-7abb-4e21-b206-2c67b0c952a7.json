@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "id": "51c7e2aa-7abb-4e21-b206-2c67b0c952a7",
+  "legacyIds": [
+    "aquatic_28c2e3b4"
+  ],
+  "name": "红烧鲤鱼",
+  "description": "红烧鲤鱼是一道家常鲁菜，鱼肉先炸后炖，外皮微韧，肉质鲜嫩，咸甜酱香中透着五花肉的醇厚，汤汁浓稠下饭。富含优质蛋白和钙、磷等矿物质，有助滋补。处理炸鱼和调味配比稍需耐心，但步骤清晰，新手跟着做也能完成。从备料到出锅预计 大约 1 小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1051,
+  "requirements": [
+    {
+      "text": "大葱、姜、大蒜、干辣椒",
+      "markdown": "大葱、姜、大蒜、干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油、盐、生抽、老抽、陈醋、蚝油、料酒、白糖",
+      "markdown": "油、盐、生抽、老抽、陈醋、蚝油、料酒、白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鲤鱼、五花肉",
+      "markdown": "鲤鱼、五花肉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大葱、姜、大蒜、干辣椒\r\n- 油、盐、生抽、老抽、陈醋、蚝油、料酒、白糖\r\n- 鲤鱼、五花肉",
+  "ingredients": [
+    {
+      "name": "鲤鱼 （大约",
+      "text": "鲤鱼 （大约 2 斤）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 3-4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒两个",
+      "text": "干辣椒两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 50g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "2 人食用的版本。\r\n\r\n- 鲤鱼 （大约 2 斤）\r\n- 五花肉 100g\r\n- 大葱 200g\r\n- 姜 80g\r\n- 蒜瓣 3-4 个\r\n- 干辣椒两个\r\n- 白糖 50g",
+  "calculationNotes": [
+    "2 人食用的版本。"
+  ],
+  "steps": [
+    {
+      "kind": "note",
+      "description": "注：下文所述的鱼是购买时卖家简易处理后的，已刮鱼鳞已去内脏。"
+    },
+    {
+      "kind": "step",
+      "description": "葱、姜、蒜、干辣椒分别清洗干净。"
+    },
+    {
+      "kind": "step",
+      "description": "葱白处切段，每段长度约 4cm，再将每段劈为四瓣。"
+    },
+    {
+      "kind": "step",
+      "description": "姜切片，每片厚度约 3mm。"
+    },
+    {
+      "kind": "step",
+      "description": "一个大蒜拍碎切末，其余蒜切为二瓣。"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒切四段。"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切片，约 4cm*4cm。"
+    },
+    {
+      "kind": "step",
+      "description": "清洗鱼。"
+    },
+    {
+      "kind": "step",
+      "description": "鱼背肉厚处拉几道斜口，方便入味"
+    },
+    {
+      "kind": "step",
+      "description": "锅里多倒点油，烧至 7 成热（刚刚开始冒烟），下入鱼炸 1 分钟至鱼皮稍稍变硬捞出备用（注意不要一下锅就拨弄鱼，等炸一会再拨弄、翻面），炸鱼的油倒出，锅里留一点底油"
+    },
+    {
+      "kind": "step",
+      "description": "将锅里底油烧热，下入五花肉，煸出香味。"
+    },
+    {
+      "kind": "step",
+      "description": "放入干辣椒、葱、姜、蒜瓣，翻炒 1 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将炸好的鱼倒入锅中。"
+    },
+    {
+      "kind": "step",
+      "description": "沿锅边倒入"
+    },
+    {
+      "kind": "step",
+      "description": "50ml 料酒"
+    },
+    {
+      "kind": "step",
+      "description": "50ml 陈醋"
+    },
+    {
+      "kind": "step",
+      "description": "50ml 味极鲜"
+    },
+    {
+      "kind": "step",
+      "description": "20ml 老抽调色"
+    },
+    {
+      "kind": "step",
+      "description": "5ml 蚝油提鲜"
+    },
+    {
+      "kind": "step",
+      "description": "5g 匙盐"
+    },
+    {
+      "kind": "step",
+      "description": "50g 白糖"
+    },
+    {
+      "kind": "step",
+      "description": "清水没过鱼面。"
+    },
+    {
+      "kind": "step",
+      "description": "调至中火，将水烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "调至小火，慢焖入味。"
+    },
+    {
+      "kind": "step",
+      "description": "15 分钟 后，打开锅盖，挑出锅里的葱、姜、蒜、干辣椒。"
+    },
+    {
+      "kind": "step",
+      "description": "调至大火收汁，汤汁剩余 1/4 时，撒点蒜末，关火盛出。"
+    },
+    {
+      "kind": "step",
+      "description": "红烧鲤鱼出锅！"
+    }
+  ],
+  "operationMarkdown": "注：下文所述的鱼是购买时卖家简易处理后的，已刮鱼鳞已去内脏。\r\n\r\n1. 葱、姜、蒜、干辣椒分别清洗干净。\r\n2. 葱白处切段，每段长度约 4cm，再将每段劈为四瓣。\r\n3. 姜切片，每片厚度约 3mm。\r\n4. 一个大蒜拍碎切末，其余蒜切为二瓣。\r\n5. 干辣椒切四段。\r\n6. 五花肉切片，约 4cm*4cm。\r\n7. 清洗鱼。\r\n8. 鱼背肉厚处拉几道斜口，方便入味\r\n9. 锅里多倒点油，烧至 7 成热（刚刚开始冒烟），下入鱼炸 1 分钟至鱼皮稍稍变硬捞出备用（注意不要一下锅就拨弄鱼，等炸一会再拨弄、翻面），炸鱼的油倒出，锅里留一点底油\r\n10. 将锅里底油烧热，下入五花肉，煸出香味。\r\n11. 放入干辣椒、葱、姜、蒜瓣，翻炒 1 分钟。\r\n12. 将炸好的鱼倒入锅中。\r\n13. 沿锅边倒入\r\n\r\n  - 50ml 料酒\r\n  - 50ml 陈醋\r\n  - 50ml 味极鲜\r\n  - 20ml 老抽调色\r\n  - 5ml 蚝油提鲜\r\n  - 5g 匙盐\r\n  - 50g 白糖\r\n  - 清水没过鱼面。\r\n\r\n14. 调至中火，将水烧开。\r\n15. 调至小火，慢焖入味。\r\n16. 15 分钟 后，打开锅盖，挑出锅里的葱、姜、蒜、干辣椒。\r\n17. 调至大火收汁，汤汁剩余 1/4 时，撒点蒜末，关火盛出。\r\n18. 红烧鲤鱼出锅！",
+  "tips": "基于下列原因，需要在红烧鲤鱼中添加五花肉：\r\n\r\n- 五花肉煸炒的时候会出猪油，相比较于植物油，动物油脂更香。\r\n- 煸炒至金黄的五花肉炖煮过后吃起来也很香的，相当于配菜。\r\n- 鱼类本身脂肪含量少，所以香味欠缺，着重的是肉质的口感。所以一般做鱼类菜都建议用猪油，想要一锅奶白香醇的鱼汤。猪油是最好的选择~\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "基于下列原因，需要在红烧鲤鱼中添加五花肉：\r\n\r\n- 五花肉煸炒的时候会出猪油，相比较于植物油，动物油脂更香。\r\n- 煸炒至金黄的五花肉炖煮过后吃起来也很香的，相当于配菜。\r\n- 鱼类本身脂肪含量少，所以香味欠缺，着重的是肉质的口感。所以一般做鱼类菜都建议用猪油，想要一锅奶白香醇的鱼汤。猪油是最好的选择~\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/红烧鲤鱼.md"
+  },
+  "hash": "e0f2534a0e8715b66eeb5c5bb292a4b6be46cb73053f51a5ea7341f28d7a344a"
+}

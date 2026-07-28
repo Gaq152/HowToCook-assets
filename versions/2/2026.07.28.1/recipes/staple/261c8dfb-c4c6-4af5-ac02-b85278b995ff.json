@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 2,
+  "id": "261c8dfb-c4c6-4af5-ac02-b85278b995ff",
+  "legacyIds": [
+    "staple_12c809c7"
+  ],
+  "name": "豆角焖面",
+  "description": "豆角焖面是一道北方家常面食，面条吸饱汤汁，口感软韧咸香，带着豆角的清爽和肉片的油润。五花肉提供蛋白质和脂肪，豆角富含膳食纤维和维生素，荤素搭配均衡。整体操作不难，但需要留意火候和加汤时机，适合有一定下厨经验的朋友尝试，一般约 30 分钟就能端上桌。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1386,
+  "requirements": [
+    {
+      "text": "鲜面条（韭叶 or 二细<解释见最下方 关于面条粗细区别一栏）",
+      "markdown": "鲜面条（韭叶 or 二细<解释见最下方 关于面条粗细区别一栏）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉（最好为五花肉）",
+      "markdown": "肉（最好为五花肉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆角",
+      "markdown": "豆角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "耗油",
+      "markdown": "耗油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "十三香",
+      "markdown": "十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "热水",
+      "markdown": "热水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜刀",
+      "markdown": "菜刀",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 鲜面条（韭叶 or 二细<解释见最下方 关于面条粗细区别一栏）\r\n* 肉（最好为五花肉）\r\n* 盐\r\n* 豆角\r\n* 鸡精\r\n* 耗油\r\n* 味精\r\n* 十三香\r\n* 生抽\r\n* 老抽\r\n* 葱\r\n* 蒜头\r\n* 姜\r\n* 热水\r\n* 菜刀",
+  "ingredients": [
+    {
+      "name": "鲜面条",
+      "text": "鲜面条 300g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉",
+      "text": "肉 100g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆角",
+      "text": "豆角 150g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐的用量为",
+      "text": "盐的用量为：2g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油的用量为",
+      "text": "食用油的用量为 10 - 18 ml。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精的用量为",
+      "text": "鸡精的用量为：2g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽的用量为",
+      "text": "生抽的用量为：10ml。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "耗油的用量为",
+      "text": "耗油的用量为：5g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "十三香的用量为",
+      "text": "十三香的用量为：1g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽的用量为",
+      "text": "老抽的用量为：5ml。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精的用量为",
+      "text": "味精的用量为：1g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "热水的用量为",
+      "text": "热水的用量为：150ml。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 10g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 5g。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 10g。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "下面的量是仅仅 1 够一个人一餐的主食的量！请针对实际调整用料的量！\r\n\r\n* 鲜面条 300g。\r\n* 肉 100g。\r\n* 豆角 150g。\r\n* 盐的用量为：2g。\r\n* 食用油的用量为 10 - 18 ml。\r\n* 鸡精的用量为：2g。\r\n* 生抽的用量为：10ml。\r\n* 耗油的用量为：5g。\r\n* 十三香的用量为：1g。\r\n* 老抽的用量为：5ml。\r\n* 味精的用量为：1g。\r\n* 热水的用量为：150ml。\r\n* 葱 10g。\r\n* 姜 5g。\r\n* 蒜 10g。\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "下面的量是仅仅 1 够一个人一餐的主食的量！请针对实际调整用料的量！",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备动作",
+      "description": "### 准备动作"
+    },
+    {
+      "kind": "step",
+      "description": "将豆角切成 5cm - 6cm 的小段。"
+    },
+    {
+      "kind": "step",
+      "description": "将葱切成 1cm - 2cm 小段。"
+    },
+    {
+      "kind": "step",
+      "description": "将姜切成 1mm x 1mm x 3cm 的长条"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜放在砧板上拍碎，切成 1mm 的粒度。"
+    },
+    {
+      "kind": "step",
+      "description": "将五花肉切成 2mm 厚度的肉片。"
+    },
+    {
+      "kind": "step",
+      "description": "首先将锅烧热，烧去锅内全部水汽，手放过内距离锅底 10cm 处，感觉明显有些许烤手。"
+    },
+    {
+      "kind": "step",
+      "description": "加入上述定量的食用油，手持锅柄，离灶 5cm 处，摇晃锅，使食用油充分挂满锅的三分之二（自下而上）。"
+    },
+    {
+      "kind": "note",
+      "description": "> ps：不粘锅请忽略上述操作，静待3-5秒油热即可。"
+    },
+    {
+      "kind": "step",
+      "description": "放入全部的姜和全部的葱段，翻炒爆香 5 秒（注意！此时有油飞溅的危险，建议带上手套或做好防护措施）。"
+    },
+    {
+      "kind": "step",
+      "description": "放入全部的肉片，放入以后不着急饭锅，静置 5 秒后，再翻炒，使所有的肉都裹满食用油。"
+    },
+    {
+      "kind": "step",
+      "description": "不断翻炒肉片，待到全部肉片都已经变色，沿锅边均匀淋如准备好的生抽，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "依次加入准备好的盐、老抽、耗油、十三香、鸡精以及全部准备好的豆角，翻炒 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入准备好的热水。"
+    },
+    {
+      "kind": "step",
+      "description": "水开使用勺子舀出锅内 2 分之一菜汤（注意！不要将菜舀出）。"
+    },
+    {
+      "kind": "step",
+      "description": "将所有面条平铺在菜的上方。"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖，中火焖 5 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖，将舀出的菜汤使用勺子，以每次一勺的量，均匀撒在面条上。"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖，中火焖 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖，将所有的蒜、味精均匀撒入。"
+    },
+    {
+      "kind": "note",
+      "description": "> ps：此时锅内可能还有水，如果想吃湿一点的请关火，否则不用关火。"
+    },
+    {
+      "kind": "step",
+      "description": "使用筷子不断翻炒，将菜与肉均匀搅拌。"
+    },
+    {
+      "kind": "step",
+      "description": "关火"
+    }
+  ],
+  "operationMarkdown": "### 准备动作\r\n\r\n1. 将豆角切成 5cm - 6cm 的小段。\r\n2. 将葱切成 1cm - 2cm 小段。\r\n3. 将姜切成 1mm x 1mm x 3cm 的长条\r\n4. 将蒜放在砧板上拍碎，切成 1mm 的粒度。\r\n5. 将五花肉切成 2mm 厚度的肉片。\r\n\r\n6. 首先将锅烧热，烧去锅内全部水汽，手放过内距离锅底 10cm 处，感觉明显有些许烤手。\r\n7. 加入上述定量的食用油，手持锅柄，离灶 5cm 处，摇晃锅，使食用油充分挂满锅的三分之二（自下而上）。\r\n\r\n> ps：不粘锅请忽略上述操作，静待3-5秒油热即可。\r\n\r\n8. 放入全部的姜和全部的葱段，翻炒爆香 5 秒（注意！此时有油飞溅的危险，建议带上手套或做好防护措施）。\r\n9. 放入全部的肉片，放入以后不着急饭锅，静置 5 秒后，再翻炒，使所有的肉都裹满食用油。\r\n10. 不断翻炒肉片，待到全部肉片都已经变色，沿锅边均匀淋如准备好的生抽，翻炒均匀。\r\n11. 依次加入准备好的盐、老抽、耗油、十三香、鸡精以及全部准备好的豆角，翻炒 2 分钟。\r\n12. 加入准备好的热水。\r\n13. 水开使用勺子舀出锅内 2 分之一菜汤（注意！不要将菜舀出）。\r\n14. 将所有面条平铺在菜的上方。\r\n15. 盖上锅盖，中火焖 5 分钟。\r\n16. 打开锅盖，将舀出的菜汤使用勺子，以每次一勺的量，均匀撒在面条上。\r\n17. 盖上锅盖，中火焖 3 分钟。\r\n18. 打开锅盖，将所有的蒜、味精均匀撒入。\r\n\r\n> ps：此时锅内可能还有水，如果想吃湿一点的请关火，否则不用关火。\r\n\r\n19. 使用筷子不断翻炒，将菜与肉均匀搅拌。\r\n20. 关火",
+  "tips": "### 面条的粗细区别\r\n\r\n* 毛细（顾名思义，就像头发，其实就有点像细粉丝那样细）\r\n* 细（这个比毛细粗点，跟香头一样）\r\n* 二细（有点像一般的炒面条那样粗）\r\n* 三细（比二细稍微粗点，吃起来像吃粗粉条，不过面如果拉的比较劲道的话，这个嚼起来感觉很有味）\r\n* 韭叶（这鸡就像韭菜叶子一样宽）\r\n* 大宽（就像吃麻辣烫的那个宽粉一样）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 面条的粗细区别\r\n\r\n* 毛细（顾名思义，就像头发，其实就有点像细粉丝那样细）\r\n* 细（这个比毛细粗点，跟香头一样）\r\n* 二细（有点像一般的炒面条那样粗）\r\n* 三细（比二细稍微粗点，吃起来像吃粗粉条，不过面如果拉的比较劲道的话，这个嚼起来感觉很有味）\r\n* 韭叶（这鸡就像韭菜叶子一样宽）\r\n* 大宽（就像吃麻辣烫的那个宽粉一样）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/豆角焖面/豆角焖面.md"
+  },
+  "hash": "0a96f6a2741098586ca50eb3b3f0da50c0865be21ebeb8639f5d2d8cc2dbd570"
+}

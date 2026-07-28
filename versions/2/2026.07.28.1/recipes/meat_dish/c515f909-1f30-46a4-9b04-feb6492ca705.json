@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 2,
+  "id": "c515f909-1f30-46a4-9b04-feb6492ca705",
+  "legacyIds": [
+    "meat_dish_f841899b"
+  ],
+  "name": "小炒黄牛肉",
+  "description": "这道湘味小炒以大火爆炒逼出牛肉的嫩滑与椒香，口感鲜辣劲爽、芹菜脆嫩，极具湖南风味。牛里脊提供优质蛋白和易吸收的铁质，搭配芹菜增添膳食纤维，营养均衡。备料与烹饪步骤简单明了，全程旺火快炒，对新手十分友好，从切配到出锅大约一小时即可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 619,
+  "requirements": [
+    {
+      "text": "牛里脊",
+      "markdown": "牛里脊",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜",
+      "markdown": "芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "野山椒",
+      "markdown": "野山椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛里脊\r\n- 芹菜\r\n- 小米椒\r\n- 野山椒\r\n- 香菜",
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "text": "牛里脊 400g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芹菜",
+      "text": "芹菜 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "野山椒",
+      "text": "野山椒 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 6ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 牛里脊 400g\r\n- 芹菜 200g\r\n- 小米椒 30g\r\n- 野山椒 30g\r\n- 香菜 30g\r\n- 食用油 15ml\r\n- 酱油 6ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "牛里脊切成不超过 3cm 宽，3mm 厚的薄片，倒入 6ml 酱油，用手抓匀备用"
+    },
+    {
+      "kind": "step",
+      "description": "芹菜切成不超过 5cm 的小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "小米椒切成丝状，备用"
+    },
+    {
+      "kind": "step",
+      "description": "野山椒切成颗粒，备用"
+    },
+    {
+      "kind": "step",
+      "description": "香菜切成成不超过 3cm 的小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 15ml 食用油，大火等待 30 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "放入小米椒和野山椒爆香"
+    },
+    {
+      "kind": "step",
+      "description": "放入牛里脊和芹菜，然后**大火翻炒 1 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "关火，撒上香菜，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 牛里脊切成不超过 3cm 宽，3mm 厚的薄片，倒入 6ml 酱油，用手抓匀备用\r\n2. 芹菜切成不超过 5cm 的小段，备用\r\n3. 小米椒切成丝状，备用\r\n4. 野山椒切成颗粒，备用\r\n5. 香菜切成成不超过 3cm 的小段，备用\r\n6. 热锅，锅内放入 15ml 食用油，大火等待 30 秒让油温升高\r\n7. 放入小米椒和野山椒爆香\r\n8. 放入牛里脊和芹菜，然后**大火翻炒 1 分钟**\r\n9. 关火，撒上香菜，盛盘",
+  "tips": "- 操作时，全程需要开大火\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，全程需要开大火\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/c515f909-1f30-46a4-9b04-feb6492ca705_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
+  },
+  "hash": "b2988c3422a96d43f4d27bef25c8e9fb689f7708151ca370b7cf41439534e864"
+}

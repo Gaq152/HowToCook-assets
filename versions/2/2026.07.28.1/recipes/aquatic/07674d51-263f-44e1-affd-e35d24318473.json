@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "id": "07674d51-263f-44e1-affd-e35d24318473",
+  "legacyIds": [
+    "aquatic_d4c3eb44"
+  ],
+  "name": "鳊鱼炖豆腐",
+  "description": "鳊鱼炖豆腐是一道家常红烧菜，鱼肉鲜嫩入味，豆腐饱吸汤汁，咸鲜微辣。鳊鱼富含优质蛋白和不饱和脂肪酸，豆腐则提供植物蛋白和钙质，搭配起来营养均衡。制作难度适中，煎鱼时稍需耐心防粘，整体步骤清晰，新手也能尝试。从备料到完成约需 40 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 524,
+  "requirements": [
+    {
+      "text": "鳊鱼（鱼可以让摊主帮忙处理好）",
+      "markdown": "鳊鱼（鱼可以让摊主帮忙处理好）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老豆腐",
+      "markdown": "老豆腐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮（可选）",
+      "markdown": "桂皮（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒（不吃辣可以不放）",
+      "markdown": "干辣椒（不吃辣可以不放）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角（可选）",
+      "markdown": "八角（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶（可选）",
+      "markdown": "香叶（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "热水",
+      "markdown": "热水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鳊鱼（鱼可以让摊主帮忙处理好）\r\n- 老豆腐\r\n- 姜\r\n- 葱\r\n- 蒜\r\n- 老抽\r\n- 桂皮（可选）\r\n- 冰糖\r\n- 干辣椒（不吃辣可以不放）\r\n- 料酒\r\n- 生抽\r\n- 盐\r\n- 八角（可选）\r\n- 香叶（可选）\r\n- 热水",
+  "ingredients": [
+    {
+      "name": "鳊鱼",
+      "text": "鳊鱼：550 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老豆腐",
+      "text": "老豆腐：400 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜：5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱：半根（50 克）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜：4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽：2ml（不太喜欢重口的可以不放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮：1 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖：5 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒：4-6 个（根据个人口味选择）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒：5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽：4ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐：5-8 克（根据个人口味选择）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角：1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶：1-3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "热水",
+      "text": "热水：400 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注：这个量大概是 2-3 个人的量\r\n\r\n每份：\r\n\r\n- 鳊鱼：550 克\r\n- 老豆腐：400 克\r\n- 姜：5 片\r\n- 葱：半根（50 克）\r\n- 蒜：4 个\r\n- 老抽：2ml（不太喜欢重口的可以不放）\r\n- 桂皮：1 块\r\n- 冰糖：5 块\r\n- 干辣椒：4-6 个（根据个人口味选择）\r\n- 料酒：5ml\r\n- 生抽：4ml\r\n- 盐：5-8 克（根据个人口味选择）\r\n- 八角：1 个\r\n- 香叶：1-3 片\r\n- 食用油：10ml\r\n- 热水：400 克",
+  "calculationNotes": [
+    "注：这个量大概是 2-3 个人的量",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鳊鱼改刀，放上姜片和料酒腌制 5-10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "老豆腐切块后放入水中备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅，把腌制的鱼用厨房纸擦干水分，把鱼放到锅中，两面都煎一下"
+    },
+    {
+      "kind": "step",
+      "description": "等两面都煎好时，把鱼推向锅边一点，留点空间放入葱姜蒜，干辣椒，香叶，八角炒出味道"
+    },
+    {
+      "kind": "step",
+      "description": "炒出佐料香味后，加入料酒，生抽，老抽，冰糖，桂皮，倒入热水，水量和鱼平齐或者少点"
+    },
+    {
+      "kind": "step",
+      "description": "大火烧开后，放入老豆腐，豆腐贴在锅边，加入食盐，转小火"
+    },
+    {
+      "kind": "step",
+      "description": "小火烧 10-15 分钟，然后大火收点汁，即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 鳊鱼改刀，放上姜片和料酒腌制 5-10 分钟\r\n2. 老豆腐切块后放入水中备用\r\n3. 锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅，把腌制的鱼用厨房纸擦干水分，把鱼放到锅中，两面都煎一下\r\n4. 等两面都煎好时，把鱼推向锅边一点，留点空间放入葱姜蒜，干辣椒，香叶，八角炒出味道\r\n5. 炒出佐料香味后，加入料酒，生抽，老抽，冰糖，桂皮，倒入热水，水量和鱼平齐或者少点\r\n6. 大火烧开后，放入老豆腐，豆腐贴在锅边，加入食盐，转小火\r\n7. 小火烧 10-15 分钟，然后大火收点汁，即可出锅",
+  "tips": "- 鱼的两面，各煎 2-4 分钟即可\r\n- 煎鱼的时候全程中小火\r\n- 最后出锅时，加入一些切碎的大蒜，味道会更好\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 鱼的两面，各煎 2-4 分钟即可\r\n- 煎鱼的时候全程中小火\r\n- 最后出锅时，加入一些切碎的大蒜，味道会更好\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/07674d51-263f-44e1-affd-e35d24318473_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
+  },
+  "hash": "5944f248d88be5fc61cfb7d0bfc2410576e713cbb4dd055146433e681300ba6a"
+}

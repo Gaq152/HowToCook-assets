@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "id": "78c2ef45-0a52-42bd-bf2b-166bd940ba99",
+  "legacyIds": [],
+  "name": "可乐炒饭",
+  "description": "这道菜以可乐替代糖调味，带来独特的焦香微甜风味，酱汁浓郁包裹粒粒米饭，属于创意家常炒饭。鸡蛋和火腿肠提供优质蛋白质与能量，搭配主食米饭，营养均衡管饱。操作步骤直观，适合新手尝试，一般 大约 20 分钟便可端上桌。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 913,
+  "requirements": [
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可乐（含糖或无糖均可）",
+      "markdown": "可乐（含糖或无糖均可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿肠（或午餐肉，可选）",
+      "markdown": "火腿肠（或午餐肉，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱（可选）",
+      "markdown": "豆瓣酱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花",
+      "markdown": "葱花",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉（白胡椒、黑胡椒均可）",
+      "markdown": "胡椒粉（白胡椒、黑胡椒均可）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 米饭\r\n- 可乐（含糖或无糖均可）\r\n- 鸡蛋\r\n- 火腿肠（或午餐肉，可选）\r\n- 油\r\n- 生抽\r\n- 老抽\r\n- 蚝油\r\n- 豆瓣酱（可选）\r\n- 葱花\r\n- 胡椒粉（白胡椒、黑胡椒均可）",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "text": "米饭 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可乐",
+      "text": "可乐 160 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿肠",
+      "text": "火腿肠 20-100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 25 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 7.5 ml（如果使用无糖可乐，追加 5 ml，如果不使用豆瓣酱，追加 5 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 7.5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 1 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 米饭 200 g\r\n- 可乐 160 ml\r\n- 鸡蛋 3 个\r\n- 火腿肠 20-100 g\r\n- 油 25 ml\r\n- 生抽 15 ml\r\n- 老抽 7.5 ml（如果使用无糖可乐，追加 5 ml，如果不使用豆瓣酱，追加 5 ml）\r\n- 豆瓣酱 7.5 ml\r\n- 蚝油 5 ml\r\n- 葱花 5 g\r\n- 胡椒粉 1 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将锅烧热后，加入 25 ml 油，放两个鸡蛋，煎至底部完全凝固"
+    },
+    {
+      "kind": "step",
+      "description": "翻面，煎至两面完全凝固"
+    },
+    {
+      "kind": "step",
+      "description": "关火，将鸡蛋取出，剪成 2-5 cm² 的小块后放回锅中（也可以直接用锅铲铲碎）"
+    },
+    {
+      "kind": "step",
+      "description": "重新开火，倒入可乐、生抽、老抽、豆瓣酱、蚝油，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加热到锅内液体剩 1/3，倒入米饭和火腿肠翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒均匀后，改小火，锅内食物中心挖一个洞，打入 1 个鸡蛋，盖上锅盖，焖 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开盖翻炒至第三颗鸡蛋熟透，撒上葱花和胡椒粉，出锅"
+    }
+  ],
+  "operationMarkdown": "1. 将锅烧热后，加入 25 ml 油，放两个鸡蛋，煎至底部完全凝固\r\n2. 翻面，煎至两面完全凝固\r\n3. 关火，将鸡蛋取出，剪成 2-5 cm² 的小块后放回锅中（也可以直接用锅铲铲碎）\r\n4. 重新开火，倒入可乐、生抽、老抽、豆瓣酱、蚝油，搅拌均匀\r\n5. 加热到锅内液体剩 1/3，倒入米饭和火腿肠翻炒\r\n6. 翻炒均匀后，改小火，锅内食物中心挖一个洞，打入 1 个鸡蛋，盖上锅盖，焖 2 分钟\r\n7. 开盖翻炒至第三颗鸡蛋熟透，撒上葱花和胡椒粉，出锅",
+  "tips": "- 含糖可乐口感更好\r\n- 如果喜欢干一点，多炒一会儿\r\n- 如果嫌麻烦，可以在第一步直接放 3 个鸡蛋，取消挖洞打另一个鸡蛋的步骤\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 含糖可乐口感更好\r\n- 如果喜欢干一点，多炒一会儿\r\n- 如果嫌麻烦，可以在第一步直接放 3 个鸡蛋，取消挖洞打另一个鸡蛋的步骤\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/可乐炒饭.md"
+  },
+  "hash": "dd810b96fbd5b3d8f661d242df4337c02613f09e193cebfb5ae22c93daec11e5"
+}

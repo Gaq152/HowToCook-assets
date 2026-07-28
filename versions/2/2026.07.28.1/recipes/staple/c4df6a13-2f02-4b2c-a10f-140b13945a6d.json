@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 2,
+  "id": "c4df6a13-2f02-4b2c-a10f-140b13945a6d",
+  "legacyIds": [],
+  "name": "红芸豆拌饭",
+  "description": "这道北印度家常菜是旁遮普邦和德里地区的传统美食，番茄洋葱汤汁浓郁辛香，炖煮后红芸豆软糯入味，与热米饭拌食温暖饱腹。豆子富含蛋白质、膳食纤维和多种微量元素，营养均衡。做法简单，初学者也能轻松上手，全程制作约 40 分钟，但干豆需提前浸泡 8 小时。浓郁的家常滋味，有妈妈的味道。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1842,
+  "requirements": [
+    {
+      "text": "红芸豆(Kidney Beans / Rajma)",
+      "markdown": "红芸豆(Kidney Beans / Rajma)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "巴斯马蒂香米或普通大米",
+      "markdown": "巴斯马蒂香米或普通大米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油或酥油",
+      "markdown": "食用油或酥油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜黄粉",
+      "markdown": "姜黄粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉",
+      "markdown": "红辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜粉",
+      "markdown": "香菜粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度综合香料粉(Garam Masala)",
+      "markdown": "印度综合香料粉(Garam Masala)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "月桂叶",
+      "markdown": "月桂叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "高压锅（推荐）或普通汤锅",
+      "markdown": "高压锅（推荐）或普通汤锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 红芸豆(Kidney Beans / Rajma)\r\n- 巴斯马蒂香米或普通大米\r\n- 洋葱\r\n- 番茄\r\n- 生姜\r\n- 大蒜\r\n- 青辣椒\r\n- 香菜\r\n- 食用油或酥油\r\n- 姜黄粉\r\n- 红辣椒粉\r\n- 香菜粉\r\n- 孜然粉\r\n- 印度综合香料粉(Garam Masala)\r\n- 月桂叶\r\n- 盐\r\n- 高压锅（推荐）或普通汤锅",
+  "ingredients": [
+    {
+      "name": "干红芸豆",
+      "text": "干红芸豆 200g（提前浸泡 8 小时）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 2 个（约 200g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 3 个（约 300g），切碎（或番茄酱 30ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（约 12g），磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 1 根，切缝",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "月桂叶",
+      "text": "月桂叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜黄粉",
+      "text": "姜黄粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜粉",
+      "text": "香菜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度综合香料粉",
+      "text": "印度综合香料粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 6g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 600ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 15g（装饰用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大米",
+      "text": "大米 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 400ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\r\n\r\n每份：\r\n\r\n**红芸豆咖喱部分：**\r\n\r\n- 干红芸豆 200g（提前浸泡 8 小时）\r\n- 洋葱 2 个（约 200g），切碎\r\n- 番茄 3 个（约 300g），切碎（或番茄酱 30ml）\r\n- 生姜 10g，磨碎\r\n- 大蒜 4 瓣（约 12g），磨碎\r\n- 青辣椒 1 根，切缝\r\n- 食用油 30ml\r\n- 月桂叶 2 片\r\n- 姜黄粉 3g\r\n- 红辣椒粉 5g\r\n- 香菜粉 5g\r\n- 孜然粉 3g\r\n- 印度综合香料粉 3g\r\n- 盐 6g\r\n- 水 600ml\r\n- 香菜叶 15g（装饰用）\r\n\r\n**米饭部分：**\r\n\r\n- 大米 200g\r\n- 水 400ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。",
+    "每份：",
+    "**红芸豆咖喱部分：**",
+    "**米饭部分：**"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备工作（提前 8 小时）",
+      "description": "### 准备工作（提前 8 小时）"
+    },
+    {
+      "kind": "step",
+      "description": "将干红芸豆用清水浸泡至少 8 小时（过夜），浸泡后体积会膨胀约两倍"
+    },
+    {
+      "kind": "section",
+      "title": "煮红芸豆",
+      "description": "### 煮红芸豆"
+    },
+    {
+      "kind": "step",
+      "description": "将浸泡好的红芸豆沥干"
+    },
+    {
+      "kind": "step",
+      "description": "**使用高压锅**：放入红芸豆和 600ml 水，盖好锅盖，大火上气后转中火，**压 15-20 分钟**，直至*豆子用手指可轻松压碎*"
+    },
+    {
+      "kind": "step",
+      "description": "**使用普通锅**：放入红芸豆和足量水，大火煮沸后转中火，**煮 60-90 分钟**，直至豆子完全软烂"
+    },
+    {
+      "kind": "step",
+      "description": "煮好后保留煮豆汤水，备用"
+    },
+    {
+      "kind": "section",
+      "title": "炒制咖喱",
+      "description": "### 炒制咖喱"
+    },
+    {
+      "kind": "step",
+      "description": "在炒锅中倒入 30ml 食用油，中火加热"
+    },
+    {
+      "kind": "step",
+      "description": "放入月桂叶 2 片，炸至*散出香味*（约 10 秒）"
+    },
+    {
+      "kind": "step",
+      "description": "放入切碎的洋葱，翻炒至*金棕色*（约 6-8 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入磨碎的生姜和大蒜，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入切碎的番茄，翻炒至*番茄完全软烂出油*（约 5 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入姜黄粉 3g、红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 6g"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 2 分钟，使香料与番茄融合"
+    },
+    {
+      "kind": "step",
+      "description": "将煮好的红芸豆连同汤水一起倒入锅中"
+    },
+    {
+      "kind": "step",
+      "description": "加入青辣椒，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮沸后转小火，**炖 15-20 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "期间用铲子背面压碎一部分豆子，使汤汁变得*浓稠*"
+    },
+    {
+      "kind": "step",
+      "description": "加入印度综合香料粉 3g，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "关火，撒上香菜叶"
+    },
+    {
+      "kind": "section",
+      "title": "蒸米饭",
+      "description": "### 蒸米饭"
+    },
+    {
+      "kind": "step",
+      "description": "将大米淘洗干净"
+    },
+    {
+      "kind": "step",
+      "description": "放入电饭锅，加入 400ml 水"
+    },
+    {
+      "kind": "step",
+      "description": "正常蒸煮即可"
+    },
+    {
+      "kind": "section",
+      "title": "上菜",
+      "description": "### 上菜"
+    },
+    {
+      "kind": "step",
+      "description": "将米饭盛入盘中"
+    },
+    {
+      "kind": "step",
+      "description": "将红芸豆咖喱浇在米饭上或旁边"
+    },
+    {
+      "kind": "step",
+      "description": "可搭配洋葱沙拉和柠檬角"
+    }
+  ],
+  "operationMarkdown": "### 准备工作（提前 8 小时）\r\n\r\n1. 将干红芸豆用清水浸泡至少 8 小时（过夜），浸泡后体积会膨胀约两倍\r\n\r\n### 煮红芸豆\r\n\r\n1. 将浸泡好的红芸豆沥干\r\n2. **使用高压锅**：放入红芸豆和 600ml 水，盖好锅盖，大火上气后转中火，**压 15-20 分钟**，直至*豆子用手指可轻松压碎*\r\n3. **使用普通锅**：放入红芸豆和足量水，大火煮沸后转中火，**煮 60-90 分钟**，直至豆子完全软烂\r\n4. 煮好后保留煮豆汤水，备用\r\n\r\n### 炒制咖喱\r\n\r\n1. 在炒锅中倒入 30ml 食用油，中火加热\r\n2. 放入月桂叶 2 片，炸至*散出香味*（约 10 秒）\r\n3. 放入切碎的洋葱，翻炒至*金棕色*（约 6-8 分钟）\r\n4. 加入磨碎的生姜和大蒜，翻炒 1 分钟\r\n5. 加入切碎的番茄，翻炒至*番茄完全软烂出油*（约 5 分钟）\r\n6. 加入姜黄粉 3g、红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 6g\r\n7. 翻炒 2 分钟，使香料与番茄融合\r\n8. 将煮好的红芸豆连同汤水一起倒入锅中\r\n9. 加入青辣椒，搅拌均匀\r\n10. 大火煮沸后转小火，**炖 15-20 分钟**\r\n11. 期间用铲子背面压碎一部分豆子，使汤汁变得*浓稠*\r\n12. 加入印度综合香料粉 3g，搅拌均匀\r\n13. 关火，撒上香菜叶\r\n\r\n### 蒸米饭\r\n\r\n1. 将大米淘洗干净\r\n2. 放入电饭锅，加入 400ml 水\r\n3. 正常蒸煮即可\r\n\r\n### 上菜\r\n\r\n1. 将米饭盛入盘中\r\n2. 将红芸豆咖喱浇在米饭上或旁边\r\n3. 可搭配洋葱沙拉和柠檬角",
+  "tips": "- 红芸豆必须煮熟透才能食用，未熟的红芸豆含有植物血凝素(Phytohaemagglutinin)，可能导致食物中毒。\r\n- 在印度，Rajma Chawal 被认为是最有家的味道的食物，地位类似于中国的\"红烧肉配米饭\"。\r\n- 如果想要更浓郁的口感，可以加入 30ml 淡奶油。\r\n- 剩余的红芸豆咖喱冷藏保存可达 3-4 天，味道会更好。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 红芸豆必须煮熟透才能食用，未熟的红芸豆含有植物血凝素(Phytohaemagglutinin)，可能导致食物中毒。\r\n- 在印度，Rajma Chawal 被认为是最有家的味道的食物，地位类似于中国的\"红烧肉配米饭\"。\r\n- 如果想要更浓郁的口感，可以加入 30ml 淡奶油。\r\n- 剩余的红芸豆咖喱冷藏保存可达 3-4 天，味道会更好。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/红芸豆拌饭.md"
+  },
+  "hash": "2af375c596d767753d12a39b440b000d5a761054b0b66b4de2de82664dbfd108"
+}

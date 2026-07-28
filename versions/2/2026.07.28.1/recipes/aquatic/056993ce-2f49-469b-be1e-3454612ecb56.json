@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "id": "056993ce-2f49-469b-be1e-3454612ecb56",
+  "legacyIds": [
+    "aquatic_43c732f1"
+  ],
+  "name": "蛏抱蛋",
+  "description": "蛏抱蛋是福建福州一带的传统家常菜，蛏肉裹着蛋液煎得外酥里嫩，带着洋葱和生抽的咸鲜香气。蛏子富含优质蛋白和锌、铁等微量元素，与鸡蛋搭配营养均衡。制作难度适中，需掌握煎炸火候但步骤不繁琐，预计 大约 30 分钟就能端上餐桌。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1229,
+  "requirements": [
+    {
+      "text": "蛏子",
+      "markdown": "蛏子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 蛏子\r\n* 鸡蛋\r\n* 食用油\r\n* 洋葱\r\n* 淀粉\r\n* 生抽\r\n* 鸡精\r\n* 料酒",
+  "ingredients": [
+    {
+      "name": "蛏子",
+      "text": "蛏子 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 100 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 0.25 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 蛏子 200 g\r\n* 鸡蛋 2 个\r\n* 食用油 100 ml\r\n* 洋葱 0.25 个\r\n* 淀粉 20 g\r\n* 生抽 5 ml\r\n* 鸡精 5 ml\r\n* 料酒 5 ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "烧开水，将蛏子放入水中，水煮 2 分钟后，捞上来去壳，放入大碗"
+    },
+    {
+      "kind": "step",
+      "description": "往大碗中加入洋葱、生抽、料酒、鸡精、生粉后，充分搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "往大碗中打入 2 个 鸡蛋，继续搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入碗中蛏子，煎炸至单面金黄后，翻面继续煎炸"
+    }
+  ],
+  "operationMarkdown": "1. 烧开水，将蛏子放入水中，水煮 2 分钟后，捞上来去壳，放入大碗\r\n2. 往大碗中加入洋葱、生抽、料酒、鸡精、生粉后，充分搅拌\r\n3. 往大碗中打入 2 个 鸡蛋，继续搅拌\r\n4. 起锅烧油，倒入碗中蛏子，煎炸至单面金黄后，翻面继续煎炸\r\n\r\n![蛏抱蛋-预览图-1](./1.jpeg)\r\n![蛏抱蛋-预览图-2](./2.jpeg)\r\n![蛏抱蛋-预览图-3](./3.jpeg)",
+  "tips": "* 更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨\r\n* 闽菜以甜为主，如果吃不惯的可以放弃白糖\r\n* 可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨\r\n* 闽菜以甜为主，如果吃不惯的可以放弃白糖\r\n* 可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/056993ce-2f49-469b-be1e-3454612ecb56_0.webp",
+    "images/aquatic/056993ce-2f49-469b-be1e-3454612ecb56_1.webp",
+    "images/aquatic/056993ce-2f49-469b-be1e-3454612ecb56_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md"
+  },
+  "hash": "c0ac8550a1921dbd81fb7752fca93c1a741052d1da19c93873c3f6714db50aba"
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "id": "8f1a8456-4abc-4e8e-9023-b966b23b5810",
+  "legacyIds": [
+    "staple_f92443e0"
+  ],
+  "name": "日式肥牛丼饭",
+  "description": "一道经典的日式家常盖饭，肥牛片与白洋葱在咸甜酱汁中炖煮入味，肉质软嫩，洋葱甜润，汁香浓郁。牛肉提供优质蛋白和血红素铁，洋葱富含膳食纤维与多种抗氧化物。制作不算复杂，新手只要跟着步骤操作也能轻松完成，炒煮过程约需 30 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 774,
+  "requirements": [
+    {
+      "text": "洋葱（务必选用外皮为白黄色的洋葱，不要用紫色的洋葱）",
+      "markdown": "洋葱（务必选用外皮为白黄色的洋葱，不要用紫色的洋葱）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "肥牛（火锅肥牛即可，也可选用原切肥牛片）",
+      "markdown": "肥牛（火锅肥牛即可，也可选用原切肥牛片）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "葱（也可选用切好的葱段）",
+      "markdown": "葱（也可选用切好的葱段）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "味淋（一种常用日式调料，可在各大电商平台购买，也可用料酒代替）",
+      "markdown": "味淋（一种常用日式调料，可在各大电商平台购买，也可用料酒代替）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "温泉蛋",
+      "markdown": "[温泉蛋](../../breakfast/温泉蛋/温泉蛋.md)",
+      "group": "副食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "出汁（使用柴鱼干和昆布熬制的汤汁，可以用于提鲜）",
+      "markdown": "出汁（使用柴鱼干和昆布熬制的汤汁，可以用于提鲜）",
+      "group": "副食材",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "### 主食材\r\n\r\n- 洋葱（务必选用外皮为白黄色的洋葱，不要用紫色的洋葱）\r\n- 肥牛（火锅肥牛即可，也可选用原切肥牛片）\r\n- 葱（也可选用切好的葱段）\r\n- 白芝麻\r\n- 味淋（一种常用日式调料，可在各大电商平台购买，也可用料酒代替）\r\n\r\n### 副食材\r\n\r\n额外用作点缀的食材，可选\r\n\r\n- [温泉蛋](../../breakfast/温泉蛋/温泉蛋.md)\r\n- 出汁（使用柴鱼干和昆布熬制的汤汁，可以用于提鲜）",
+  "ingredients": [
+    {
+      "name": "洋葱",
+      "text": "洋葱 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肥牛",
+      "text": "肥牛 250 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1~2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白芝麻",
+      "text": "白芝麻 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "食材用量与米饭成正比，计算部分以 **一杯米(160ml)** 为例。约为二人食用分量，吃不完可以放冰箱冷藏，但可能会没那么好吃\r\n\r\n- 洋葱 1 个\r\n- 肥牛 250 克\r\n- 葱 1~2 根\r\n- 白芝麻 5 克",
+  "calculationNotes": [
+    "食材用量与米饭成正比，计算部分以 **一杯米(160ml)** 为例。约为二人食用分量，吃不完可以放冰箱冷藏，但可能会没那么好吃"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "1. 食材准备",
+      "description": "### 1. 食材准备"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱剥去外层去芯，切成月牙状"
+    },
+    {
+      "kind": "step",
+      "description": "葱洗净切成 0.5cm 的小段"
+    },
+    {
+      "kind": "step",
+      "description": "热锅直接放入白芝麻，**前后晃动锅体**使芝麻均匀受热至*略呈金黄色*"
+    },
+    {
+      "kind": "step",
+      "description": "肥牛焯水 1 分钟后捞出"
+    },
+    {
+      "kind": "step",
+      "description": "将 40g `味淋`（或 30g `料酒`），30g `酱油`，20g `耗油`，5g `糖`，5g `老抽`（可选，用于调色），在碗中搅拌混合成`调料`（该步骤可直接将碗放在电子秤上进行）"
+    },
+    {
+      "kind": "section",
+      "title": "2. 烧煮过程",
+      "description": "### 2. 烧煮过程"
+    },
+    {
+      "kind": "step",
+      "description": "热油锅放入洋葱，**快速翻炒**至洋葱*变透明状*"
+    },
+    {
+      "kind": "step",
+      "description": "关小火，加入 250g 水（或出汁），开回大火加热**等待 3 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "加入牛肉和`调料`"
+    },
+    {
+      "kind": "step",
+      "description": "**不断翻动**所有食材 **10 分钟**，防止食材粘锅"
+    },
+    {
+      "kind": "step",
+      "description": "关火"
+    },
+    {
+      "kind": "step",
+      "description": "盛装肥牛丼至[米饭](../米饭/电饭煲蒸米饭.md)上（注意要把汁水淋一些在饭上）"
+    },
+    {
+      "kind": "step",
+      "description": "撒上葱花和白芝麻，制作完成。"
+    },
+    {
+      "kind": "section",
+      "title": "3.冷藏后加热",
+      "description": "### 3.冷藏后加热"
+    },
+    {
+      "kind": "note",
+      "description": "冷藏的牛丼每次取出需要吃的份量，加热后盖在[米饭](../米饭/电饭煲蒸米饭.md)上。"
+    },
+    {
+      "kind": "step",
+      "description": "微波炉：单人份高火 2-3 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "锅：需额外加 50ml 水，加热时需**不断翻动**"
+    }
+  ],
+  "operationMarkdown": "### 1. 食材准备\r\n\r\n1. 洋葱剥去外层去芯，切成月牙状\r\n2. 葱洗净切成 0.5cm 的小段\r\n3. 热锅直接放入白芝麻，**前后晃动锅体**使芝麻均匀受热至*略呈金黄色*\r\n4. 肥牛焯水 1 分钟后捞出\r\n5. 将 40g `味淋`（或 30g `料酒`），30g `酱油`，20g `耗油`，5g `糖`，5g `老抽`（可选，用于调色），在碗中搅拌混合成`调料`（该步骤可直接将碗放在电子秤上进行）\r\n\r\n### 2. 烧煮过程\r\n\r\n1. 热油锅放入洋葱，**快速翻炒**至洋葱*变透明状*\r\n2. 关小火，加入 250g 水（或出汁），开回大火加热**等待 3 分钟**\r\n3. 加入牛肉和`调料`\r\n4. **不断翻动**所有食材 **10 分钟**，防止食材粘锅\r\n5. 关火\r\n6. 盛装肥牛丼至[米饭](../米饭/电饭煲蒸米饭.md)上（注意要把汁水淋一些在饭上）\r\n7. 撒上葱花和白芝麻，制作完成。\r\n\r\n### 3.冷藏后加热\r\n\r\n冷藏的牛丼每次取出需要吃的份量，加热后盖在[米饭](../米饭/电饭煲蒸米饭.md)上。\r\n\r\n1. 微波炉：单人份高火 2-3 分钟\r\n2. 锅：需额外加 50ml 水，加热时需**不断翻动**",
+  "tips": "```shell\r\nstruct Staple{float 咸度;};\r\nstruct Staple 牛丼\r\n牛丼.咸度 = 尝一口汤汁;\r\nwhile(牛丼.咸度 < 预期) 加入(1 g)酱油; 牛丼.咸度 = 尝一口汤汁;\r\n```\r\n\r\n### 备注说明\r\n\r\n- 如果用的是比较不错的牛肉，可以选择不焯水，能够更加保留牛肉的风味，因为加入了味淋所以不会很腥，无需担心牛肉不熟，加热 10 分钟肯定熟了\r\n- 如果有条件，选择加入 15g`清酒`\r\n\r\n### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[处理肉，洋葱，葱花，白芝麻] --> B[开油锅, 炒熟洋葱]\r\n    B --> C[加水, 煮3分钟]\r\n    C --> D[加入牛肉和调料, 边搅拌边煮10分钟]\r\n    D --> E[盛装至碗中，撒上葱花和白芝麻]\r\n```\r\n\r\n### 成品\r\n\r\n![日式肥牛丼饭](./成品.png)\r\n\r\n### 参考资料\r\n\r\n- [河水洋洋实验室 【牛丼｜肥牛饭】吉野家牛肉饭的正宗做法](https://www.bilibili.com/video/BV1rK4y1d7Fk)\r\n- [夏叔厨房 60秒搞定神仙配方，好吃又下饭的肥牛饭！](https://www.bilibili.com/video/BV1xu4y1676X)\r\n\r\n---\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "```shell\r\nstruct Staple{float 咸度;};\r\nstruct Staple 牛丼\r\n牛丼.咸度 = 尝一口汤汁;\r\nwhile(牛丼.咸度 < 预期) 加入(1 g)酱油; 牛丼.咸度 = 尝一口汤汁;\r\n```\r\n\r\n### 备注说明\r\n\r\n- 如果用的是比较不错的牛肉，可以选择不焯水，能够更加保留牛肉的风味，因为加入了味淋所以不会很腥，无需担心牛肉不熟，加热 10 分钟肯定熟了\r\n- 如果有条件，选择加入 15g`清酒`\r\n\r\n### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[处理肉，洋葱，葱花，白芝麻] --> B[开油锅, 炒熟洋葱]\r\n    B --> C[加水, 煮3分钟]\r\n    C --> D[加入牛肉和调料, 边搅拌边煮10分钟]\r\n    D --> E[盛装至碗中，撒上葱花和白芝麻]\r\n```\r\n\r\n### 成品\r\n\r\n![日式肥牛丼饭](./成品.png)\r\n\r\n### 参考资料\r\n\r\n- [河水洋洋实验室 【牛丼｜肥牛饭】吉野家牛肉饭的正宗做法](https://www.bilibili.com/video/BV1rK4y1d7Fk)\r\n- [夏叔厨房 60秒搞定神仙配方，好吃又下饭的肥牛饭！](https://www.bilibili.com/video/BV1xu4y1676X)\r\n\r\n---\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/8f1a8456-4abc-4e8e-9023-b966b23b5810_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
+  },
+  "hash": "014f505286cabbb0f70e648129e1e50fc05898fea1d64e27f664a68eb9671e88"
+}

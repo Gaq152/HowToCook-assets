@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 2,
+  "id": "b9e1af90-06f0-4690-8ba4-d39fd5e55b55",
+  "legacyIds": [
+    "meat_dish_d2a7aa78"
+  ],
+  "name": "豉汁蒸白鱔",
+  "description": "豉汁蒸白鱔是一道粤式经典蒸菜，豆豉蒜蓉的酱香渗透进鱼肉，口感嫩滑鲜美。白鱔富含优质蛋白和多种不饱和脂肪酸，对身体有滋补作用。操作步骤清晰，但处理生鱼和掌握火候稍有挑战，适合有一定基础的厨友。从备料到上桌大约需要 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 472,
+  "requirements": [
+    {
+      "text": "白鱔（白鳝）",
+      "markdown": "白鱔（白鳝）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆豉",
+      "markdown": "豆豉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麻油",
+      "markdown": "麻油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉（可选）",
+      "markdown": "生粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红椒（可选，装饰用）",
+      "markdown": "红椒（可选，装饰用）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸锅或电蒸炉",
+      "markdown": "蒸锅或电蒸炉",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "耐热盘（适合蒸的盘子）",
+      "markdown": "耐热盘（适合蒸的盘子）",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "刀和砧板",
+      "markdown": "刀和砧板",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "小碗（调酱汁用）",
+      "markdown": "小碗（调酱汁用）",
+      "group": "工具",
+      "kind": "tool"
+    }
+  ],
+  "requirementsMarkdown": "- 白鱔（白鳝）\r\n- 豆豉\r\n- 蒜头\r\n- 姜\r\n- 葱\r\n- 生抽\r\n- 老抽\r\n- 糖\r\n- 麻油\r\n- 生粉（可选）\r\n- 红椒（可选，装饰用）\r\n\r\n### 工具\r\n\r\n- 蒸锅或电蒸炉\r\n- 耐热盘（适合蒸的盘子）\r\n- 刀和砧板\r\n- 小碗（调酱汁用）",
+  "ingredients": [
+    {
+      "name": "白鱔",
+      "text": "白鱔 250g （约一条小白鱔，已去内脏并切成段）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆豉",
+      "text": "豆豉 1 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 2 瓣 （剁碎）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 3 片 （切丝）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1 根 （切段或丝）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 1.5 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 0.5 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 0.5 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麻油",
+      "text": "麻油 0.5 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 1 茶匙 （可选，用于腌制）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 1 汤匙 （调酱汁）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红椒",
+      "text": "红椒 10g （切丝，装饰用）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "蒸锅或电蒸炉",
+    "耐热盘（适合蒸的盘子）",
+    "刀和砧板",
+    "小碗（调酱汁用）"
+  ],
+  "calculationMarkdown": "一人份量\r\n\r\n每份：\r\n\r\n- 白鱔 250g （约一条小白鱔，已去内脏并切成段）\r\n- 豆豉 1 汤匙\r\n- 蒜头 2 瓣 （剁碎）\r\n- 姜 3 片 （切丝）\r\n- 葱 1 根 （切段或丝）\r\n- 生抽 1.5 汤匙\r\n- 老抽 0.5 茶匙\r\n- 糖 0.5 茶匙\r\n- 麻油 0.5 茶匙\r\n- 生粉 1 茶匙 （可选，用于腌制）\r\n- 水 1 汤匙 （调酱汁）\r\n- 红椒 10g （切丝，装饰用）",
+  "calculationNotes": [
+    "一人份量",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "**检查与清洗白鱔**：\n - 购买时已请鱼贩去内脏、刮去黏液并切成约 5 厘米长的段。\n - 回家后检查白鱔，冲洗干净，确保无残留黏液或杂质。\n - 可选：用 3g 盐和 1 茶匙生粉轻搓白鱔段，腌制 5 分钟后冲洗干净，去腥并增加嫩滑口感。"
+    },
+    {
+      "kind": "step",
+      "description": "**准备酱汁**：\n - 在小碗中混合 1 汤匙豆豉、2 瓣蒜末、1.5 汤匙生抽、0.5 茶匙老抽、0.5 茶匙糖、0.5 茶匙麻油和 1 汤匙水，搅拌均匀。\n - 若喜欢更浓郁的豉汁，可多加 0.5 汤匙豆豉。"
+    },
+    {
+      "kind": "step",
+      "description": "**摆盘**：\n - 将已切好的白鱔段平铺在耐热盘中，尽量不重叠。\n - 将姜丝均匀撒在白鱔上。\n - 将调好的豉汁均匀淋在白鱔上。"
+    },
+    {
+      "kind": "step",
+      "description": "**蒸制**：\n - 在蒸锅或电蒸炉中加入水 (500ml)，烧开。\n - 将装有白鱔的盘子放入蒸锅，盖上锅盖。\n - 用中大火蒸约 8-10 分钟 （视白鱔段大小调整时间），至白鱔熟透但不过老 （肉质变白，无血水）。"
+    },
+    {
+      "kind": "step",
+      "description": "**装饰与完成**：\n - 蒸好后取出，撒上葱丝和红椒丝 （可选） 作装饰。\n - 可再淋热麻油提升香气。\n - 趁热上桌，搭配白饭享用。"
+    }
+  ],
+  "operationMarkdown": "1. **检查与清洗白鱔**：\r\n   - 购买时已请鱼贩去内脏、刮去黏液并切成约 5 厘米长的段。\r\n   - 回家后检查白鱔，冲洗干净，确保无残留黏液或杂质。\r\n   - 可选：用 3g 盐和 1 茶匙生粉轻搓白鱔段，腌制 5 分钟后冲洗干净，去腥并增加嫩滑口感。\r\n\r\n2. **准备酱汁**：\r\n   - 在小碗中混合 1 汤匙豆豉、2 瓣蒜末、1.5 汤匙生抽、0.5 茶匙老抽、0.5 茶匙糖、0.5 茶匙麻油和 1 汤匙水，搅拌均匀。\r\n   - 若喜欢更浓郁的豉汁，可多加 0.5 汤匙豆豉。\r\n\r\n3. **摆盘**：\r\n   - 将已切好的白鱔段平铺在耐热盘中，尽量不重叠。\r\n   - 将姜丝均匀撒在白鱔上。\r\n   - 将调好的豉汁均匀淋在白鱔上。\r\n\r\n4. **蒸制**：\r\n   - 在蒸锅或电蒸炉中加入水 (500ml)，烧开。\r\n   - 将装有白鱔的盘子放入蒸锅，盖上锅盖。\r\n   - 用中大火蒸约 8-10 分钟 （视白鱔段大小调整时间），至白鱔熟透但不过老 （肉质变白，无血水）。\r\n\r\n5. **装饰与完成**：\r\n   - 蒸好后取出，撒上葱丝和红椒丝 （可选） 作装饰。\r\n   - 可再淋热麻油提升香气。\r\n   - 趁热上桌，搭配白饭享用。",
+  "tips": "- **注意事项**：\r\n  - 确保白鱔新鲜，购买时选择活鱼，肉质更鲜嫩。\r\n  - 鱼贩切段时可指定长度 （约 5 厘米为宜），方便蒸制和食用。\r\n  - 蒸制时间不宜过长，以免白鱔肉质变韧。\r\n\r\n- **变种做法**：\r\n  - 可加入辣椒或 XO 酱，增加辣味和层次感。\r\n  - 若喜欢更软嫩的口感，可在腌制时加入米酒。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **注意事项**：\r\n  - 确保白鱔新鲜，购买时选择活鱼，肉质更鲜嫩。\r\n  - 鱼贩切段时可指定长度 （约 5 厘米为宜），方便蒸制和食用。\r\n  - 蒸制时间不宜过长，以免白鱔肉质变韧。\r\n\r\n- **变种做法**：\r\n  - 可加入辣椒或 XO 酱，增加辣味和层次感。\r\n  - 若喜欢更软嫩的口感，可在腌制时加入米酒。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/b9e1af90-06f0-4690-8ba4-d39fd5e55b55_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
+  },
+  "hash": "14eab7339bb08bee003f6d29a7e93ed88b6af63020036e3e8bef0e210cd6a8bf"
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "id": "f5bb3c5b-b901-45d5-aa0d-185c02b26f5f",
+  "legacyIds": [
+    "vegetable_dish_94504627"
+  ],
+  "name": "西红柿炒鸡蛋",
+  "description": "一道酸甜开胃的家常菜肴，嫩滑的鸡蛋裹着软烂多汁的西红柿，是中国家庭餐桌上的经典味道。鸡蛋提供优质蛋白质，西红柿富含维生素 C 和番茄红素，营养均衡好吸收。步骤简单，原材料易得，特别适合厨房新手入门，从头备菜到盛盘出锅大约只需 15 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 252,
+  "requirements": [
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖（可选）",
+      "markdown": "糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花（可选）",
+      "markdown": "葱花（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 西红柿\r\n* 鸡蛋\r\n* 食用油\r\n* 盐\r\n* 糖（可选）\r\n* 葱花（可选）",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "text": "西红柿 = 1 个（约 180g） * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 = 1.5 个 * 份数，向上取整",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 = 4ml * 鸡蛋/个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 1.5-2g * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 = 0-2g * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 = 0-10g * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n* 西红柿 = 1 个（约 180g） * 份数\r\n* 鸡蛋 = 1.5 个 * 份数，向上取整\r\n* 食用油 = 4ml * 鸡蛋/个\r\n* 盐 = 1.5-2g * 份数\r\n* 糖 = 0-2g * 份数\r\n* 葱花 = 0-10g * 份数",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "西红柿洗净"
+    },
+    {
+      "kind": "step",
+      "description": "可选：去掉西红柿的外表皮"
+    },
+    {
+      "kind": "step",
+      "description": "开水烫表皮，然后将西红柿放入冷水，剥去外皮"
+    },
+    {
+      "kind": "step",
+      "description": "西红柿去蒂，切成边长不超过 4cm 的小块，即为 `西红柿块`"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋打入碗中，加入 `1g * 份数` 的盐，搅匀，即为 `鸡蛋液`"
+    },
+    {
+      "kind": "step",
+      "description": "可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味，令鸡蛋更蓬松"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入食用油"
+    },
+    {
+      "kind": "step",
+      "description": "油热后，倒入 `鸡蛋液`。翻炒至鸡蛋结为固体且颜色微微发黄，即为 `半熟鸡蛋`"
+    },
+    {
+      "kind": "step",
+      "description": "关火。将 `半熟鸡蛋` 盛盘，重新开火"
+    },
+    {
+      "kind": "step",
+      "description": "注意：不要洗锅"
+    },
+    {
+      "kind": "step",
+      "description": "加入 `西红柿块`，锅铲拍打并翻炒 20 秒，或至西红柿软烂"
+    },
+    {
+      "kind": "step",
+      "description": "向锅中加入 `半熟鸡蛋`，翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "可以考虑加入 10ml 番茄酱和 50ml 清水，增加汤汁"
+    },
+    {
+      "kind": "step",
+      "description": "可以额外加入一些其它熟肉和材料"
+    },
+    {
+      "kind": "step",
+      "description": "加入剩余的盐、糖（可选，如果倾向于甜味版本）、葱花（可选），翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "关火，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 西红柿洗净\r\n2. 可选：去掉西红柿的外表皮\r\n\r\n  - 开水烫表皮，然后将西红柿放入冷水，剥去外皮\r\n\r\n3. 西红柿去蒂，切成边长不超过 4cm 的小块，即为 `西红柿块`\r\n4. 将鸡蛋打入碗中，加入 `1g * 份数` 的盐，搅匀，即为 `鸡蛋液`\r\n\r\n  - 可以考虑向鸡蛋中加入 1ml 醋，这可以去除腥味，令鸡蛋更蓬松\r\n\r\n5. 热锅，加入食用油\r\n6. 油热后，倒入 `鸡蛋液`。翻炒至鸡蛋结为固体且颜色微微发黄，即为 `半熟鸡蛋`\r\n7. 关火。将 `半熟鸡蛋` 盛盘，重新开火\r\n\r\n  - 注意：不要洗锅\r\n\r\n8. 加入 `西红柿块`，锅铲拍打并翻炒 20 秒，或至西红柿软烂\r\n9. 向锅中加入 `半熟鸡蛋`，翻炒均匀\r\n\r\n  - 可以考虑加入 10ml 番茄酱和 50ml 清水，增加汤汁\r\n  - 可以额外加入一些其它熟肉和材料\r\n\r\n10. 加入剩余的盐、糖（可选，如果倾向于甜味版本）、葱花（可选），翻炒均匀\r\n11. 关火，盛盘",
+  "tips": "这道菜根据不同的口味偏好，存在诸多版本，包括且不限于：\r\n\r\n* 快速做法：\r\n  - 直接在有`半熟鸡蛋`的锅中加入 `西红柿块`，与鸡蛋一起翻炒直至西红柿软烂\r\n  - 继续 第 10 步\r\n* 加入盐 改为 “加入两滴生抽”\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "这道菜根据不同的口味偏好，存在诸多版本，包括且不限于：\r\n\r\n* 快速做法：\r\n  - 直接在有`半熟鸡蛋`的锅中加入 `西红柿块`，与鸡蛋一起翻炒直至西红柿软烂\r\n  - 继续 第 10 步\r\n* 加入盐 改为 “加入两滴生抽”\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/西红柿炒鸡蛋.md"
+  },
+  "hash": "b12c9d330acad0ece5caaa1c276845d37dfe3b8c69d8b35a7f9e6abb2cfd0d7e"
+}

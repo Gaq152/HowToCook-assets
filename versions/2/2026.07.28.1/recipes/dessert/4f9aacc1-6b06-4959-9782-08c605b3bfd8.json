@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 2,
+  "id": "4f9aacc1-6b06-4959-9782-08c605b3bfd8",
+  "legacyIds": [
+    "dessert_cd984466"
+  ],
+  "name": "魔芋蛋糕",
+  "description": "魔芋蛋糕是一款低热量、无麸质的甜点，用赤藓糖醇代替白砂糖，口感轻盈湿润，带有可可香气，尤其适合减脂人群。它富含膳食纤维和蛋白质，饱腹感强。制作有一定难度，需要打发蛋白并注意翻拌手法，但整体耗时仅约半小时，算是快手健康的烘焙选择。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 234,
+  "requirements": [
+    {
+      "text": "烤箱",
+      "markdown": "烤箱",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "电动打蛋器",
+      "markdown": "电动打蛋器",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "金属蛋糕模具（形状任意）",
+      "markdown": "金属蛋糕模具（形状任意）",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "烘焙纸",
+      "markdown": "烘焙纸",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "餐刀（用于翻拌和抹平蛋糕糊）",
+      "markdown": "餐刀（用于翻拌和抹平蛋糕糊）",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "隔热手套",
+      "markdown": "隔热手套",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "[可选] 分蛋器",
+      "markdown": "[可选] 分蛋器",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "赤藓糖醇",
+      "markdown": "赤藓糖醇",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "可可粉",
+      "markdown": "可可粉",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "魔芋粉",
+      "markdown": "魔芋粉",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "塔塔粉",
+      "markdown": "塔塔粉",
+      "group": "原料",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "### 工具\r\n\r\n* 烤箱\r\n* 电动打蛋器\r\n* 金属蛋糕模具（形状任意）\r\n* 烘焙纸\r\n* 餐刀（用于翻拌和抹平蛋糕糊）\r\n* 隔热手套\r\n* [可选] 分蛋器\r\n\r\n### 原料\r\n\r\n* 鸡蛋\r\n* 赤藓糖醇\r\n* 可可粉\r\n* 魔芋粉\r\n* 塔塔粉",
+  "ingredients": [
+    {
+      "name": "3 个鸡蛋",
+      "text": "3 个鸡蛋",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "赤藓糖醇",
+      "text": "赤藓糖醇 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可可粉",
+      "text": "可可粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "魔芋粉",
+      "text": "魔芋粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "塔塔粉",
+      "text": "塔塔粉 1g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "烤箱",
+    "电动打蛋器",
+    "金属蛋糕模具（形状任意）",
+    "烘焙纸",
+    "餐刀（用于翻拌和抹平蛋糕糊）",
+    "隔热手套",
+    "[可选] 分蛋器"
+  ],
+  "calculationMarkdown": "每份（9.25 × 5 × 1 英寸）：\r\n\r\n* 3 个鸡蛋\r\n* 赤藓糖醇 50g\r\n* 可可粉 10g\r\n* 魔芋粉 10g\r\n* 塔塔粉 1g",
+  "calculationNotes": [
+    "每份（9.25 × 5 × 1 英寸）："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "预热烤箱",
+      "description": "### 预热烤箱"
+    },
+    {
+      "kind": "step",
+      "description": "在准备蛋糕糊之前，可以开始预热烤箱至 350 ℉( 150 ℃)以节省时间"
+    },
+    {
+      "kind": "section",
+      "title": "前期分离操作",
+      "description": "### 前期分离操作"
+    },
+    {
+      "kind": "step",
+      "description": "从冰箱中取出新鲜的鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "准备两个容器并擦干，分别盛放蛋清与蛋黄"
+    },
+    {
+      "kind": "step",
+      "description": "对盛放蛋清的容器，可稍有水珠，但**不能有任何油**；盛放蛋黄的容器不能有水珠"
+    },
+    {
+      "kind": "step",
+      "description": "打蛋，手工或利用分蛋器，将蛋清与蛋黄分离到两个容器中。"
+    },
+    {
+      "kind": "step",
+      "description": "分离过程中蛋黄不能破碎，**蛋清中不能混有任何蛋黄**，否则会严重影响打发。（白色系带可进入蛋清，不影响）"
+    },
+    {
+      "kind": "step",
+      "description": "（注意，不使用厨房机的情况下，盛放蛋清的容器也是打蛋的容器，为避免溢出，加入全部蛋清后不要超过容器的 **1/8**）"
+    },
+    {
+      "kind": "section",
+      "title": "打发蛋白",
+      "description": "### 打发蛋白"
+    },
+    {
+      "kind": "step",
+      "description": "蛋清中加入 1g 塔塔粉"
+    },
+    {
+      "kind": "step",
+      "description": "打蛋器高速，打发蛋白至*粗大气泡的状态*，加入 50g 赤藓糖醇"
+    },
+    {
+      "kind": "step",
+      "description": "打蛋器中低速，打发蛋白至*干性发泡*的状态（提起打蛋器头，有短小直立的尖角；倒扣容器，蛋白可粘住容器不掉下来）"
+    },
+    {
+      "kind": "step",
+      "description": "此时蛋白打发程度已符合要求"
+    },
+    {
+      "kind": "step",
+      "description": "打蛋器应尽量贴近容器底部，防止出现上面浮着的表层打发，底部仍然是液体的情况）"
+    },
+    {
+      "kind": "section",
+      "title": "混合其他原料",
+      "description": "### 混合其他原料"
+    },
+    {
+      "kind": "step",
+      "description": "把分离的蛋黄加入打发的蛋清中，打蛋器中低速搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "蛋清中加入 **10g 可可粉**和 **10g 魔芋粉**，先用餐刀翻拌，这是由于如果直接用打蛋器搅拌会造成粉末飞溅"
+    },
+    {
+      "kind": "step",
+      "description": "翻拌手法是"
+    },
+    {
+      "kind": "step",
+      "description": "先用右手拿刮刀从搅拌盆中心插入面糊底部"
+    },
+    {
+      "kind": "step",
+      "description": "向 8 点钟方向刮去直到碰到盆壁，顺势舀起面糊提到空中，然后再移回盆中心将面糊放入盆内"
+    },
+    {
+      "kind": "step",
+      "description": "左手握住搅拌盆从 9 点钟方向转到 7 点钟方向，刚好旋转了 60 度，就完成了 1 次循环"
+    },
+    {
+      "kind": "step",
+      "description": "速度大约是 1 秒钟 2 下"
+    },
+    {
+      "kind": "step",
+      "description": "此方法出自《小岛老师的蛋糕教室》。用接地气的话说就是，像炒菜一样翻炒。"
+    },
+    {
+      "kind": "step",
+      "description": "翻拌结束后，打蛋器低速搅拌均匀"
+    },
+    {
+      "kind": "section",
+      "title": "烘烤",
+      "description": "### 烘烤"
+    },
+    {
+      "kind": "step",
+      "description": "模具铺好烘焙纸，贴合底部与内壁"
+    },
+    {
+      "kind": "step",
+      "description": "将蛋糕糊倒入模具，然后用餐刀抹平，再然后震荡几下避免大气泡"
+    },
+    {
+      "kind": "step",
+      "description": "烘烤 25 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "烤好后，戴好隔热手套取出"
+    },
+    {
+      "kind": "section",
+      "title": "冷却与脱模",
+      "description": "### 冷却与脱模"
+    },
+    {
+      "kind": "step",
+      "description": "（可选） 将模具从高处落下，震出其中的热气"
+    },
+    {
+      "kind": "step",
+      "description": "模具倒扣 10 分钟，使蛋糕冷却"
+    },
+    {
+      "kind": "step",
+      "description": "没有冷却的蛋糕立刻脱模会损伤蛋糕"
+    },
+    {
+      "kind": "step",
+      "description": "此操作可能会**烫手**，注意戴好隔热手套"
+    },
+    {
+      "kind": "step",
+      "description": "脱模，餐刀切块食用"
+    }
+  ],
+  "operationMarkdown": "### 预热烤箱\r\n\r\n1. 在准备蛋糕糊之前，可以开始预热烤箱至 350 ℉( 150 ℃)以节省时间\r\n\r\n### 前期分离操作\r\n\r\n1. 从冰箱中取出新鲜的鸡蛋\r\n2. 准备两个容器并擦干，分别盛放蛋清与蛋黄\r\n3. 对盛放蛋清的容器，可稍有水珠，但**不能有任何油**；盛放蛋黄的容器不能有水珠\r\n4. 打蛋，手工或利用分蛋器，将蛋清与蛋黄分离到两个容器中。\r\n5. 分离过程中蛋黄不能破碎，**蛋清中不能混有任何蛋黄**，否则会严重影响打发。（白色系带可进入蛋清，不影响）\r\n6. （注意，不使用厨房机的情况下，盛放蛋清的容器也是打蛋的容器，为避免溢出，加入全部蛋清后不要超过容器的 **1/8**）\r\n\r\n### 打发蛋白\r\n\r\n1. 蛋清中加入 1g 塔塔粉\r\n2. 打蛋器高速，打发蛋白至*粗大气泡的状态*，加入 50g 赤藓糖醇\r\n3. 打蛋器中低速，打发蛋白至*干性发泡*的状态（提起打蛋器头，有短小直立的尖角；倒扣容器，蛋白可粘住容器不掉下来）\r\n4. 此时蛋白打发程度已符合要求\r\n\r\n  * 打蛋器应尽量贴近容器底部，防止出现上面浮着的表层打发，底部仍然是液体的情况）\r\n\r\n### 混合其他原料\r\n\r\n1. 把分离的蛋黄加入打发的蛋清中，打蛋器中低速搅拌均匀\r\n2. 蛋清中加入 **10g 可可粉**和 **10g 魔芋粉**，先用餐刀翻拌，这是由于如果直接用打蛋器搅拌会造成粉末飞溅\r\n3. 翻拌手法是\r\n\r\n  * 先用右手拿刮刀从搅拌盆中心插入面糊底部\r\n  * 向 8 点钟方向刮去直到碰到盆壁，顺势舀起面糊提到空中，然后再移回盆中心将面糊放入盆内\r\n  * 左手握住搅拌盆从 9 点钟方向转到 7 点钟方向，刚好旋转了 60 度，就完成了 1 次循环\r\n  * 速度大约是 1 秒钟 2 下\r\n  * 此方法出自《小岛老师的蛋糕教室》。用接地气的话说就是，像炒菜一样翻炒。\r\n\r\n4. 翻拌结束后，打蛋器低速搅拌均匀\r\n\r\n### 烘烤\r\n\r\n1. 模具铺好烘焙纸，贴合底部与内壁\r\n2. 将蛋糕糊倒入模具，然后用餐刀抹平，再然后震荡几下避免大气泡\r\n3. 烘烤 25 分钟\r\n4. 烤好后，戴好隔热手套取出\r\n\r\n### 冷却与脱模\r\n\r\n1. （可选） 将模具从高处落下，震出其中的热气\r\n2. 模具倒扣 10 分钟，使蛋糕冷却\r\n\r\n  * 没有冷却的蛋糕立刻脱模会损伤蛋糕\r\n  * 此操作可能会**烫手**，注意戴好隔热手套\r\n\r\n3. 脱模，餐刀切块食用",
+  "tips": "* 本食谱主要参考视频[Keto Konjac Chocolate Cake｜生酮蛋糕](https://youtu.be/gzXlOrGI54U)\r\n* 打发蛋白等部分大幅借鉴[戚风蛋糕](../戚风蛋糕/戚风蛋糕.md)制作流程\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 本食谱主要参考视频[Keto Konjac Chocolate Cake｜生酮蛋糕](https://youtu.be/gzXlOrGI54U)\r\n* 打发蛋白等部分大幅借鉴[戚风蛋糕](../戚风蛋糕/戚风蛋糕.md)制作流程\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
+  },
+  "hash": "c152e70f7aa7037fdc1eceb0881f0672e4e104746a6134f54cd7071b631c6aac"
+}

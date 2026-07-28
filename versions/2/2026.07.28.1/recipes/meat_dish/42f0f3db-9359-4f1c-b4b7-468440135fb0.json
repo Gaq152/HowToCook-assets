@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "id": "42f0f3db-9359-4f1c-b4b7-468440135fb0",
+  "legacyIds": [
+    "meat_dish_3f206910"
+  ],
+  "name": "芥末罗氏虾",
+  "description": "这道菜鲜香微辣，芥末风味浓郁，虾肉紧实弹嫩，是一道快手家常海鲜菜。虾本身富含优质蛋白和钙，脂肪含量低，搭配芥末开胃解腻。中等难度，只要按步骤调制碗汁、控制火候，新手也能较快上手，全程约需 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 579,
+  "requirements": [
+    {
+      "text": "罗氏虾",
+      "markdown": "罗氏虾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青芥末",
+      "markdown": "青芥末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣（不吃辣可不放或替换成红菜椒）",
+      "markdown": "小米辣（不吃辣可不放或替换成红菜椒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 罗氏虾\r\n- 蒜\r\n- 青芥末\r\n- 生抽\r\n- 生粉\r\n- 胡椒粉\r\n- 白糖\r\n- 蚝油\r\n- 盐\r\n- 小米辣（不吃辣可不放或替换成红菜椒）\r\n- 黄油\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "罗氏虾",
+      "text": "罗氏虾 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 1-2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青芥末",
+      "text": "青芥末 20g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 10g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 5g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 3g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g，用于碗汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 1-2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 80ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份（约 2 人份）：\r\n\r\n- 罗氏虾 250g\r\n- 蒜 1-2 个\r\n- 青芥末 20g，用于碗汁\r\n- 生粉 10g，用于碗汁\r\n- 生抽 30g，用于碗汁\r\n- 胡椒粉 5g，用于碗汁\r\n- 白糖 3g，用于碗汁\r\n- 蚝油 15g，用于碗汁\r\n- 盐 3g，用于碗汁\r\n- 小米辣 1-2 个\r\n- 黄油 20g\r\n- 食用油 80ml",
+  "calculationNotes": [
+    "每份（约 2 人份）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "**处理虾**：\n - 将虾从背部切开，去除虾线和沙袋，也可从腹部切开，炸出来会胀开，成菜比较漂亮\n - 用清水洗干净，控干水分后可拍上生粉，也可不拍"
+    },
+    {
+      "kind": "step",
+      "description": "**蒜蓉及碗汁处理**：\n - 将 2 颗大蒜切成蒜末\n - 准备碗汁，放入生抽、蚝油、白糖、胡椒粉、盐，依据个人口味挤入芥末，加清水稀释后加入生粉化开"
+    },
+    {
+      "kind": "step",
+      "description": "**炒制过程**：\n - 锅热倒入食用油，大概能覆盖锅底\n - 放入控干水分的罗氏虾，慢慢煎制\n - 虾油煎出来后（表现为锅中出现大量气泡），加入准备好的蒜蓉及小米辣\n - 闻到蒜蓉的香味后，加入黄油\n - 黄油融化后翻拌均匀，加入准备好的碗汁\n - 盖锅盖焖煮 2 分钟汤汁浓稠后出锅"
+    }
+  ],
+  "operationMarkdown": "1. **处理虾**：\r\n   - 将虾从背部切开，去除虾线和沙袋，也可从腹部切开，炸出来会胀开，成菜比较漂亮\r\n   - 用清水洗干净，控干水分后可拍上生粉，也可不拍\r\n\r\n2. **蒜蓉及碗汁处理**：\r\n   - 将 2 颗大蒜切成蒜末\r\n   - 准备碗汁，放入生抽、蚝油、白糖、胡椒粉、盐，依据个人口味挤入芥末，加清水稀释后加入生粉化开\r\n\r\n3. **炒制过程**：\r\n   - 锅热倒入食用油，大概能覆盖锅底\r\n   - 放入控干水分的罗氏虾，慢慢煎制\r\n   - 虾油煎出来后（表现为锅中出现大量气泡），加入准备好的蒜蓉及小米辣\r\n   - 闻到蒜蓉的香味后，加入黄油\r\n   - 黄油融化后翻拌均匀，加入准备好的碗汁\r\n   - 盖锅盖焖煮 2 分钟汤汁浓稠后出锅",
+  "tips": "- **注意事项**：\r\n  1. 黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **注意事项**：\r\n  1. 黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/42f0f3db-9359-4f1c-b4b7-468440135fb0_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md"
+  },
+  "hash": "1dd4e761db2e867a42cbda6bea750266b5ef72fe88ae4de47198bb98fd27cc73"
+}

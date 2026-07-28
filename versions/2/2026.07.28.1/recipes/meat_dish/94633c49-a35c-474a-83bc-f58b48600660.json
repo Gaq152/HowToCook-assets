@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "id": "94633c49-a35c-474a-83bc-f58b48600660",
+  "legacyIds": [
+    "meat_dish_681edd4d"
+  ],
+  "name": "豆豉鲮鱼油麦菜",
+  "description": "豆豉鲮鱼油麦菜是一道咸香下饭的快手家常小炒，源于粤式罐头菜肴，油麦菜清脆、鲮鱼酥香。荤素搭配，富含蛋白质和膳食纤维。做法简单，对新手十分友好，一般十五分钟即可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 416,
+  "requirements": [
+    {
+      "text": "油麦菜",
+      "markdown": "油麦菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "甘竹牌鲮鱼罐头",
+      "markdown": "甘竹牌鲮鱼罐头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 油麦菜\r\n- 甘竹牌鲮鱼罐头\r\n- 蒜\r\n- 生抽\r\n- 白糖\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "text": "油麦菜 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鲮鱼罐头",
+      "text": "鲮鱼罐头 1 罐（250g 上下）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份（约 2 人份）：\r\n\r\n- 油麦菜 500g\r\n- 鲮鱼罐头 1 罐（250g 上下）\r\n- 蒜 4 瓣\r\n- 生抽 20g\r\n- 白糖 3g\r\n- 食用油 15ml",
+  "calculationNotes": [
+    "每份（约 2 人份）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "**食材处理**：\n - 油麦菜洗净后切段\n - 鲮鱼罐头打开后，把鲮鱼主刺去除，切成小段后备用\n - 大蒜切成末"
+    },
+    {
+      "kind": "step",
+      "description": "**炒制过程**：\n - 锅热倒入食用油，油热后加入洗净的油麦菜，炒到萎蔫出水后盛出备用，倒掉炒制出的水分\n - 重新热锅后，加入鲮鱼罐头中的油，放入蒜末煸香\n - 蒜末煸香后加入鲮鱼罐头中的豆豉，翻拌后加入切碎的鲮鱼块，再次翻拌\n - 翻拌均匀后加入油麦菜，加入生抽和糖调味\n - 调味加入后简单翻拌即可出锅装盘"
+    }
+  ],
+  "operationMarkdown": "1. **食材处理**：\r\n   - 油麦菜洗净后切段\r\n   - 鲮鱼罐头打开后，把鲮鱼主刺去除，切成小段后备用\r\n   - 大蒜切成末\r\n\r\n2. **炒制过程**：\r\n   - 锅热倒入食用油，油热后加入洗净的油麦菜，炒到萎蔫出水后盛出备用，倒掉炒制出的水分\r\n   - 重新热锅后，加入鲮鱼罐头中的油，放入蒜末煸香\r\n   - 蒜末煸香后加入鲮鱼罐头中的豆豉，翻拌后加入切碎的鲮鱼块，再次翻拌\r\n   - 翻拌均匀后加入油麦菜，加入生抽和糖调味\r\n   - 调味加入后简单翻拌即可出锅装盘",
+  "tips": "- **注意事项**：\r\n  1. 鲮鱼罐头本身带味道，加入生抽后够味，无需下盐\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **注意事项**：\r\n  1. 鲮鱼罐头本身带味道，加入生抽后够味，无需下盐\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/94633c49-a35c-474a-83bc-f58b48600660_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"
+  },
+  "hash": "3b0f688404de893e958a2c9d951eea1e48ea74ed589a0f8bfcf8b168be6a2a9a"
+}

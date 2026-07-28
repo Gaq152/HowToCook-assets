@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 2,
+  "id": "dfd6d5ad-3402-4356-bcd0-07a1aa854b65",
+  "legacyIds": [],
+  "name": "青椒酿",
+  "description": "这道广西经典家常菜以青椒包裹调好味的肉馅或虾滑，煎至表皮起皱呈虎皮色后焖煮入味，青椒清香与馅料鲜美交融，咸香微辣，十分下饭。猪肉和虾仁提供优质蛋白质，青椒富含维生素 C，营养均衡。制作需要一点耐心酿馅，但整体流程清晰，跟着步骤操作一般 30 分钟就能完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1403,
+  "requirements": [
+    {
+      "text": "青椒（6-8 个，选笔直、肉厚的，不要用灯笼菜椒）",
+      "markdown": "青椒（6-8 个，选笔直、肉厚的，不要用灯笼菜椒）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉（250g，肥瘦比例 3:7 的前夹肉最佳）",
+      "markdown": "猪肉（250g，肥瘦比例 3:7 的前夹肉最佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱（2 根）",
+      "markdown": "葱（2 根）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜（1 小块）",
+      "markdown": "生姜（1 小块）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉（可选，涂青椒内壁防粘、勾芡收汁）",
+      "markdown": "淀粉（可选，涂青椒内壁防粘、勾芡收汁）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜（可选，3-4 瓣）",
+      "markdown": "大蒜（可选，3-4 瓣）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油（可选）",
+      "markdown": "蚝油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒（可选）",
+      "markdown": "料酒（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋（可选）",
+      "markdown": "鸡蛋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉（可选）",
+      "markdown": "白胡椒粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖（可选）",
+      "markdown": "白糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 青椒（6-8 个，选笔直、肉厚的，不要用灯笼菜椒）\r\n- 猪肉（250g，肥瘦比例 3:7 的前夹肉最佳）\r\n- 葱（2 根）\r\n- 生姜（1 小块）\r\n- 生抽\r\n- 老抽\r\n- 食盐\r\n- 食用油\r\n- 淀粉（可选，涂青椒内壁防粘、勾芡收汁）\r\n- 大蒜（可选，3-4 瓣）\r\n- 蚝油（可选）\r\n- 料酒（可选）\r\n- 鸡蛋（可选）\r\n- 白胡椒粉（可选）\r\n- 白糖（可选）",
+  "ingredients": [
+    {
+      "name": "青椒",
+      "text": "青椒 8 个（约 400g，选笔直肉厚的尖椒）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉馅",
+      "text": "猪肉馅 250g（肥瘦比例 3:7）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 2 根（约 30g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 1 小块（约 10g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30ml（其中 15ml 调馅，15ml 调酱汁）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10g（可选，其中 5g 涂青椒内壁、5g 水淀粉勾芡）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（可选，约 15g）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10ml（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10ml（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 2g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 青椒 8 个（约 400g，选笔直肉厚的尖椒）\r\n- 猪肉馅 250g（肥瘦比例 3:7）\r\n- 葱 2 根（约 30g）\r\n- 生姜 1 小块（约 10g）\r\n- 生抽 30ml（其中 15ml 调馅，15ml 调酱汁）\r\n- 老抽 5ml\r\n- 食盐 3g\r\n- 食用油 30ml\r\n- 淀粉 10g（可选，其中 5g 涂青椒内壁、5g 水淀粉勾芡）\r\n- 大蒜 4 瓣（可选，约 15g）\r\n- 蚝油 10ml（可选）\r\n- 料酒 10ml（可选）\r\n- 鸡蛋 1 个（可选）\r\n- 白胡椒粉 2g（可选）\r\n- 白糖 5g（可选）",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备馅料",
+      "description": "### 准备馅料"
+    },
+    {
+      "kind": "step",
+      "description": "猪肉洗净剁成肉馅（或用绞肉机），姜切末，葱切葱花"
+    },
+    {
+      "kind": "step",
+      "description": "肉馅中加入姜末、葱花、生抽 15ml、老抽 5ml、食盐 3g，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "可选加入：料酒 10ml、蚝油 10ml、鸡蛋 1 个、淀粉 5g、白胡椒粉 2g、白糖 5g"
+    },
+    {
+      "kind": "step",
+      "description": "朝一个方向搅拌肉馅至粘稠上劲，腌制 10 分钟"
+    },
+    {
+      "kind": "section",
+      "title": "处理青椒",
+      "description": "### 处理青椒"
+    },
+    {
+      "kind": "step",
+      "description": "青椒洗净，去蒂，用筷子小心挖去内部的籽和白筋，保持青椒完整不破"
+    },
+    {
+      "kind": "step",
+      "description": "可选在青椒内壁撒干淀粉约 5g，摇晃均匀，帮助肉馅粘附不脱落"
+    },
+    {
+      "kind": "section",
+      "title": "酿入肉馅",
+      "description": "### 酿入肉馅"
+    },
+    {
+      "kind": "step",
+      "description": "将腌好的肉馅用筷子或裱花袋塞入青椒中，尽量填满但不要太紧以防撑破"
+    },
+    {
+      "kind": "step",
+      "description": "全部酿好后备用"
+    },
+    {
+      "kind": "section",
+      "title": "调酱汁",
+      "description": "### 调酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "碗中加入生抽 15ml、老抽 5ml、清水 100ml，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "可选加入淀粉 5g，使汤汁更浓稠"
+    },
+    {
+      "kind": "section",
+      "title": "煎制焖煮",
+      "description": "### 煎制焖煮"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，倒入 30ml 食用油，油温五六成热时放入酿好的青椒（肉面朝下先煎）"
+    },
+    {
+      "kind": "step",
+      "description": "中小火慢煎，翻面使青椒各面都煎至表皮起皱呈虎皮色，盛出备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅留底油，可选放入蒜末爆香"
+    },
+    {
+      "kind": "step",
+      "description": "倒入调好的酱汁，烧开后放入煎好的青椒"
+    },
+    {
+      "kind": "step",
+      "description": "转中小火，盖上锅盖焖煮 5-8 分钟，至汤汁浓稠、青椒变软"
+    },
+    {
+      "kind": "step",
+      "description": "开盖大火收汁至汤汁油亮包裹青椒，即可出锅装盘"
+    },
+    {
+      "kind": "section",
+      "title": "虾滑 fork 版本",
+      "description": "### 虾滑 fork 版本"
+    },
+    {
+      "kind": "note",
+      "description": "虾滑酿青椒在广西也很常见，属于正统吃法，非邪修~"
+    },
+    {
+      "kind": "step",
+      "description": "虾仁 250g 去虾线，用刀背拍成虾泥（保留一定颗粒感，口感更好，直接买成品虾滑得了，买那种三角形的裱花一样直接塞进去）"
+    },
+    {
+      "kind": "step",
+      "description": "虾滑馅调味：姜末 5g、食盐 2g、淀粉 5g、生抽 10ml"
+    },
+    {
+      "kind": "step",
+      "description": "可选加入：料酒 5ml、白胡椒粉 1g、蛋清半个"
+    },
+    {
+      "kind": "step",
+      "description": "朝一个方向搅拌至虾滑上劲，腌制 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "后续酿入、煎制、焖煮步骤与猪肉版本一致"
+    },
+    {
+      "kind": "step",
+      "description": "虾滑易熟，焖煮时间可缩短至 4-5 分钟"
+    }
+  ],
+  "operationMarkdown": "### 准备馅料\r\n\r\n1. 猪肉洗净剁成肉馅（或用绞肉机），姜切末，葱切葱花\r\n2. 肉馅中加入姜末、葱花、生抽 15ml、老抽 5ml、食盐 3g，搅拌均匀\r\n3. 可选加入：料酒 10ml、蚝油 10ml、鸡蛋 1 个、淀粉 5g、白胡椒粉 2g、白糖 5g\r\n4. 朝一个方向搅拌肉馅至粘稠上劲，腌制 10 分钟\r\n\r\n### 处理青椒\r\n\r\n1. 青椒洗净，去蒂，用筷子小心挖去内部的籽和白筋，保持青椒完整不破\r\n2. 可选在青椒内壁撒干淀粉约 5g，摇晃均匀，帮助肉馅粘附不脱落\r\n\r\n### 酿入肉馅\r\n\r\n1. 将腌好的肉馅用筷子或裱花袋塞入青椒中，尽量填满但不要太紧以防撑破\r\n2. 全部酿好后备用\r\n\r\n### 调酱汁\r\n\r\n1. 碗中加入生抽 15ml、老抽 5ml、清水 100ml，搅拌均匀\r\n2. 可选加入淀粉 5g，使汤汁更浓稠\r\n\r\n### 煎制焖煮\r\n\r\n1. 热锅，倒入 30ml 食用油，油温五六成热时放入酿好的青椒（肉面朝下先煎）\r\n2. 中小火慢煎，翻面使青椒各面都煎至表皮起皱呈虎皮色，盛出备用\r\n3. 锅留底油，可选放入蒜末爆香\r\n4. 倒入调好的酱汁，烧开后放入煎好的青椒\r\n5. 转中小火，盖上锅盖焖煮 5-8 分钟，至汤汁浓稠、青椒变软\r\n6. 开盖大火收汁至汤汁油亮包裹青椒，即可出锅装盘\r\n\r\n### 虾滑 fork 版本\r\n\r\n![虾滑青椒酿](./虾滑青椒酿.jpeg)\r\n\r\n虾滑酿青椒在广西也很常见，属于正统吃法，非邪修~\r\n\r\n1. 虾仁 250g 去虾线，用刀背拍成虾泥（保留一定颗粒感，口感更好，直接买成品虾滑得了，买那种三角形的裱花一样直接塞进去）\r\n2. 虾滑馅调味：姜末 5g、食盐 2g、淀粉 5g、生抽 10ml\r\n3. 可选加入：料酒 5ml、白胡椒粉 1g、蛋清半个\r\n4. 朝一个方向搅拌至虾滑上劲，腌制 10 分钟\r\n5. 后续酿入、煎制、焖煮步骤与猪肉版本一致\r\n6. 虾滑易熟，焖煮时间可缩短至 4-5 分钟",
+  "tips": "- 青椒选笔直的比弯的好塞馅料，肉厚的尖椒比薄皮的口感更好\r\n- 馅料朝一个方向搅拌才能上劲，口感更 Q 弹\r\n- 青椒内壁涂干淀粉是防粘的关键，煎时肉馅不会脱落\r\n- 煎至虎皮色是风味来源，不要跳过\r\n- 酱汁可依个人口味调整，喜欢更辣的可加桂林辣椒酱\r\n- 虾滑和猪肉馅可以混合使用，比例随意，虾肉增加鲜甜，猪肉提供油脂香\r\n- 汤汁拌饭极佳，不要收太干\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 青椒选笔直的比弯的好塞馅料，肉厚的尖椒比薄皮的口感更好\r\n- 馅料朝一个方向搅拌才能上劲，口感更 Q 弹\r\n- 青椒内壁涂干淀粉是防粘的关键，煎时肉馅不会脱落\r\n- 煎至虎皮色是风味来源，不要跳过\r\n- 酱汁可依个人口味调整，喜欢更辣的可加桂林辣椒酱\r\n- 虾滑和猪肉馅可以混合使用，比例随意，虾肉增加鲜甜，猪肉提供油脂香\r\n- 汤汁拌饭极佳，不要收太干\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/dfd6d5ad-3402-4356-bcd0-07a1aa854b65_0.webp",
+    "images/meat_dish/dfd6d5ad-3402-4356-bcd0-07a1aa854b65_1.webp",
+    "images/meat_dish/dfd6d5ad-3402-4356-bcd0-07a1aa854b65_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/青椒酿/青椒酿.md"
+  },
+  "hash": "31b4b043b99a4003434b6ca3a0f175e44b04b640c03bab5cf7875f969b398d06"
+}

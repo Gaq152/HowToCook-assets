@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "id": "fc4fa08b-83ef-4598-9ae5-4f2576c9cabd",
+  "legacyIds": [
+    "staple_04eb8c97"
+  ],
+  "name": "披萨饼皮",
+  "description": "披萨饼皮采用低温隔夜发酵，成品饼底柔软又略带嚼劲，属于家常西式面点。主要提供碳水化合物和少量优质脂肪。制作流程简单，但需要耐心等待面团发酵，对新手也算友好。从准备到烘烤完成，算上隔夜冷藏时间大约需要 10-14 小时，适合提前一天备好。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 537,
+  "requirements": [
+    {
+      "text": "中筋面粉",
+      "markdown": "中筋面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水（温水）",
+      "markdown": "水（温水）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "安琪干酵母粉",
+      "markdown": "安琪干酵母粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "橄榄油",
+      "markdown": "橄榄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烤箱",
+      "markdown": "烤箱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烘焙油纸",
+      "markdown": "烘焙油纸",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "披萨石（有更好，没有普通烤盘也可以）",
+      "markdown": "披萨石（有更好，没有普通烤盘也可以）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "擀面杖（非必需）",
+      "markdown": "擀面杖（非必需）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "**原料**\r\n\r\n- 中筋面粉\r\n- 水（温水）\r\n- 安琪干酵母粉\r\n- 食用盐\r\n- 橄榄油\r\n- 白砂糖\r\n\r\n**工具**\r\n\r\n- 烤箱\r\n- 烘焙油纸\r\n- 披萨石（有更好，没有普通烤盘也可以）\r\n- 擀面杖（非必需）",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "text": "面粉 125g x 4= 500g，",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 70 x 5 = 350g，",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "橄榄油",
+      "text": "橄榄油 7 x 5 =35g，",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酵母粉",
+      "text": "酵母粉 1 x 5 = 5g，",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 0.6 x 5 = 3g，",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 0.6 x 5 = 3g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一个 8 ~ 9 寸的披萨差不多需要 125g 面粉，差不多是一个人的量（成年男性将将够吃的样子）\r\n\r\n原材料的混合比例\r\n\r\n```text\r\n面粉 : 水 : 橄榄油 : 酵母粉 : 盐  : 糖\r\n100 : 70 : 7     : 1     : 0.6 : 0.6\r\n```\r\n\r\n示例\r\n\r\n如果要一次做 4 个饼皮，需要:\r\n\r\n- 面粉 125g x 4= 500g，\r\n- 水 70 x 5 = 350g，\r\n- 橄榄油 7 x 5 =35g，\r\n- 酵母粉 1 x 5 = 5g，\r\n- 盐 0.6 x 5 = 3g，\r\n- 糖 0.6 x 5 = 3g",
+  "calculationNotes": [
+    "一个 8 ~ 9 寸的披萨差不多需要 125g 面粉，差不多是一个人的量（成年男性将将够吃的样子）",
+    "原材料的混合比例",
+    "```text\r\n面粉 : 水 : 橄榄油 : 酵母粉 : 盐  : 糖\r\n100 : 70 : 7     : 1     : 0.6 : 0.6\r\n```",
+    "示例",
+    "如果要一次做 4 个饼皮，需要:"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "用准备好的温水把酵母粉化开，稍微搅拌小就好，备用"
+    },
+    {
+      "kind": "step",
+      "description": "取准备好的面粉，依次添加盐、橄榄油、白砂糖"
+    },
+    {
+      "kind": "step",
+      "description": "准备混合水和面粉，边加水边搅拌直至水全部加完"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌至看不到干米粉为止"
+    },
+    {
+      "kind": "step",
+      "description": "用差不多三倍大面团的容器装好，密封，冰箱冷藏（4 度） **等待 8~12 小时，一般晚上做第二天就可以用**"
+    },
+    {
+      "kind": "step",
+      "description": "观察面团醒发完毕 **差不多是原始大小大约两倍算醒发完毕**"
+    },
+    {
+      "kind": "step",
+      "description": "取醒发好的面团，均匀分成四份，分别用保鲜膜盖好，备用"
+    },
+    {
+      "kind": "step",
+      "description": "案板撒稍微多一点的干面粉，准备开始揉面"
+    },
+    {
+      "kind": "step",
+      "description": "因为是比较湿的面团，所以粘上干面粉后才没那么粘手，不用揉太多次，面团表面稍微光滑一点就可以了"
+    },
+    {
+      "kind": "step",
+      "description": "用手拉扯，或者擀面杖擀平，也不一定非得擀圆，只要厚度均匀，烤箱放得进去就好"
+    },
+    {
+      "kind": "step",
+      "description": "铺好油纸，放上饼皮，依照个人口味，把准备好的食材放上去，撒上芝士碎"
+    },
+    {
+      "kind": "step",
+      "description": "水果烤箱上 180 度，下 220 度，16 分钟即可"
+    },
+    {
+      "kind": "step",
+      "description": "肉蔬菜烤箱上 200 度，下 230 度，18 分钟即可"
+    },
+    {
+      "kind": "step",
+      "description": "挤上沙拉酱或者其他自己喜欢的酱即可享用~"
+    }
+  ],
+  "operationMarkdown": "1. 用准备好的温水把酵母粉化开，稍微搅拌小就好，备用\r\n2. 取准备好的面粉，依次添加盐、橄榄油、白砂糖\r\n3. 准备混合水和面粉，边加水边搅拌直至水全部加完\r\n4. 搅拌至看不到干米粉为止\r\n5. 用差不多三倍大面团的容器装好，密封，冰箱冷藏（4 度） **等待 8~12 小时，一般晚上做第二天就可以用**\r\n6. 观察面团醒发完毕 **差不多是原始大小大约两倍算醒发完毕**\r\n7. 取醒发好的面团，均匀分成四份，分别用保鲜膜盖好，备用\r\n8. 案板撒稍微多一点的干面粉，准备开始揉面\r\n9. 因为是比较湿的面团，所以粘上干面粉后才没那么粘手，不用揉太多次，面团表面稍微光滑一点就可以了\r\n10. 用手拉扯，或者擀面杖擀平，也不一定非得擀圆，只要厚度均匀，烤箱放得进去就好\r\n11. 铺好油纸，放上饼皮，依照个人口味，把准备好的食材放上去，撒上芝士碎\r\n12. 水果烤箱上 180 度，下 220 度，16 分钟即可\r\n13. 肉蔬菜烤箱上 200 度，下 230 度，18 分钟即可\r\n14. 挤上沙拉酱或者其他自己喜欢的酱即可享用~",
+  "tips": "- 一定要注意水的比例\r\n- 烤箱品质层次不齐，第一次做注意观察火候对披萨的影响\r\n- 一般不特别标注是低筋或高筋面粉，基本都是中筋面粉\r\n- 容易出水的水果不能作为食材，比如西瓜、橘子等\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 一定要注意水的比例\r\n- 烤箱品质层次不齐，第一次做注意观察火候对披萨的影响\r\n- 一般不特别标注是低筋或高筋面粉，基本都是中筋面粉\r\n- 容易出水的水果不能作为食材，比如西瓜、橘子等\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/fc4fa08b-83ef-4598-9ae5-4f2576c9cabd_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/披萨饼皮/披萨饼皮.md"
+  },
+  "hash": "a6a536cf3245c978b99faaab15df0d7c05390f56a818dc5191f5e5de7f179d11"
+}

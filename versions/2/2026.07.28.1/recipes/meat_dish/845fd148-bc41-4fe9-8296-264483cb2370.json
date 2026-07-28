@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 2,
+  "id": "845fd148-bc41-4fe9-8296-264483cb2370",
+  "legacyIds": [
+    "meat_dish_0ef2a9ee"
+  ],
+  "name": "香干肉丝",
+  "description": "香干肉丝是一道咸香下饭的家常小炒，肉丝嫩滑，香干柔韧，青椒爽脆。富含动物性与植物性双重蛋白质，搭配青椒补充维生素。难度适中，新手稍加练习即可掌握，预计制作时长约 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 472,
+  "requirements": [
+    {
+      "text": "猪里脊（可以买超市切好且称重好的肉丝）",
+      "markdown": "猪里脊（可以买超市切好且称重好的肉丝）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香干",
+      "markdown": "香干",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 猪里脊（可以买超市切好且称重好的肉丝）\r\n* 香干\r\n* 盐\r\n* 生抽\r\n* 淀粉\r\n* 大蒜\r\n* 青椒\r\n* 鸡精",
+  "ingredients": [
+    {
+      "name": "香干",
+      "text": "香干 = 份数 * 75g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒的数量",
+      "text": "青椒的数量 = 份数 * 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉量",
+      "text": "肉量 = 份数 * 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐量",
+      "text": "盐量 = 份数 * 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 = 份数 * 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 = 份数 * 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 = 份数 * 5g（大约 3 个蒜瓣）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 = 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n* 香干 = 份数 * 75g\r\n* 青椒的数量 = 份数 * 5 个\r\n* 肉量 = 份数 * 100g\r\n* 盐量 = 份数 * 3g\r\n* 生抽 = 份数 * 5ml\r\n* 淀粉 = 份数 * 5g\r\n* 大蒜 = 份数 * 5g（大约 3 个蒜瓣）\r\n* 鸡精 = 2g\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备工作",
+      "description": "### 准备工作"
+    },
+    {
+      "kind": "step",
+      "description": "`肉丝`（没有肉丝，自己切）用生抽(3ml)，生粉混合均匀待用。"
+    },
+    {
+      "kind": "step",
+      "description": "将`青椒`洗净，再用`滚刀手法`切好备用。"
+    },
+    {
+      "kind": "step",
+      "description": "`大蒜`横切成片，`香干`切丝。"
+    },
+    {
+      "kind": "step",
+      "description": "`淀粉`与水(10ml)混合，搅拌均匀。"
+    },
+    {
+      "kind": "section",
+      "title": "起锅",
+      "description": "### 起锅"
+    },
+    {
+      "kind": "step",
+      "description": "干净锅 15ml 油，不用等油热就倒入肉丝慢慢划散，肉丝熟了，立马捞出，留油到锅里。"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜片和香干放入锅中，加入 2ml 生抽，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "2-3 分钟，看火大小，将青椒丝放入锅中混合，翻炒。"
+    },
+    {
+      "kind": "step",
+      "description": "1 分钟后，放入肉丝混合。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入淀粉与水的混合物勾芡，加入盐 3g，鸡精 2g，翻炒 2-3 分钟出锅。"
+    },
+    {
+      "kind": "step",
+      "description": "成品。"
+    },
+    {
+      "kind": "note",
+      "description": "注意，不同的锅具或者灶台，会影响翻炒的时间，建议，不确定是否熟了，可以试吃下。"
+    }
+  ],
+  "operationMarkdown": "### 准备工作\r\n\r\n1. `肉丝`（没有肉丝，自己切）用生抽(3ml)，生粉混合均匀待用。\r\n2. 将`青椒`洗净，再用`滚刀手法`切好备用。\r\n3. `大蒜`横切成片，`香干`切丝。\r\n4. `淀粉`与水(10ml)混合，搅拌均匀。\r\n\r\n### 起锅\r\n\r\n1. 干净锅 15ml 油，不用等油热就倒入肉丝慢慢划散，肉丝熟了，立马捞出，留油到锅里。\r\n2. 将蒜片和香干放入锅中，加入 2ml 生抽，翻炒均匀。\r\n3. 2-3 分钟，看火大小，将青椒丝放入锅中混合，翻炒。\r\n4. 1 分钟后，放入肉丝混合。\r\n5. 倒入淀粉与水的混合物勾芡，加入盐 3g，鸡精 2g，翻炒 2-3 分钟出锅。\r\n6. 成品。\r\n\r\n注意，不同的锅具或者灶台，会影响翻炒的时间，建议，不确定是否熟了，可以试吃下。",
+  "tips": "**辣椒选择青椒，螺丝椒为最优解，喜欢辣的可以加入小米椒切细碎，同青椒一起加入！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "**辣椒选择青椒，螺丝椒为最优解，喜欢辣的可以加入小米椒切细碎，同青椒一起加入！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/香干肉丝.md"
+  },
+  "hash": "801ce7c2f20852d678f25ec095a1a63f2a730522a6ea6600ab7d59480d219080"
+}

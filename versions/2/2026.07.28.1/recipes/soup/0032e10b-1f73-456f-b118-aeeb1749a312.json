@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "0032e10b-1f73-456f-b118-aeeb1749a312",
+  "legacyIds": [
+    "soup_b942dbb7"
+  ],
+  "name": "陈皮排骨汤",
+  "description": "这道汤品属于粤式老火靓汤，汤色清亮，入口甘润回香，带有陈皮的独特陈韵。排骨提供优质蛋白质和钙质，搭配陈皮、西洋参、石斛等食材，有助于理气健脾、滋阴润肺，适合长期熬夜或咽喉不适时饮用。整体操作不难，只需备好料、掌握炖煮时间，新手也能轻松完成。从备菜到出锅大约需要两小时。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 365,
+  "requirements": [
+    {
+      "text": "排骨",
+      "markdown": "排骨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "陈皮",
+      "markdown": "陈皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西洋参",
+      "markdown": "西洋参",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "石斛",
+      "markdown": "石斛",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉竹",
+      "markdown": "玉竹",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麦冬",
+      "markdown": "麦冬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "煲汤盅",
+      "markdown": "煲汤盅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 排骨\r\n* 陈皮\r\n* 西洋参\r\n* 石斛\r\n* 玉竹\r\n* 麦冬\r\n* 煲汤盅\r\n* 盐",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "text": "排骨，用猪骨也替代也可，4-5 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "陈皮（一般选用",
+      "text": "陈皮（一般选用 8-20 年制），一般 1 块陈皮是 3 瓣，取 1 瓣即可",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西洋参（又名花旗参）",
+      "text": "西洋参（又名花旗参），9 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "石斛",
+      "text": "石斛， 6 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉竹",
+      "text": "玉竹， 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麦冬",
+      "text": "麦冬， 7 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "煲汤盅",
+      "text": "煲汤盅，按 1 人份",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 ，5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 排骨，用猪骨也替代也可，4-5 块\r\n* 陈皮（一般选用 8-20 年制），一般 1 块陈皮是 3 瓣，取 1 瓣即可\r\n* 西洋参（又名花旗参），9 片\r\n* 石斛， 6 颗\r\n* 玉竹， 5 片\r\n* 麦冬， 7 个\r\n* 煲汤盅，按 1 人份\r\n* 食盐 ，5g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "备菜",
+      "description": "### 备菜"
+    },
+    {
+      "kind": "step",
+      "description": "排骨用热水过一边，去血水"
+    },
+    {
+      "kind": "step",
+      "description": "陈皮、麦冬、玉竹、石斛和西洋参，冲洗干净即可"
+    },
+    {
+      "kind": "step",
+      "description": "煲汤盅洗干净"
+    },
+    {
+      "kind": "section",
+      "title": "操作",
+      "description": "### 操作"
+    },
+    {
+      "kind": "step",
+      "description": "打开煲汤盅，先放入排骨在底部，然后依次放入陈皮、麦冬、玉竹、石斛和西洋参"
+    },
+    {
+      "kind": "step",
+      "description": "加入热水进煲汤盅，水不宜太满"
+    },
+    {
+      "kind": "step",
+      "description": "煲汤容器加入水，炖煮 1.5 小时即可"
+    },
+    {
+      "kind": "step",
+      "description": "加入食盐，趁热饮用"
+    }
+  ],
+  "operationMarkdown": "### 备菜\r\n\r\n1. 排骨用热水过一边，去血水\r\n2. 陈皮、麦冬、玉竹、石斛和西洋参，冲洗干净即可\r\n3. 煲汤盅洗干净\r\n\r\n### 操作\r\n\r\n1. 打开煲汤盅，先放入排骨在底部，然后依次放入陈皮、麦冬、玉竹、石斛和西洋参\r\n2. 加入热水进煲汤盅，水不宜太满\r\n3. 煲汤容器加入水，炖煮 1.5 小时即可\r\n4. 加入食盐，趁热饮用",
+  "tips": "煲汤盅很烫，拿的时候小心别烫到或者手滑摔破\r\n广东老火靓汤，讲究用料和火候，只要备好料和炖够一定时辰，就算大功告成！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "煲汤盅很烫，拿的时候小心别烫到或者手滑摔破\r\n广东老火靓汤，讲究用料和火候，只要备好料和炖够一定时辰，就算大功告成！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/soup/0032e10b-1f73-456f-b118-aeeb1749a312_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md"
+  },
+  "hash": "7b04de82829f1341778156b3cd40975954f99c0084e0e62f6c814cd8b13e49d8"
+}

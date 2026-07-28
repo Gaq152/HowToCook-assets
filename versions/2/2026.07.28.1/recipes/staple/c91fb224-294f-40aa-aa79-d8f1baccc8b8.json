@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 2,
+  "id": "c91fb224-294f-40aa-aa79-d8f1baccc8b8",
+  "legacyIds": [],
+  "name": "印度焖饭",
+  "description": "印度焖饭是源自莫卧儿帝国时期的皇家料理，米粒细长、香料气息浓郁，鸡肉嫩滑、米饭粒粒分明，层次丰富。富含蛋白质和多种香料精华，能提振食欲。制作步骤较繁琐，对新手不太友好，全程约需 90 分钟（鸡肉需提前腌制 1 小时）。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 730,
+  "requirements": [
+    {
+      "text": "巴斯马蒂长粒香米(Basmati Rice)",
+      "markdown": "巴斯马蒂长粒香米(Basmati Rice)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡腿肉（去骨，可用羊肉替代）",
+      "markdown": "鸡腿肉（去骨，可用羊肉替代）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酸奶",
+      "markdown": "酸奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "薄荷叶",
+      "markdown": "薄荷叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "藏红花(Saffron)— 可用食用黄色素替代",
+      "markdown": "藏红花(Saffron)— 可用食用黄色素替代",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酥油(Ghee)",
+      "markdown": "酥油(Ghee)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜黄粉",
+      "markdown": "姜黄粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉",
+      "markdown": "红辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度综合香料粉(Garam Masala)",
+      "markdown": "印度综合香料粉(Garam Masala)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "全香料：月桂叶、肉桂棒、小豆蔻、丁香、八角",
+      "markdown": "全香料：月桂叶、肉桂棒、小豆蔻、丁香、八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "厚底锅（带盖，密封用）",
+      "markdown": "厚底锅（带盖，密封用）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面团（封锅口用）",
+      "markdown": "面团（封锅口用）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 巴斯马蒂长粒香米(Basmati Rice)\r\n- 鸡腿肉（去骨，可用羊肉替代）\r\n- 酸奶\r\n- 洋葱\r\n- 番茄\r\n- 生姜\r\n- 大蒜\r\n- 青辣椒\r\n- 香菜\r\n- 薄荷叶\r\n- 藏红花(Saffron)— 可用食用黄色素替代\r\n- 牛奶\r\n- 酥油(Ghee)\r\n- 食用油\r\n- 姜黄粉\r\n- 红辣椒粉\r\n- 印度综合香料粉(Garam Masala)\r\n- 全香料：月桂叶、肉桂棒、小豆蔻、丁香、八角\r\n- 盐\r\n- 厚底锅（带盖，密封用）\r\n- 面团（封锅口用）",
+  "ingredients": [
+    {
+      "name": "鸡腿肉",
+      "text": "鸡腿肉 500g（去骨，切大块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸奶",
+      "text": "酸奶 100ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 15g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 6 瓣（约 18g），磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜黄粉",
+      "text": "姜黄粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度综合香料粉",
+      "text": "印度综合香料粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁",
+      "text": "柠檬汁 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "巴斯马蒂香米",
+      "text": "巴斯马蒂香米 300g（提前浸泡 30 分钟）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 2000ml（煮米用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "月桂叶",
+      "text": "月桂叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小豆蔻",
+      "text": "小豆蔻 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "丁香",
+      "text": "丁香 4 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉桂棒",
+      "text": "肉桂棒 1 根（约 5cm）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 1 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 3 个（约 300g），切薄片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 50ml（炸洋葱用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酥油",
+      "text": "酥油 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "藏红花",
+      "text": "藏红花 0.5g + 温牛奶 30ml（浸泡用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "薄荷叶",
+      "text": "薄荷叶 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 3 根，切缝",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。\r\n\r\n每份：\r\n\r\n**腌肉部分：**\r\n\r\n- 鸡腿肉 500g（去骨，切大块）\r\n- 酸奶 100ml\r\n- 生姜 15g，磨碎\r\n- 大蒜 6 瓣（约 18g），磨碎\r\n- 红辣椒粉 5g\r\n- 姜黄粉 3g\r\n- 印度综合香料粉 5g\r\n- 盐 5g\r\n- 柠檬汁 15ml\r\n\r\n**米饭部分：**\r\n\r\n- 巴斯马蒂香米 300g（提前浸泡 30 分钟）\r\n- 水 2000ml（煮米用）\r\n- 月桂叶 2 片\r\n- 小豆蔻 3 颗\r\n- 丁香 4 颗\r\n- 肉桂棒 1 根（约 5cm）\r\n- 八角 1 颗\r\n- 盐 10g\r\n\r\n**组装部分：**\r\n\r\n- 洋葱 3 个（约 300g），切薄片\r\n- 食用油 50ml（炸洋葱用）\r\n- 酥油 30g\r\n- 藏红花 0.5g + 温牛奶 30ml（浸泡用）\r\n- 薄荷叶 20g\r\n- 香菜叶 20g\r\n- 青辣椒 3 根，切缝",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。",
+    "每份：",
+    "**腌肉部分：**",
+    "**米饭部分：**",
+    "**组装部分：**"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "腌制鸡肉（提前 1 小时）",
+      "description": "### 腌制鸡肉（提前 1 小时）"
+    },
+    {
+      "kind": "step",
+      "description": "在大碗中混合酸奶、磨碎的生姜和大蒜、红辣椒粉、姜黄粉、印度综合香料粉、盐、柠檬汁"
+    },
+    {
+      "kind": "step",
+      "description": "放入鸡肉块，均匀裹上腌料"
+    },
+    {
+      "kind": "step",
+      "description": "盖保鲜膜，冷藏腌制**至少 1 小时**（过夜更佳）"
+    },
+    {
+      "kind": "section",
+      "title": "准备藏红花牛奶和炸洋葱",
+      "description": "### 准备藏红花牛奶和炸洋葱"
+    },
+    {
+      "kind": "step",
+      "description": "将藏红花 0.5g 放入 30ml 温牛奶中浸泡 **15 分钟**，备用"
+    },
+    {
+      "kind": "step",
+      "description": "在锅中倒入 50ml 食用油，中火加热"
+    },
+    {
+      "kind": "step",
+      "description": "放入洋葱薄片，翻炒至*深金棕色且酥脆*（约 12-15 分钟，需耐心）"
+    },
+    {
+      "kind": "step",
+      "description": "捞出炸洋葱，用厨房纸吸油，备用"
+    },
+    {
+      "kind": "section",
+      "title": "煮半熟米饭",
+      "description": "### 煮半熟米饭"
+    },
+    {
+      "kind": "step",
+      "description": "将浸泡好的巴斯马蒂香米沥干"
+    },
+    {
+      "kind": "step",
+      "description": "在大锅中烧开 2000ml 水"
+    },
+    {
+      "kind": "step",
+      "description": "加入月桂叶、小豆蔻、丁香、肉桂棒、八角和盐 10g"
+    },
+    {
+      "kind": "step",
+      "description": "放入米饭，大火煮 **5-6 分钟**，直至*米粒约七成熟*（外部软、芯部仍有硬度）"
+    },
+    {
+      "kind": "step",
+      "description": "立即沥干，丢弃全香料，备用"
+    },
+    {
+      "kind": "section",
+      "title": "组装与焖制",
+      "description": "### 组装与焖制"
+    },
+    {
+      "kind": "step",
+      "description": "在厚底锅底部涂抹酥油 15g"
+    },
+    {
+      "kind": "step",
+      "description": "第一层：将腌制好的鸡肉均匀铺在锅底"
+    },
+    {
+      "kind": "step",
+      "description": "第二层：铺上一半的半熟米饭"
+    },
+    {
+      "kind": "step",
+      "description": "撒上一半的炸洋葱、薄荷叶、香菜叶、青辣椒"
+    },
+    {
+      "kind": "step",
+      "description": "第三层：铺上剩余的米饭"
+    },
+    {
+      "kind": "step",
+      "description": "撒上剩余的炸洋葱、薄荷叶、香菜叶"
+    },
+    {
+      "kind": "step",
+      "description": "将藏红花牛奶均匀淋在最上层米饭表面"
+    },
+    {
+      "kind": "step",
+      "description": "放上剩余的酥油 15g（切小块散放）"
+    },
+    {
+      "kind": "step",
+      "description": "**密封锅盖**：用面粉加水和成面团条，沿锅口边缘封住缝隙（传统方法），或用锡纸包裹锅口再盖锅盖"
+    },
+    {
+      "kind": "step",
+      "description": "先用大火加热 **3 分钟**，直至锅内开始冒蒸汽"
+    },
+    {
+      "kind": "step",
+      "description": "然后转最小火，**焖 25-30 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "关火后**不要开盖**，再焖 **5 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "开盖，用大铲子从底部轻轻翻拌，使各层混合均匀"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘，搭配酸奶(Raita)食用"
+    }
+  ],
+  "operationMarkdown": "### 腌制鸡肉（提前 1 小时）\r\n\r\n1. 在大碗中混合酸奶、磨碎的生姜和大蒜、红辣椒粉、姜黄粉、印度综合香料粉、盐、柠檬汁\r\n2. 放入鸡肉块，均匀裹上腌料\r\n3. 盖保鲜膜，冷藏腌制**至少 1 小时**（过夜更佳）\r\n\r\n### 准备藏红花牛奶和炸洋葱\r\n\r\n1. 将藏红花 0.5g 放入 30ml 温牛奶中浸泡 **15 分钟**，备用\r\n2. 在锅中倒入 50ml 食用油，中火加热\r\n3. 放入洋葱薄片，翻炒至*深金棕色且酥脆*（约 12-15 分钟，需耐心）\r\n4. 捞出炸洋葱，用厨房纸吸油，备用\r\n\r\n### 煮半熟米饭\r\n\r\n1. 将浸泡好的巴斯马蒂香米沥干\r\n2. 在大锅中烧开 2000ml 水\r\n3. 加入月桂叶、小豆蔻、丁香、肉桂棒、八角和盐 10g\r\n4. 放入米饭，大火煮 **5-6 分钟**，直至*米粒约七成熟*（外部软、芯部仍有硬度）\r\n5. 立即沥干，丢弃全香料，备用\r\n\r\n### 组装与焖制\r\n\r\n1. 在厚底锅底部涂抹酥油 15g\r\n2. 第一层：将腌制好的鸡肉均匀铺在锅底\r\n3. 第二层：铺上一半的半熟米饭\r\n4. 撒上一半的炸洋葱、薄荷叶、香菜叶、青辣椒\r\n5. 第三层：铺上剩余的米饭\r\n6. 撒上剩余的炸洋葱、薄荷叶、香菜叶\r\n7. 将藏红花牛奶均匀淋在最上层米饭表面\r\n8. 放上剩余的酥油 15g（切小块散放）\r\n9. **密封锅盖**：用面粉加水和成面团条，沿锅口边缘封住缝隙（传统方法），或用锡纸包裹锅口再盖锅盖\r\n10. 先用大火加热 **3 分钟**，直至锅内开始冒蒸汽\r\n11. 然后转最小火，**焖 25-30 分钟**\r\n12. 关火后**不要开盖**，再焖 **5 分钟**\r\n13. 开盖，用大铲子从底部轻轻翻拌，使各层混合均匀\r\n14. 盛盘，搭配酸奶(Raita)食用",
+  "tips": "- 巴斯马蒂香米是制作 Biryani 的必备原料，普通大米无法替代其独特的长粒香气。中国各大电商平台均有售。\r\n- 密封焖制(Dum)是这道菜的精髓，蒸汽不能泄漏，否则米饭会干燥。\r\n- 米饭只能煮到七成熟，因为焖制过程中会继续吸水变熟。煮过头会导致最终成品米饭糊烂。\r\n- 印度焖饭(Biryani)的两大流派：海得拉巴(Hyderabadi)式用生肉铺底焖制，勒克瑙(Lucknowi)式先将肉煮熟再与米饭组装。本食谱采用的是最常见的混合做法。\r\n- 此菜在印度是婚礼和节日的必备菜品，被誉为\"印度的国菜\"。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 巴斯马蒂香米是制作 Biryani 的必备原料，普通大米无法替代其独特的长粒香气。中国各大电商平台均有售。\r\n- 密封焖制(Dum)是这道菜的精髓，蒸汽不能泄漏，否则米饭会干燥。\r\n- 米饭只能煮到七成熟，因为焖制过程中会继续吸水变熟。煮过头会导致最终成品米饭糊烂。\r\n- 印度焖饭(Biryani)的两大流派：海得拉巴(Hyderabadi)式用生肉铺底焖制，勒克瑙(Lucknowi)式先将肉煮熟再与米饭组装。本食谱采用的是最常见的混合做法。\r\n- 此菜在印度是婚礼和节日的必备菜品，被誉为\"印度的国菜\"。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/印度焖饭.md"
+  },
+  "hash": "d400ac3c63fb3665b66573d6684a789c0e0dbe96a512f5e1ca1a22ec9fcffb32"
+}

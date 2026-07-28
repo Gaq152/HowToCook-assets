@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 2,
+  "id": "1d1cd427-2060-4c0e-8470-16bb6bd2e17f",
+  "legacyIds": [
+    "vegetable_dish_dc28d501"
+  ],
+  "name": "蒸箱鸡蛋羹",
+  "description": "这是一道利用蒸箱快速制作的嫩滑家常蛋羹，口感可调，水少则弹、水多则嫩。富含优质蛋白质和多种营养素，易于消化吸收。难度适中，新手稍加注意即可掌握，从准备到出锅大约只需 15 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 118,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽（可选）",
+      "markdown": "生抽（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸箱",
+      "markdown": "蒸箱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 食用盐\r\n- 食用油\r\n- 生抽（可选）\r\n- 蒸箱",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽 / 味极鲜",
+      "text": "生抽 / 味极鲜 6ml（可选调味）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 人的份量：\r\n\r\n- 鸡蛋 1 个\r\n- 食用盐 1g\r\n- 食用油 5ml\r\n- 生抽 / 味极鲜 6ml（可选调味）",
+  "calculationNotes": [
+    "按照 1 人的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "一个鸡蛋放入碗中打散"
+    },
+    {
+      "kind": "step",
+      "description": "向碗中加入鸡蛋体积 1.0-1.5 倍 60 度纯净水，并且搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "正确范围内水越少弹，水越多越嫩"
+    },
+    {
+      "kind": "step",
+      "description": "注意：超出范围后，水越少会口感变得太弹，水越多会变得太稀"
+    },
+    {
+      "kind": "step",
+      "description": "加入食用盐 1g"
+    },
+    {
+      "kind": "step",
+      "description": "盐起到了重要的增加底味和凝固作用"
+    },
+    {
+      "kind": "step",
+      "description": "加入食用油 5ml"
+    },
+    {
+      "kind": "step",
+      "description": "过滤蛋液，去掉蛋液中的浮沫（可选，不过滤蒸出来的蛋会有气泡导致不好看）"
+    },
+    {
+      "kind": "step",
+      "description": "确认蒸箱的水源已经补充至足够（若不确定，可把水槽补满）"
+    },
+    {
+      "kind": "step",
+      "description": "将已经完全搅拌均匀的鸡蛋液碗放入蒸箱"
+    },
+    {
+      "kind": "step",
+      "description": "调节至**100摄氏度**蒸 **10 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "打开蒸箱 （注意：蒸箱在开启时会有蒸气瞬间喷出，注意缓慢开启）"
+    },
+    {
+      "kind": "step",
+      "description": "出锅（可加入生抽调味）"
+    },
+    {
+      "kind": "step",
+      "description": "享用"
+    }
+  ],
+  "operationMarkdown": "1. 一个鸡蛋放入碗中打散\r\n2. 向碗中加入鸡蛋体积 1.0-1.5 倍 60 度纯净水，并且搅拌均匀\r\n\r\n  - 正确范围内水越少弹，水越多越嫩\r\n  - 注意：超出范围后，水越少会口感变得太弹，水越多会变得太稀\r\n\r\n3. 加入食用盐 1g\r\n\r\n  - 盐起到了重要的增加底味和凝固作用\r\n\r\n4. 加入食用油 5ml\r\n5. 过滤蛋液，去掉蛋液中的浮沫（可选，不过滤蒸出来的蛋会有气泡导致不好看）\r\n6. 确认蒸箱的水源已经补充至足够（若不确定，可把水槽补满）\r\n7. 将已经完全搅拌均匀的鸡蛋液碗放入蒸箱\r\n8. 调节至**100摄氏度**蒸 **10 分钟**\r\n9. 打开蒸箱 （注意：蒸箱在开启时会有蒸气瞬间喷出，注意缓慢开启）\r\n10. 出锅（可加入生抽调味）\r\n11. 享用",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
+  },
+  "hash": "c8c235e62d16bceac46ba017b6e9de9304b15e14beaf602a98a46f057c6d88a4"
+}

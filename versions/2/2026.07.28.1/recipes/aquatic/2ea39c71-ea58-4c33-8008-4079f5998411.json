@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "id": "2ea39c71-ea58-4c33-8008-4079f5998411",
+  "legacyIds": [
+    "aquatic_5603da82"
+  ],
+  "name": "芥末黄油罗氏虾",
+  "description": "![芥末黄油罗氏虾](./芥末黄油罗氏虾.jpg)\n这道菜以黄油与芥末的奇妙搭配为亮点，虾肉紧实弹嫩，酱汁浓郁辛香，是一道新派海鲜菜肴。虾肉富含优质蛋白和多种微量元素，营养均衡。制作难度适中，只要提前备好料、控制火候，新手也能成功。从处理活虾到出锅，大约需要 30 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 637,
+  "requirements": [
+    {
+      "text": "罗氏虾",
+      "markdown": "罗氏虾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芥末",
+      "markdown": "芥末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒、朗姆酒或啤酒",
+      "markdown": "料酒、朗姆酒或啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 罗氏虾\r\n* 黄油\r\n* 芥末\r\n* 白糖\r\n* 生抽\r\n* 蚝油\r\n* 盐\r\n* 料酒、朗姆酒或啤酒\r\n* 香菜\r\n* 蒜",
+  "ingredients": [
+    {
+      "name": "罗氏虾",
+      "text": "罗氏虾 1 斤多 广东市场价大概 40~45 一斤",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油 约",
+      "text": "黄油 约 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芥末",
+      "text": "芥末 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒、朗姆酒或啤酒",
+      "text": "料酒、朗姆酒或啤酒 15g 到 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 5 条 切段",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 5 颗 剁成蒜蓉",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 盘的份量：\r\n\r\n* 罗氏虾 1 斤多  广东市场价大概 40~45 一斤\r\n* 黄油 约 20g\r\n* 芥末 15g\r\n* 白糖 3g\r\n* 生抽 30g\r\n* 蚝油 30g\r\n* 盐 3g\r\n* 料酒、朗姆酒或啤酒 15g 到 30g\r\n* 香菜 5 条 切段\r\n* 蒜 5 颗 剁成蒜蓉",
+  "calculationNotes": [
+    "按照 1 盘的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将罗氏虾剪掉头尾尖刺、触须和脚，剪刀把虾身开背，去除虾线。"
+    },
+    {
+      "kind": "step",
+      "description": "提前搅拌好芥末酱汁：酱油、蚝油、芥末、盐、糖，搅拌均匀！"
+    },
+    {
+      "kind": "step",
+      "description": "洗好香菜，切段备用。"
+    },
+    {
+      "kind": "step",
+      "description": "罗氏虾沥干水，锅中加入油，直接放入罗氏虾，中火，外表煎至金黄，捞出。"
+    },
+    {
+      "kind": "step",
+      "description": "下入蒜蓉，大火，利用煎虾剩下的油继续煎炒蒜蓉，等到锅中白雾冒出，蒜蓉已经煎出香味，下虾和黄油，让虾充分吸收黄油香味"
+    },
+    {
+      "kind": "step",
+      "description": "下入调好的酱汁，继续大火煮沸，翻炒虾，至酱汁收汁，加入酒（料酒、啤酒可以放 30g，朗姆酒味道浓郁放 15g 即可。）"
+    },
+    {
+      "kind": "step",
+      "description": "在等酱汁稍微收汁，加入香菜翻炒两下，即可出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 将罗氏虾剪掉头尾尖刺、触须和脚，剪刀把虾身开背，去除虾线。\r\n2. 提前搅拌好芥末酱汁：酱油、蚝油、芥末、盐、糖，搅拌均匀！\r\n3. 洗好香菜，切段备用。\r\n4. 罗氏虾沥干水，锅中加入油，直接放入罗氏虾，中火，外表煎至金黄，捞出。\r\n5. 下入蒜蓉，大火，利用煎虾剩下的油继续煎炒蒜蓉，等到锅中白雾冒出，蒜蓉已经煎出香味，下虾和黄油，让虾充分吸收黄油香味\r\n6. 下入调好的酱汁，继续大火煮沸，翻炒虾，至酱汁收汁，加入酒（料酒、啤酒可以放 30g，朗姆酒味道浓郁放 15g 即可。）\r\n7. 在等酱汁稍微收汁，加入香菜翻炒两下，即可出锅。",
+  "tips": "* 酱汁提前调配好，黄油提前备好，防止中间备料耗时。\r\n* 蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑，发苦。\r\n* 如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 酱汁提前调配好，黄油提前备好，防止中间备料耗时。\r\n* 蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑，发苦。\r\n* 如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/2ea39c71-ea58-4c33-8008-4079f5998411_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
+  },
+  "hash": "3f51af8da0ddc6e8af64691cb8ae0cbdb9f0477b3f13e9f01ed05880ae8485e5"
+}

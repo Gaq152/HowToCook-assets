@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "id": "8fd5c09e-094a-4e1f-9489-52f3b17e08f3",
+  "legacyIds": [
+    "condiment_3b554f0d"
+  ],
+  "name": "油泼辣子",
+  "description": "一道香辣扑鼻的陕西风味调味料，红油润泽，芝麻蒜香交织，入口辣而不燥、回味绵长。辣椒富含维生素 C 与辣椒素，能增进食欲、暖身驱寒。制作过程需掌握油温，对新手稍有挑战，但按部就班即可成功。全程约 10 分钟完成，是家常拌菜拌面的点睛之笔。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1854,
+  "requirements": [
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒面",
+      "markdown": "干辣椒面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "熟白芝麻",
+      "markdown": "熟白芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生油（可用菜籽油替换）",
+      "markdown": "花生油（可用菜籽油替换）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "家庭小陶瓷碗",
+      "markdown": "家庭小陶瓷碗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "家庭铁勺子",
+      "markdown": "家庭铁勺子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉 （可选）",
+      "markdown": "五香粉 （可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "草寇（可选）",
+      "markdown": "草寇（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱 （可选）",
+      "markdown": "小葱 （可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芷",
+      "markdown": "白芷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜片（可选）",
+      "markdown": "姜片（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白醋",
+      "markdown": "白醋",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 蒜头\r\n- 干辣椒面\r\n- 盐\r\n- 熟白芝麻\r\n- 小米椒\r\n- 花生油（可用菜籽油替换）\r\n- 家庭小陶瓷碗\r\n- 家庭铁勺子\r\n- 五香粉 （可选）\r\n- 草寇（可选）\r\n- 小葱 （可选）\r\n- 八角\r\n- 花椒\r\n- 香叶\r\n- 白芷\r\n- 姜片（可选）\r\n- 糖\r\n- 白醋",
+  "ingredients": [
+    {
+      "name": "蒜头",
+      "text": "蒜头 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒面",
+      "text": "干辣椒面 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "熟白芝麻",
+      "text": "熟白芝麻 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生油",
+      "text": "花生油 150 毫升 （可用菜籽油替换）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 10 克（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "草寇",
+      "text": "草寇 1 个（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 3-5 根（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "其他配料",
+      "text": "其他配料：八角(1)、花椒（20-50 粒都可，看个人口味）、香叶（2-3 片）、白芷（2-3 片）、姜片（大拇指粗细的姜切片）（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白醋",
+      "text": "白醋 5 ml（大概就是小铁勺子的量）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 蒜头 1 个\r\n- 干辣椒面 100 克\r\n- 盐 5 克\r\n- 熟白芝麻 15 克\r\n- 小米椒 1 个\r\n- 花生油 150 毫升 （可用菜籽油替换）\r\n- 五香粉 10 克（可选）\r\n- 草寇 1 个（可选）\r\n- 小葱 3-5 根（可选）\r\n- 其他配料：八角(1)、花椒（20-50 粒都可，看个人口味）、香叶（2-3 片）、白芷（2-3 片）、姜片（大拇指粗细的姜切片）（可选）\r\n- 糖 30 克\r\n- 白醋 5 ml（大概就是小铁勺子的量）",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "拿出蒜头掰 2 个`小蒜头`去皮"
+    },
+    {
+      "kind": "step",
+      "description": "拿出砧板剁碎`小蒜头`、`小米椒`"
+    },
+    {
+      "kind": "step",
+      "description": "拿出碗倒入`花生油`"
+    },
+    {
+      "kind": "step",
+      "description": "油热放入`其他配料`和`小葱`,等到香料变焦，捞出扔掉"
+    },
+    {
+      "kind": "step",
+      "description": "拿出铁锅将碗内的油放入加热 2 分钟（菜籽油烧至冒烟）"
+    },
+    {
+      "kind": "step",
+      "description": "此时是空碗"
+    },
+    {
+      "kind": "step",
+      "description": "往空碗加入`干辣椒面`、`白芝麻`、`蒜末`、`小米椒`、`盐`、`五香粉`、`草寇`作为\"调料\""
+    },
+    {
+      "kind": "step",
+      "description": "关火将油温冷却至 `210` 摄氏度"
+    },
+    {
+      "kind": "step",
+      "description": "将锅内热油倒入碗内并用勺子搅拌即可（可以在 `165` 摄氏度时加入同样\"调料\"的碗最后进行混合进行增辣）"
+    },
+    {
+      "kind": "step",
+      "description": "倒入热油稍微搅拌后放入白醋，此时会重新沸腾。继续进行搅拌，白醋增香。"
+    },
+    {
+      "kind": "step",
+      "description": "油泼辣子冷却到温热放白糖和味精，白糖可以使辣味柔和，不会那么地呛口"
+    }
+  ],
+  "operationMarkdown": "1. 拿出蒜头掰 2 个`小蒜头`去皮\r\n2. 拿出砧板剁碎`小蒜头`、`小米椒`\r\n3. 拿出碗倒入`花生油`\r\n4. 油热放入`其他配料`和`小葱`,等到香料变焦，捞出扔掉\r\n5. 拿出铁锅将碗内的油放入加热 2 分钟（菜籽油烧至冒烟）\r\n6. 此时是空碗\r\n7. 往空碗加入`干辣椒面`、`白芝麻`、`蒜末`、`小米椒`、`盐`、`五香粉`、`草寇`作为\"调料\"\r\n8. 关火将油温冷却至 `210` 摄氏度\r\n9. 将锅内热油倒入碗内并用勺子搅拌即可（可以在 `165` 摄氏度时加入同样\"调料\"的碗最后进行混合进行增辣）\r\n10. 倒入热油稍微搅拌后放入白醋，此时会重新沸腾。继续进行搅拌，白醋增香。\r\n11. 油泼辣子冷却到温热放白糖和味精，白糖可以使辣味柔和，不会那么地呛口",
+  "tips": "- 五香粉、草寇作为\"调料\"加入，可以增加香味，使油泼辣子更香\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 五香粉、草寇作为\"调料\"加入，可以增加香味，使油泼辣子更香\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/condiment/8fd5c09e-094a-4e1f-9489-52f3b17e08f3_0.webp",
+    "images/condiment/8fd5c09e-094a-4e1f-9489-52f3b17e08f3_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/油泼辣子/油泼辣子.md"
+  },
+  "hash": "71a8983f65dfed60ba29dfe03b3a6dcd923f06d1f12fe46ff39a92d2d5ab00ab"
+}

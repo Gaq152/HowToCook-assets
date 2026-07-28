@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "4912af52-7a01-45cc-a4d6-08c7b9e40460",
+  "legacyIds": [
+    "soup_6d327a99"
+  ],
+  "name": "羊肉汤",
+  "description": "羊肉汤是一道家常暖身汤品，汤色乳白，肉质鲜嫩，带有大葱和白胡椒的清香与微辛。富含蛋白质、钙、铁等营养成分，有温补脾胃、抵御寒冷的功效。制作步骤简单，新手也能轻松掌握，整个烹饪过程大约需要 30 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 599,
+  "requirements": [
+    {
+      "text": "羊肉或羊杂",
+      "markdown": "羊肉或羊杂",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉（可选）",
+      "markdown": "孜然粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜（可选）",
+      "markdown": "香菜（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 羊肉或羊杂\r\n- 食用油\r\n- 料酒\r\n- 大葱\r\n- 白胡椒粉\r\n- 食用盐\r\n- 孜然粉（可选）\r\n- 香菜（可选）",
+  "ingredients": [
+    {
+      "name": "羊肉",
+      "text": "羊肉 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水 1000ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 羊肉 300g\r\n- 食用油 10ml\r\n- 料酒 20ml\r\n- 大葱 50g\r\n- 开水 1000ml\r\n- 白胡椒粉 1g\r\n- 食用盐 5g\r\n- 孜然粉 1g\r\n- 香菜 20g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "羊肉切成长 5cm 宽 0.5cm 的块"
+    },
+    {
+      "kind": "step",
+      "description": "大葱切成小段"
+    },
+    {
+      "kind": "step",
+      "description": "羊肉放入锅中，加入 1000ml 常温水，加入料酒、大葱"
+    },
+    {
+      "kind": "step",
+      "description": "煮沸 2 分钟后，捞出羊肉，使用常温水洗净，沥干水分"
+    },
+    {
+      "kind": "step",
+      "description": "热锅加入食用油，加入羊肉，翻炒 2 分钟至羊肉表面微黄"
+    },
+    {
+      "kind": "step",
+      "description": "加入开水，开到大火档位"
+    },
+    {
+      "kind": "step",
+      "description": "5 分钟后，加入白胡椒粉、盐，继续煮沸 5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "出锅之后，加入香菜、孜然粉，搅拌均匀"
+    }
+  ],
+  "operationMarkdown": "1. 羊肉切成长 5cm 宽 0.5cm 的块\r\n2. 大葱切成小段\r\n3. 羊肉放入锅中，加入 1000ml 常温水，加入料酒、大葱\r\n4. 煮沸 2 分钟后，捞出羊肉，使用常温水洗净，沥干水分\r\n5. 热锅加入食用油，加入羊肉，翻炒 2 分钟至羊肉表面微黄\r\n6. 加入开水，开到大火档位\r\n7. 5 分钟后，加入白胡椒粉、盐，继续煮沸 5 分钟\r\n8. 出锅之后，加入香菜、孜然粉，搅拌均匀",
+  "tips": "- 加入开水时，注意要开大火，使油脂与汤汁更好的融合\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 加入开水时，注意要开大火，使油脂与汤汁更好的融合\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/soup/4912af52-7a01-45cc-a4d6-08c7b9e40460_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/羊肉汤/羊肉汤.md"
+  },
+  "hash": "643f416dc932cb05f372dd9c5640671f2446b5e8f6553523b88385517d6b7435"
+}

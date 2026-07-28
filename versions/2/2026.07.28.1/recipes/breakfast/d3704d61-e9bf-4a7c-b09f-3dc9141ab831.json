@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "d3704d61-e9bf-4a7c-b09f-3dc9141ab831",
+  "legacyIds": [
+    "breakfast_a04cfccc"
+  ],
+  "name": "水煮玉米",
+  "description": "水煮玉米是一道家常快手菜，口感清甜软糯。新鲜玉米带皮煮制，保留原香，加入盐和糖更能提味。它富含膳食纤维、维生素与碳水化合物，能为身体提供饱足感。做法极其简单，新手也能轻松上手，从准备到上桌只需大约 15 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 108,
+  "requirements": [
+    {
+      "text": "新鲜玉米",
+      "markdown": "新鲜玉米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "放得下玉米的锅",
+      "markdown": "放得下玉米的锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖（可选）",
+      "markdown": "糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜玉米\r\n- 放得下玉米的锅\r\n- 水\r\n- 盐\r\n- 糖（可选）",
+  "ingredients": [
+    {
+      "name": "一个带皮玉米",
+      "text": "一个带皮玉米",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淹过玉米约半节指头的水",
+      "text": "淹过玉米约半节指头的水",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "煮玉米的时候",
+      "text": "煮玉米的时候，开始和淡盐水，差不多 2 克盐加 50ml 的水",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "根据口味选择加或者不加糖",
+      "text": "根据口味选择加或者不加糖（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 一个带皮玉米\r\n- 淹过玉米约半节指头的水\r\n- 煮玉米的时候，开始和淡盐水，差不多 2 克盐加 50ml 的水\r\n- 根据口味选择加或者不加糖（可选）",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将新鲜玉米剥去外皮，剩部分玉米皮入锅"
+    },
+    {
+      "kind": "step",
+      "description": "加入淹过玉米约半节指头的水，加盐和糖"
+    },
+    {
+      "kind": "step",
+      "description": "水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。"
+    },
+    {
+      "kind": "step",
+      "description": "煮熟后沥干水分，冷却后食用。"
+    }
+  ],
+  "operationMarkdown": "1. 将新鲜玉米剥去外皮，剩部分玉米皮入锅\r\n2. 加入淹过玉米约半节指头的水，加盐和糖\r\n3. 水煮开之后转至小火，加盖继续煮 15-20 分钟，玉米煮久点没事。\r\n4. 煮熟后沥干水分，冷却后食用。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/水煮玉米.md"
+  },
+  "hash": "db3ad13d24e36b42ab5196d7731d0ab6a2ab08d47b8b03e0519492a7f7fc2449"
+}

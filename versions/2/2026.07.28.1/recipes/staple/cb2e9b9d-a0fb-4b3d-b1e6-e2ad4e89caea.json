@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 2,
+  "id": "cb2e9b9d-a0fb-4b3d-b1e6-e2ad4e89caea",
+  "legacyIds": [
+    "staple_397be2b0"
+  ],
+  "name": "肉蛋盖饭",
+  "description": "这道菜酱香浓郁、咸甜适口，肉馅焦香、鸡蛋嫩滑，盖在热米饭上十分满足，属于家常快手料理。富含优质蛋白质和必需氨基酸，能快速补充能量。做法简单直观，新手也能轻松上手，从备料到出锅大约只需十五分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1822,
+  "requirements": [
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉馅",
+      "markdown": "肉馅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红葱油（可选）",
+      "markdown": "红葱油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 米饭\r\n- 鸡蛋\r\n- 肉馅\r\n- 老抽\r\n- 生抽\r\n- 醋\r\n- 红葱油（可选）\r\n- 葱\r\n- 油\r\n- 糖",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "text": "米饭 240g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉馅",
+      "text": "肉馅 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 25ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红葱油可选",
+      "text": "红葱油可选 10g",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 15g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份为一人餐，多人餐请等比例增加，但需要考虑锅的容量。\r\n\r\n一份：\r\n\r\n- 米饭 240g\r\n- 鸡蛋 4 个\r\n- 肉馅 300g\r\n- 老抽 10ml\r\n- 生抽 25ml\r\n- 醋 20ml\r\n- 红葱油可选 10g\r\n- 葱 10g\r\n- 油 30ml\r\n- 糖 15g",
+  "calculationNotes": [
+    "一份为一人餐，多人餐请等比例增加，但需要考虑锅的容量。",
+    "一份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "煮好米饭，通常使用买米赠送的量杯，一杯米 240g"
+    },
+    {
+      "kind": "step",
+      "description": "锅中放油 30ml"
+    },
+    {
+      "kind": "step",
+      "description": "放入肉馅，调中火煎至两面微焦"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋打入锅中，不要打散，盖上锅盖"
+    },
+    {
+      "kind": "step",
+      "description": "调一个碗汁，碗中放入计算中的对应数量的老抽，生抽，醋，糖，红葱油，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖，将碗汁倒入锅中，等待三分钟"
+    },
+    {
+      "kind": "step",
+      "description": "关火，将肉蛋盖到米饭上"
+    },
+    {
+      "kind": "step",
+      "description": "安全检查，开始食用盖饭"
+    }
+  ],
+  "operationMarkdown": "1. 煮好米饭，通常使用买米赠送的量杯，一杯米 240g\r\n2. 锅中放油 30ml\r\n3. 放入肉馅，调中火煎至两面微焦\r\n4. 将鸡蛋打入锅中，不要打散，盖上锅盖\r\n5. 调一个碗汁，碗中放入计算中的对应数量的老抽，生抽，醋，糖，红葱油，搅拌均匀\r\n6. 打开锅盖，将碗汁倒入锅中，等待三分钟\r\n7. 关火，将肉蛋盖到米饭上\r\n8. 安全检查，开始食用盖饭",
+  "tips": "- 如果喜欢甜口可以增加 10g 糖\r\n- 请务必保证做完饭后关掉燃气设备以免发生危险\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果喜欢甜口可以增加 10g 糖\r\n- 请务必保证做完饭后关掉燃气设备以免发生危险\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/肉蛋盖饭.md"
+  },
+  "hash": "41197e077bb95dca6f0d0a78a11540f59bf50318d1d1466e6e0d4caa397125ef"
+}

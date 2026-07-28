@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "id": "c74275e6-a44e-4b06-8e29-557f5b7271ab",
+  "legacyIds": [
+    "meat_dish_edfdae61"
+  ],
+  "name": "肉饼炖蛋",
+  "description": "肉饼炖蛋是一道咸鲜滑嫩的传统家常菜，肉饼吸饱了酱汁，鸡蛋卧在其中，口感软嫩又下饭。它富含优质蛋白质和多种氨基酸，能很好地补充体力。做法十分简单，对厨房新手非常友好，从备料到出锅大约只需要 20 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1124,
+  "requirements": [
+    {
+      "text": "猪肉末",
+      "markdown": "猪肉末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻香油",
+      "markdown": "芝麻香油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪肉末\r\n- 鸡蛋\r\n- 料酒\r\n- 生抽\r\n- 白胡椒粉\r\n- 芝麻香油",
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "text": "猪肉末 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻香油",
+      "text": "芝麻香油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 猪肉末 300g\r\n- 鸡蛋 2 个\r\n- 料酒 10ml\r\n- 生抽 20ml\r\n- 白胡椒粉 5g\r\n- 芝麻香油 10-15ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "在碗中加入猪肉末、料酒、生抽、白胡椒粉、鸡蛋和芝麻香油，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将调好味的猪肉末铺在盘子里，肉末中间用勺子挖一个洞，往洞中打入 1 个鸡蛋。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加水至 1/4 高度，水烧开后，将盘子放入锅中，盖上锅盖，蒸 15 分钟。"
+    }
+  ],
+  "operationMarkdown": "1. 在碗中加入猪肉末、料酒、生抽、白胡椒粉、鸡蛋和芝麻香油，搅拌均匀。\r\n2. 将调好味的猪肉末铺在盘子里，肉末中间用勺子挖一个洞，往洞中打入 1 个鸡蛋。\r\n3. 锅中加水至 1/4 高度，水烧开后，将盘子放入锅中，盖上锅盖，蒸 15 分钟。",
+  "tips": "- 在取出肉饼炖蛋时，注意盘子很烫，请小心操作。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 在取出肉饼炖蛋时，注意盘子很烫，请小心操作。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/肉饼炖蛋.md"
+  },
+  "hash": "a6b83396d5b7085cdecc381af3066fe39bed15b4f84d17f36360eb4db828f8f5"
+}

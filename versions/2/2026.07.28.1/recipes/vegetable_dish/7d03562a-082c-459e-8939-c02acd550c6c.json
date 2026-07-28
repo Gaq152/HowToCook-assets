@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "7d03562a-082c-459e-8939-c02acd550c6c",
+  "legacyIds": [
+    "vegetable_dish_6a816343"
+  ],
+  "name": "清蒸南瓜",
+  "description": "一道原汁原味的家常蒸菜，最大程度保留南瓜的天然甜味与营养，口感软糯香甜，既可当甜点也可作主食。南瓜富含β-胡萝卜素和膳食纤维，有益视力与肠胃健康。制作极其简单，新手也能轻松搞定，从切配到出锅仅需 15-20 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 80,
+  "requirements": [
+    {
+      "text": "南瓜",
+      "markdown": "南瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸锅",
+      "markdown": "蒸锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 南瓜\r\n- 蒸锅",
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "text": "南瓜 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "饮用水",
+      "text": "饮用水 1000 ml （用于蒸锅）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。\r\n\r\n每份：\r\n\r\n- 南瓜 300 g\r\n- 饮用水 1000 ml （用于蒸锅）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1-2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 南瓜 外皮洗净，去除瓜瓤和籽。"
+    },
+    {
+      "kind": "step",
+      "description": "将 南瓜 切成厚度大约 2 cm 的片，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "在 蒸锅 的锅中加入 1000 ml 饮用水。"
+    },
+    {
+      "kind": "step",
+      "description": "将切好的 南瓜 片均匀摆放在盘中。"
+    },
+    {
+      "kind": "step",
+      "description": "待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖，保持大火蒸 **15-20 分钟**，直至南瓜变软，可以用筷子轻松穿透。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，小心取出盘子。"
+    }
+  ],
+  "operationMarkdown": "1. 将 南瓜 外皮洗净，去除瓜瓤和籽。\r\n2. 将 南瓜 切成厚度大约 2 cm 的片，备用。\r\n3. 在 蒸锅 的锅中加入 1000 ml 饮用水。\r\n4. 将切好的 南瓜 片均匀摆放在盘中。\r\n5. 待蒸锅中的水烧开后，将装有 南瓜 的盘子放入蒸锅中。\r\n6. 盖上锅盖，保持大火蒸 **15-20 分钟**，直至南瓜变软，可以用筷子轻松穿透。\r\n7. 关火，小心取出盘子。",
+  "tips": "- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\r\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\r\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。\r\n- 南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。\r\n- 蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/清蒸南瓜.md"
+  },
+  "hash": "efad4da7b88d59e81384bc0cd4e7c00102de8d02f7d6fe01539fdfbc089dd9e1"
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "id": "894423df-cbf6-4375-b8a6-2672c8ebd7f2",
+  "legacyIds": [
+    "meat_dish_862866d2"
+  ],
+  "name": "猪肉烩酸菜",
+  "description": "猪肉烩酸菜是一道北方家常炖菜，酸香浓郁，五花肉软烂，排骨入味。主要提供蛋白质，酸菜也带来乳酸菌等有益成分。做法步骤清晰，新手也能按部就班完成，但需耐心慢炖，从头到尾大约需要 3 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 1817,
+  "requirements": [
+    {
+      "text": "猪五花肉或猪肉排骨",
+      "markdown": "猪五花肉或猪肉排骨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "东北酸菜",
+      "markdown": "东北酸菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大料",
+      "markdown": "大料",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 猪五花肉或猪肉排骨\r\n* 东北酸菜\r\n* 大葱\r\n* 姜\r\n* 蒜\r\n* 盐\r\n* 生抽酱油\r\n* 五香粉\r\n* 料酒\r\n* 大料",
+  "ingredients": [
+    {
+      "name": "猪排骨或者五花肉（总共）",
+      "text": "猪排骨或者五花肉（总共） 1500 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "东北酸菜",
+      "text": "东北酸菜 1000 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽酱油",
+      "text": "生抽酱油 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 20 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大料",
+      "text": "大料 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 3-5 个人吃的量：\r\n\r\n* 猪排骨或者五花肉（总共） 1500 克\r\n* 东北酸菜 1000 克\r\n* 大葱 1 根\r\n* 姜 100 克\r\n* 蒜 4 瓣\r\n* 盐 10 克\r\n* 生抽酱油 15 克\r\n* 五香粉 10 克\r\n* 料酒 20 毫升\r\n* 大料 2 颗",
+  "calculationNotes": [
+    "按照 3-5 个人吃的量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "大葱切段；生姜 50 克切段， 50 克切末；大蒜切末，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "全部酸菜切丝，用水冲洗 2 ～ 3 遍备用。\n-冲洗次数取决于个人口味，喜欢酸味，可以冲洗 2 遍。害怕酸味，可以冲洗 3 ～ 4 遍。不能不冲洗，否则会过酸。"
+    },
+    {
+      "kind": "step",
+      "description": "排骨和五花肉入锅，倒入冷水淹没。放入全部葱段， 50 克生姜段和料酒 20 毫升。大火煮开后，等待 5 分钟。关火，将排骨和五花肉捞出，冷水冲洗掉浮沫，备用"
+    },
+    {
+      "kind": "step",
+      "description": "煮好的五花肉切片或者切块，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将之前的锅洗干净，并且擦干（不然加入油会崩出来）。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入油，开中火，放入姜蒜末爆香，放入五花肉和排骨。将五花肉和排骨煎至金黄，倒入 10 克五香粉和 15 克 生抽酱油，用铲子翻动 1 ～ 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将冲洗好的酸菜丝加入锅中，翻炒 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入纯净水至刚好没过食材，加入 2 颗大料，转大火，直到锅中水沸腾。转中火，盖锅盖焖煮。"
+    },
+    {
+      "kind": "step",
+      "description": "等待 1.5 ～ 2 小时，直至五花肉软烂 （可以用筷子轻松扎穿）"
+    },
+    {
+      "kind": "step",
+      "description": "掀开锅盖，开大火收汤，翻动锅中食材直至锅中剩余水分只覆盖锅底，转小火，准备调味。"
+    },
+    {
+      "kind": "step",
+      "description": "调味：加入食用盐 10 克，搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 大葱切段；生姜 50 克切段， 50 克切末；大蒜切末，备用。\r\n2. 全部酸菜切丝，用水冲洗 2 ～ 3 遍备用。\r\n  -冲洗次数取决于个人口味，喜欢酸味，可以冲洗 2 遍。害怕酸味，可以冲洗 3 ～ 4 遍。不能不冲洗，否则会过酸。\r\n3. 排骨和五花肉入锅，倒入冷水淹没。放入全部葱段， 50 克生姜段和料酒 20 毫升。大火煮开后，等待 5 分钟。关火，将排骨和五花肉捞出，冷水冲洗掉浮沫，备用\r\n4. 煮好的五花肉切片或者切块，备用。\r\n5. 将之前的锅洗干净，并且擦干（不然加入油会崩出来）。\r\n6. 锅中加入油，开中火，放入姜蒜末爆香，放入五花肉和排骨。将五花肉和排骨煎至金黄，倒入 10 克五香粉和 15 克 生抽酱油，用铲子翻动 1 ～ 2 分钟。\r\n7. 将冲洗好的酸菜丝加入锅中，翻炒 3 分钟。\r\n8. 倒入纯净水至刚好没过食材，加入 2 颗大料，转大火，直到锅中水沸腾。转中火，盖锅盖焖煮。\r\n9. 等待 1.5 ～ 2 小时，直至五花肉软烂 （可以用筷子轻松扎穿）\r\n10. 掀开锅盖，开大火收汤，翻动锅中食材直至锅中剩余水分只覆盖锅底，转小火，准备调味。\r\n11. 调味：加入食用盐 10 克，搅拌均匀。\r\n12. 关火，出锅。",
+  "tips": "- 大火收汤时，注意不要糊锅，可以适当翻动来检查水位。\r\n- 调味的技巧，最后加盐时，可以一点一点加入，搅拌后品尝味道，直到可以接受的口味\r\n- 本菜品有酸菜的特殊风味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 大火收汤时，注意不要糊锅，可以适当翻动来检查水位。\r\n- 调味的技巧，最后加盐时，可以一点一点加入，搅拌后品尝味道，直到可以接受的口味\r\n- 本菜品有酸菜的特殊风味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/猪肉烩酸菜.md"
+  },
+  "hash": "277eca13bb7f7945f8b59d1e8d9d60f9c84c8572bd9fba649058a332e198e6ee"
+}

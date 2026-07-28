@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "id": "9f282cec-7c3d-4a0a-b6ca-ba2c738f527a",
+  "legacyIds": [
+    "staple_b2f26072"
+  ],
+  "name": "茄子肉煎饼",
+  "description": "这道家常煎饼融合了腊肉的咸香与茄子的软糯，外皮酥脆、内里绵润，是一道充满乡土风味的米粉主食。它富含碳水化合物和优质蛋白质，茄子还能提供膳食纤维和维生素，荤素搭配营养均衡。制作难度中等，需要掌握面糊稠度和煎制火候，但初学者跟着步骤操作也能成功。从备料到出锅大约需要 30 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 904,
+  "requirements": [
+    {
+      "text": "米粉（指用大米研磨成的粉）",
+      "markdown": "米粉（指用大米研磨成的粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小麦粉",
+      "markdown": "小麦粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "煮熟的腊肉",
+      "markdown": "煮熟的腊肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "茄子（买长条状的，越圆越好）",
+      "markdown": "茄子（买长条状的，越圆越好）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 米粉（指用大米研磨成的粉）\r\n* 小麦粉\r\n* 鸡蛋\r\n* 煮熟的腊肉\r\n* 茄子（买长条状的，越圆越好）\r\n* 食用油\r\n* 食盐",
+  "ingredients": [
+    {
+      "name": "米粉",
+      "text": "米粉 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "煮熟的腊肉",
+      "text": "煮熟的腊肉 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茄子",
+      "text": "茄子 1 根（约 10-15cm 长）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 1-2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "制作 1 份，1 份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n* 米粉 250g\r\n* 面粉 50g\r\n* 鸡蛋 1 个\r\n* 煮熟的腊肉 100g\r\n* 茄子 1 根（约 10-15cm 长）\r\n* 食用油 10-15ml\r\n* 食盐 1-2g",
+  "calculationNotes": [
+    "制作 1 份，1 份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将茄子去皮后切成片，将腊肉切成片，备用"
+    },
+    {
+      "kind": "step",
+      "description": "依次向盆中加入 250g 米粉（大米研磨成的粉）、50g 面粉和 1 个鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "边用筷子搅拌，边加入清水（**清水用于调节粘稠度**），使米粉、面粉、鸡蛋混合成面糊,当面糊能够附着在茄片、肉片上而不掉落时停止加水，而后将所有茄片和肉片放入面糊中，用面糊充分包裹"
+    },
+    {
+      "kind": "step",
+      "description": "平底锅加入食用油**10-30ml**，开小火"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子或勺子把裹了面糊的茄片、肉片放入锅中，先煎至两面金黄，再煎**3-6分钟**（**煎的过程中，食用油会变少，可再添加食用油**）"
+    },
+    {
+      "kind": "step",
+      "description": "撒盐，翻炒均匀，起锅装盘"
+    }
+  ],
+  "operationMarkdown": "1. 将茄子去皮后切成片，将腊肉切成片，备用\r\n\r\n![茄片肉片](./1茄片肉片.jpg)\r\n\r\n2. 依次向盆中加入 250g 米粉（大米研磨成的粉）、50g 面粉和 1 个鸡蛋\r\n\r\n![米粉250g](./2米粉250g.jpg)\r\n\r\n![米粉面粉鸡蛋](./3米粉面粉鸡蛋.jpg)\r\n\r\n3. 边用筷子搅拌，边加入清水（**清水用于调节粘稠度**），使米粉、面粉、鸡蛋混合成面糊,当面糊能够附着在茄片、肉片上而不掉落时停止加水，而后将所有茄片和肉片放入面糊中，用面糊充分包裹\r\n\r\n![混合](./4混合.jpg)\r\n\r\n4. 平底锅加入食用油**10-30ml**，开小火\r\n\r\n![起锅烧油](./5起锅烧油.jpg)\r\n\r\n5. 用筷子或勺子把裹了面糊的茄片、肉片放入锅中，先煎至两面金黄，再煎**3-6分钟**（**煎的过程中，食用油会变少，可再添加食用油**）\r\n\r\n![开始煎](./6开始煎.jpg)\r\n\r\n6. 撒盐，翻炒均匀，起锅装盘\r\n\r\n![撒盐准备起锅](./7撒盐准备起锅.jpg)",
+  "tips": "* 用小火煎\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 用小火煎\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_0.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_1.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_2.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_3.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_4.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_5.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_6.webp",
+    "images/staple/9f282cec-7c3d-4a0a-b6ca-ba2c738f527a_7.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md"
+  },
+  "hash": "abb862ca79d55bed9a02a39d1a464869dad78bf04a6f06bf1e4a2b30eac12496"
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "id": "0b6e18c4-9ef4-4306-8f9c-65f8a32c097f",
+  "legacyIds": [
+    "aquatic_97b24536"
+  ],
+  "name": "咖喱炒蟹",
+  "description": "这是一道融合泰式风味的家常海鲜菜，浓郁咖喱包裹着爆满的蟹肉，带有蟹黄香气和椰浆的顺滑口感。螃蟹富含优质蛋白和多种微量元素，有助于补充体力。制作工序清晰，只需注意封煎蟹黄和最后关火翻炒酱汁，对有一定下厨经验的人比较友好，一般从备料到出锅约需 30 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 815,
+  "requirements": [
+    {
+      "text": "青蟹（别称：肉蟹）",
+      "markdown": "青蟹（别称：肉蟹）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "咖喱块（推介乐惠蟹黄咖喱）",
+      "markdown": "咖喱块（推介乐惠蟹黄咖喱）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "椰浆",
+      "markdown": "椰浆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉（别称：淀粉）",
+      "markdown": "生粉（别称：淀粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 青蟹（别称：肉蟹）\r\n- 咖喱块（推介乐惠蟹黄咖喱）\r\n- 洋葱\r\n- 椰浆\r\n- 鸡蛋\r\n- 生粉（别称：淀粉）\r\n- 大蒜",
+  "ingredients": [
+    {
+      "name": "肉蟹",
+      "text": "肉蟹 1 只（大约 300g） * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "咖喱块",
+      "text": "咖喱块 15g（一小块）*份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "椰浆",
+      "text": "椰浆 100ml*份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个 *份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 200g *份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 5 瓣 *份数",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n- 肉蟹 1 只（大约 300g） * 份数\r\n- 咖喱块 15g（一小块）*份数\r\n- 椰浆 100ml*份数\r\n- 鸡蛋 1 个 *份数\r\n- 洋葱 200g *份数\r\n- 大蒜 5 瓣 *份数",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉，不要太多。撒 5g 生粉到蟹盖中，盖住蟹黄，备用"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切成洋葱碎，备用"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜切碎，备用"
+    },
+    {
+      "kind": "step",
+      "description": "烧一壶开水，备用"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入约 20ml 食用油，等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "将螃蟹切口朝下，轻轻放入锅中，煎 20 秒，这一步主要是封住蟹黄，蟹肉。然后翻面，每面煎 10 秒。煎完将螃蟹取出备用"
+    },
+    {
+      "kind": "step",
+      "description": "将螃蟹盖放入锅中，使用勺子舀起锅中热油泼到蟹盖中，煎封住蟹盖中的蟹黄，煎 20 秒后取出备用"
+    },
+    {
+      "kind": "step",
+      "description": "不用刷锅，再倒入 10ml 食用油，大火让油温升高至轻微冒烟，将大蒜末，洋葱碎倒入，炒 10 秒钟"
+    },
+    {
+      "kind": "step",
+      "description": "将咖喱块放入锅中炒化（10 秒），放入煎好的螃蟹，翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "倒入开水 300ml，焖煮 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "焖煮完后，倒入椰浆和蛋清，关火，关火后不断翻炒，一直到酱汁变浓稠。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅"
+    }
+  ],
+  "operationMarkdown": "1. 肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉，不要太多。撒 5g 生粉到蟹盖中，盖住蟹黄，备用\r\n2. 洋葱切成洋葱碎，备用\r\n3. 大蒜切碎，备用\r\n4. 烧一壶开水，备用\r\n5. 起锅烧油，倒入约 20ml 食用油，等待 10 秒让油温升高\r\n6. 将螃蟹切口朝下，轻轻放入锅中，煎 20 秒，这一步主要是封住蟹黄，蟹肉。然后翻面，每面煎 10 秒。煎完将螃蟹取出备用\r\n7. 将螃蟹盖放入锅中，使用勺子舀起锅中热油泼到蟹盖中，煎封住蟹盖中的蟹黄，煎 20 秒后取出备用\r\n8. 不用刷锅，再倒入 10ml 食用油，大火让油温升高至轻微冒烟，将大蒜末，洋葱碎倒入，炒 10 秒钟\r\n9. 将咖喱块放入锅中炒化（10 秒），放入煎好的螃蟹，翻炒均匀\r\n10. 倒入开水 300ml，焖煮 3 分钟。\r\n11. 焖煮完后，倒入椰浆和蛋清，关火，关火后不断翻炒，一直到酱汁变浓稠。\r\n12. 出锅",
+  "tips": "- 做法参考：[十几年澳门厨房佬教学挂汁的咖喱蟹怎么做](https://www.bilibili.com/video/BV1Nq4y1W7K9)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 做法参考：[十几年澳门厨房佬教学挂汁的咖喱蟹怎么做](https://www.bilibili.com/video/BV1Nq4y1W7K9)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/咖喱炒蟹.md"
+  },
+  "hash": "7c8ca24a22a24981658ef23fbc245d5dea5eda9efe323dc525c300fdca8550c5"
+}

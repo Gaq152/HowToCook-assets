@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "id": "7f6cf452-6f56-4d04-a1cf-081127e0bf3c",
+  "legacyIds": [
+    "meat_dish_57c87c3f"
+  ],
+  "name": "巴基斯坦牛肉咖喱",
+  "description": "这道巴基斯坦风味咖喱牛肉香浓软糯，酸辣开胃，带着浓郁的香料气息。牛肉提供优质蛋白，搭配番茄和酸奶，营养均衡。做法不算繁琐，但慢炖需要一点耐心，很适合在闲暇的周末从容准备。从头到尾大约两个半小时，就能端出一锅温暖的异国美味。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 602,
+  "requirements": [
+    {
+      "text": "普通的炒锅",
+      "markdown": "普通的炒锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "电饭煲/电炖锅",
+      "markdown": "电饭煲/电炖锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "Masala 粉（品牌可选 Shan）",
+      "markdown": "Masala 粉（品牌可选 Shan）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛肉",
+      "markdown": "牛肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "螺丝椒",
+      "markdown": "螺丝椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "原味酸奶",
+      "markdown": "原味酸奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜粉",
+      "markdown": "蒜粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜粉",
+      "markdown": "姜粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 普通的炒锅\r\n- 电饭煲/电炖锅\r\n- Masala 粉（品牌可选 Shan）\r\n- 牛肉\r\n- 番茄\r\n- 螺丝椒\r\n- 原味酸奶\r\n- 蒜粉\r\n- 姜粉",
+  "ingredients": [
+    {
+      "name": "番茄🍅",
+      "text": "番茄🍅 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "螺丝椒",
+      "text": "螺丝椒 2 个（大个的）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "原味酸奶",
+      "text": "原味酸奶 1 盒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "Masala 粉一包",
+      "text": "Masala 粉一包 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜粉",
+      "text": "蒜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜粉",
+      "text": "姜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "这里以 1kg 牛肉的所需要的配菜量作为标的，可以通过它计算出不同菜量。1kg 牛肉做出的咖喱大概够 5 个人吃。\r\n\r\n1kg 牛肉所需要的配菜量：\r\n\r\n- 番茄🍅 4 个\r\n- 螺丝椒 2 个（大个的）\r\n- 原味酸奶 1 盒\r\n- Masala 粉一包 50g\r\n- 蒜粉 5g\r\n- 姜粉 5g",
+  "calculationNotes": [
+    "这里以 1kg 牛肉的所需要的配菜量作为标的，可以通过它计算出不同菜量。1kg 牛肉做出的咖喱大概够 5 个人吃。",
+    "1kg 牛肉所需要的配菜量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "全部螺丝椒切成段状，备用"
+    },
+    {
+      "kind": "step",
+      "description": "全部番茄打成番茄蓉，备用\n![番茄蓉](./番茄蓉.png)"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉切成 2cm 的小块，洗净备用\n![牛肉](./牛肉.png)"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅中倒入一层油（用来防止番茄蓉沸腾蒸发）\n![油](./油.png)"
+    },
+    {
+      "kind": "step",
+      "description": "倒入番茄蓉，持续搅拌 2-3 分钟，等待它越变越红\n![倒入番茄蓉](./倒入番茄蓉.png)\n![红](./红.png)"
+    },
+    {
+      "kind": "step",
+      "description": "加入 5g 蒜粉，5g 姜粉和 1 包 50g 的 Masala 粉，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入牛肉和螺丝椒段，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入 1 盒酸奶（为了让整个酱汁变得粘稠），搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将整锅材料转移到电饭煲/电炖锅，并加入 250 ml 的水，开启炖肉/慢炖档，设定时间 2-3 个小时"
+    },
+    {
+      "kind": "step",
+      "description": "等待完成，开锅检查牛肉软糯，就可以吃了\n![巴基斯坦牛肉咖喱成品](./巴基斯坦牛肉咖喱.png)"
+    }
+  ],
+  "operationMarkdown": "1. 全部螺丝椒切成段状，备用\r\n2. 全部番茄打成番茄蓉，备用\r\n![番茄蓉](./番茄蓉.png)\r\n3. 牛肉切成 2cm 的小块，洗净备用\r\n![牛肉](./牛肉.png)\r\n4. 炒锅中倒入一层油（用来防止番茄蓉沸腾蒸发）\r\n![油](./油.png)\r\n5. 倒入番茄蓉，持续搅拌 2-3 分钟，等待它越变越红\r\n![倒入番茄蓉](./倒入番茄蓉.png)\r\n![红](./红.png)\r\n6. 加入 5g 蒜粉，5g 姜粉和 1 包 50g 的 Masala 粉，搅拌均匀\r\n7. 加入牛肉和螺丝椒段，搅拌均匀\r\n8. 加入 1 盒酸奶（为了让整个酱汁变得粘稠），搅拌均匀\r\n9. 将整锅材料转移到电饭煲/电炖锅，并加入 250 ml 的水，开启炖肉/慢炖档，设定时间 2-3 个小时\r\n10. 等待完成，开锅检查牛肉软糯，就可以吃了\r\n![巴基斯坦牛肉咖喱成品](./巴基斯坦牛肉咖喱.png)",
+  "tips": "这道菜是从一个巴基斯坦的朋友那里偷师而来，特地整理了笔记，绝对正宗。\r\n\r\n通常配以 烙饼(roti)、馕(naan) 或 米饭 食用。\r\n\r\n如果想做 Chicken karahi 流程几乎是一样的，除了是先用油和各种花椒胡椒煎鸡肉变黄。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "这道菜是从一个巴基斯坦的朋友那里偷师而来，特地整理了笔记，绝对正宗。\r\n\r\n通常配以 烙饼(roti)、馕(naan) 或 米饭 食用。\r\n\r\n如果想做 Chicken karahi 流程几乎是一样的，除了是先用油和各种花椒胡椒煎鸡肉变黄。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_0.webp",
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_1.webp",
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_2.webp",
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_3.webp",
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_4.webp",
+    "images/meat_dish/7f6cf452-6f56-4d04-a1cf-081127e0bf3c_5.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md"
+  },
+  "hash": "143bac50743c91e7a583c5cb9d29ddaab5c2d84b989ffe9a52731367dc90e44d"
+}

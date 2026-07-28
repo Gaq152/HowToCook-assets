@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 2,
+  "id": "6522c371-6b96-4b57-8b68-ecabd5714008",
+  "legacyIds": [
+    "meat_dish_00560d1c"
+  ],
+  "name": "广式萝卜牛腩",
+  "description": "这是一道广式家常炖菜，牛腩软烂入味，萝卜吸饱汤汁后清甜浓郁，整体酱香回甘。富含优质蛋白和膳食纤维，开胃助消化。制作步骤稍多但难度适中，新手按部就班也能成功。预计从头到尾大约需要 2.5 小时完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 483,
+  "requirements": [
+    {
+      "text": "牛腩",
+      "markdown": "牛腩",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白萝卜",
+      "markdown": "白萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜片",
+      "markdown": "姜片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "南乳",
+      "markdown": "南乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柱侯酱",
+      "markdown": "柱侯酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛腩\r\n- 白萝卜\r\n- 姜片\r\n- 蒜瓣\r\n- 葱\r\n- 八角\r\n- 桂皮\r\n- 干辣椒\r\n- 香叶\r\n- 南乳\r\n- 柱侯酱\r\n- 蚝油\r\n- 酱油\r\n- 冰糖\r\n- 盐\r\n- 老抽",
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "text": "牛腩 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白萝卜",
+      "text": "白萝卜 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片 8 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱结 一把",
+      "text": "葱结 一把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 1 小块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "南乳",
+      "text": "南乳 1 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柱侯酱",
+      "text": "柱侯酱 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份正好够 3-4 人吃。\r\n\r\n- 牛腩 500g\r\n- 白萝卜 1 根\r\n- 姜片 8 片\r\n- 蒜瓣 5 片\r\n- 葱结 一把\r\n- 八角 2 片\r\n- 桂皮 1 小块\r\n- 干辣椒 2 个\r\n- 香叶 2 片\r\n- 南乳 1 块\r\n- 柱侯酱 30g\r\n- 蚝油 15g\r\n- 酱油 15g\r\n- 冰糖 10g\r\n- 盐 5g\r\n- 老抽 15g",
+  "calculationNotes": [
+    "一份正好够 3-4 人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "开始制作",
+      "description": "### 开始制作"
+    },
+    {
+      "kind": "step",
+      "description": "萝卜滚到切块备用"
+    },
+    {
+      "kind": "step",
+      "description": "牛腩整块焯水，加入 2 片姜和一把葱结，等水开之后煮 5-10 分钟，然后捞出切件"
+    },
+    {
+      "kind": "step",
+      "description": "将牛腩切块，切成自己喜欢的大小（牛腩焯过水，待会儿焖的时候基本不会缩水了，大块的会焖相对就一点的时间）"
+    },
+    {
+      "kind": "step",
+      "description": "准备焖牛腩的酱料，将南乳、柱侯酱、酱油、蚝油、糖、盐按上面的量调和（冰糖刚刚没了换成了白糖）"
+    },
+    {
+      "kind": "step",
+      "description": "热锅下油，将姜蒜爆香，放入牛腩，炒至干身，加入调好的酱料，炒香，如果喜欢色泽浓一点的可以加一点老抽润色一下"
+    },
+    {
+      "kind": "step",
+      "description": "调料充分混合之后倒入热水"
+    },
+    {
+      "kind": "step",
+      "description": "将牛腩换到汤锅中，放入桂皮、八角、香叶和干辣椒，焖大概 2 个小时"
+    },
+    {
+      "kind": "step",
+      "description": "牛腩焖到半软之后加入白萝卜继续焖 30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "等到萝卜焖软之后就完成，一锅浓香的萝卜牛腩就完成了"
+    }
+  ],
+  "operationMarkdown": "### 开始制作\r\n\r\n1. 萝卜滚到切块备用\r\n2. 牛腩整块焯水，加入 2 片姜和一把葱结，等水开之后煮 5-10 分钟，然后捞出切件\r\n3. 将牛腩切块，切成自己喜欢的大小（牛腩焯过水，待会儿焖的时候基本不会缩水了，大块的会焖相对就一点的时间）\r\n4. 准备焖牛腩的酱料，将南乳、柱侯酱、酱油、蚝油、糖、盐按上面的量调和（冰糖刚刚没了换成了白糖）\r\n5. 热锅下油，将姜蒜爆香，放入牛腩，炒至干身，加入调好的酱料，炒香，如果喜欢色泽浓一点的可以加一点老抽润色一下\r\n6. 调料充分混合之后倒入热水\r\n7. 将牛腩换到汤锅中，放入桂皮、八角、香叶和干辣椒，焖大概 2 个小时\r\n8. 牛腩焖到半软之后加入白萝卜继续焖 30 分钟\r\n9. 等到萝卜焖软之后就完成，一锅浓香的萝卜牛腩就完成了",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/6522c371-6b96-4b57-8b68-ecabd5714008_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md"
+  },
+  "hash": "4561d2b28e00ed351caa7e0b459a00f28b0129c0035176ce7acd4830754df07c"
+}

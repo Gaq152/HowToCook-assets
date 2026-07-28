@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.07.28.1",
+  "validatedAt": "2026-07-24T07:09:54Z",
+  "status": "passed",
+  "counts": {
+    "recipes": 367,
+    "tips": 18,
+    "images": 346,
+    "recipesWithoutImages": 190,
+    "legacyIdMappings": 325,
+    "tipLinks": 22
+  },
+  "warnings": [],
+  "errors": []
+}

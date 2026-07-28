@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 2,
+  "id": "700bac34-9b2c-4ed0-ae45-3276c61035e4",
+  "legacyIds": [
+    "staple_e03d57aa"
+  ],
+  "name": "河南蒸面条",
+  "description": "河南蒸面条是源自河南的家常小吃，面条先蒸后炒再蒸，油润入味，口感劲道爽滑。五花肉和蒜薹提供丰富的蛋白质和膳食纤维，搭配主食带来均衡营养。制作步骤稍多一些，但对新手而言只要按顺序操作就能成功。从备料到出锅，总共约需 40 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 3066,
+  "requirements": [
+    {
+      "text": "挂面 （推荐圆的）",
+      "markdown": "挂面 （推荐圆的）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜薹",
+      "markdown": "蒜薹",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱 + 姜 + 蒜 + 料酒",
+      "markdown": "葱 + 姜 + 蒜 + 料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐 + 鸡精 + 十三香",
+      "markdown": "盐 + 鸡精 + 十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽 + 老抽 + 蚝油",
+      "markdown": "生抽 + 老抽 + 蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麻油",
+      "markdown": "麻油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油 + 锅 + 菜刀 + 铲子",
+      "markdown": "油 + 锅 + 菜刀 + 铲子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸篦子",
+      "markdown": "蒸篦子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "额外的盆",
+      "markdown": "额外的盆",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 挂面 （推荐圆的）\r\n- 五花肉\r\n- 蒜薹\r\n- 葱 + 姜 + 蒜 + 料酒\r\n- 盐 + 鸡精 + 十三香\r\n- 生抽 + 老抽 + 蚝油\r\n- 麻油\r\n- 油 + 锅 + 菜刀 + 铲子\r\n- 蒸篦子\r\n- 额外的盆",
+  "ingredients": [
+    {
+      "name": "挂面",
+      "text": "挂面 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉 350g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜薹",
+      "text": "蒜薹 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "十三香",
+      "text": "十三香 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麻油",
+      "text": "麻油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "下面的量是仅仅 1 够一个人一餐的主食的量！请针对实际调整用料的量！\r\n\r\n每份：\r\n\r\n- 挂面 300g\r\n- 五花肉 350g\r\n- 蒜薹 150g\r\n- 食用油 10-15ml\r\n- 生抽 15ml\r\n- 老抽 10ml\r\n- 蚝油 5ml\r\n- 盐 2g\r\n- 鸡精 2g\r\n- 十三香 1g\r\n- 葱 10g\r\n- 姜 5g\r\n- 蒜 10g\r\n- 料酒 5ml\r\n- 麻油 5ml",
+  "calculationNotes": [
+    "下面的量是仅仅 1 够一个人一餐的主食的量！请针对实际调整用料的量！",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "第一次蒸",
+      "description": "### 第一次蒸"
+    },
+    {
+      "kind": "step",
+      "description": "起锅加 7 成水，水开，上蒸篦子"
+    },
+    {
+      "kind": "step",
+      "description": "将挂面，均匀铺开放置，淋 5ml 油并抹匀，蒸 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将挂面和蒸篦子取出，放置一边，并倒掉锅中的水"
+    },
+    {
+      "kind": "section",
+      "title": "切菜",
+      "description": "### 切菜"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉，切成 2mm 厚度的肉片"
+    },
+    {
+      "kind": "step",
+      "description": "蒜薹，切成 3cm 段"
+    },
+    {
+      "kind": "step",
+      "description": "葱，切成 0.2cm 薄片"
+    },
+    {
+      "kind": "step",
+      "description": "姜，切成 1mm x 1mm x 3cm 的细丝"
+    },
+    {
+      "kind": "step",
+      "description": "蒜，放在砧板上拍碎，切成 1mm 的粒度"
+    },
+    {
+      "kind": "section",
+      "title": "炒制",
+      "description": "### 炒制"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，烧干水分，加 3ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "手持锅柄，摇晃锅，使食用油充分挂满锅的 2/3"
+    },
+    {
+      "kind": "step",
+      "description": "中火，加入肉片，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入葱姜蒜，料酒，继续翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜薹段，放入锅中，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开始调味，加入老抽、生抽、蚝油、盐、鸡精、十三香，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入 500ML 水，没过蔬菜，炖煮 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将蒸好的挂面放入，不断搅拌 3 分钟，待挂面全部均匀上色，关火"
+    },
+    {
+      "kind": "step",
+      "description": "将搅拌好的挂面和菜，全部倒入额外的盆中"
+    },
+    {
+      "kind": "section",
+      "title": "第二次蒸",
+      "description": "### 第二次蒸"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，加冷水 7 成，放上蒸篦子，将拌好的面条和菜，均匀的铺在上面"
+    },
+    {
+      "kind": "step",
+      "description": "水开后，大火烧 15 分钟，出锅"
+    },
+    {
+      "kind": "step",
+      "description": "淋上 10g 的麻油，即可食用"
+    }
+  ],
+  "operationMarkdown": "### 第一次蒸\r\n\r\n1. 起锅加 7 成水，水开，上蒸篦子\r\n2. 将挂面，均匀铺开放置，淋 5ml 油并抹匀，蒸 15 分钟\r\n3. 将挂面和蒸篦子取出，放置一边，并倒掉锅中的水\r\n\r\n### 切菜\r\n\r\n1. 五花肉，切成 2mm 厚度的肉片\r\n2. 蒜薹，切成 3cm 段\r\n3. 葱，切成 0.2cm 薄片\r\n4. 姜，切成 1mm x 1mm x 3cm 的细丝\r\n5. 蒜，放在砧板上拍碎，切成 1mm 的粒度\r\n\r\n### 炒制\r\n\r\n1. 起锅，烧干水分，加 3ml 食用油\r\n2. 手持锅柄，摇晃锅，使食用油充分挂满锅的 2/3\r\n3. 中火，加入肉片，翻炒 1 分钟\r\n4. 加入葱姜蒜，料酒，继续翻炒 1 分钟\r\n5. 将蒜薹段，放入锅中，翻炒 1 分钟\r\n6. 开始调味，加入老抽、生抽、蚝油、盐、鸡精、十三香，翻炒 1 分钟\r\n7. 加入 500ML 水，没过蔬菜，炖煮 1 分钟\r\n8. 将蒸好的挂面放入，不断搅拌 3 分钟，待挂面全部均匀上色，关火\r\n9. 将搅拌好的挂面和菜，全部倒入额外的盆中\r\n\r\n### 第二次蒸\r\n\r\n1. 起锅，加冷水 7 成，放上蒸篦子，将拌好的面条和菜，均匀的铺在上面\r\n2. 水开后，大火烧 15 分钟，出锅\r\n3. 淋上 10g 的麻油，即可食用",
+  "tips": "挂面的粗细与口感：\r\n\r\n- 细的、圆的 （超市大部分都是这种，口感更加劲道）\r\n- 宽的、扁的 （口感比较软）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "挂面的粗细与口感：\r\n\r\n- 细的、圆的 （超市大部分都是这种，口感更加劲道）\r\n- 宽的、扁的 （口感比较软）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/700bac34-9b2c-4ed0-ae45-3276c61035e4_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/河南蒸面条/河南蒸面条.md"
+  },
+  "hash": "b3092f2fe09f0d71198e2ec9c379b29659cdb3c0d3833bacf815418cd4fbaf03"
+}

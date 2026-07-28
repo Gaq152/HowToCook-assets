@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "id": "b822722e-e5e9-49d0-80c3-9e2315623283",
+  "legacyIds": [
+    "staple_53d8ce09"
+  ],
+  "name": "麻油拌面",
+  "description": "麻油香气浓郁，搭配老抽与胡椒粉简单调味，咸香适口，是一道省时省钱的家常拌面。面条提供充足碳水化合物，麻油含有不饱和脂肪酸与维生素 E，能为身体补充能量。制作毫无难度，厨房新手也能轻松上手，从煮水到拌好只需大约十分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 451,
+  "requirements": [
+    {
+      "text": "风干快熟面/任何牌子的快熟面（不需要调味料）",
+      "markdown": "风干快熟面/任何牌子的快熟面（不需要调味料）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "麻油",
+      "markdown": "麻油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 风干快熟面/任何牌子的快熟面（不需要调味料）\r\n* 麻油\r\n* 胡椒粉\r\n* 老抽\r\n* 盐",
+  "ingredients": [
+    {
+      "name": "水",
+      "text": "水 1 升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "快熟面",
+      "text": "快熟面 1 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麻油",
+      "text": "麻油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 30 克（可选，这 30g 盐不会被全部食用）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 克（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 水 1 升\r\n* 快熟面 1 块\r\n* 麻油 15ml\r\n* 老抽 10 克\r\n* 盐 30 克（可选，这 30g 盐不会被全部食用）\r\n* 胡椒粉 10 克\r\n* 生抽 5 克（可选）",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将水倒入锅中并煮沸 （喜欢吃 q 弹面的同学，可在水里加入 30 克盐，用盐水煮出来的面会比较 q 弹）"
+    },
+    {
+      "kind": "step",
+      "description": "将快熟面放入锅中 3 分钟（也可参考当下品牌快熟面的烹饪时间）"
+    },
+    {
+      "kind": "step",
+      "description": "当面开始散了可以开始搅拌，让面受热均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将水滤干把面倒入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "按照上面的计量放入麻油，老抽，胡椒粉，生抽（可选）"
+    },
+    {
+      "kind": "step",
+      "description": "筷子搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "一道简单即省钱的懒人麻油拌面就完成啦"
+    }
+  ],
+  "operationMarkdown": "1. 将水倒入锅中并煮沸 （喜欢吃 q 弹面的同学，可在水里加入 30 克盐，用盐水煮出来的面会比较 q 弹）\r\n2. 将快熟面放入锅中 3 分钟（也可参考当下品牌快熟面的烹饪时间）\r\n3. 当面开始散了可以开始搅拌，让面受热均匀\r\n4. 将水滤干把面倒入碗中\r\n5. 按照上面的计量放入麻油，老抽，胡椒粉，生抽（可选）\r\n6. 筷子搅拌均匀\r\n7. 一道简单即省钱的懒人麻油拌面就完成啦",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/麻油拌面.md"
+  },
+  "hash": "d94bc3277fb63372a1ff602f6e4bf889d52fa6b4063539aa557d98834b37d3a9"
+}

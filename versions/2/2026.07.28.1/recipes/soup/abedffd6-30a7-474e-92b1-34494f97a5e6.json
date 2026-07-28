@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "id": "abedffd6-30a7-474e-92b1-34494f97a5e6",
+  "legacyIds": [
+    "soup_57a75a8a"
+  ],
+  "name": "菌菇炖乳鸽",
+  "description": "菌菇炖乳鸽汤色清亮、肉质细嫩，菌香与鸽鲜交融，属于家常粤式炖汤。乳鸽富含优质蛋白和多种氨基酸，菌菇提供多糖与膳食纤维，温和滋补。整道菜需先将乳鸽焯水去腥，再与玉米、菌菇同炖，对火候和时间的把控略有一些要求，新手稍加注意也能驾驭。从备料到出锅，使用高压锅约需 45 分钟，瓦罐慢炖则需 1 小时出头。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 324,
+  "requirements": [
+    {
+      "text": "乳鸽",
+      "markdown": "乳鸽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菌菇",
+      "markdown": "菌菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米",
+      "markdown": "玉米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "瓦罐或者高压锅",
+      "markdown": "瓦罐或者高压锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 乳鸽\r\n* 菌菇\r\n* 玉米\r\n* 姜\r\n* 料酒\r\n* 食用盐\r\n* 瓦罐或者高压锅",
+  "ingredients": [
+    {
+      "name": "乳鸽",
+      "text": "乳鸽 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菌菇",
+      "text": "菌菇 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米",
+      "text": "玉米 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "2 人份：\r\n\r\n* 乳鸽 300 g\r\n* 菌菇 100 g\r\n* 玉米 200 g\r\n* 姜  30 g\r\n* 料酒 15 ml\r\n* 食用盐 10 g",
+  "calculationNotes": [
+    "2 人份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "冷水洗干净热心摊主处理好的乳鸽"
+    },
+    {
+      "kind": "step",
+      "description": "冷水锅中放入洗干净的乳鸽，加入 15ml 料酒与姜，水煮开即可捞出乳鸽，要不然会丢失营养"
+    },
+    {
+      "kind": "step",
+      "description": "把乳鸽放到高压缩或者瓦罐中、倒入的水要没过乳鸽，放入生姜 20 g，玉米 200 g、菌菇 100 g"
+    },
+    {
+      "kind": "note",
+      "description": "注意：高压锅 30 分钟，瓦罐需在水烧开后转小火慢炖 40-60 分钟\r\n4. 时间到了，盛到碗中，加入 3~5g 盐 即可"
+    }
+  ],
+  "operationMarkdown": "1. 冷水洗干净热心摊主处理好的乳鸽\r\n2. 冷水锅中放入洗干净的乳鸽，加入 15ml 料酒与姜，水煮开即可捞出乳鸽，要不然会丢失营养\r\n3. 把乳鸽放到高压缩或者瓦罐中、倒入的水要没过乳鸽，放入生姜 20 g，玉米 200 g、菌菇 100 g\r\n\r\n  注意：高压锅 30 分钟，瓦罐需在水烧开后转小火慢炖 40-60 分钟\r\n4. 时间到了，盛到碗中，加入 3~5g 盐 即可\r\n\r\n![菌菇炖乳鸽-预览图-1](./菌菇炖乳鸽.jpg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/soup/abedffd6-30a7-474e-92b1-34494f97a5e6_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md"
+  },
+  "hash": "af6ff3263f8c5be87c9ef4af5664a02ad840747ed6af15e0ad4ff9fc3dd9bebd"
+}

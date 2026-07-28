@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 2,
+  "id": "7b0e4c64-7d10-4dda-bbe9-dc473319fc39",
+  "legacyIds": [
+    "meat_dish_4c4e57de"
+  ],
+  "name": "鱼香茄子",
+  "description": "鱼香茄子是一道经典的川味家常菜，酸甜微辣，茄子软糯吸汁，非常下饭。茄子富含膳食纤维和多种维生素，搭配肉末能补充蛋白质。制作难度中等，需要掌握炸茄子和调味技巧，新手稍加练习也能成功。从备料到出锅大约需要 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 579,
+  "requirements": [
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉末",
+      "markdown": "肉末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醋",
+      "markdown": "醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水淀粉",
+      "markdown": "水淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 茄子\r\n- 肉末\r\n- 盐\r\n- 糖\r\n- 味精\r\n- 生抽\r\n- 老抽\r\n- 醋\r\n- 水淀粉\r\n- 豆瓣酱",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "text": "茄子 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉末",
+      "text": "肉末 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3-5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 5-10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精",
+      "text": "味精 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醋",
+      "text": "醋 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水淀粉",
+      "text": "水淀粉 100ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 20-30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱、姜、蒜、小米辣 （根据自己口味）",
+      "text": "小葱、姜、蒜、小米辣 （根据自己口味）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够一个人吃。\r\n\r\n- 茄子 2 根\r\n- 肉末 20g\r\n- 盐 3-5g\r\n- 糖 5-10g\r\n- 味精 5g\r\n- 生抽 10ml\r\n- 老抽 5ml\r\n- 醋 10ml\r\n- 水淀粉 100ml\r\n- 豆瓣酱 20-30g\r\n- 小葱、姜、蒜、小米辣 （根据自己口味）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够一个人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将茄子切成条。\n\n  ![鱼香茄子-预览图-2](./yxqz2.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "将肉切成肉沫，葱姜蒜切碎、小米椒切丁。\n\n  ![鱼香茄子-预览图-3](./yxqz3.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "调鱼香汁：碗中放入盐、味精、糖、生抽、老抽、醋、水淀粉搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒入 300ml 油，开小火（小火容易掌控），等油温七成热（小火大约 40 秒，有烟冒出）放入茄子炸两分钟，当茄子边缘微黄就捞出。多出的油可以盛出以后炒菜用。\n\n  ![鱼香茄子-预览图-4](./yxqz4.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "锅中留 15-30ml 油，倒入肉沫炒至颜色变白就盛出来。\n\n  ![鱼香茄子-预览图-5](./yxqz5.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒入 15-30ml 油，放入豆瓣酱、葱白、姜、蒜炒香，然后倒入肉沫翻炒均匀。\n\n  ![鱼香茄子-预览图-6](./yxqz6.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "加入 80-150ml 清水（水面预计茄子八成高度为准），倒入茄子、倒入料汁，爆炒入味收汁。最后放入葱翻炒均匀，就可以起锅了。\n\n  ![鱼香茄子-预览图-7](./yxqz7.jpg)"
+    }
+  ],
+  "operationMarkdown": "1. 将茄子切成条。\r\n\r\n    ![鱼香茄子-预览图-2](./yxqz2.jpg)\r\n\r\n2. 将肉切成肉沫，葱姜蒜切碎、小米椒切丁。\r\n\r\n    ![鱼香茄子-预览图-3](./yxqz3.jpg)\r\n\r\n3. 调鱼香汁：碗中放入盐、味精、糖、生抽、老抽、醋、水淀粉搅拌均匀。\r\n4. 锅中倒入 300ml 油，开小火（小火容易掌控），等油温七成热（小火大约 40 秒，有烟冒出）放入茄子炸两分钟，当茄子边缘微黄就捞出。多出的油可以盛出以后炒菜用。\r\n\r\n    ![鱼香茄子-预览图-4](./yxqz4.jpg)\r\n\r\n5. 锅中留 15-30ml 油，倒入肉沫炒至颜色变白就盛出来。\r\n\r\n    ![鱼香茄子-预览图-5](./yxqz5.jpg)\r\n\r\n6. 锅中倒入 15-30ml 油，放入豆瓣酱、葱白、姜、蒜炒香，然后倒入肉沫翻炒均匀。\r\n\r\n    ![鱼香茄子-预览图-6](./yxqz6.jpg)\r\n\r\n7. 加入 80-150ml 清水（水面预计茄子八成高度为准），倒入茄子、倒入料汁，爆炒入味收汁。最后放入葱翻炒均匀，就可以起锅了。\r\n\r\n    ![鱼香茄子-预览图-7](./yxqz7.jpg)",
+  "tips": "- 茄子看个人喜好，可以去皮，肉沫也可以多放一点。\r\n- 参考: [鱼香茄子详细步骤](https://www.zhms.cn/recipe/kbbrl.html?source=2)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 茄子看个人喜好，可以去皮，肉沫也可以多放一点。\r\n- 参考: [鱼香茄子详细步骤](https://www.zhms.cn/recipe/kbbrl.html?source=2)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_0.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_1.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_2.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_3.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_4.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_5.webp",
+    "images/meat_dish/7b0e4c64-7d10-4dda-bbe9-dc473319fc39_6.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md"
+  },
+  "hash": "aaa666012f25ebcd74059d83222cef98cd1f5f4e5b8958e934a37bf94ebe8a07"
+}

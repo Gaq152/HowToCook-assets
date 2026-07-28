@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 2,
+  "id": "be4d8bf8-8206-4079-9f84-eb151f16b1bb",
+  "legacyIds": [
+    "soup_2943fbd7"
+  ],
+  "name": "皮蛋瘦肉粥",
+  "description": "皮蛋瘦肉粥是广东经典的家常粥品，粥底绵密顺滑，皮蛋的醇香与瘦肉的鲜嫩融合，口感温润鲜美。它富含碳水化合物和优质蛋白质，搭配蔬菜，营养较为均衡，易于消化吸收。这道粥步骤虽多，但操作直观，新手跟着流程也能顺利完成，预计制作时长约 1.5 小时，借助电饭锅的预约或保温功能，作为早餐尤为方便。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 776,
+  "requirements": [
+    {
+      "text": "饮用水",
+      "markdown": "饮用水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "皮蛋（松花蛋）",
+      "markdown": "皮蛋（松花蛋）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "瘦肉",
+      "markdown": "瘦肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大米",
+      "markdown": "大米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生菜",
+      "markdown": "生菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "电饭锅",
+      "markdown": "电饭锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小碗若干",
+      "markdown": "小碗若干",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 饮用水\r\n* 皮蛋（松花蛋）\r\n* 瘦肉\r\n* 大米\r\n* 小葱\r\n* 香菜\r\n* 生菜\r\n* 生姜\r\n* 酱油\r\n* 蚝油\r\n* 盐\r\n* 胡椒粉\r\n* 食用油\r\n* 电饭锅\r\n* 小碗若干",
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "text": "饮用水 1 升",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "皮蛋",
+      "text": "皮蛋 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "瘦肉",
+      "text": "瘦肉 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大米",
+      "text": "大米 150ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 1 棵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 1 棵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生菜",
+      "text": "生菜 4 叶",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 1 拇指块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "计量和处理食材时有条件带上一次性手套，生蔬食材建议提前洗净放置一旁\r\n\r\n* 饮用水 1 升\r\n* 皮蛋 2 颗\r\n* 瘦肉 100g\r\n* 大米 150ml\r\n* 小葱 1 棵\r\n* 香菜 1 棵\r\n* 生菜 4 叶\r\n* 生姜 1 拇指块\r\n* 酱油 5 ml\r\n* 蚝油 5 ml\r\n* 盐 2g\r\n* 胡椒粉 1g\r\n* 食用油 10ml",
+  "calculationNotes": [
+    "计量和处理食材时有条件带上一次性手套，生蔬食材建议提前洗净放置一旁"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "主料",
+      "description": "### 主料"
+    },
+    {
+      "kind": "step",
+      "description": "大米 - 洗净 - 放入电饭锅内胆 - 加入 1 升 饮用水"
+    },
+    {
+      "kind": "step",
+      "description": "瘦肉 - 洗净 - 简易晾去水分 - 加入 10ml 食用油 - 揉搓均匀 - 放入电饭锅内胆"
+    },
+    {
+      "kind": "step",
+      "description": "皮蛋 - 去壳 - 洗净 - 对半切开 - 分离蛋白蛋黄 - 蛋白简单切碎块 - 蛋黄揉碎 - 放入电饭锅内胆"
+    },
+    {
+      "kind": "step",
+      "description": "生姜 - 洗净 - 削皮 - 去除枯黄枯黑无法食用部分 - 切丝 - 放入电饭锅内胆"
+    },
+    {
+      "kind": "section",
+      "title": "配料",
+      "description": "### 配料"
+    },
+    {
+      "kind": "step",
+      "description": "小葱 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用"
+    },
+    {
+      "kind": "step",
+      "description": "香菜 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用"
+    },
+    {
+      "kind": "step",
+      "description": "生菜 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用"
+    },
+    {
+      "kind": "section",
+      "title": "酱料",
+      "description": "### 酱料"
+    },
+    {
+      "kind": "step",
+      "description": "酱油 + 蚝油 + 盐 + 胡椒粉 - 搅拌均匀 - 放入小碗备用"
+    },
+    {
+      "kind": "section",
+      "title": "烹饪过程",
+      "description": "### 烹饪过程"
+    },
+    {
+      "kind": "step",
+      "description": "主料 - 使用电饭锅煮粥模式煮熟"
+    },
+    {
+      "kind": "step",
+      "description": "配料 - 待主料煮熟后，生菜单独过一次热水，并与其余配料一同开盖加入主料中搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "酱料 - 待主料煮熟后，与其余配料一同开盖加入主料中搅拌均匀"
+    }
+  ],
+  "operationMarkdown": "### 主料\r\n\r\n1. 大米 - 洗净 - 放入电饭锅内胆 - 加入 1 升 饮用水\r\n2. 瘦肉 - 洗净 - 简易晾去水分 - 加入 10ml 食用油 - 揉搓均匀 - 放入电饭锅内胆\r\n3. 皮蛋 - 去壳 - 洗净 - 对半切开 - 分离蛋白蛋黄 - 蛋白简单切碎块 - 蛋黄揉碎 - 放入电饭锅内胆\r\n4. 生姜 - 洗净 - 削皮 - 去除枯黄枯黑无法食用部分 - 切丝 - 放入电饭锅内胆\r\n\r\n### 配料\r\n\r\n1. 小葱 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用\r\n2. 香菜 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用\r\n3. 生菜 - 洗净 - 去除根部 - 去除枯黄枯黑无法食用部分 - 切碎 - 放入小碗备用\r\n\r\n### 酱料\r\n\r\n1. 酱油 + 蚝油 + 盐 + 胡椒粉 - 搅拌均匀 - 放入小碗备用\r\n\r\n### 烹饪过程\r\n\r\n1. 主料 - 使用电饭锅煮粥模式煮熟\r\n2. 配料 - 待主料煮熟后，生菜单独过一次热水，并与其余配料一同开盖加入主料中搅拌均匀\r\n3. 酱料 - 待主料煮熟后，与其余配料一同开盖加入主料中搅拌均匀",
+  "tips": "* 作为早餐时可提前一夜准备好主料，保温模式到第二天早餐，再添加配料和酱料\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 作为早餐时可提前一夜准备好主料，保温模式到第二天早餐，再添加配料和酱料\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/皮蛋瘦肉粥.md"
+  },
+  "hash": "3daeda1ce9a9f328026365f6af478871f0eb794255d5b0ed8a48998feaece676"
+}

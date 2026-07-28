@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "ca33fa58-c716-4b62-aa60-483868d737b9",
+  "legacyIds": [
+    "breakfast_8df15267"
+  ],
+  "name": "蒸花卷",
+  "description": "这是一道北方传统面食，松软可口，带着淡淡麦香。使用冷冻花卷蒸制，能快速补充碳水化合物和膳食纤维。做法极其简单，烹饪新手也能轻松掌握，全程仅需半小时，是理想的快手早餐。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 400,
+  "requirements": [
+    {
+      "text": "冷冻花卷",
+      "markdown": "冷冻花卷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "圆碟子",
+      "markdown": "圆碟子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸架",
+      "markdown": "蒸架",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水 400ml",
+      "markdown": "水 400ml",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 冷冻花卷\r\n- 圆碟子\r\n- 蒸架\r\n- 水 400ml",
+  "ingredients": [
+    {
+      "name": "冷冻花卷",
+      "text": "冷冻花卷 5 个（女生分量 3 个即可）（可以在超市、各种买菜平台购买）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "圆碟子",
+      "text": "圆碟子，直径 28cm",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒸架",
+      "text": "蒸架，直径 20cm",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 400ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 冷冻花卷 5 个（女生分量 3 个即可）（可以在超市、各种买菜平台购买）\r\n- 圆碟子，直径 28cm\r\n- 蒸架，直径 20cm\r\n- 水 400ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "从花卷的包装袋中取出 5 个花卷"
+    },
+    {
+      "kind": "step",
+      "description": "把花卷平铺在碟子上，尽量不用重叠"
+    },
+    {
+      "kind": "step",
+      "description": "往锅里倒入 400ml 水，把蒸架放里面，把装花卷的碟子放在蒸架上，盖上锅盖。"
+    },
+    {
+      "kind": "step",
+      "description": "开大火加热，直至水沸腾。"
+    },
+    {
+      "kind": "step",
+      "description": "转中火加热 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开盖用手感受花卷的表面温度，如果不够热，就继续盖上盖子加热，否则就可以关火出锅。"
+    },
+    {
+      "kind": "step",
+      "description": "碟子取出放凉至 50 度即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 从花卷的包装袋中取出 5 个花卷\r\n2. 把花卷平铺在碟子上，尽量不用重叠\r\n3. 往锅里倒入 400ml 水，把蒸架放里面，把装花卷的碟子放在蒸架上，盖上锅盖。\r\n4. 开大火加热，直至水沸腾。\r\n5. 转中火加热 15 分钟\r\n6. 开盖用手感受花卷的表面温度，如果不够热，就继续盖上盖子加热，否则就可以关火出锅。\r\n7. 碟子取出放凉至 50 度即可食用",
+  "tips": "- 操作时，需要注意观察锅里的水不能少于 50ml。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需要注意观察锅里的水不能少于 50ml。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/蒸花卷.md"
+  },
+  "hash": "7896ccdb6bee797a4f6cd8fc97e0ef24eba583c8fc7637c7e7b327daf735da9d"
+}

@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "id": "16efa6d4-de27-4c57-bb13-3c9f30c7a647",
+  "legacyIds": [
+    "aquatic_8e3251fb"
+  ],
+  "name": "红烧鱼头",
+  "description": "红烧鱼头是一道经典的家常烧菜，鱼头胶质丰富，肉质滑嫩，汤汁咸鲜微辣，十分下饭。鱼头富含优质蛋白、卵磷脂和不饱和脂肪酸，对滋养皮肤和大脑有益。由于需要处理生鱼和剁骨，难度稍高，不建议完全零基础的新手独自操作，全程制作（含腌制）约需 2–2.5 小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 333,
+  "requirements": [
+    {
+      "text": "注：如果有可能，尽量另准备一把菜刀，超市或市场上均有廉价且刀片更厚的菜刀，刀片厚度在 5-7mm 为最佳。",
+      "markdown": "注：如果有可能，尽量另准备一把菜刀，超市或市场上均有廉价且刀片更厚的菜刀，刀片厚度在 5-7mm 为最佳。",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱、姜、大蒜、香菜、美人椒",
+      "markdown": "大葱、姜、大蒜、香菜、美人椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒",
+      "markdown": "油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角、干辣椒",
+      "markdown": "八角、干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鱼头一个",
+      "markdown": "鱼头一个",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "注：市场直接贩卖的鱼头一般分为两种：白鲢、花鲢。前者价格便宜，后者价格略贵，但口感也更佳！",
+      "markdown": "注：市场直接贩卖的鱼头一般分为两种：白鲢、花鲢。前者价格便宜，后者价格略贵，但口感也更佳！",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 注：如果有可能，尽量另准备一把菜刀，超市或市场上均有廉价且刀片更厚的菜刀，刀片厚度在 5-7mm 为最佳。\r\n- 大葱、姜、大蒜、香菜、美人椒\r\n- 油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒\r\n- 八角、干辣椒\r\n- 鱼头一个\r\n- 注：市场直接贩卖的鱼头一般分为两种：白鲢、花鲢。前者价格便宜，后者价格略贵，但口感也更佳！",
+  "ingredients": [
+    {
+      "name": "鱼头一个",
+      "text": "鱼头一个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 3-4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "美人椒",
+      "text": "美人椒 1/4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 4 棵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角两个",
+      "text": "八角两个，干辣椒五个",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，这道菜仅有足够 2 人食用的版本。\r\n\r\n* 鱼头一个\r\n* 大葱 200g\r\n* 姜 80g\r\n* 蒜瓣 3-4 个\r\n* 美人椒 1/4 个\r\n* 香菜 4 棵\r\n* 八角两个，干辣椒五个",
+  "calculationNotes": [
+    "注意，这道菜仅有足够 2 人食用的版本。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "原材料准备",
+      "description": "### 原材料准备"
+    },
+    {
+      "kind": "step",
+      "description": "葱、姜、蒜、香菜、美人椒分别清洗干净。"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒与八角稍微冲洗即可。"
+    },
+    {
+      "kind": "step",
+      "description": "大葱切两半。后半段大葱（葱白处）切段，每段长度约 4cm。前半段（葱叶处）先切段，再将每段劈为四瓣。"
+    },
+    {
+      "kind": "step",
+      "description": "姜切片，每片厚度约 3mm。"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜拍碎。"
+    },
+    {
+      "kind": "step",
+      "description": "拿出两棵香菜去根，切为 1.5cm 香菜碎。"
+    },
+    {
+      "kind": "step",
+      "description": "将美人椒切为厚度为 3mm 的辣椒圈。"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒切四段。"
+    },
+    {
+      "kind": "section",
+      "title": "腌制鱼头",
+      "description": "### 腌制鱼头"
+    },
+    {
+      "kind": "step",
+      "description": "注：下文所述的鱼身是购买鱼头时所附带的鱼肉。"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼头去鳞，清洗鱼头处未被清理干净的内脏。"
+    },
+    {
+      "kind": "step",
+      "description": "剁去鱼鳍、清理鱼鳃。"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼头下巴与鱼身连接的地方剁开，鱼身剁块，鱼头剁成四/六瓣。"
+    },
+    {
+      "kind": "step",
+      "description": "注：鱼的处理很难用文字完全表述，可以搜索鱼头处理相关视频。"
+    },
+    {
+      "kind": "step",
+      "description": "将剁好的鱼头进行清洗，最好洗掉鱼块上滞留的血水。"
+    },
+    {
+      "kind": "step",
+      "description": "将清洗好的鱼块放入盆中，加入 5g 盐、10g 生抽、10g 料酒。放入葱（前半段切碎的那个）、1/3 姜片。将其拌匀，静置 1-2 小时。"
+    },
+    {
+      "kind": "section",
+      "title": "最终步骤",
+      "description": "### 最终步骤"
+    },
+    {
+      "kind": "step",
+      "description": "加入 30ml 油，等待锅热..."
+    },
+    {
+      "kind": "step",
+      "description": "油热，将锅关至小火"
+    },
+    {
+      "kind": "step",
+      "description": "如果不明白为何要这样做，请查看[学习炒与煎](tips://learn/tips_learn_18a7f609)中的翻炒辅料。"
+    },
+    {
+      "kind": "step",
+      "description": "放入姜片，慢慢翻炒，以姜片中的大部分汁水被炒出，以金黄色为准。"
+    },
+    {
+      "kind": "step",
+      "description": "放入葱段，翻炒至葱段略显发白。"
+    },
+    {
+      "kind": "step",
+      "description": "放入蒜碎、八角、干辣椒，翻炒 5 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "将腌制好的鱼头倒入锅中，翻炒 2-3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 500ml 清水，加入 2g 盐、3g 鸡精、5g 生抽、3g 老抽、5g 料酒、2g 黑胡椒粉、3g 陈醋。"
+    },
+    {
+      "kind": "step",
+      "description": "将两棵香菜放入锅中，盖上锅盖。"
+    },
+    {
+      "kind": "step",
+      "description": "调至大火，将水烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "调至中火，慢焖入味。"
+    },
+    {
+      "kind": "step",
+      "description": "当汤汁减少一半时，打开锅盖。"
+    },
+    {
+      "kind": "step",
+      "description": "调至大火收汁，汤汁剩余 1/3 时，关火盛至小盆中。"
+    },
+    {
+      "kind": "step",
+      "description": "注：将锅中的汤汁均匀淋到鱼头上，盛盘时可以将锅中煮的香菜放入小盆底部，这样能让成品菜好看又好吃。"
+    },
+    {
+      "kind": "step",
+      "description": "将香菜放至已经盛出的鱼头上，把切好的美人椒圈放在香菜之上。"
+    },
+    {
+      "kind": "step",
+      "description": "色香味俱全的红烧鱼头出炉！"
+    }
+  ],
+  "operationMarkdown": "### 原材料准备\r\n\r\n1. 葱、姜、蒜、香菜、美人椒分别清洗干净。\r\n2. 干辣椒与八角稍微冲洗即可。\r\n3. 大葱切两半。后半段大葱（葱白处）切段，每段长度约 4cm。前半段（葱叶处）先切段，再将每段劈为四瓣。\r\n4. 姜切片，每片厚度约 3mm。\r\n5. 大蒜拍碎。\r\n6. 拿出两棵香菜去根，切为 1.5cm 香菜碎。\r\n7. 将美人椒切为厚度为 3mm 的辣椒圈。\r\n8. 干辣椒切四段。\r\n\r\n### 腌制鱼头\r\n\r\n1. 注：下文所述的鱼身是购买鱼头时所附带的鱼肉。\r\n2. 将鱼头去鳞，清洗鱼头处未被清理干净的内脏。\r\n3. 剁去鱼鳍、清理鱼鳃。\r\n4. 将鱼头下巴与鱼身连接的地方剁开，鱼身剁块，鱼头剁成四/六瓣。\r\n\r\n  * 注：鱼的处理很难用文字完全表述，可以搜索鱼头处理相关视频。\r\n\r\n5. 将剁好的鱼头进行清洗，最好洗掉鱼块上滞留的血水。\r\n6. 将清洗好的鱼块放入盆中，加入 5g 盐、10g 生抽、10g 料酒。放入葱（前半段切碎的那个）、1/3 姜片。将其拌匀，静置 1-2 小时。\r\n\r\n### 最终步骤\r\n\r\n1. 加入 30ml 油，等待锅热...\r\n2. 油热，将锅关至小火\r\n\r\n  * 如果不明白为何要这样做，请查看[学习炒与煎](tips://learn/tips_learn_18a7f609)中的翻炒辅料。\r\n\r\n3. 放入姜片，慢慢翻炒，以姜片中的大部分汁水被炒出，以金黄色为准。\r\n4. 放入葱段，翻炒至葱段略显发白。\r\n5. 放入蒜碎、八角、干辣椒，翻炒 5 秒。\r\n6. 将腌制好的鱼头倒入锅中，翻炒 2-3 分钟。\r\n7. 倒入 500ml 清水，加入 2g 盐、3g 鸡精、5g 生抽、3g 老抽、5g 料酒、2g 黑胡椒粉、3g 陈醋。\r\n8. 将两棵香菜放入锅中，盖上锅盖。\r\n9. 调至大火，将水烧开。\r\n10. 调至中火，慢焖入味。\r\n11. 当汤汁减少一半时，打开锅盖。\r\n12. 调至大火收汁，汤汁剩余 1/3 时，关火盛至小盆中。\r\n13. 注：将锅中的汤汁均匀淋到鱼头上，盛盘时可以将锅中煮的香菜放入小盆底部，这样能让成品菜好看又好吃。\r\n14. 将香菜放至已经盛出的鱼头上，把切好的美人椒圈放在香菜之上。\r\n15. 色香味俱全的红烧鱼头出炉！",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/红烧鱼头.md"
+  },
+  "hash": "45e885c9fb3960bb327ca26efa389bd6f2896e6c734a1a9eb878a52005cdb02b"
+}

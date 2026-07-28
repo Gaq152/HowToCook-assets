@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "id": "d3ad3369-b7f7-4806-8189-b409f1447d84",
+  "legacyIds": [
+    "meat_dish_81f950f4"
+  ],
+  "name": "山西过油肉",
+  "description": "过油肉是山西传统名菜，肉片滑嫩、蒜苔爽脆，咸鲜微酸，带着陈醋的醇香，属于典型的地方家常风味。猪里脊提供优质蛋白，搭配木耳、蒜苔和葱头，营养均衡。这道菜对火候和上浆技巧有一定要求，更适合有一定下厨基础的爱好者尝试。从备料到出锅，大约需要 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 679,
+  "requirements": [
+    {
+      "text": "猪里脊",
+      "markdown": "猪里脊",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苔",
+      "markdown": "蒜苔",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱姜蒜",
+      "markdown": "葱姜蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "木耳",
+      "markdown": "木耳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱头",
+      "markdown": "葱头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "陈醋",
+      "markdown": "陈醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒粉",
+      "markdown": "花椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪里脊\r\n- 蒜苔\r\n- 盐\r\n- 酱油\r\n- 葱姜蒜\r\n- 鸡蛋\r\n- 淀粉\r\n- 食用油\r\n- 木耳\r\n- 葱头\r\n- 料酒\r\n- 陈醋\r\n- 花椒粉\r\n- 鸡精",
+  "ingredients": [
+    {
+      "name": "猪里脊",
+      "text": "猪里脊 150 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苔",
+      "text": "蒜苔 6 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 300ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱姜蒜",
+      "text": "葱姜蒜 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "木耳",
+      "text": "木耳 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱头",
+      "text": "葱头 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "其他调料",
+      "text": "其他调料 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "本人饭量较大，这是本人一人量\r\n\r\n- 猪里脊 150 g\r\n- 蒜苔 6 根\r\n- 食用油 300ml\r\n- 葱姜蒜 50g\r\n- 生抽 20ml\r\n- 食盐 10g\r\n- 鸡蛋 1 个\r\n- 淀粉 10g\r\n- 木耳 20g\r\n- 葱头 100g\r\n- 其他调料 20g",
+  "calculationNotes": [
+    "本人饭量较大，这是本人一人量"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "木耳提前泡发好，如果着急可以用热水泡发。"
+    },
+    {
+      "kind": "step",
+      "description": "猪里脊切片放入碗中，加 20ml 生抽、料酒、花椒粉，打入一个鸡蛋，拿自己的小手搅拌均匀，加入淀粉（建议红薯淀粉）拌匀，倒入 300ml 食用油封浆，腌制 15 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "蒜苔切段大约 3cm，葱头切菱形块备用。"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油油要多一点，油温五成热，下入腌制好的肉片，将肉片打散，捞出控油备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中多余油倒出，留 10ml 油炒菜，油温七成热"
+    },
+    {
+      "kind": "step",
+      "description": "下入葱姜蒜爆香，先下蒜苔炒至断生，再下入木耳葱头，加入生抽，花椒粉，翻炒几下将之前炸好的肉片下入翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "加 10g 的盐，起锅前加 10ml 的醋和鸡精，起锅装盘。"
+    }
+  ],
+  "operationMarkdown": "1. 木耳提前泡发好，如果着急可以用热水泡发。\r\n2. 猪里脊切片放入碗中，加 20ml 生抽、料酒、花椒粉，打入一个鸡蛋，拿自己的小手搅拌均匀，加入淀粉（建议红薯淀粉）拌匀，倒入 300ml 食用油封浆，腌制 15 分钟。\r\n3. 蒜苔切段大约 3cm，葱头切菱形块备用。\r\n4. 起锅烧油油要多一点，油温五成热，下入腌制好的肉片，将肉片打散，捞出控油备用。\r\n5. 将锅中多余油倒出，留 10ml 油炒菜，油温七成热\r\n6. 下入葱姜蒜爆香，先下蒜苔炒至断生，再下入木耳葱头，加入生抽，花椒粉，翻炒几下将之前炸好的肉片下入翻炒\r\n7. 加 10g 的盐，起锅前加 10ml 的醋和鸡精，起锅装盘。",
+  "tips": "- 炸肉片时，表面微焦即可，注意控制火候。\r\n- 起锅前也可以打个薄薄的水淀粉，口感更佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 炸肉片时，表面微焦即可，注意控制火候。\r\n- 起锅前也可以打个薄薄的水淀粉，口感更佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/山西过油肉.md"
+  },
+  "hash": "7187dc11f8652e484b5cf9319f3f3fa2965fb3f4a9889d70e544a4bb20bc33d3"
+}

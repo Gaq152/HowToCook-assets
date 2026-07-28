@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 2,
+  "id": "c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b",
+  "legacyIds": [
+    "meat_dish_ab906096"
+  ],
+  "name": "柱候牛腩",
+  "description": "这是一道经典广式风味菜肴，肉香浓郁，色泽红亮，带筋牛腩软烂入味，口感丰富。富含优质蛋白质和胶原蛋白，滋补暖身。虽需一定耐心，但使用高压锅能大幅缩短时间，对新手也较友好。普通炖煮约需 3 小时，用高压锅则约 1 小时即可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 980,
+  "requirements": [
+    {
+      "text": "炖煮锅，高压锅（可选，但极度推荐！）",
+      "markdown": "炖煮锅，高压锅（可选，但极度推荐！）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛腩（首选坑腩，带筋的部位） 牛腩部位",
+      "markdown": "牛腩（首选坑腩，带筋的部位）\n![牛腩部位](./牛腩部位.jpeg)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柱候酱（核心酱），郫县豆瓣酱，南腐乳，叉烧酱（可选），蚝油， 老抽，生抽",
+      "markdown": "柱候酱（核心酱），郫县豆瓣酱，南腐乳，叉烧酱（可选），蚝油， 老抽，生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花雕酒，白酒",
+      "markdown": "花雕酒，白酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶， 花椒，八角，干辣椒，丁香，甘草，干辣椒，小米辣（可选），姜，蒜",
+      "markdown": "香叶， 花椒，八角，干辣椒，丁香，甘草，干辣椒，小米辣（可选），姜，蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 炖煮锅，高压锅（可选，但极度推荐！）\r\n- 牛腩（首选坑腩，带筋的部位）\r\n  ![牛腩部位](./牛腩部位.jpeg)\r\n- 柱候酱（核心酱），郫县豆瓣酱，南腐乳，叉烧酱（可选），蚝油， 老抽，生抽\r\n- 花雕酒，白酒\r\n- 香叶， 花椒，八角，干辣椒，丁香，甘草，干辣椒，小米辣（可选），姜，蒜",
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "text": "牛腩 500-600g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜半头",
+      "text": "蒜半头",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 1 条（可根据口味调整用量）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 0.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 3 个（可根据口味调整用量）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "丁香",
+      "text": "丁香 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甘草",
+      "text": "甘草 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "南腐乳",
+      "text": "南腐乳 2 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "text": "郫县豆瓣酱 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花雕酒",
+      "text": "花雕酒 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白酒",
+      "text": "白酒 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柱候酱",
+      "text": "柱候酱 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 60g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "叉烧酱",
+      "text": "叉烧酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "以下为一份两人食用的量：\r\n\r\n- 牛腩 500-600g\r\n- 姜 30g\r\n- 蒜半头\r\n- 小米辣 1 条（可根据口味调整用量）\r\n- 香叶 2 片\r\n- 花椒 0.5g\r\n- 八角 2 个\r\n- 干辣椒 3 个（可根据口味调整用量）\r\n- 丁香 3 个\r\n- 甘草 2 片\r\n- 南腐乳 2 块\r\n- 郫县豆瓣酱 15g\r\n- 冰糖 10g\r\n- 花雕酒 10g\r\n- 白酒 20g\r\n- 柱候酱 50g\r\n- 蚝油 20g\r\n- 老抽 5g\r\n- 生抽 60g\r\n- 叉烧酱 20g",
+  "calculationNotes": [
+    "以下为一份两人食用的量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "先把辅料备好："
+    },
+    {
+      "kind": "step",
+      "description": "碗 1：姜切成 1.5cm\\*1.5cm 的小块，半头蒜剥好皮，如果有小米辣切成 1cm 小段\n  ![碗 1](./碗1.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 2：放入 2 片香叶，0.5g 花椒，2 个八角，3 个干辣椒，3 个丁香， 2 片甘草\n  ![碗 2](./碗2.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 3: 放入 2 块南乳\n  ![碗 3](./碗3.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 4: 放入 15g 豆瓣酱\n  ![碗 4](./碗4.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 5: 放入 10g 冰糖\n  ![碗 5](./碗5.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 6：倒入花雕酒 10g 和白酒 10g\n  ![碗 6](./碗6.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "碗 7：加入 50g 柱候酱，20g 蚝油，20g 叉烧酱，5g 老抽，60g 生抽\n  ![碗 7](./碗7.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "牛肉不用切，直接冷水下锅，开大火焯水，水沸腾时将牛肉捞出\n![牛腩焯水](./牛腩焯水.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "冲洗牛肉表面的杂质后，切成 4cm\\*4cm\\*4cm 的大块，控干水后放入碗中备用\n![牛腩切块](./牛腩切块.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "大火，热锅下油，把碗 1（姜、蒜、小米辣）倒入锅中，炒香"
+    },
+    {
+      "kind": "step",
+      "description": "中小火，倒入碗 2（香料），翻炒均匀，大概 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "中小火，放入碗 3（南乳），用锅铲把南乳压碎"
+    },
+    {
+      "kind": "step",
+      "description": "中小火，放入碗 4（豆瓣酱），翻炒均匀，大概 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "中小火，放入碗 5（冰糖），炒至融化"
+    },
+    {
+      "kind": "step",
+      "description": "中小火，下入牛腩，炒至牛肉上色"
+    },
+    {
+      "kind": "step",
+      "description": "大火，沿锅边淋入碗 6（酒），快速翻炒，炒至牛肉表面略微焦褐"
+    },
+    {
+      "kind": "step",
+      "description": "倒入碗 7（酱料），快速翻炒，留意底层汁水，炒至不停冒小气泡，汤汁略微浓稠\n![牛腩此时可开始炖煮](./牛腩此时可开始炖煮.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "将锅内全部食材转移至另一个炖煮锅或高压锅，加水淹过食材\n![牛腩入锅](./牛腩入锅.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "根据使用的锅来选择炖肉的时间："
+    },
+    {
+      "kind": "step",
+      "description": "a. 普通炖煮锅：小火炖煮 3 个小时"
+    },
+    {
+      "kind": "step",
+      "description": "b. 高压锅：压 40 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "时间到后开盖调味，如果不够咸加盐或生抽（少量加，不断尝味道，直到合适），不够甜则同理加糖"
+    },
+    {
+      "kind": "step",
+      "description": "调好味道后便可以把牛腩先捞出"
+    },
+    {
+      "kind": "step",
+      "description": "如果要吃萝卜土豆，则削皮切成 2cm 厚片倒入锅中煮 10 - 15 分钟（或煮至想要吃的口感），如果是高压锅则在加压煮 5 分钟\n![土豆切片](./土豆切片.jpeg)"
+    },
+    {
+      "kind": "step",
+      "description": "煮好后捞出萝卜土豆和牛腩放一起"
+    },
+    {
+      "kind": "step",
+      "description": "把汤汁过滤淋入碗中\n![过滤汤汁](./过滤汤汁.jpeg)"
+    }
+  ],
+  "operationMarkdown": "1. 先把辅料备好：\r\n\r\n  - 碗 1：姜切成 1.5cm\\*1.5cm 的小块，半头蒜剥好皮，如果有小米辣切成 1cm 小段\r\n    ![碗 1](./碗1.jpeg)\r\n  - 碗 2：放入 2 片香叶，0.5g 花椒，2 个八角，3 个干辣椒，3 个丁香， 2 片甘草\r\n    ![碗 2](./碗2.jpeg)\r\n  - 碗 3: 放入 2 块南乳\r\n    ![碗 3](./碗3.jpeg)\r\n  - 碗 4: 放入 15g 豆瓣酱\r\n    ![碗 4](./碗4.jpeg)\r\n  - 碗 5: 放入 10g 冰糖\r\n    ![碗 5](./碗5.jpeg)\r\n  - 碗 6：倒入花雕酒 10g 和白酒 10g\r\n    ![碗 6](./碗6.jpeg)\r\n  - 碗 7：加入 50g 柱候酱，20g 蚝油，20g 叉烧酱，5g 老抽，60g 生抽\r\n    ![碗 7](./碗7.jpeg)\r\n\r\n2. 牛肉不用切，直接冷水下锅，开大火焯水，水沸腾时将牛肉捞出\r\n  ![牛腩焯水](./牛腩焯水.jpeg)\r\n3. 冲洗牛肉表面的杂质后，切成 4cm\\*4cm\\*4cm 的大块，控干水后放入碗中备用\r\n  ![牛腩切块](./牛腩切块.jpeg)\r\n4. 大火，热锅下油，把碗 1（姜、蒜、小米辣）倒入锅中，炒香\r\n5. 中小火，倒入碗 2（香料），翻炒均匀，大概 30 秒\r\n6. 中小火，放入碗 3（南乳），用锅铲把南乳压碎\r\n7. 中小火，放入碗 4（豆瓣酱），翻炒均匀，大概 30 秒\r\n8. 中小火，放入碗 5（冰糖），炒至融化\r\n9. 中小火，下入牛腩，炒至牛肉上色\r\n10. 大火，沿锅边淋入碗 6（酒），快速翻炒，炒至牛肉表面略微焦褐\r\n11. 倒入碗 7（酱料），快速翻炒，留意底层汁水，炒至不停冒小气泡，汤汁略微浓稠\r\n  ![牛腩此时可开始炖煮](./牛腩此时可开始炖煮.jpeg)\r\n12. 将锅内全部食材转移至另一个炖煮锅或高压锅，加水淹过食材\r\n  ![牛腩入锅](./牛腩入锅.jpeg)\r\n13. 根据使用的锅来选择炖肉的时间：\r\n\r\n  - a. 普通炖煮锅：小火炖煮 3 个小时\r\n  - b. 高压锅：压 40 分钟\r\n\r\n14. 时间到后开盖调味，如果不够咸加盐或生抽（少量加，不断尝味道，直到合适），不够甜则同理加糖\r\n15. 调好味道后便可以把牛腩先捞出\r\n16. 如果要吃萝卜土豆，则削皮切成 2cm 厚片倒入锅中煮 10 - 15 分钟（或煮至想要吃的口感），如果是高压锅则在加压煮 5 分钟\r\n  ![土豆切片](./土豆切片.jpeg)\r\n17. 煮好后捞出萝卜土豆和牛腩放一起\r\n18. 把汤汁过滤淋入碗中\r\n  ![过滤汤汁](./过滤汤汁.jpeg)",
+  "tips": "- 参考: [柱候牛腩+茅根马蹄竹蔗水教程](https://www.bilibili.com/video/BV12C4y1W7ox)\r\n- 操作高压锅要注意安全哦！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 参考: [柱候牛腩+茅根马蹄竹蔗水教程](https://www.bilibili.com/video/BV12C4y1W7ox)\r\n- 操作高压锅要注意安全哦！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_0.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_1.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_2.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_3.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_4.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_5.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_6.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_7.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_8.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_9.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_10.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_11.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_12.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_13.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_14.webp",
+    "images/meat_dish/c7953f83-b8e3-4fc3-b2f9-4175c6ef0f0b_15.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/柱候牛腩/柱候牛腩.md"
+  },
+  "hash": "e0c69be2fd284927c70992a852a397e4d70617d5cf22e3df40ad0fd72cce31ee"
+}

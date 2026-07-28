@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "id": "73b93360-ad02-4448-82f4-0dfb4c4aa29d",
+  "legacyIds": [],
+  "name": "澳门湿版免治牛肉饭",
+  "description": "这是一道经典的澳门葡式风味快餐，牛肉碎嫩滑咸香，裹着浓郁酱汁和半熟蛋液，拌入米饭后口感油润诱人。牛肉末提供优质蛋白质，搭配鸡蛋和洋葱，营养均衡管饱。操作步骤简单易上手，特别适合新手尝试，从备料到出锅大约只需 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1011,
+  "requirements": [
+    {
+      "text": "牛肉末（可以用稍微肥一点的猪肉末代替）",
+      "markdown": "牛肉末（可以用稍微肥一点的猪肉末代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油（可用普通食用油代替）",
+      "markdown": "黄油（可用普通食用油代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱（可选）",
+      "markdown": "小葱（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒",
+      "markdown": "黑胡椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛肉末（可以用稍微肥一点的猪肉末代替）\r\n- 洋葱\r\n- 鸡蛋\r\n- 黄油（可用普通食用油代替）\r\n- 小葱（可选）\r\n- 生抽\r\n- 老抽\r\n- 番茄酱\r\n- 白糖\r\n- 料酒\r\n- 黑胡椒\r\n- 淀粉\r\n- 米饭",
+  "ingredients": [
+    {
+      "name": "牛肉末",
+      "text": "牛肉末 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱 半个",
+      "text": "洋葱 半个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（用于制作水波蛋或半熟煎蛋）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 3 汤匙（1 汤匙用于腌制，2 汤匙用于料汁）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽 半汤匙",
+      "text": "老抽 半汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 2 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖 半汤匙",
+      "text": "白糖 半汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 1 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 1 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 50ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 牛肉末 200g\r\n- 洋葱 半个\r\n- 鸡蛋 1 个（用于制作水波蛋或半熟煎蛋）\r\n- 生抽 3 汤匙（1 汤匙用于腌制，2 汤匙用于料汁）\r\n- 老抽 半汤匙\r\n- 番茄酱 2 汤匙\r\n- 白糖 半汤匙\r\n- 料酒 1 汤匙\r\n- 淀粉 1 汤匙\r\n- 清水 50ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 200g 牛肉末放入碗中，加入 1 汤匙生抽、半汤匙白糖和 2g 黑胡椒，搅拌均匀，**等待腌制 10 分钟**。"
+    },
+    {
+      "kind": "step",
+      "description": "将半个洋葱切成小丁，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "调制料汁：在碗中加入 2 汤匙生抽、2 汤匙番茄酱、1 汤匙料酒、1 汤匙淀粉、半汤匙老抽和 50ml 清水，搅拌均匀备用。"
+    },
+    {
+      "kind": "step",
+      "description": "另起一锅，制作一个水波蛋或半熟煎蛋，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，放入 10g 黄油。待黄油融化后，放入洋葱丁，小火煎熟至散发香味。"
+    },
+    {
+      "kind": "step",
+      "description": "加入腌制好的牛肉末，与洋葱一起翻炒至牛肉变色。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入调好的料汁，撒上 2g 黑胡椒，继续炒制直至汤汁变粘稠后关火。"
+    },
+    {
+      "kind": "step",
+      "description": "将炒好的免治牛肉浇在热米饭上，放上提前准备好的水波蛋或半熟煎蛋。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）表面撒上 5g 切好的小葱花作装饰。"
+    }
+  ],
+  "operationMarkdown": "1. 将 200g 牛肉末放入碗中，加入 1 汤匙生抽、半汤匙白糖和 2g 黑胡椒，搅拌均匀，**等待腌制 10 分钟**。\r\n2. 将半个洋葱切成小丁，备用。\r\n3. 调制料汁：在碗中加入 2 汤匙生抽、2 汤匙番茄酱、1 汤匙料酒、1 汤匙淀粉、半汤匙老抽和 50ml 清水，搅拌均匀备用。\r\n4. 另起一锅，制作一个水波蛋或半熟煎蛋，备用。\r\n5. 热锅，放入 10g 黄油。待黄油融化后，放入洋葱丁，小火煎熟至散发香味。\r\n6. 加入腌制好的牛肉末，与洋葱一起翻炒至牛肉变色。\r\n7. 倒入调好的料汁，撒上 2g 黑胡椒，继续炒制直至汤汁变粘稠后关火。\r\n8. 将炒好的免治牛肉浇在热米饭上，放上提前准备好的水波蛋或半熟煎蛋。\r\n9. （可选）表面撒上 5g 切好的小葱花作装饰。",
+  "tips": "- 如果没有黄油，使用普通食用油也可以，但黄油会增加独特的奶香味。\r\n- 吃的时候将半熟的蛋黄戳破，与牛肉和米饭拌匀食用，口感最佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果没有黄油，使用普通食用油也可以，但黄油会增加独特的奶香味。\r\n- 吃的时候将半熟的蛋黄戳破，与牛肉和米饭拌匀食用，口感最佳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/73b93360-ad02-4448-82f4-0dfb4c4aa29d_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md"
+  },
+  "hash": "4f76e9953e60ff14f3064be962b31bf5fd6e50f4acda61eb60ab659b2e077617"
+}

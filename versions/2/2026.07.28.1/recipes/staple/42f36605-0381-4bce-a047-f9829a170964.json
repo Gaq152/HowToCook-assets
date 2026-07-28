@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "id": "42f36605-0381-4bce-a047-f9829a170964",
+  "legacyIds": [],
+  "name": "咸肉菜饭",
+  "description": "这是一道充满上海弄堂风情的家常主食，咸肉的醇香与青菜的清甜在猪油的点化下融进每一粒米饭，既有锅巴焦脆，又保留菜梗爽嫩，层次分明。青菜富含维生素和膳食纤维，咸肉提供蛋白质与能量，荤素搭配均衡。做法并不复杂，但需要掌握分次下菜叶的小技巧，对新手而言稍有挑战。从头备料到出锅，大约需要 1 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 847,
+  "requirements": [
+    {
+      "text": "大米",
+      "markdown": "大米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青菜（推荐矮脚青菜，又称上海青）",
+      "markdown": "青菜（推荐矮脚青菜，又称上海青）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "咸肉（淡咸肉）",
+      "markdown": "咸肉（淡咸肉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冬笋（可选）",
+      "markdown": "冬笋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油",
+      "markdown": "猪油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒（可选）",
+      "markdown": "料酒（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖（可选）",
+      "markdown": "白糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉（可选）",
+      "markdown": "白胡椒粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大米\r\n- 青菜（推荐矮脚青菜，又称上海青）\r\n- 咸肉（淡咸肉）\r\n- 冬笋（可选）\r\n- 猪油\r\n- 料酒（可选）\r\n- 白糖（可选）\r\n- 白胡椒粉（可选）",
+  "ingredients": [
+    {
+      "name": "大米",
+      "text": "大米 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 310 ml（偏硬 300 ml，偏软 325 ml，如果加入冬笋，额外加入 20 ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青菜",
+      "text": "青菜 400 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "咸肉",
+      "text": "咸肉 150 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冬笋",
+      "text": "冬笋 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油",
+      "text": "猪油 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 0-3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 1 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 3 个人吃。\r\n\r\n每份：\r\n\r\n- 大米 300 g\r\n- 水 310 ml（偏硬 300 ml，偏软 325 ml，如果加入冬笋，额外加入 20 ml）\r\n- 青菜 400 g\r\n- 咸肉 150 g\r\n- 冬笋 100 g\r\n- 猪油 15 g\r\n- 料酒 15 ml\r\n- 白糖 0-3 g\r\n- 白胡椒粉 1 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 3 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "如果加入冬笋，切薄片后冷水下锅煮 10 分钟去涩味"
+    },
+    {
+      "kind": "step",
+      "description": "咸肉切 1 cm 小丁"
+    },
+    {
+      "kind": "step",
+      "description": "咸肉和冬笋冷锅下 10 g 猪油、料酒、白糖，中小火煸炒到透明冒泡"
+    },
+    {
+      "kind": "step",
+      "description": "青菜切碎，菜梗和菜叶分开放，菜梗切成 0.5 cm 边长的正方形小块，菜叶切成长 2-3 cm，宽 1-1.5 cm 的长方形小块"
+    },
+    {
+      "kind": "step",
+      "description": "菜梗下锅炒到翡翠色"
+    },
+    {
+      "kind": "step",
+      "description": "米淘净后倒进电饭煲，加水"
+    },
+    {
+      "kind": "step",
+      "description": "把炒好的咸肉和菜梗铺在米上"
+    },
+    {
+      "kind": "step",
+      "description": "正常煮饭模式启动，最后 10 分钟开盖快速铺入菜叶"
+    },
+    {
+      "kind": "step",
+      "description": "煮好后焖 5 分钟，再淋 5 g 猪油、白胡椒粉疯狂翻拌均匀"
+    }
+  ],
+  "operationMarkdown": "1. 如果加入冬笋，切薄片后冷水下锅煮 10 分钟去涩味\r\n2. 咸肉切 1 cm 小丁\r\n3. 咸肉和冬笋冷锅下 10 g 猪油、料酒、白糖，中小火煸炒到透明冒泡\r\n4. 青菜切碎，菜梗和菜叶分开放，菜梗切成 0.5 cm 边长的正方形小块，菜叶切成长 2-3 cm，宽 1-1.5 cm 的长方形小块\r\n5. 菜梗下锅炒到翡翠色\r\n6. 米淘净后倒进电饭煲，加水\r\n7. 把炒好的咸肉和菜梗铺在米上\r\n8. 正常煮饭模式启动，最后 10 分钟开盖快速铺入菜叶\r\n9. 煮好后焖 5 分钟，再淋 5 g 猪油、白胡椒粉疯狂翻拌均匀",
+  "tips": "- 炒好的咸肉和菜梗铺在饭上，煮饭时千万不要搅匀\r\n- 尽量不要买“家乡鲜肉”，可以预期会很咸。如果不是淡咸肉可以混入新鲜五花肉丁，或减少咸肉的用量，或将瘦肉部分切下泡入 5% 糖水 20 分钟。\r\n- 参考资料：[咸肉菜饭 - 维基百科](https://wuu.wikipedia.org/wiki/%E5%92%B8%E8%82%89%E8%8F%9C%E9%A5%AD)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 炒好的咸肉和菜梗铺在饭上，煮饭时千万不要搅匀\r\n- 尽量不要买“家乡鲜肉”，可以预期会很咸。如果不是淡咸肉可以混入新鲜五花肉丁，或减少咸肉的用量，或将瘦肉部分切下泡入 5% 糖水 20 分钟。\r\n- 参考资料：[咸肉菜饭 - 维基百科](https://wuu.wikipedia.org/wiki/%E5%92%B8%E8%82%89%E8%8F%9C%E9%A5%AD)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/咸肉菜饭.md"
+  },
+  "hash": "d37eaf24f91d3f83e8f298dcc557ac06ab8503d7b699ddebbd7af57862e28157"
+}

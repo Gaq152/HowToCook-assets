@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "id": "ca6b7deb-ec59-4285-99e1-6bf91e9c8477",
+  "legacyIds": [
+    "staple_0694cdeb"
+  ],
+  "name": "芝麻烧饼",
+  "description": "![芝麻烧饼-预览图-1](./芝麻烧饼.jpg)\n芝麻烧饼是北方家喻户晓的面点，外皮沾满芝麻酥香可口，内层层次分明、松软适口。面粉提供充足的碳水化合物，芝麻含有丰富的钙和不饱和脂肪酸。制作过程虽然包含揉面、做油酥等步骤，但操作并不复杂，初学者也能跟着做出来。从备料到出锅大约需要 40 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 282,
+  "requirements": [
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酵母粉",
+      "markdown": "酵母粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "十三香",
+      "markdown": "十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "温水( 40℃ )",
+      "markdown": "温水( 40℃ )",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 面粉\r\n- 酵母粉\r\n- 白糖\r\n- 十三香\r\n- 食用油\r\n- 温水( 40℃ )",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "text": "面粉",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "酵母粉",
+      "text": "酵母粉",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "十三香",
+      "text": "十三香",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "温水(",
+      "text": "温水( 40℃ )",
+      "optional": false,
+      "source": "requirements-fallback"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "菜谱食材为 7 张饼的量",
+  "calculationNotes": [
+    "菜谱食材为 7 张饼的量"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "面团：300 克面粉，3 克酵母粉，3 克白糖，180 克温水，20 克食用油，醒面 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "油酥：小碗放 30 克面粉，2 克盐，4 克十三香，20 克食用油，拌匀后，静置"
+    },
+    {
+      "kind": "step",
+      "description": "做饼：面擀成长方形，抹上调好的油酥，从一头卷起，切成 7 个面剂子，对折，用虎口收拢即可，先沾水再沾白芝麻，擀成小圆饼"
+    },
+    {
+      "kind": "step",
+      "description": "烙饼：将电饼铛预热，倒入凉油（锅底铺满油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀盖上盖子，选大饼档,听到叮的一声出锅即可"
+    }
+  ],
+  "operationMarkdown": "1. 面团：300 克面粉，3 克酵母粉，3 克白糖，180 克温水，20 克食用油，醒面 10 分钟\r\n2. 油酥：小碗放 30 克面粉，2 克盐，4 克十三香，20 克食用油，拌匀后，静置\r\n3. 做饼：面擀成长方形，抹上调好的油酥，从一头卷起，切成 7 个面剂子，对折，用虎口收拢即可，先沾水再沾白芝麻，擀成小圆饼\r\n4. 烙饼：将电饼铛预热，倒入凉油（锅底铺满油），将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀盖上盖子，选大饼档,听到叮的一声出锅即可",
+  "tips": "- 如果没有电饼铛，也可以用平底锅\r\n- 芝麻如果没有也可不用，一样好吃\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果没有电饼铛，也可以用平底锅\r\n- 芝麻如果没有也可不用，一样好吃\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/ca6b7deb-ec59-4285-99e1-6bf91e9c8477_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/烧饼/芝麻烧饼.md"
+  },
+  "hash": "20a3b9af5a1637d982a5e1c346350911f2f31a2f95115f18c31d43e39929d2d2"
+}

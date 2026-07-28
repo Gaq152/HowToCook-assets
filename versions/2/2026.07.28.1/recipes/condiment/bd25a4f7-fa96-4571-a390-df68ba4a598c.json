@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "id": "bd25a4f7-fa96-4571-a390-df68ba4a598c",
+  "legacyIds": [
+    "condiment_f276bc66"
+  ],
+  "name": "蔗糖糖浆",
+  "description": "自制饮料糖浆，按 1：1 比例将白砂糖与水混合溶解，方便控制冷饮甜度，是调饮的基础配方。富含碳水化合物，能快速补充能量。做法极其简单，对新手非常友好，仅需几分钟即可完成，冷藏可保存一周。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 400,
+  "requirements": [
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可密封容器（建议使用高硼硅试剂瓶，便宜）",
+      "markdown": "可密封容器（建议使用高硼硅试剂瓶，便宜）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "原料\r\n\r\n- 白砂糖\r\n- 水\r\n\r\n工具\r\n\r\n- 可密封容器（建议使用高硼硅试剂瓶，便宜）\r\n\r\n![蔗糖糖浆-预览图-1](./bottle.jpg)",
+  "ingredients": [
+    {
+      "name": "水",
+      "text": "水 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "建议比例=>糖 : 水 = 1 : 1，这样方便进行糖量控制，比如想要 15 克糖，就量取 30 克的糖浆\r\n\r\n- 水 100 克\r\n- 白砂糖 100 克",
+  "calculationNotes": [
+    "建议比例=>糖 : 水 = 1 : 1，这样方便进行糖量控制，比如想要 15 克糖，就量取 30 克的糖浆"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将称好的白砂糖的饮用水于容器混匀"
+    },
+    {
+      "kind": "step",
+      "description": "容器封盖放冰箱冷藏"
+    }
+  ],
+  "operationMarkdown": "1. 将称好的白砂糖的饮用水于容器混匀\r\n2. 容器封盖放冰箱冷藏",
+  "tips": "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆。\r\n\r\n配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "水无论冷热都可，如果比较急用，可用热水溶解后再冷却糖浆。\r\n\r\n配制好的糖浆不会轻易变质，在冷藏状态下保存一周通常是没问题的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/condiment/bd25a4f7-fa96-4571-a390-df68ba4a598c_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
+  },
+  "hash": "6ed7e97ddc0a458313b802ccd42995ef7c0a3bb966eb35127638dc808c4f1c83"
+}

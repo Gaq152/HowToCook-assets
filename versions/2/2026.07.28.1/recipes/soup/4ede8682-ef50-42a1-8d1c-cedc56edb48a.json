@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 2,
+  "id": "4ede8682-ef50-42a1-8d1c-cedc56edb48a",
+  "legacyIds": [
+    "soup_92395d98"
+  ],
+  "name": "西红柿鸡蛋汤",
+  "description": "西红柿鸡蛋汤是一道酸甜开胃、口感滑嫩的家常汤品，做法极简，属于老少皆宜的大众菜肴。富含番茄红素、维生素 C 和优质蛋白质，营养均衡易吸收。对新手非常友好，快手省时，预计制作时长 大约 15 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 258,
+  "requirements": [
+    {
+      "text": "西红柿",
+      "markdown": "西红柿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味素",
+      "markdown": "味素",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱、姜、蒜",
+      "markdown": "葱、姜、蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 西红柿\r\n- 鸡蛋\r\n- 香油\r\n- 味素\r\n- 盐\r\n- 葱、姜、蒜",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "text": "西红柿 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1-2 个（依照自己的口味而定，喜欢吃鸡蛋就放 2 个，一般就放 1 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 2 滴",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味素",
+      "text": "味素 5 克（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱、姜、蒜共",
+      "text": "葱、姜、蒜共 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 西红柿 1 个\r\n- 鸡蛋 1-2 个（依照自己的口味而定，喜欢吃鸡蛋就放 2 个，一般就放 1 个）\r\n- 香油 2 滴\r\n- 味素 5 克（可选）\r\n- 盐 15 克\r\n- 葱、姜、蒜共 15 克",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将西红柿洗净，切块。"
+    },
+    {
+      "kind": "step",
+      "description": "葱姜蒜切碎。"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋打到碗中，用筷子（或打蛋器）搅拌均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，并放入 15 毫升的油，待能从油中看到冒出一丝烟时，放入葱姜蒜翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入西红柿翻炒 1 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入水，水的高度大约为锅内菜品高度的 1.2 倍，并放入盐。"
+    },
+    {
+      "kind": "step",
+      "description": "待开锅后，将鸡蛋液放入，并用筷子将鸡蛋打散，放入味素和香油。"
+    },
+    {
+      "kind": "step",
+      "description": "等待 30 秒，关火出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 将西红柿洗净，切块。\r\n2. 葱姜蒜切碎。\r\n3. 鸡蛋打到碗中，用筷子（或打蛋器）搅拌均匀。\r\n4. 热锅，并放入 15 毫升的油，待能从油中看到冒出一丝烟时，放入葱姜蒜翻炒 30 秒。\r\n5. 放入西红柿翻炒 1 分钟。\r\n6. 倒入水，水的高度大约为锅内菜品高度的 1.2 倍，并放入盐。\r\n7. 待开锅后，将鸡蛋液放入，并用筷子将鸡蛋打散，放入味素和香油。\r\n8. 等待 30 秒，关火出锅。",
+  "tips": "味素可加可不加。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "味素可加可不加。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/西红柿鸡蛋汤.md"
+  },
+  "hash": "6bf8cf262d5843d31ca0896de9aabf2fb7e2b5543e4ff4e3571daf58ab267401"
+}

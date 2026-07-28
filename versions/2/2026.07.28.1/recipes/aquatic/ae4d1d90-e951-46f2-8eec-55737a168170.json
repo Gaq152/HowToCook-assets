@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 2,
+  "id": "ae4d1d90-e951-46f2-8eec-55737a168170",
+  "legacyIds": [
+    "aquatic_7093e3ab"
+  ],
+  "name": "香煎翘嘴鱼",
+  "description": "香煎翘嘴鱼是一道风味浓郁的家常河鲜，鱼身经腌晒后干香紧实，煎至外皮金黄酥脆，肉质细腻咸鲜，带着豆瓣与青椒的微辣回甜。鱼肉富含优质蛋白和不饱和脂肪酸，营养易吸收。制作需要提前腌晒两到四天，烹饪时间约半小时，煎鱼时需耐心控火，对新手稍有挑战，但成菜后香气扑鼻，格外下饭。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 820,
+  "requirements": [
+    {
+      "text": "翘嘴鱼（肉食性鱼类，肉细腻，口感好）",
+      "markdown": "翘嘴鱼（肉食性鱼类，肉细腻，口感好）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 翘嘴鱼（肉食性鱼类，肉细腻，口感好）\r\n- 姜\r\n- 葱\r\n- 蒜\r\n- 青椒\r\n- 香菜\r\n- 老抽\r\n- 白糖\r\n- 豆瓣酱\r\n- 料酒\r\n- 生抽\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "翘嘴鱼",
+      "text": "翘嘴鱼：2 斤最佳",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜沫",
+      "text": "姜沫：20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱：半根（50 克）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜：4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜：个人口味",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽：2ml（不太喜欢重口的可以不放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖：10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒：4-6 个（根据个人口味选择）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒：100ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽：4ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐：约 50g 用于腌制鱼",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：100ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注：这个量大概是 2-3 个人的量\r\n\r\n每份：\r\n\r\n- 翘嘴鱼：2 斤最佳\r\n- 姜沫：20g\r\n- 葱：半根（50 克）\r\n- 蒜：4 个\r\n- 香菜：个人口味\r\n- 老抽：2ml（不太喜欢重口的可以不放）\r\n- 白糖：10g\r\n- 干辣椒：4-6 个（根据个人口味选择）\r\n- 料酒：100ml\r\n- 生抽：4ml\r\n- 盐：约 50g 用于腌制鱼\r\n- 食用油：100ml",
+  "calculationNotes": [
+    "注：这个量大概是 2-3 个人的量",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鱼开背杀好（让卖鱼的杀好，千万不要剖腹杀鱼，切记是开背），清洗干净"
+    },
+    {
+      "kind": "step",
+      "description": "鱼表面用盐涂抹均匀，倒入料酒约 80ml,姜末 20g，放入冰箱保鲜层进行腌制 1-2 天"
+    },
+    {
+      "kind": "step",
+      "description": "取出腌制好的鱼，用绳挂起晾晒至半干（约 1-2 天，具体时间需结合气温与阳光）"
+    },
+    {
+      "kind": "step",
+      "description": "食用前请将鱼用清水清洗，沥干水分（防止水遇油飞溅）"
+    },
+    {
+      "kind": "step",
+      "description": "开大火将锅烧热，迅速改小火，锅中放油，尽量保持整个锅表面有油，将鱼沿锅边划入锅内（先煎鱼背面）"
+    },
+    {
+      "kind": "step",
+      "description": "鱼入锅后（和翻面后），不要着急移动鱼的位置（此时容易破皮），煎约 30 秒后，尝试晃动锅"
+    },
+    {
+      "kind": "step",
+      "description": "背面煎约 1 分钟后，翻面煎约 1-2 分钟，煎至两面金黄"
+    },
+    {
+      "kind": "step",
+      "description": "等两面都煎好时，把鱼推向锅边一点，留点空间放入豆瓣酱炒香味，放入姜蒜，"
+    },
+    {
+      "kind": "step",
+      "description": "炒出佐料香味后，加入料酒，生抽，老抽，倒入热水，水量和鱼平齐或者少点"
+    },
+    {
+      "kind": "step",
+      "description": "此时改中大火，煮 5-10 分钟，后放入青椒断，白糖，鸡精，十三香，陈醋"
+    },
+    {
+      "kind": "step",
+      "description": "改小火 2-5 分钟，放入葱，香菜，即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 鱼开背杀好（让卖鱼的杀好，千万不要剖腹杀鱼，切记是开背），清洗干净\r\n2. 鱼表面用盐涂抹均匀，倒入料酒约 80ml,姜末 20g，放入冰箱保鲜层进行腌制 1-2 天\r\n3. 取出腌制好的鱼，用绳挂起晾晒至半干（约 1-2 天，具体时间需结合气温与阳光）\r\n4. 食用前请将鱼用清水清洗，沥干水分（防止水遇油飞溅）\r\n5. 开大火将锅烧热，迅速改小火，锅中放油，尽量保持整个锅表面有油，将鱼沿锅边划入锅内（先煎鱼背面）\r\n6. 鱼入锅后（和翻面后），不要着急移动鱼的位置（此时容易破皮），煎约 30 秒后，尝试晃动锅\r\n7. 背面煎约 1 分钟后，翻面煎约 1-2 分钟，煎至两面金黄\r\n8. 等两面都煎好时，把鱼推向锅边一点，留点空间放入豆瓣酱炒香味，放入姜蒜，\r\n9. 炒出佐料香味后，加入料酒，生抽，老抽，倒入热水，水量和鱼平齐或者少点\r\n10. 此时改中大火，煮 5-10 分钟，后放入青椒断，白糖，鸡精，十三香，陈醋\r\n11. 改小火 2-5 分钟，放入葱，香菜，即可出锅",
+  "tips": "- 切记鱼是开背杀，腌制时，鱼表面涂抹均匀食盐即可，腌制时间，晾晒时间 1-2 天即可\r\n- 煎鱼全程小火，刚入锅时不要移动鱼，会破皮\r\n- 青椒断放入后注意观察熟透程度，里面的青椒很好吃，另外香菜最后放\r\n- 注意火候的切换，豆瓣酱，白糖的调鲜效果，与陈醋的增香效果\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 切记鱼是开背杀，腌制时，鱼表面涂抹均匀食盐即可，腌制时间，晾晒时间 1-2 天即可\r\n- 煎鱼全程小火，刚入锅时不要移动鱼，会破皮\r\n- 青椒断放入后注意观察熟透程度，里面的青椒很好吃，另外香菜最后放\r\n- 注意火候的切换，豆瓣酱，白糖的调鲜效果，与陈醋的增香效果\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/ae4d1d90-e951-46f2-8eec-55737a168170_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md"
+  },
+  "hash": "e52ef490341c96ba63106f9909e76c4458dee275fb0ba3388e0041280ff38b5a"
+}

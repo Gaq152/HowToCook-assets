@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 2,
+  "id": "e4c865dd-52e1-47a7-8193-4911178f5984",
+  "legacyIds": [
+    "meat_dish_49d5e1bf"
+  ],
+  "name": "土豆炖排骨",
+  "description": "排骨软烂脱骨，土豆绵软入味，酱香浓郁微甜微辣，是一道典型的北方家常炖菜。富含蛋白质、钙质和碳水化合物，营养均衡。制作略有难度，需掌握炒糖色与火候，但步骤清晰，新手也能尝试，全程大约 1.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 991,
+  "requirements": [
+    {
+      "text": "肋排",
+      "markdown": "肋排",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄豆酱",
+      "markdown": "黄豆酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 肋排\r\n* 土豆\r\n* 姜\r\n* 小葱\r\n* 料酒\r\n* 白糖\r\n* 干辣椒\r\n* 八角\r\n* 花椒\r\n* 桂皮\r\n* 生抽\r\n* 老抽\r\n* 蚝油\r\n* 黄豆酱\r\n* 盐\r\n* 食用油",
+  "ingredients": [
+    {
+      "name": "肋排",
+      "text": "肋排 = 750g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 = 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 = 30g （分为两份：15g 焯水用，15g 炒制用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 = 25g （分为两份：15g 打成葱结，10g 切葱花）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 = 25ml （分为两份：15ml 焯水用，10ml 炒制用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 = 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 = 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 = 1g （约 1-2 颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 = 1g （约 10 粒）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 = 1g （一小块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 = 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 = 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 = 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄豆酱",
+      "text": "黄豆酱 = 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 3g （最后收汁调味用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水 = 700ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 = 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意：以下参数为标准 2-3 人份的精确配置。\r\n\r\n* 肋排 = 750g\r\n* 土豆 = 300g\r\n* 姜 = 30g （分为两份：15g 焯水用，15g 炒制用）\r\n* 小葱 = 25g （分为两份：15g 打成葱结，10g 切葱花）\r\n* 料酒 = 25ml （分为两份：15ml 焯水用，10ml 炒制用）\r\n* 白糖 = 10g\r\n* 干辣椒 = 5g\r\n* 八角 = 1g （约 1-2 颗）\r\n* 花椒 = 1g （约 10 粒）\r\n* 桂皮 = 1g （一小块）\r\n* 生抽 = 10ml\r\n* 老抽 = 5ml\r\n* 蚝油 = 5ml\r\n* 黄豆酱 = 5g\r\n* 盐 = 3g （最后收汁调味用）\r\n* 开水 = 700ml\r\n* 食用油 = 20ml",
+  "calculationNotes": [
+    "注意：以下参数为标准 2-3 人份的精确配置。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "预处理：食材切配与防氧化",
+      "description": "### 预处理：食材切配与防氧化"
+    },
+    {
+      "kind": "step",
+      "description": "**处理土豆：** 将 300g 土豆去皮，切成不规则的滚刀块 。**切好后立刻泡入一盆清水中**，隔绝氧气防止表面氧化发黑，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "**处理葱姜：** 将 30g 姜全部切成薄片（分成两份 15g）。将 25g 小葱处理好：15g 挽成一个葱结，剩余 10g 切成细小葱花备用。"
+    },
+    {
+      "kind": "section",
+      "title": "预处理：调料封装与异步任务",
+      "description": "### 预处理：调料封装与异步任务"
+    },
+    {
+      "kind": "step",
+      "description": "**封装酱汁碗（一键调用）：** 拿一个小碗，依次加入 10ml 生抽、5ml 老抽、5ml 蚝油、5ml 黄豆酱，彻底搅拌均匀，放在灶台触手可及处备用。"
+    },
+    {
+      "kind": "step",
+      "description": "**封装香料碟（一键调用）：** 拿一个小碟，放入 5g 干辣椒、1g 八角（约 1-2 颗）、1g 花椒（约 10 粒）、1g 桂皮（一小块），以及刚才切好的 15g 姜片，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "**开启异步水程：** 按下电热水壶开关，开始烧制 700ml 开水。（确保炒制完成时，开水刚好就绪）。"
+    },
+    {
+      "kind": "section",
+      "title": "初步加工：排骨焯水与脱水",
+      "description": "### 初步加工：排骨焯水与脱水"
+    },
+    {
+      "kind": "step",
+      "description": "**冷水焯水：** 将 750g 肋排冷水下锅，加入 15g 葱结、15g 姜片、15ml 料酒。大火煮沸后，继续保持沸腾焯水 2 分钟，逼出内部血沫。"
+    },
+    {
+      "kind": "step",
+      "description": "**热洗冷防：** 捞出排骨，**必须用热水**将排骨表面残留的浮沫清洗干净（遇冷水肉质会剧烈收缩变硬）。"
+    },
+    {
+      "kind": "step",
+      "description": "**绝对脱水（防爆防溅）：** 洗净的排骨**必须用厨房纸彻底吸干表面水分**，装盘放在炒锅旁边备用（防止后续下入高温糖色时发生剧烈炸锅）。"
+    },
+    {
+      "kind": "section",
+      "title": "核心炒制：糖色与爆香（高并发阶段）",
+      "description": "### 核心炒制：糖色与爆香（高并发阶段）"
+    },
+    {
+      "kind": "step",
+      "description": "**炒制糖色：** 热锅凉油，加入 20ml 食用油。将 10g 白糖倒入锅中，中小火不停搅拌。翻炒至白糖完全融化冒泡，并呈现红棕色的焦糖色 。"
+    },
+    {
+      "kind": "step",
+      "description": "**上色煎制：** 迅速加入彻底脱水的 750g 排骨，转中大火翻炒。煎制约 2-3 分钟，至排骨两面微微金黄，且均匀裹满焦糖色。"
+    },
+    {
+      "kind": "step",
+      "description": "**一键爆香：** 在锅中拨出一小块空地，**直接倒入【香料碟】**。利用锅底的热油爆香约 10 秒，激发出香料的脂溶性香气。"
+    },
+    {
+      "kind": "step",
+      "description": "**一键调味：** 顺着热锅边缘淋入剩余的 10ml 料酒激发出锅气。紧接着**直接倒入【酱汁碗】**，翻炒约 30 秒，让酱料完全包裹排骨并炒出浓郁酱香。"
+    },
+    {
+      "kind": "section",
+      "title": "炖煮收汁：挂霜与出锅",
+      "description": "### 炖煮收汁：挂霜与出锅"
+    },
+    {
+      "kind": "step",
+      "description": "**加水长炖：** 此时电热水壶已沸腾，直接加入 700ml 滚烫的开水（水量需没过排骨），大火烧开。随后盖上锅盖，转小火持续焖煮 40 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "**加入土豆：** 40 分钟后打开锅盖，将泡在水里的 300g 土豆捞出沥干，下入锅中。重新盖上锅盖，继续小火焖煮 15-20 分钟，直到用筷子能轻松扎透土豆块。"
+    },
+    {
+      "kind": "step",
+      "description": "**调味收汁：** 打开锅盖，加入 3g 盐（此时可尝一下汤汁，根据个人口味酌情微调）。转大火开始翻炒收汁，大约需要 3-5 分钟。直到汤汁变得浓稠，均匀地挂在排骨和土豆上即可关火。"
+    },
+    {
+      "kind": "step",
+      "description": "**点缀出锅：** 盛盘出锅，在表面均匀撒上预处理好的 10g 葱花作为 UI 点缀即可。"
+    }
+  ],
+  "operationMarkdown": "### 预处理：食材切配与防氧化\r\n\r\n1. **处理土豆：** 将 300g 土豆去皮，切成不规则的滚刀块 。**切好后立刻泡入一盆清水中**，隔绝氧气防止表面氧化发黑，备用。\r\n2. **处理葱姜：** 将 30g 姜全部切成薄片（分成两份 15g）。将 25g 小葱处理好：15g 挽成一个葱结，剩余 10g 切成细小葱花备用。\r\n\r\n### 预处理：调料封装与异步任务\r\n\r\n1. **封装酱汁碗（一键调用）：** 拿一个小碗，依次加入 10ml 生抽、5ml 老抽、5ml 蚝油、5ml 黄豆酱，彻底搅拌均匀，放在灶台触手可及处备用。\r\n2. **封装香料碟（一键调用）：** 拿一个小碟，放入 5g 干辣椒、1g 八角（约 1-2 颗）、1g 花椒（约 10 粒）、1g 桂皮（一小块），以及刚才切好的 15g 姜片，备用。\r\n3. **开启异步水程：** 按下电热水壶开关，开始烧制 700ml 开水。（确保炒制完成时，开水刚好就绪）。\r\n\r\n### 初步加工：排骨焯水与脱水\r\n\r\n1. **冷水焯水：** 将 750g 肋排冷水下锅，加入 15g 葱结、15g 姜片、15ml 料酒。大火煮沸后，继续保持沸腾焯水 2 分钟，逼出内部血沫。\r\n2. **热洗冷防：** 捞出排骨，**必须用热水**将排骨表面残留的浮沫清洗干净（遇冷水肉质会剧烈收缩变硬）。\r\n3. **绝对脱水（防爆防溅）：** 洗净的排骨**必须用厨房纸彻底吸干表面水分**，装盘放在炒锅旁边备用（防止后续下入高温糖色时发生剧烈炸锅）。\r\n\r\n### 核心炒制：糖色与爆香（高并发阶段）\r\n\r\n1. **炒制糖色：** 热锅凉油，加入 20ml 食用油。将 10g 白糖倒入锅中，中小火不停搅拌。翻炒至白糖完全融化冒泡，并呈现红棕色的焦糖色 。\r\n2. **上色煎制：** 迅速加入彻底脱水的 750g 排骨，转中大火翻炒。煎制约 2-3 分钟，至排骨两面微微金黄，且均匀裹满焦糖色。\r\n3. **一键爆香：** 在锅中拨出一小块空地，**直接倒入【香料碟】**。利用锅底的热油爆香约 10 秒，激发出香料的脂溶性香气。\r\n4. **一键调味：** 顺着热锅边缘淋入剩余的 10ml 料酒激发出锅气。紧接着**直接倒入【酱汁碗】**，翻炒约 30 秒，让酱料完全包裹排骨并炒出浓郁酱香。\r\n\r\n### 炖煮收汁：挂霜与出锅\r\n\r\n1. **加水长炖：** 此时电热水壶已沸腾，直接加入 700ml 滚烫的开水（水量需没过排骨），大火烧开。随后盖上锅盖，转小火持续焖煮 40 分钟。\r\n2. **加入土豆：** 40 分钟后打开锅盖，将泡在水里的 300g 土豆捞出沥干，下入锅中。重新盖上锅盖，继续小火焖煮 15-20 分钟，直到用筷子能轻松扎透土豆块。\r\n3. **调味收汁：** 打开锅盖，加入 3g 盐（此时可尝一下汤汁，根据个人口味酌情微调）。转大火开始翻炒收汁，大约需要 3-5 分钟。直到汤汁变得浓稠，均匀地挂在排骨和土豆上即可关火。\r\n4. **点缀出锅：** 盛盘出锅，在表面均匀撒上预处理好的 10g 葱花作为 UI 点缀即可。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md"
+  },
+  "hash": "3a79209ea38c77146b72687410221a362de5368f27c91e10a9b98e86758427ad"
+}

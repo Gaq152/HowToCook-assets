@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "id": "c145a730-05d0-4065-8c25-52162424fc2c",
+  "legacyIds": [
+    "drink_37772636"
+  ],
+  "name": "菠萝咖啡特调",
+  "description": "这道特调饮品融合了咖啡的醇香与菠萝的酸甜，气泡清爽、奶盖绵密，口感层次丰富。菠萝富含维生素 C 和膳食纤维，搭配咖啡能提神醒脑。制作难度中等，只需打发奶油并混合液体，全程约 10 分钟即可完成。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 180,
+  "requirements": [
+    {
+      "text": "咖啡液（推荐浓缩或者冷萃）",
+      "markdown": "咖啡液（推荐浓缩或者冷萃）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菠萝汁（鲜榨或者 nfc）",
+      "markdown": "菠萝汁（鲜榨或者 nfc）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰块",
+      "markdown": "冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "苏打水",
+      "markdown": "苏打水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "奶油",
+      "markdown": "奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "海盐（可选）",
+      "markdown": "海盐（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "朗姆酒 （可选）",
+      "markdown": "朗姆酒 （可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 咖啡液（推荐浓缩或者冷萃）\r\n- 菠萝汁（鲜榨或者 nfc）\r\n- 冰块\r\n- 苏打水\r\n- 奶油\r\n- 牛奶\r\n- 糖\r\n- 海盐（可选）\r\n- 朗姆酒 （可选）",
+  "ingredients": [
+    {
+      "name": "咖啡液",
+      "text": "咖啡液 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菠萝汁",
+      "text": "菠萝汁 60ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰块",
+      "text": "冰块 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "苏打水",
+      "text": "苏打水 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "奶油",
+      "text": "奶油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 8g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "海盐",
+      "text": "海盐 0.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "朗姆酒",
+      "text": "朗姆酒 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 咖啡液 30ml\r\n- 菠萝汁 60ml\r\n- 冰块 50g\r\n- 苏打水 30ml\r\n- 奶油 30ml\r\n- 牛奶 10ml\r\n- 糖 8g\r\n- 海盐 0.5g\r\n- 朗姆酒 5ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "杯子里依次加入冰块，咖啡液，菠萝汁和苏打水"
+    },
+    {
+      "kind": "step",
+      "description": "奶油加糖打发至湿性发泡，加入朗姆酒和牛奶均匀只有流动性"
+    },
+    {
+      "kind": "step",
+      "description": "在第一部混合液上方倒入奶油"
+    },
+    {
+      "kind": "step",
+      "description": "奶油顶面撒上海盐"
+    }
+  ],
+  "operationMarkdown": "1. 杯子里依次加入冰块，咖啡液，菠萝汁和苏打水\r\n2. 奶油加糖打发至湿性发泡，加入朗姆酒和牛奶均匀只有流动性\r\n3. 在第一部混合液上方倒入奶油\r\n4. 奶油顶面撒上海盐",
+  "tips": "- 咖啡液建议选用花果风味，浓缩可以用中烘豆，冷萃可以用普通水洗或者日晒\r\n- 倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖\r\n- 用新鲜的咖啡液和菠萝汁能大大提升整体风味口感\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 咖啡液建议选用花果风味，浓缩可以用中烘豆，冷萃可以用普通水洗或者日晒\r\n- 倒入奶油时，高度尽量放低，让奶油能均匀漂浮在饮料表面形成奶盖\r\n- 用新鲜的咖啡液和菠萝汁能大大提升整体风味口感\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/c145a730-05d0-4065-8c25-52162424fc2c_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md"
+  },
+  "hash": "ecdf99858a7f4ff08ffd16d92b8cfaf1bb7394d36ea2e147e7e2bc441d46f2d8"
+}

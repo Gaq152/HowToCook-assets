@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "id": "70cb4e79-fda8-4e0f-ab03-b0c5a568bebf",
+  "legacyIds": [
+    "vegetable_dish_fa2b187c"
+  ],
+  "name": "包菜炒鸡蛋粉丝",
+  "description": "包菜炒鸡蛋粉丝是一道咸鲜可口的家常快手菜，脆甜的包菜丝与软韧的粉丝、嫩滑的鸡蛋相互融合，口感层次丰富。包菜富含维生素和膳食纤维，鸡蛋提供优质蛋白质，胡萝卜增添营养，荤素搭配均衡。制作时需要提前浸泡粉丝，整体流程稍多但操作并不复杂，对新手有一定挑战性。从备料到出锅，大约需要 1 小时 20 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 570,
+  "requirements": [
+    {
+      "text": "包菜",
+      "markdown": "包菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "粉丝",
+      "markdown": "粉丝",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜籽油",
+      "markdown": "菜籽油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐、生抽、老抽、蚝油",
+      "markdown": "盐、生抽、老抽、蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱、蒜、干辣椒",
+      "markdown": "葱、蒜、干辣椒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 包菜\r\n* 鸡蛋\r\n* 粉丝\r\n* 胡萝卜\r\n* 菜籽油\r\n* 盐、生抽、老抽、蚝油\r\n* 葱、蒜、干辣椒",
+  "ingredients": [
+    {
+      "name": "包菜 半 颗",
+      "text": "包菜 半 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "粉丝",
+      "text": "粉丝 1 把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜 半 根",
+      "text": "胡萝卜 半 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜籽油",
+      "text": "菜籽油 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g、生抽 15 ml、老抽 10 ml、蚝油 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱 半 根、蒜瓣",
+      "text": "葱 半 根、蒜瓣 2 片、干辣椒 5 根",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 包菜 半 颗\r\n* 鸡蛋 2 个\r\n* 粉丝 1 把\r\n* 胡萝卜 半 根\r\n* 菜籽油 20 ml\r\n* 盐 2 g、生抽 15 ml、老抽 10 ml、蚝油 10 ml\r\n* 葱 半 根、蒜瓣 2 片、干辣椒 5 根",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "胡萝卜、包菜切丝备用"
+    },
+    {
+      "kind": "step",
+      "description": "粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋打入碗中，加入盐后搅拌 15 秒"
+    },
+    {
+      "kind": "step",
+      "description": "葱、蒜、辣椒切成小粒备用"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入鸡蛋，打散炒熟盛出"
+    },
+    {
+      "kind": "step",
+      "description": "再倒入油，放入葱、蒜、干辣椒翻炒 8 秒"
+    },
+    {
+      "kind": "step",
+      "description": "下胡萝卜、包菜丝儿翻炒 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "放入粉丝"
+    },
+    {
+      "kind": "step",
+      "description": "放调料，生抽 15 ml，老抽 10 ml，蚝油 10 ml，盐 2 克"
+    },
+    {
+      "kind": "step",
+      "description": "放入之前炒好的鸡蛋，翻炒约 15 秒"
+    },
+    {
+      "kind": "step",
+      "description": "出锅摆盘"
+    }
+  ],
+  "operationMarkdown": "1. 胡萝卜、包菜切丝备用\r\n2. 粉丝先用冷水浸泡 1 小时，然后将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用\r\n3. 鸡蛋打入碗中，加入盐后搅拌 15 秒\r\n4. 葱、蒜、辣椒切成小粒备用\r\n5. 起锅烧油，倒入鸡蛋，打散炒熟盛出\r\n6. 再倒入油，放入葱、蒜、干辣椒翻炒 8 秒\r\n7. 下胡萝卜、包菜丝儿翻炒 30 秒\r\n8. 放入粉丝\r\n9. 放调料，生抽 15 ml，老抽 10 ml，蚝油 10 ml，盐 2 克\r\n10. 放入之前炒好的鸡蛋，翻炒约 15 秒\r\n11. 出锅摆盘\r\n\r\n![包菜炒鸡蛋粉丝-预览图-1](./1.jpg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/70cb4e79-fda8-4e0f-ab03-b0c5a568bebf_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md"
+  },
+  "hash": "8d9809db5addf69ae91a9f3b17d1208acce3ebaa0efb19b129a89472d5ad2175"
+}

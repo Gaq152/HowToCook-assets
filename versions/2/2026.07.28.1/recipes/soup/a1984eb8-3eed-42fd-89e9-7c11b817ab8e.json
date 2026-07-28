@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "id": "a1984eb8-3eed-42fd-89e9-7c11b817ab8e",
+  "legacyIds": [
+    "soup_9f67a0b4"
+  ],
+  "name": "排骨苦瓜汤",
+  "description": "排骨苦瓜汤是一道汤色清亮、鲜美回甘的粤式家常汤品，排骨软烂、苦瓜清热解腻。富含蛋白质与维生素，虾皮还能补充钙质。处理过程需要焯水去腥、仔细去除苦瓜瓤，对新手有一定挑战，但借助电压力锅可大幅简化；传统慢炖需 2 至 4 小时，建议提前 4 小时准备，压力锅则只需约 1 小时。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 905,
+  "requirements": [
+    {
+      "text": "电压力锅（可以极大简化烹饪过程和时间）",
+      "markdown": "电压力锅（可以极大简化烹饪过程和时间）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "砂锅（相比于炒锅更适合炖汤）",
+      "markdown": "砂锅（相比于炒锅更适合炖汤）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "排骨",
+      "markdown": "排骨",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "苦瓜",
+      "markdown": "苦瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "虾皮",
+      "markdown": "虾皮",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "可选工具\r\n\r\n- 电压力锅（可以极大简化烹饪过程和时间）\r\n- 砂锅（相比于炒锅更适合炖汤）\r\n\r\n必须材料\r\n\r\n- 排骨\r\n- 苦瓜\r\n- 虾皮",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "text": "排骨 250g 到 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "苦瓜",
+      "text": "苦瓜 100g 到 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "虾皮",
+      "text": "虾皮 5g 到 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 5~10g（可选，用于焯水时去腥）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 4 个人吃。\r\n每份：\r\n\r\n- 排骨  250g 到 500g\r\n- 苦瓜 100g 到 200g\r\n- 虾皮 5g 到 15g\r\n- 生姜 5~10g（可选，用于焯水时去腥）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 4 个人吃。\r\n每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "排骨洗净，切到约 4cm ±2cm * 3 ± 2cm 的小块（如没有剁排骨的工具，可以求助摊主）"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅倒入冷水 700ml 和排骨一起加热至煮沸，关火捞出排骨"
+    },
+    {
+      "kind": "step",
+      "description": "苦瓜中间切为两半，清除干净内部的种子和苦瓜瓤，切为 0.5 ± 0.3 cm 的苦瓜条，洗净"
+    },
+    {
+      "kind": "note",
+      "description": "使用汤锅进行烹饪"
+    },
+    {
+      "kind": "step",
+      "description": "汤锅倒入水 1100ml 和排骨，大火"
+    },
+    {
+      "kind": "step",
+      "description": "等待水沸腾后将苦瓜和虾皮下锅转小火，放等待 120~240 分钟（在 120 分钟之后可以捞出一块肉进行品尝，若肉可以较为轻松的从骨头上分离即可关火）"
+    },
+    {
+      "kind": "step",
+      "description": "出锅时加盐和白胡椒，推荐量为每 250ml 0.3 到 0.6g 盐，0.1 到 0.5g 白胡椒"
+    },
+    {
+      "kind": "note",
+      "description": "使用电压力锅进行烹饪"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 1000ml 水和排骨，虾皮和苦瓜"
+    },
+    {
+      "kind": "step",
+      "description": "选择炖汤功能，进行烹饪（一般为加压烹饪 45 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "出锅，和汤锅一样进行加盐和胡椒"
+    }
+  ],
+  "operationMarkdown": "1. 排骨洗净，切到约 4cm ±2cm * 3 ± 2cm 的小块（如没有剁排骨的工具，可以求助摊主）\r\n2. 炒锅倒入冷水 700ml 和排骨一起加热至煮沸，关火捞出排骨\r\n3. 苦瓜中间切为两半，清除干净内部的种子和苦瓜瓤，切为 0.5 ± 0.3 cm 的苦瓜条，洗净\r\n\r\n  使用汤锅进行烹饪\r\n\r\n  - 汤锅倒入水 1100ml 和排骨，大火\r\n  - 等待水沸腾后将苦瓜和虾皮下锅转小火，放等待 120~240 分钟（在 120 分钟之后可以捞出一块肉进行品尝，若肉可以较为轻松的从骨头上分离即可关火）\r\n  - 出锅时加盐和白胡椒，推荐量为每 250ml 0.3 到 0.6g 盐，0.1 到 0.5g 白胡椒\r\n\r\n  使用电压力锅进行烹饪\r\n\r\n  - 倒入 1000ml 水和排骨，虾皮和苦瓜\r\n  - 选择炖汤功能，进行烹饪（一般为加压烹饪 45 分钟）\r\n  - 出锅，和汤锅一样进行加盐和胡椒",
+  "tips": "- 可以使用其他带有鲜味的食材代替虾皮，如瑶柱\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 可以使用其他带有鲜味的食材代替虾皮，如瑶柱\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md"
+  },
+  "hash": "5727fd1101d1a2f325193a66ea5f1c068acd98204eeba31a66f58c2115796aaa"
+}

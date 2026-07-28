@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "id": "9a75aca3-1b0d-4327-a125-a6f2937bb378",
+  "legacyIds": [
+    "vegetable_dish_dca37e25"
+  ],
+  "name": "蒲烧茄子",
+  "description": "蒲烧茄子是一道咸甜交织、口感软糯的家常菜，借鉴日式蒲烧风味却用中式煎烧手法烹制。茄子富含膳食纤维和多种维生素，有助于清热活血。难度适中，对新手稍需耐心，预计制作时长约 30 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 326,
+  "requirements": [
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒲烧汁",
+      "markdown": "蒲烧汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蜂蜜",
+      "markdown": "蜂蜜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 茄子\r\n- 蒲烧汁\r\n- 蜂蜜\r\n- 白糖\r\n- 生抽\r\n- 老抽\r\n- 料酒\r\n- 水",
+  "ingredients": [
+    {
+      "name": "根据锅的类型决策不同量的油不粘锅",
+      "text": "根据锅的类型决策不同量的油不粘锅：油汇聚成滴后要散布在茄子的面积铁锅：摊开后油可以刚好覆盖锅底",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1 个长的上小下大的茄子（注意不要使用浙茄和圆茄）",
+      "text": "1 个长的上小下大的茄子（注意不要使用浙茄和圆茄）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1 份蒲烧汁20 ml 蜂蜜15 ml 白糖40 ml 生抽10 ml 老抽20 ml 料酒100 ml 水",
+      "text": "1 份蒲烧汁20 ml 蜂蜜15 ml 白糖40 ml 生抽10 ml 老抽20 ml 料酒100 ml 水",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 根据锅的类型决策不同量的油\r\n  - 不粘锅：油汇聚成滴后要散布在茄子的面积\r\n  - 铁锅：摊开后油可以刚好覆盖锅底\r\n- 1 个长的上小下大的茄子（注意不要使用浙茄和圆茄）\r\n- 1 份蒲烧汁\r\n  - 20 ml 蜂蜜\r\n  - 15 ml 白糖\r\n  - 40 ml 生抽\r\n  - 10 ml 老抽\r\n  - 20 ml 料酒\r\n  - 100 ml 水",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "茄子削皮、横着切成两段"
+    },
+    {
+      "kind": "step",
+      "description": "蒸 5  分钟"
+    },
+    {
+      "kind": "step",
+      "description": "纵向切开，不要切断，在两边切面各划 2~3 刀至可以摊平"
+    },
+    {
+      "kind": "step",
+      "description": "煎至两面金黄"
+    },
+    {
+      "kind": "step",
+      "description": "往茄子上浇蒲烧汁至没过 1/2 茄子高度"
+    },
+    {
+      "kind": "step",
+      "description": "煎至背面上色，翻面"
+    },
+    {
+      "kind": "step",
+      "description": "同时收汁，若无法收汁可以加入水淀粉（生粉和水的比例在 1:4 到 1:10 根据收汁情况而定）"
+    },
+    {
+      "kind": "step",
+      "description": "把剩下的蒲烧汁浇在茄子上"
+    },
+    {
+      "kind": "step",
+      "description": "出锅，一份茄子烧蒲烧汁就烧好了"
+    }
+  ],
+  "operationMarkdown": "1. 茄子削皮、横着切成两段\r\n2. 蒸 5  分钟\r\n3. 纵向切开，不要切断，在两边切面各划 2~3 刀至可以摊平\r\n4. 煎至两面金黄\r\n5. 往茄子上浇蒲烧汁至没过 1/2 茄子高度\r\n6. 煎至背面上色，翻面\r\n\r\n  - 同时收汁，若无法收汁可以加入水淀粉（生粉和水的比例在 1:4 到 1:10 根据收汁情况而定）\r\n\r\n7. 把剩下的蒲烧汁浇在茄子上\r\n8. 出锅，一份茄子烧蒲烧汁就烧好了",
+  "tips": "- 这个蒲焼き其实很中国，日式的蒲烧其实是烤的。\r\n- 灵魂其实在于蒲烧汁？也可以买现成的蒲烧汁。\r\n- 如果觉得腻可以在装盘后撒点切成 2~5 mm 的小葱，颜色搭配上也能不那么单调。\r\n- 炒茄子（鱼香茄子、酱爆茄子）墙裂推荐浙茄，细长所以切成滚刀块刚刚好，皮很嫩不像这里需要去皮，茄子的味道适中。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 这个蒲焼き其实很中国，日式的蒲烧其实是烤的。\r\n- 灵魂其实在于蒲烧汁？也可以买现成的蒲烧汁。\r\n- 如果觉得腻可以在装盘后撒点切成 2~5 mm 的小葱，颜色搭配上也能不那么单调。\r\n- 炒茄子（鱼香茄子、酱爆茄子）墙裂推荐浙茄，细长所以切成滚刀块刚刚好，皮很嫩不像这里需要去皮，茄子的味道适中。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/蒲烧茄子.md"
+  },
+  "hash": "664ba7674bd2b0666f2d7bb070c645a296f66915f255e0b9b10e0999868e2470"
+}

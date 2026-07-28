@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "id": "0f51da35-16a4-43e2-ad71-ce1959547b16",
+  "legacyIds": [
+    "vegetable_dish_9db3e8b3"
+  ],
+  "name": "白灼菜心",
+  "description": "这道经典粤菜采用白灼技法，沸水快焯保留菜心的清甜与脆嫩，根茎尤为爽口，味道清淡鲜美。富含维生素 C 和膳食纤维，低脂低热量，适合追求健康饮食的人群。做法非常简单，预估难度仅两星，一般初学者只需 15 分钟即可完成，是快速补充绿叶蔬菜的理想选择。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 86,
+  "requirements": [
+    {
+      "text": "新鲜菜心",
+      "markdown": "新鲜菜心",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽、蚝油、盐",
+      "markdown": "生抽、蚝油、盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜、小米辣",
+      "markdown": "大蒜、小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜菜心\r\n- 生抽、蚝油、盐\r\n- 大蒜、小米辣\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "新鲜菜心",
+      "text": "新鲜菜心 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "调一个灵魂料汁儿生抽",
+      "text": "调一个灵魂料汁儿生抽 5g蚝油 5g盐、糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜四五瓣、小米辣一两根",
+      "text": "大蒜四五瓣、小米辣一两根",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "如下的量两个人够吃，一个人吃直接搭配个米饭也可以的。\r\n\r\n- 新鲜菜心 250g\r\n- 食用油 10g\r\n- 调一个灵魂料汁儿\r\n  - 生抽 5g\r\n  - 蚝油 5g\r\n  - 盐、糖 5g\r\n- 大蒜四五瓣、小米辣一两根",
+  "calculationNotes": [
+    "如下的量两个人够吃，一个人吃直接搭配个米饭也可以的。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "菜心洗净，**去除根部比较硬或老的地方**。此处还用刀刮了**刮菜心根茎部分**，刮掉外面那层比较硬的，菜心内部更可口，但要注意根茎白灼时长，时间太长的话根茎不脆了"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜切成蒜末，有洋葱顺便加了点洋葱"
+    },
+    {
+      "kind": "step",
+      "description": "调制灵魂料汁：生抽 5g 吧、蚝油 5g，加 3g 糖和 100g 清水半碗成一碗汁儿\n >如果要是加淀粉，汤汁儿煮沸后更容易挂在菜心上，味道会更重一些，广东人可能吃不惯"
+    },
+    {
+      "kind": "step",
+      "description": "一锅 500ml 清水加 5g 盐和 10g 食用油烧开"
+    },
+    {
+      "kind": "step",
+      "description": "将菜心根茎在沸水中烫 1 分钟，直到根茎颜色变成深绿。再将整个菜心放到锅中烫熟 1 分钟，捞起来码入盘中"
+    },
+    {
+      "kind": "step",
+      "description": "开另一小锅将兑好的料汁倒入，小火烧开，放入一半的蒜末，一点点姜丝和小米椒碎。在制作时加了一点点洋葱碎和大蒜，先在锅底倒油，五成热后倒入蒜末、洋葱，稍稍爆香后再加入料汁，加入小米辣煮开"
+    },
+    {
+      "kind": "step",
+      "description": "料汁稍微收汁，煮沸后稍等十来秒吧，后直接浇在菜心上，不要特别多，但蒜末还是很给力的不要少蒜"
+    }
+  ],
+  "operationMarkdown": "1. 菜心洗净，**去除根部比较硬或老的地方**。此处还用刀刮了**刮菜心根茎部分**，刮掉外面那层比较硬的，菜心内部更可口，但要注意根茎白灼时长，时间太长的话根茎不脆了\r\n\r\n2. 大蒜切成蒜末，有洋葱顺便加了点洋葱\r\n\r\n3. 调制灵魂料汁：生抽 5g 吧、蚝油 5g，加 3g 糖和 100g 清水半碗成一碗汁儿\r\n   >如果要是加淀粉，汤汁儿煮沸后更容易挂在菜心上，味道会更重一些，广东人可能吃不惯\r\n\r\n4. 一锅 500ml 清水加 5g 盐和 10g 食用油烧开\r\n\r\n5. 将菜心根茎在沸水中烫 1 分钟，直到根茎颜色变成深绿。再将整个菜心放到锅中烫熟 1 分钟，捞起来码入盘中\r\n\r\n6. 开另一小锅将兑好的料汁倒入，小火烧开，放入一半的蒜末，一点点姜丝和小米椒碎。在制作时加了一点点洋葱碎和大蒜，先在锅底倒油，五成热后倒入蒜末、洋葱，稍稍爆香后再加入料汁，加入小米辣煮开\r\n\r\n7. 料汁稍微收汁，煮沸后稍等十来秒吧，后直接浇在菜心上，不要特别多，但蒜末还是很给力的不要少蒜",
+  "tips": "- 选择菜心一定要比较新鲜！新鲜！\r\n- 锅内烧清水要加油和盐\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 选择菜心一定要比较新鲜！新鲜！\r\n- 锅内烧清水要加油和盐\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/0f51da35-16a4-43e2-ad71-ce1959547b16_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md"
+  },
+  "hash": "1da1d7d387c46d6c3a90974c2fed98f1645cf657951c1ef9e8272751ed290506"
+}

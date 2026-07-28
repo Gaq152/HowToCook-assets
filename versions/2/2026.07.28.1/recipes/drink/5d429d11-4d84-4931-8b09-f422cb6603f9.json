@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "id": "5d429d11-4d84-4931-8b09-f422cb6603f9",
+  "legacyIds": [],
+  "name": "牛油果拉西",
+  "description": "这是一款融合了印度传统酸奶饮品“拉西”的创新饮品，口感绵密顺滑、清甜不腻，特别适合作为早餐或午后提神饮品。牛油果富含单不饱和脂肪酸与膳食纤维，搭配酸奶的优质蛋白和益生菌，一杯便能提供持久饱腹感。制作极为简单，新手也能零失败，从备料到享用只需 大约 5 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 392,
+  "requirements": [
+    {
+      "text": "原味酸奶 (Plain yogurt)",
+      "markdown": "原味酸奶 (Plain yogurt)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "熟透的牛油果",
+      "markdown": "熟透的牛油果",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蜂蜜",
+      "markdown": "蜂蜜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷牛奶",
+      "markdown": "冷牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小豆蔻粉（可选）",
+      "markdown": "小豆蔻粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "薄荷叶或坚果碎（可选，用于装饰）",
+      "markdown": "薄荷叶或坚果碎（可选，用于装饰）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌机（破壁机/榨汁机）",
+      "markdown": "搅拌机（破壁机/榨汁机）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 原味酸奶 (Plain yogurt)\r\n- 熟透的牛油果\r\n- 蜂蜜\r\n- 冷牛奶\r\n- 小豆蔻粉（可选）\r\n- 薄荷叶或坚果碎（可选，用于装饰）\r\n- 搅拌机（破壁机/榨汁机）",
+  "ingredients": [
+    {
+      "name": "原味酸奶",
+      "text": "原味酸奶 120 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "熟透的牛油果",
+      "text": "熟透的牛油果 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蜂蜜",
+      "text": "蜂蜜 1 汤匙（可根据口味增减）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷牛奶",
+      "text": "冷牛奶 60 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小豆蔻粉",
+      "text": "小豆蔻粉 1 撮（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人饮用。\r\n\r\n每份：\r\n\r\n- 原味酸奶 120 ml\r\n- 熟透的牛油果 1 个\r\n- 蜂蜜 1 汤匙（可根据口味增减）\r\n- 冷牛奶 60 ml\r\n- 小豆蔻粉 1 撮（可选）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人饮用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将牛油果对半切开，去核，剥去外皮，将果肉切成小块备用。"
+    },
+    {
+      "kind": "step",
+      "description": "在搅拌机中加入 120ml 原味酸奶、切好的牛油果块、1 汤匙蜂蜜以及 60ml 冷牛奶。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）加入一小撮小豆蔻粉以增加独特风味。"
+    },
+    {
+      "kind": "step",
+      "description": "启动搅拌机，**搅拌大约 1 分钟**直至液体变得完全顺滑和浓郁。"
+    },
+    {
+      "kind": "step",
+      "description": "将打好的饮品倒入杯中。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）在表面放上几片薄荷叶或撒上 5g 切碎的坚果作为装饰。"
+    }
+  ],
+  "operationMarkdown": "1. 将牛油果对半切开，去核，剥去外皮，将果肉切成小块备用。\r\n2. 在搅拌机中加入 120ml 原味酸奶、切好的牛油果块、1 汤匙蜂蜜以及 60ml 冷牛奶。\r\n3. （可选）加入一小撮小豆蔻粉以增加独特风味。\r\n4. 启动搅拌机，**搅拌大约 1 分钟**直至液体变得完全顺滑和浓郁。\r\n5. 将打好的饮品倒入杯中。\r\n6. （可选）在表面放上几片薄荷叶或撒上 5g 切碎的坚果作为装饰。",
+  "tips": "- 牛油果必须选择熟透的，这样才能保证饮品的绵密口感和颜色。\r\n- 如果喜欢更冰凉的口感，可以适当减少一点牛奶，加入几块冰块一起搅拌。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 牛油果必须选择熟透的，这样才能保证饮品的绵密口感和颜色。\r\n- 如果喜欢更冰凉的口感，可以适当减少一点牛奶，加入几块冰块一起搅拌。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/牛油果拉西.md"
+  },
+  "hash": "3454eda740ec4d5488018d2b2884bac9f684c9652ff7ce27ff3c56113b9e8d15"
+}

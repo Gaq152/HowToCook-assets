@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "id": "5df96365-8224-47f9-8b45-ea9c364dc443",
+  "legacyIds": [
+    "breakfast_e892f89c"
+  ],
+  "name": "桂圆红枣粥",
+  "description": "一道甜香软糯的中式传统粥品。以糯米、红枣和桂圆同煮，自带甘甜，暖身暖胃。有补血安神、健脑益智、补养心脾的食养效果。做法非常友好，新手也能轻松掌握，从准备到粥香满屋大约需要 70 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 617,
+  "requirements": [
+    {
+      "text": "糯米（或大米）",
+      "markdown": "糯米（或大米）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红枣",
+      "markdown": "红枣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂圆",
+      "markdown": "桂圆",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 糯米（或大米）\r\n- 红枣\r\n- 桂圆",
+  "ingredients": [
+    {
+      "name": "糯米",
+      "text": "糯米 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红枣",
+      "text": "红枣 15 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂圆",
+      "text": "桂圆 15 颗",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 糯米 100g\r\n- 红枣 15 颗\r\n- 桂圆 15 颗",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "红枣用清水洗两次，放入碗中浸泡 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水"
+    },
+    {
+      "kind": "step",
+      "description": "将桂圆和红枣加入电饭锅"
+    },
+    {
+      "kind": "step",
+      "description": "打开电饭锅煮饭模式，1 小时后粥成"
+    }
+  ],
+  "operationMarkdown": "1. 将桂圆肉扒出，用清水洗两次，放入碗中浸泡 10 分钟\r\n2. 红枣用清水洗两次，放入碗中浸泡 10 分钟\r\n3. 糯米放入电饭锅中，清水淘米两次后，加入 2000ml 水\r\n4. 将桂圆和红枣加入电饭锅\r\n5. 打开电饭锅煮饭模式，1 小时后粥成",
+  "tips": "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "对粥的稀稠程度有不同喜好的朋友可以酌情增加或减少水的用量，煮出来的粥是甜的，可以通过控制加入桂圆的数量控制甜度\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/桂圆红枣粥.md"
+  },
+  "hash": "a1975291460d2dd29a0c5b4f15164caf81245c6210bf6d2fa24d4b3e849c5cec"
+}

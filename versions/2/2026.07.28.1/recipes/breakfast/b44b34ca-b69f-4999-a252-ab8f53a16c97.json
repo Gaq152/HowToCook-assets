@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "id": "b44b34ca-b69f-4999-a252-ab8f53a16c97",
+  "legacyIds": [
+    "breakfast_c7c510a4"
+  ],
+  "name": "蛋煎糍粑",
+  "description": "一道简单快手的小吃，外皮微酥，内里软糯，裹着蛋香与甜味，是南方家常风味。糍粑提供丰富碳水，鸡蛋补充蛋白质，热量较高但很顶饱。制作过程极其简单，新手也能轻松驾驭，全程仅需大约十 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 379,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糍粑",
+      "markdown": "糍粑",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖或红糖",
+      "markdown": "白糖或红糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 糍粑\r\n- 白糖或红糖",
+  "ingredients": [
+    {
+      "name": "糍粑 两块",
+      "text": "糍粑 两块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红糖",
+      "text": "红糖 10g （建议 8g - 15g 之间）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 糍粑 两块\r\n- 红糖 10g （建议 8g - 15g 之间）\r\n- 鸡蛋 1 个\r\n- 食用油 10-15ml\r\n- 食用盐 2g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "把糍粑切成长方形小块，便于后面煎"
+    },
+    {
+      "kind": "step",
+      "description": "碗里打入一个鸡蛋并把鸡蛋搅碎，加入 2g 食用盐"
+    },
+    {
+      "kind": "step",
+      "description": "将切好的小糍粑依此放入搅碎的鸡蛋里面，涂抹完糍粑双面为止"
+    },
+    {
+      "kind": "step",
+      "description": "锅里倒入植物油 10ml ，把涂抹好的糍粑小块放进去小火慢慢煎软。"
+    },
+    {
+      "kind": "step",
+      "description": "将剩下的鸡蛋液慢慢倒在糍粑表面"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子或者勺子为糍粑翻面，来回煎至金黄色后开吃"
+    }
+  ],
+  "operationMarkdown": "1. 把糍粑切成长方形小块，便于后面煎\r\n2. 碗里打入一个鸡蛋并把鸡蛋搅碎，加入 2g 食用盐\r\n3. 将切好的小糍粑依此放入搅碎的鸡蛋里面，涂抹完糍粑双面为止\r\n4. 锅里倒入植物油 10ml ，把涂抹好的糍粑小块放进去小火慢慢煎软。\r\n5. 将剩下的鸡蛋液慢慢倒在糍粑表面\r\n6. 用筷子或者勺子为糍粑翻面，来回煎至金黄色后开吃",
+  "tips": "- 放糍粑进去时候注意把糍粑间隔开来，防止粘在一起\r\n- 鸡蛋的量根据糍粑的量而定\r\n- 糖的量根据个人喜好\r\n\r\n- [蛋煎糍粑教程](https://www.dachu.co/recipe/378826)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 放糍粑进去时候注意把糍粑间隔开来，防止粘在一起\r\n- 鸡蛋的量根据糍粑的量而定\r\n- 糖的量根据个人喜好\r\n\r\n- [蛋煎糍粑教程](https://www.dachu.co/recipe/378826)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/蛋煎糍粑.md"
+  },
+  "hash": "ee29136f45fa39b70452b81cc1e1148cd40003504d698e1bcf6ad7b1b711cda9"
+}

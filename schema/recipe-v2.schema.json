@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gaq152.github.io/HowToCook-assets/schema/recipe-v2.schema.json",
+  "title": "HowToCook Recipe V2",
+  "type": "object",
+  "required": [
+    "schemaVersion", "id", "legacyIds", "name", "description", "category",
+    "categoryName", "difficulty", "estimatedCaloriesKcal", "requirements",
+    "requirementsMarkdown", "ingredients", "tools", "calculationMarkdown",
+    "calculationNotes", "steps", "operationMarkdown", "tips", "warnings",
+    "additionalMarkdown", "images", "externalImages", "source", "hash"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 2 },
+    "id": { "type": "string", "format": "uuid" },
+    "legacyIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "name": { "type": "string", "minLength": 1 },
+    "description": { "type": "string", "minLength": 1 },
+    "category": { "type": "string", "minLength": 1 },
+    "categoryName": { "type": "string", "minLength": 1 },
+    "difficulty": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "estimatedCaloriesKcal": { "type": "integer", "minimum": 1 },
+    "requirements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["text", "markdown", "group", "kind"],
+        "properties": {
+          "text": { "type": "string", "minLength": 1 },
+          "markdown": { "type": "string", "minLength": 1 },
+          "group": { "type": ["string", "null"] },
+          "kind": { "enum": ["ingredient", "tool", "unknown"] }
+        },
+        "additionalProperties": false
+      }
+    },
+    "requirementsMarkdown": { "type": "string", "minLength": 1 },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name", "text", "optional", "source"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "text": { "type": "string", "minLength": 1 },
+          "optional": { "type": "boolean" },
+          "source": {
+            "enum": ["calculation-list", "calculation-table", "requirements-fallback"]
+          },
+          "table": { "type": "object", "additionalProperties": { "type": "string" } }
+        },
+        "additionalProperties": false
+      }
+    },
+    "tools": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "calculationMarkdown": { "type": "string", "minLength": 1 },
+    "calculationNotes": { "type": "array", "items": { "type": "string" } },
+    "steps": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["kind", "description"],
+        "properties": {
+          "kind": { "enum": ["section", "step", "note"] },
+          "title": { "type": "string" },
+          "description": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    },
+    "operationMarkdown": { "type": "string", "minLength": 1 },
+    "tips": { "type": "string" },
+    "warnings": { "type": "array", "items": { "type": "string" } },
+    "additionalMarkdown": { "type": "string" },
+    "images": { "type": "array", "items": { "type": "string", "pattern": "^images/.+\\.webp$" } },
+    "externalImages": { "type": "array", "items": { "type": "string", "format": "uri" } },
+    "source": {
+      "type": "object",
+      "required": ["repository", "commit", "path"],
+      "properties": {
+        "repository": { "type": "string", "format": "uri" },
+        "commit": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+        "path": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+  },
+  "additionalProperties": false
+}

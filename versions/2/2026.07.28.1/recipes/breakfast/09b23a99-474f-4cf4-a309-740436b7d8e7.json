@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 2,
+  "id": "09b23a99-474f-4cf4-a309-740436b7d8e7",
+  "legacyIds": [
+    "breakfast_efd07d35"
+  ],
+  "name": "微波炉蛋糕",
+  "description": "微波炉版的快手蛋糕，口感松软香甜，是一道零基础也能轻松上手的家庭甜点。以鸡蛋、面粉为基础，搭配黄油提供能量和浓郁香气，糖分快速补充体力，加入坚果或水果还能增加膳食纤维和维生素。仅需准备少数材料，借助微波炉高火一分钟即可完成，从备料到品尝最快仅需 2 分钟，新手约 20 分钟即可搞定。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 308,
+  "requirements": [
+    {
+      "text": "微波炉",
+      "markdown": "微波炉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "能放进微波炉的容器",
+      "markdown": "能放进微波炉的容器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "泡打粉（不加吃着像饼）",
+      "markdown": "泡打粉（不加吃着像饼）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 微波炉\r\n- 能放进微波炉的容器\r\n- 黄油\r\n- 面粉\r\n- 泡打粉（不加吃着像饼）\r\n- 鸡蛋",
+  "ingredients": [
+    {
+      "name": "鸡蛋🥚",
+      "text": "鸡蛋🥚 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉🍚",
+      "text": "面粉🍚 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "泡打粉🍚",
+      "text": "泡打粉🍚 2.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白（红）糖🍬",
+      "text": "白（红）糖🍬 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐🧂",
+      "text": "盐🧂 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "咖啡粉☕",
+      "text": "咖啡粉☕",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "巧克力🍫",
+      "text": "巧克力🍫",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "麦片🍿",
+      "text": "麦片🍿",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶🥛",
+      "text": "牛奶🥛",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "坚果🥜",
+      "text": "坚果🥜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "饼干屑🍪",
+      "text": "饼干屑🍪",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香蕉🍌",
+      "text": "香蕉🍌",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "非黑暗料理🍆",
+      "text": "非黑暗料理🍆",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋🥚 1 个\r\n- 面粉🍚 15g\r\n- 泡打粉🍚 2.5g\r\n- 白（红）糖🍬 10g\r\n- 盐🧂 1g\r\n\r\n（口味可选）\r\n\r\n- 咖啡粉☕\r\n- 巧克力🍫\r\n- 麦片🍿\r\n- 牛奶🥛\r\n- 坚果🥜\r\n- 饼干屑🍪\r\n- 香蕉🍌\r\n- 非黑暗料理🍆",
+  "calculationNotes": [
+    "（口味可选）"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "加入以下食材，注意不要超过容器的 3/4"
+    },
+    {
+      "kind": "step",
+      "description": "挖半个鸡蛋大的黄油放进容器, 在微波炉**加热 15 秒**至融化"
+    },
+    {
+      "kind": "step",
+      "description": "将**巧克力/香蕉** 融化/搅碎成 **颗粒/糊状**"
+    },
+    {
+      "kind": "step",
+      "description": "打入一个鸡蛋并打散搅和"
+    },
+    {
+      "kind": "step",
+      "description": "15g 白（红）糖（甜党可以多加些） （见附 4）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 1g 盐 (**如果后续的口味食材含盐需自己斟酌**)"
+    },
+    {
+      "kind": "step",
+      "description": "加入 2.5g 泡打粉"
+    },
+    {
+      "kind": "step",
+      "description": "加入 15g 面粉（筋度没太大影响）"
+    },
+    {
+      "kind": "step",
+      "description": "**加入任何喜欢的口味食材!**（坚果与饼干等干食材不是现在放）"
+    },
+    {
+      "kind": "step",
+      "description": "搅和至看不见干粉的稠酸奶状"
+    },
+    {
+      "kind": "step",
+      "description": "加入可选的干燥食材（不包括冲泡粉）在顶端"
+    },
+    {
+      "kind": "step",
+      "description": "夸赞一下自己🥰"
+    },
+    {
+      "kind": "step",
+      "description": "微波炉（高火）加热 **1分钟** （至蓬松蛋糕形态）"
+    },
+    {
+      "kind": "step",
+      "description": "取出杯子（烫手啊啊啊啊↑）并拍朋友圈就可以吃了"
+    }
+  ],
+  "operationMarkdown": "1. 加入以下食材，注意不要超过容器的 3/4\r\n\r\n  - 挖半个鸡蛋大的黄油放进容器, 在微波炉**加热 15 秒**至融化\r\n  - 将**巧克力/香蕉** 融化/搅碎成 **颗粒/糊状**\r\n  - 打入一个鸡蛋并打散搅和\r\n  - 15g 白（红）糖（甜党可以多加些） （见附 4）\r\n  - 加入 1g 盐 (**如果后续的口味食材含盐需自己斟酌**)\r\n  - 加入 2.5g 泡打粉\r\n  - 加入 15g 面粉（筋度没太大影响）\r\n  - **加入任何喜欢的口味食材!**（坚果与饼干等干食材不是现在放）\r\n  - 搅和至看不见干粉的稠酸奶状\r\n  - 加入可选的干燥食材（不包括冲泡粉）在顶端\r\n\r\n2. 夸赞一下自己🥰\r\n3. 微波炉（高火）加热 **1分钟** （至蓬松蛋糕形态）\r\n4. 取出杯子（烫手啊啊啊啊↑）并拍朋友圈就可以吃了",
+  "tips": "- 在夸赞自己之前的操作可以重复多遍做出更大的蛋糕\r\n- 泡打粉用来让蛋糕更蓬松 大多不含铝 几块钱一包 可以买了在家备着\r\n- 在 **加入任何喜欢的口味食材！** 这一步骤中 若加入**液体**（如牛奶） 请务必确保下一步可以搅和成**稠酸奶状** 建议少量多次加入以防止水分过量而导致成品湿瘪\r\n- **食材不要超过容器的3/4!!**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 在夸赞自己之前的操作可以重复多遍做出更大的蛋糕\r\n- 泡打粉用来让蛋糕更蓬松 大多不含铝 几块钱一包 可以买了在家备着\r\n- 在 **加入任何喜欢的口味食材！** 这一步骤中 若加入**液体**（如牛奶） 请务必确保下一步可以搅和成**稠酸奶状** 建议少量多次加入以防止水分过量而导致成品湿瘪\r\n- **食材不要超过容器的3/4!!**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/微波炉蛋糕.md"
+  },
+  "hash": "d4f68ec1f649fec73a71c399808d932527a2d07dd56d80192001bb1b66185c86"
+}

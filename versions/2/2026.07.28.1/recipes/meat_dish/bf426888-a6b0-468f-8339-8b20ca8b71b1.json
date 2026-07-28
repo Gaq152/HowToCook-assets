@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 2,
+  "id": "bf426888-a6b0-468f-8339-8b20ca8b71b1",
+  "legacyIds": [
+    "meat_dish_2eb1a2a9"
+  ],
+  "name": "黄焖鸡",
+  "description": "黄焖鸡是一道以鸡腿、香菇、青椒为主料的家常菜，汤汁浓郁，鸡肉滑嫩，咸鲜微甜，十分下饭。富含优质蛋白质和菌菇多糖等营养。炒糖色环节稍有挑战，但可用老抽替代，整体难度不高，新手也能顺利掌握。从备菜到出锅，大约需要 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 766,
+  "requirements": [
+    {
+      "text": "鸡腿",
+      "markdown": "鸡腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菇（干香菇最佳）",
+      "markdown": "香菇（干香菇最佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜片",
+      "markdown": "生姜片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆（可选）",
+      "markdown": "土豆（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡腿\r\n- 香菇（干香菇最佳）\r\n- 青椒\r\n- 生姜片\r\n- 干辣椒\r\n- 盐\r\n- 料酒\r\n- 白胡椒粉\r\n- 白糖\r\n- 酱油\r\n- 味精\r\n- 土豆（可选）",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "text": "鸡腿 = 两只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菇（干香菇最佳）",
+      "text": "香菇（干香菇最佳）= 5 朵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 = 两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜片",
+      "text": "生姜片 = 两片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 = 5，6 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 = 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 = 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 = 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 = 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 = 一个（可选，可使汤汁更粘稠）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡腿 = 两只\r\n- 香菇（干香菇最佳）= 5 朵\r\n- 青椒 = 两个\r\n- 生姜片 = 两片\r\n- 干辣椒 = 5，6 个\r\n- 盐 = 10g\r\n- 料酒 = 10ml\r\n- 白胡椒粉 = 5g\r\n- 白糖 = 5g\r\n- 酱油 = 5ml\r\n- 土豆 = 一个（可选，可使汤汁更粘稠）",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "备菜阶段",
+      "description": "### 备菜阶段"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿洗净，剁成**4cm**大小的块"
+    },
+    {
+      "kind": "step",
+      "description": "生姜切片、干辣椒切成**小圈**"
+    },
+    {
+      "kind": "step",
+      "description": "香菇切片，青椒切成细长的**马蹄状**，若为干香菇，洗净灰尘后泡一晚上并留香菇水备用"
+    },
+    {
+      "kind": "step",
+      "description": "若有土豆，切为与鸡肉大小类似的**滚刀块**"
+    },
+    {
+      "kind": "section",
+      "title": "炒制阶段",
+      "description": "### 炒制阶段"
+    },
+    {
+      "kind": "step",
+      "description": "炒糖色：锅里倒入底油，冷油时放入白糖（**有一定难度，新手可跳至鸡肉炒制并使用老抽替代**）"
+    },
+    {
+      "kind": "step",
+      "description": "小火慢慢加热，待油温逐渐升高，白糖开始融化并变成较深的棕色（期间要不断搅拌，防止糊锅）"
+    },
+    {
+      "kind": "step",
+      "description": "迅速倒入鸡块，转大火，快速翻炒！烹入料酒，继续翻炒片刻"
+    },
+    {
+      "kind": "step",
+      "description": "将生姜片和干辣椒倒入"
+    },
+    {
+      "kind": "step",
+      "description": "放入酱油，炒匀"
+    },
+    {
+      "kind": "step",
+      "description": "倒入香菇水或清水，以能淹住鸡肉为准"
+    },
+    {
+      "kind": "step",
+      "description": "倒入香菇片，白胡椒粉，盐，土豆"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒均匀后，盖上锅盖焖煮，转中小火**15——20分钟**，有条件可以转至砂锅"
+    },
+    {
+      "kind": "step",
+      "description": "待鸡肉软烂，汤汁浓稠后（汤汁不要收的太干），最后放入青椒"
+    },
+    {
+      "kind": "step",
+      "description": "放入味精，兜炒均匀后，关火！青椒基本断生即可，不要炒时间久了"
+    }
+  ],
+  "operationMarkdown": "### 备菜阶段\r\n\r\n1. 鸡腿洗净，剁成**4cm**大小的块\r\n2. 生姜切片、干辣椒切成**小圈**\r\n3. 香菇切片，青椒切成细长的**马蹄状**，若为干香菇，洗净灰尘后泡一晚上并留香菇水备用\r\n4. 若有土豆，切为与鸡肉大小类似的**滚刀块**\r\n\r\n### 炒制阶段\r\n\r\n1. 炒糖色：锅里倒入底油，冷油时放入白糖（**有一定难度，新手可跳至鸡肉炒制并使用老抽替代**）\r\n2. 小火慢慢加热，待油温逐渐升高，白糖开始融化并变成较深的棕色（期间要不断搅拌，防止糊锅）\r\n3. 迅速倒入鸡块，转大火，快速翻炒！烹入料酒，继续翻炒片刻\r\n4. 将生姜片和干辣椒倒入\r\n5. 放入酱油，炒匀\r\n6. 倒入香菇水或清水，以能淹住鸡肉为准\r\n7. 倒入香菇片，白胡椒粉，盐，土豆\r\n8. 翻炒均匀后，盖上锅盖焖煮，转中小火**15——20分钟**，有条件可以转至砂锅\r\n9. 待鸡肉软烂，汤汁浓稠后（汤汁不要收的太干），最后放入青椒\r\n10. 放入味精，兜炒均匀后，关火！青椒基本断生即可，不要炒时间久了",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/黄焖鸡.md"
+  },
+  "hash": "62603160d1f562815fc4161e066d359e7ad4b318c8b1e450abbd3e2eb67e81f2"
+}

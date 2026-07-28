@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "id": "13e750cb-3d32-47fe-ab0f-1ccc77caa87d",
+  "legacyIds": [
+    "breakfast_3e582990"
+  ],
+  "name": "苏格兰蛋",
+  "description": "这道简易版苏格兰蛋外层酥脆，内里糖心软嫩，融合了芝士的奶香和培根的烟熏风味，是一道源自英式做法的创意小吃。鸡蛋提供优质蛋白质，芝士补充钙质，搭配手抓饼皮能满足一餐的能量需求。制作过程不复杂，新手也能轻松上手，从准备到出锅大约只需 20 至 30 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 599,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "手抓饼皮",
+      "markdown": "手抓饼皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝士",
+      "markdown": "芝士",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "培根",
+      "markdown": "培根",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "空气炸锅或者油锅",
+      "markdown": "空气炸锅或者油锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 手抓饼皮\r\n- 芝士\r\n- 培根\r\n- 空气炸锅或者油锅",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 50g（约 1 颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "手抓饼",
+      "text": "手抓饼 1 份-2 份（看鸡蛋大小）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝士片",
+      "text": "芝士片 1-2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "培根片",
+      "text": "培根片 1-2 片",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "> 一份量\r\n\r\n- 鸡蛋 50g（约 1 颗）\r\n- 手抓饼 1 份-2 份（看鸡蛋大小）\r\n- 芝士片 1-2 片\r\n- 培根片 1-2 片",
+  "calculationNotes": [
+    "> 一份量"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "用冷水下锅水开 3 分钟后捞出"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋捞出，放入冰水中剥壳更快速也更完整"
+    },
+    {
+      "kind": "step",
+      "description": "用芝士片包裹鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "培根片包裹鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "手抓饼两端切除以矩形包裹鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "油温 6 成下锅（油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度） 炸制金黄即可"
+    },
+    {
+      "kind": "step",
+      "description": "空气炸锅 160 度 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "切开即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 用冷水下锅水开 3 分钟后捞出\r\n2. 鸡蛋捞出，放入冰水中剥壳更快速也更完整\r\n3. 用芝士片包裹鸡蛋\r\n4. 培根片包裹鸡蛋\r\n5. 手抓饼两端切除以矩形包裹鸡蛋\r\n6. 油温 6 成下锅（油面波动，有青烟，筷子插入油中周围泛起气泡即是 6 成温度） 炸制金黄即可\r\n7. 空气炸锅 160 度 15 分钟\r\n8. 切开即可食用",
+  "tips": "- 芝士片、培根片、手抓饼直接淘宝购买即可\r\n\r\n![苏格兰蛋-预览图-2](./egg2.png)\r\n\r\n![苏格兰蛋-预览图-3](./egg3.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 芝士片、培根片、手抓饼直接淘宝购买即可\r\n\r\n![苏格兰蛋-预览图-2](./egg2.png)\r\n\r\n![苏格兰蛋-预览图-3](./egg3.png)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/breakfast/13e750cb-3d32-47fe-ab0f-1ccc77caa87d_0.webp",
+    "images/breakfast/13e750cb-3d32-47fe-ab0f-1ccc77caa87d_1.webp",
+    "images/breakfast/13e750cb-3d32-47fe-ab0f-1ccc77caa87d_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/苏格兰蛋/苏格兰蛋.md"
+  },
+  "hash": "5e07d9a47f419fc16c815463b8817429aba84a49eb3c4985c8980434835799dd"
+}

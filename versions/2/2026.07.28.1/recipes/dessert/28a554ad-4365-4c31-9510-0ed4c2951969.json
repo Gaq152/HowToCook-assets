@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "id": "28a554ad-4365-4c31-9510-0ed4c2951969",
+  "legacyIds": [
+    "dessert_f4064f61"
+  ],
+  "name": "英式司康",
+  "description": "英式司康是一款经典英式下午茶点心，外酥内软，蛋奶香气浓郁，搭配果酱或奶油食用风味更佳。它主要由面粉、黄油、鸡蛋和淡奶油制成，富含碳水化合物和蛋白质，能快速补充能量。制作过程较为简单，只要掌握基本揉面手法，新手也能胜任，从准备到出炉大约需要一小时。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1197,
+  "requirements": [
+    {
+      "text": "无盐黄油（推荐品牌总统）",
+      "markdown": "无盐黄油（推荐品牌总统）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "低筋面粉",
+      "markdown": "低筋面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "泡打粉",
+      "markdown": "泡打粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淡奶油",
+      "markdown": "淡奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "奶油奶酪（可选）",
+      "markdown": "奶油奶酪（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 无盐黄油（推荐品牌总统）\r\n- 低筋面粉\r\n- 糖\r\n- 盐\r\n- 泡打粉\r\n- 鸡蛋\r\n- 淡奶油\r\n- 奶油奶酪（可选）",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "text": "无盐黄油 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "低筋面粉",
+      "text": "低筋面粉 180g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "泡打粉",
+      "text": "泡打粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个（约 50g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淡奶油",
+      "text": "淡奶油 45g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "奶油奶酪",
+      "text": "奶油奶酪 50g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 4-6 个人吃。\r\n\r\n每份：\r\n\r\n- 无盐黄油 40g\r\n- 低筋面粉 180g\r\n- 糖 30g\r\n- 盐 1g\r\n- 泡打粉 5g\r\n- 鸡蛋 1 个（约 50g）\r\n- 淡奶油 45g\r\n- 奶油奶酪 50g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 4-6 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋打散，称量出 30g 蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀。如果奶酪太硬可以水浴加热至大约 40 度再混合。"
+    },
+    {
+      "kind": "step",
+      "description": "将低筋面粉，盐，糖，泡打粉放入干净容器中混合均匀"
+    },
+    {
+      "kind": "step",
+      "description": "黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中，呈粗玉米粉质地"
+    },
+    {
+      "kind": "step",
+      "description": "将第一步的蛋奶混合液倒入上一步得到的粉油混合物种，搅拌均接近。叠压成均匀面团"
+    },
+    {
+      "kind": "step",
+      "description": "面团放到案板上，擀成 1.5cm 厚的面片，用刀或者模具分切成合适的形状"
+    },
+    {
+      "kind": "step",
+      "description": "用刷子蘸取剩余的 20g 鸡蛋液，刷在司康表面"
+    },
+    {
+      "kind": "step",
+      "description": "烤箱预热 180 度，烤制 27 分钟"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋打散，称量出 30g 蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀。如果奶酪太硬可以水浴加热至大约 40 度再混合。\r\n2. 将低筋面粉，盐，糖，泡打粉放入干净容器中混合均匀\r\n3. 黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中，呈粗玉米粉质地\r\n4. 将第一步的蛋奶混合液倒入上一步得到的粉油混合物种，搅拌均接近。叠压成均匀面团\r\n5. 面团放到案板上，擀成 1.5cm 厚的面片，用刀或者模具分切成合适的形状\r\n6. 用刷子蘸取剩余的 20g 鸡蛋液，刷在司康表面\r\n7. 烤箱预热 180 度，烤制 27 分钟",
+  "tips": "- 最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/28a554ad-4365-4c31-9510-0ed4c2951969_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/英式司康/英式司康.md"
+  },
+  "hash": "72e6ce168957257150610db2cf1f6d3c4e0e0a50238b755d614b3d546d430f4b"
+}

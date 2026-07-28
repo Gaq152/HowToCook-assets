@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 2,
+  "id": "9ce517d1-711e-41f3-a080-ddb5ea994b82",
+  "legacyIds": [],
+  "name": "黄瓜皮蛋汤",
+  "description": "黄瓜皮蛋汤是一道快手家常汤品，口味清淡，带着皮蛋与蒜瓣煸炒出的焦香，暖心暖胃且不油腻。黄瓜清热补水，皮蛋提供一定蛋白质，低脂少负担。做法几乎没有技术门槛，厨房新手也能轻松完成，从备料到出锅只需大约十 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 311,
+  "requirements": [
+    {
+      "text": "黄瓜",
+      "markdown": "黄瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "皮蛋",
+      "markdown": "皮蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油（推荐猪油）",
+      "markdown": "食用油（推荐猪油）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精（可选）",
+      "markdown": "鸡精（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 黄瓜\r\n- 皮蛋\r\n- 大蒜\r\n- 小葱\r\n- 食用油（推荐猪油）\r\n- 盐\r\n- 鸡精（可选）",
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "text": "黄瓜 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "皮蛋",
+      "text": "皮蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2-3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 0.5-1 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 400-500 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 黄瓜 1 根\r\n- 皮蛋 2 个\r\n- 大蒜 2 瓣\r\n- 小葱\r\n- 食用油 10-15 g\r\n- 盐 2-3 g\r\n- 鸡精 0.5-1 g\r\n- 水 400-500 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "黄瓜洗净，切成 0.5-1.2 mm 厚的薄片"
+    },
+    {
+      "kind": "step",
+      "description": "葱洗净切成末，蒜用刀拍几下去皮，对半切一下"
+    },
+    {
+      "kind": "step",
+      "description": "皮蛋剥去壳，然后每个切成 6-8 份。锅里倒入油，放入切好的皮蛋和大蒜"
+    },
+    {
+      "kind": "step",
+      "description": "小火炒至皮蛋和大蒜表面有些焦黄，加入水，转大火烧开"
+    },
+    {
+      "kind": "step",
+      "description": "放入黄瓜片。水再次沸腾以后立马关火，放入盐、鸡精调味即可出锅"
+    },
+    {
+      "kind": "step",
+      "description": "装入碗中，再撒上葱花即可"
+    }
+  ],
+  "operationMarkdown": "1. 黄瓜洗净，切成 0.5-1.2 mm 厚的薄片\r\n2. 葱洗净切成末，蒜用刀拍几下去皮，对半切一下\r\n3. 皮蛋剥去壳，然后每个切成 6-8 份。锅里倒入油，放入切好的皮蛋和大蒜\r\n4. 小火炒至皮蛋和大蒜表面有些焦黄，加入水，转大火烧开\r\n5. 放入黄瓜片。水再次沸腾以后立马关火，放入盐、鸡精调味即可出锅\r\n6. 装入碗中，再撒上葱花即可",
+  "tips": "- 黄瓜可以根据喜好决定是否去皮\r\n- 黄瓜薄片可以用刮皮刀刮\r\n- 皮蛋切块时抹点香油不容易粘刀\r\n- 参考资料：[【黄瓜皮蛋汤的做法步骤图，黄瓜皮蛋汤怎么做好吃】是春天呐__下厨房](https://www.xiachufang.com/recipe/103991291/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 黄瓜可以根据喜好决定是否去皮\r\n- 黄瓜薄片可以用刮皮刀刮\r\n- 皮蛋切块时抹点香油不容易粘刀\r\n- 参考资料：[【黄瓜皮蛋汤的做法步骤图，黄瓜皮蛋汤怎么做好吃】是春天呐__下厨房](https://www.xiachufang.com/recipe/103991291/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/黄瓜皮蛋汤.md"
+  },
+  "hash": "c1a05519ac54e7fa5090a1d8d6f093d67caeacef5d5924d23ce9096d15ff43f6"
+}

@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "id": "3fffc974-e368-4349-8d28-96939ae3c76f",
+  "legacyIds": [
+    "vegetable_dish_cd042334"
+  ],
+  "name": "地三鲜",
+  "description": "地三鲜是东北经典家常菜，茄子软糯、土豆绵香、尖椒清脆，酱香咸鲜十分下饭。食材搭配可提供丰富的维生素与膳食纤维，土豆还带来满足的碳水能量。这道菜需要油炸和快速翻炒，有一定技巧要求，新手需稍加练习，制作全程约需 40 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 264,
+  "requirements": [
+    {
+      "text": "茄子",
+      "markdown": "茄子",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "尖椒",
+      "markdown": "尖椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 茄子\r\n- 土豆\r\n- 尖椒\r\n- 葱\r\n- 姜\r\n- 蒜\r\n- 豆瓣酱\r\n- 生抽\r\n- 糖\r\n- 淀粉",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "text": "茄子 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "尖椒",
+      "text": "尖椒 3 - 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 8g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，这道菜仅有足够 2-4 人食用的版本。\r\n\r\n- 茄子 200g\r\n- 土豆 150g\r\n- 尖椒 3 - 4 个\r\n- 淀粉 8g\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "注意，这道菜仅有足够 2-4 人食用的版本。",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备原料",
+      "description": "### 准备原料"
+    },
+    {
+      "kind": "step",
+      "description": "土豆、茄子、尖椒洗净。"
+    },
+    {
+      "kind": "step",
+      "description": "土豆去皮。"
+    },
+    {
+      "kind": "step",
+      "description": "茄子、土豆均切成 15g 的不规则的小块。"
+    },
+    {
+      "kind": "step",
+      "description": "尖椒用手顺着纹路撕即可，撕成比土豆、茄子略大 25%的块。"
+    },
+    {
+      "kind": "step",
+      "description": "尽可能除去青椒表面的水分，避免后续炸的时候炸水。考虑使用厨房纸或风干半小时。"
+    },
+    {
+      "kind": "step",
+      "description": "葱切 0.5cm 小段，共取 5g。蒜剁碎成蒜蓉取 15g，分成两份，各 7.5g。姜切沫取 5g。"
+    },
+    {
+      "kind": "step",
+      "description": "拿一个空碗，放入生抽 10ml、糖 10g、淀粉 8g，加入 80ml 清水，彻底搅拌均匀，作为调料碗，备用。"
+    },
+    {
+      "kind": "section",
+      "title": "初步煎炸",
+      "description": "### 初步煎炸"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入 150ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "加入土豆，煎炸大约 3-4 分钟，以显示金黄色、筷子能轻松扎透为准。"
+    },
+    {
+      "kind": "step",
+      "description": "捞出土豆，留下油。"
+    },
+    {
+      "kind": "step",
+      "description": "加入茄子，煎炸大约 2-3 分钟，待其到大约 7 分熟，以茄子变软、边缘微焦且吐出多余油脂为准。"
+    },
+    {
+      "kind": "step",
+      "description": "捞出茄子，留下油。（也可能没有残余的油了）"
+    },
+    {
+      "kind": "step",
+      "description": "如果锅内已经没有流动的油，可以考虑补充 15ml 油。"
+    },
+    {
+      "kind": "step",
+      "description": "加入尖椒块，煎炸大约 15 秒，边缘稍微起虎皮后，立刻捞出。倒出锅里的油。"
+    },
+    {
+      "kind": "section",
+      "title": "最终煎炸",
+      "description": "### 最终煎炸"
+    },
+    {
+      "kind": "step",
+      "description": "重新热锅，重新加入 15ml 新底油。"
+    },
+    {
+      "kind": "step",
+      "description": "放入葱 5g，姜 5g，蒜 7.5g。中小火爆香。"
+    },
+    {
+      "kind": "step",
+      "description": "放入豆瓣酱 15ml。转小火，炒出红油和酱香味。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入调料碗。立刻转大火，高速搅拌避免糊锅！大约 10 秒后汤汁就会开始冒泡并变得黏稠。"
+    },
+    {
+      "kind": "step",
+      "description": "立刻放入之前准备好的全部土豆、茄子和尖椒。"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 20 秒，让浓稠的酱汁均匀挂在食材上。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，撒入 7.5g 蒜。翻拌均匀，盛盘。"
+    }
+  ],
+  "operationMarkdown": "### 准备原料\r\n\r\n1. 土豆、茄子、尖椒洗净。\r\n2. 土豆去皮。\r\n3. 茄子、土豆均切成 15g 的不规则的小块。\r\n4. 尖椒用手顺着纹路撕即可，撕成比土豆、茄子略大 25%的块。\r\n5. 尽可能除去青椒表面的水分，避免后续炸的时候炸水。考虑使用厨房纸或风干半小时。\r\n6. 葱切 0.5cm 小段，共取 5g。蒜剁碎成蒜蓉取 15g，分成两份，各 7.5g。姜切沫取 5g。\r\n7. 拿一个空碗，放入生抽 10ml、糖 10g、淀粉 8g，加入 80ml 清水，彻底搅拌均匀，作为调料碗，备用。\r\n\r\n### 初步煎炸\r\n\r\n1. 热锅，加入 150ml 油。\r\n2. 加入土豆，煎炸大约 3-4 分钟，以显示金黄色、筷子能轻松扎透为准。\r\n3. 捞出土豆，留下油。\r\n4. 加入茄子，煎炸大约 2-3 分钟，待其到大约 7 分熟，以茄子变软、边缘微焦且吐出多余油脂为准。\r\n5. 捞出茄子，留下油。（也可能没有残余的油了）\r\n6. 如果锅内已经没有流动的油，可以考虑补充 15ml 油。\r\n7. 加入尖椒块，煎炸大约 15 秒，边缘稍微起虎皮后，立刻捞出。倒出锅里的油。\r\n\r\n### 最终煎炸\r\n\r\n1. 重新热锅，重新加入 15ml 新底油。\r\n2. 放入葱 5g，姜 5g，蒜 7.5g。中小火爆香。\r\n3. 放入豆瓣酱 15ml。转小火，炒出红油和酱香味。\r\n4. 倒入调料碗。立刻转大火，高速搅拌避免糊锅！大约 10 秒后汤汁就会开始冒泡并变得黏稠。\r\n5. 立刻放入之前准备好的全部土豆、茄子和尖椒。\r\n6. 翻炒 20 秒，让浓稠的酱汁均匀挂在食材上。\r\n7. 关火，撒入 7.5g 蒜。翻拌均匀，盛盘。",
+  "tips": "* 糖比淀粉多是非常合理的。淀粉在这里不负责提供味道，它只是一种物理增稠剂。\r\n* 茄子在煎炸以后，体积会缩小 4 倍。所以拿的时候可能会注意到茄子下锅很多，出锅很少。这是正常的。\r\n* 青椒下锅的瞬间可能会爆发很多水分，导致油飞溅。务必下锅时用锅盖当盾牌挡在身前，小心下锅。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 糖比淀粉多是非常合理的。淀粉在这里不负责提供味道，它只是一种物理增稠剂。\r\n* 茄子在煎炸以后，体积会缩小 4 倍。所以拿的时候可能会注意到茄子下锅很多，出锅很少。这是正常的。\r\n* 青椒下锅的瞬间可能会爆发很多水分，导致油飞溅。务必下锅时用锅盖当盾牌挡在身前，小心下锅。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/3fffc974-e368-4349-8d28-96939ae3c76f_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/地三鲜/地三鲜.md"
+  },
+  "hash": "62e88ce2547cc32072b1307cbadc0eba20f03aff3d275b16fcd49a4e6b8f7248"
+}

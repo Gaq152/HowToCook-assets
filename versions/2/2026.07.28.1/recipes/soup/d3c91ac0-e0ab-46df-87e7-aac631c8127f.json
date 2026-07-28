@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "id": "d3c91ac0-e0ab-46df-87e7-aac631c8127f",
+  "legacyIds": [
+    "soup_c43fdbeb"
+  ],
+  "name": "勾芡香菇汤",
+  "description": "香菇勾芡汤汤浓味鲜，滑润适口，是一道快手的家常汤品。香菇含有丰富的氨基酸和多糖，有助于增强免疫力。制作过程需要一些基本的控火和勾芡技巧，但对新手依然友好。从备料到出锅，大约只需 25 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 146,
+  "requirements": [
+    {
+      "text": "香菇",
+      "markdown": "香菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 香菇\r\n* 香葱\r\n* 食用油\r\n* 食用盐\r\n* 鸡精\r\n* 生粉",
+  "ingredients": [
+    {
+      "name": "鲜香菇",
+      "text": "鲜香菇 2 朵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱",
+      "text": "香葱 0.5 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水 350 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 鲜香菇 2 朵\r\n* 香葱 0.5 根\r\n* 鸡精 3 g\r\n* 食用油 10 ml\r\n* 食用盐 3 g\r\n* 开水 350 ml\r\n* 生粉 10 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "香菇切片（每片厚度 0.5-1 cm,厚点相对薄点更有嚼劲），放入大碗中，倒入 2g 食用盐 浸泡 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒（即水淀粉）"
+    },
+    {
+      "kind": "step",
+      "description": "倒掉碗中的盐水，适当去掉香菇本身的水分（方便下一步煎炸）【可选】"
+    },
+    {
+      "kind": "step",
+      "description": "小火，倒入油，待油开始冒小泡（小火 30s ，看每个锅的功率），倒入香菇，每面煎 10s 【可选】"
+    },
+    {
+      "kind": "step",
+      "description": "倒入开水 300ml ，调中火再煮 3-5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "倒入水淀粉，适当搅拌锅中汤汁后，加入 3g 盐、3 g ，最后撒上葱花出锅"
+    }
+  ],
+  "operationMarkdown": "1. 香菇切片（每片厚度 0.5-1 cm,厚点相对薄点更有嚼劲），放入大碗中，倒入 2g 食用盐 浸泡 15 分钟\r\n2. 生粉倒入小碗中，加入 50ml 水，搅拌生粉直至融化没有颗粒（即水淀粉）\r\n3. 倒掉碗中的盐水，适当去掉香菇本身的水分（方便下一步煎炸）【可选】\r\n4. 小火，倒入油，待油开始冒小泡（小火 30s ，看每个锅的功率），倒入香菇，每面煎 10s 【可选】\r\n5. 倒入开水 300ml ，调中火再煮 3-5 分钟\r\n6. 倒入水淀粉，适当搅拌锅中汤汁后，加入 3g 盐、3 g ，最后撒上葱花出锅\r\n\r\n![勾芡香菇汤-预览图-1](./1.jpeg)\r\n\r\n![勾芡香菇汤-预览图-2](./2.jpeg)\r\n\r\n![勾芡香菇汤-预览图-3](./3.jpeg)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/soup/d3c91ac0-e0ab-46df-87e7-aac631c8127f_0.webp",
+    "images/soup/d3c91ac0-e0ab-46df-87e7-aac631c8127f_1.webp",
+    "images/soup/d3c91ac0-e0ab-46df-87e7-aac631c8127f_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md"
+  },
+  "hash": "90c7a788928b831d5f6ef4479d82e3f401ba6e9eb6773545838acbc96598ef51"
+}

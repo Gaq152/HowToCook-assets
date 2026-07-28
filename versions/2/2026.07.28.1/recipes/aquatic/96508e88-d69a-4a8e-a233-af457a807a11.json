@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "id": "96508e88-d69a-4a8e-a233-af457a807a11",
+  "legacyIds": [],
+  "name": "阳朔啤酒鱼",
+  "description": "阳朔啤酒鱼是广西阳朔的地方名菜，选用漓江鲜鱼带鳞煎制，以啤酒代水焖煮，鱼鳞酥脆、鱼肉鲜嫩，啤酒香与番茄微酸交融，风味浓郁独特。鱼肉富含优质蛋白和矿物质，搭配番茄、辣椒，维生素丰富且开胃助食。制作难度中等，对新手稍具挑战，但跟着步骤操作也能成功，预计 30 分钟即可完成。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1092,
+  "requirements": [
+    {
+      "text": "剑骨鱼或鲤鱼（约 1.5 斤，让店家处理内脏，但不要刮鱼鳞）",
+      "markdown": "剑骨鱼或鲤鱼（约 1.5 斤，让店家处理内脏，但**不要刮鱼鳞**）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "漓泉啤酒（一瓶，约 330ml，桂林本地啤酒，最正宗）",
+      "markdown": "漓泉啤酒（一瓶，约 330ml，桂林本地啤酒，最正宗）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄（2 个）",
+      "markdown": "番茄（2 个）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒（2 个）",
+      "markdown": "青椒（2 个）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红椒（1 个）",
+      "markdown": "红椒（1 个）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜（5-6 瓣）",
+      "markdown": "大蒜（5-6 瓣）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜（1 块）",
+      "markdown": "生姜（1 块）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱（2 根）",
+      "markdown": "葱（2 根）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂林辣椒酱",
+      "markdown": "桂林辣椒酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 剑骨鱼或鲤鱼（约 1.5 斤，让店家处理内脏，但**不要刮鱼鳞**）\r\n- 漓泉啤酒（一瓶，约 330ml，桂林本地啤酒，最正宗）\r\n- 番茄（2 个）\r\n- 青椒（2 个）\r\n- 红椒（1 个）\r\n- 大蒜（5-6 瓣）\r\n- 生姜（1 块）\r\n- 葱（2 根）\r\n- 桂林辣椒酱\r\n- 料酒\r\n- 生抽\r\n- 老抽\r\n- 白糖\r\n- 食盐\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "剑骨鱼或鲤鱼",
+      "text": "剑骨鱼或鲤鱼 1 条（约 750g，不去鳞）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "漓泉啤酒",
+      "text": "漓泉啤酒 330ml（1 瓶）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 2 个（约 300g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 2 个（约 150g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红椒",
+      "text": "红椒 1 个（约 80g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 6 瓣（约 30g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 1 块（约 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 2 根（约 40g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂林辣椒酱",
+      "text": "桂林辣椒酱 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 剑骨鱼或鲤鱼 1 条（约 750g，不去鳞）\r\n- 料酒 15ml\r\n- 漓泉啤酒 330ml（1 瓶）\r\n- 番茄 2 个（约 300g）\r\n- 青椒 2 个（约 150g）\r\n- 红椒 1 个（约 80g）\r\n- 大蒜 6 瓣（约 30g）\r\n- 生姜 1 块（约 20g）\r\n- 葱 2 根（约 40g）\r\n- 桂林辣椒酱 15g\r\n- 生抽 15ml\r\n- 老抽 5ml\r\n- 白糖 5g\r\n- 食盐 5g\r\n- 食用油 30ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鱼处理好内脏，保留鱼鳞，清洗干净，从腹部剖开成两半（背部相连），用 15ml 料酒、姜片、食盐 3g 腌制 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "番茄切块，青椒红椒切块，大蒜拍碎，生姜切片，葱切段（葱白葱叶分开）"
+    },
+    {
+      "kind": "step",
+      "description": "用姜片擦拭锅底，热锅后倒入 30ml 食用油，油热后放入鱼（鱼皮朝下），煎至两面金黄、鱼鳞酥脆，盛出备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅中留底油，放入葱白、姜片、蒜瓣爆香"
+    },
+    {
+      "kind": "step",
+      "description": "加入 15g 桂林辣椒酱，炒出红油"
+    },
+    {
+      "kind": "step",
+      "description": "放入番茄块，翻炒至番茄出汁变软"
+    },
+    {
+      "kind": "step",
+      "description": "倒入整瓶啤酒，加入 15ml 生抽、5ml 老抽、5g 白糖、5g 食盐，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "放入煎好的鱼，大火烧开后转中小火，盖上锅盖焖煮 15-20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开盖，放入青椒红椒块，继续煮 3-5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁至汤汁浓稠，撒上葱叶段，出锅装盘"
+    }
+  ],
+  "operationMarkdown": "1. 鱼处理好内脏，保留鱼鳞，清洗干净，从腹部剖开成两半（背部相连），用 15ml 料酒、姜片、食盐 3g 腌制 15 分钟\r\n2. 番茄切块，青椒红椒切块，大蒜拍碎，生姜切片，葱切段（葱白葱叶分开）\r\n3. 用姜片擦拭锅底，热锅后倒入 30ml 食用油，油热后放入鱼（鱼皮朝下），煎至两面金黄、鱼鳞酥脆，盛出备用\r\n4. 锅中留底油，放入葱白、姜片、蒜瓣爆香\r\n5. 加入 15g 桂林辣椒酱，炒出红油\r\n6. 放入番茄块，翻炒至番茄出汁变软\r\n7. 倒入整瓶啤酒，加入 15ml 生抽、5ml 老抽、5g 白糖、5g 食盐，搅拌均匀\r\n8. 放入煎好的鱼，大火烧开后转中小火，盖上锅盖焖煮 15-20 分钟\r\n9. 开盖，放入青椒红椒块，继续煮 3-5 分钟\r\n10. 大火收汁至汤汁浓稠，撒上葱叶段，出锅装盘",
+  "tips": "- 鱼鳞是这道菜的关键特色，一定要保留，煎炸后会变得酥脆可口\r\n- 鱼剖成两半更容易煎透入味，比整条划刀效果更好\r\n- 正宗做法使用桂林辣椒酱（非郫县豆瓣酱），搭配漓泉啤酒，没有桂林辣椒酱可以用蒜蓉辣酱代替\r\n- 番茄要炒软出汁，这样汤汁更浓郁\r\n- 汤汁不要收太干，留一些拌饭或拌面非常好吃\r\n- 参考资料：[阳朔啤酒鱼的做法](https://www.bilibili.com/video/BV1rt4y1976z)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 鱼鳞是这道菜的关键特色，一定要保留，煎炸后会变得酥脆可口\r\n- 鱼剖成两半更容易煎透入味，比整条划刀效果更好\r\n- 正宗做法使用桂林辣椒酱（非郫县豆瓣酱），搭配漓泉啤酒，没有桂林辣椒酱可以用蒜蓉辣酱代替\r\n- 番茄要炒软出汁，这样汤汁更浓郁\r\n- 汤汁不要收太干，留一些拌饭或拌面非常好吃\r\n- 参考资料：[阳朔啤酒鱼的做法](https://www.bilibili.com/video/BV1rt4y1976z)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/96508e88-d69a-4a8e-a233-af457a807a11_0.webp",
+    "images/aquatic/96508e88-d69a-4a8e-a233-af457a807a11_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md"
+  },
+  "hash": "f07faac454fb2cf26bc93d0714ae01b98e28c73081efa4ca19e14577c92257a6"
+}

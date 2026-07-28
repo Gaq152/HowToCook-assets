@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "id": "c1166938-fe89-46db-9e1d-f90147a64e95",
+  "legacyIds": [
+    "vegetable_dish_d4dd30fc"
+  ],
+  "name": "雷椒皮蛋",
+  "description": "雷椒皮蛋是一道卖相朴实但风味十足的家常凉菜，青椒的焦香与皮蛋的醇滑交融，酸辣开胃，尤其适合夏日佐餐。皮蛋富含蛋白质和矿物质，青椒提供丰富的维生素 C，大蒜则有助增进食欲。整道菜操作简单，新手也能轻松驾驭，从备料到完成大约只需 15 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 448,
+  "requirements": [
+    {
+      "text": "皮蛋",
+      "markdown": "皮蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "长条青椒（有些叫线椒，后面介绍以“青椒”代替）",
+      "markdown": "长条青椒（有些叫线椒，后面介绍以“青椒”代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣(可选）",
+      "markdown": "小米辣(可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "陈醋",
+      "markdown": "陈醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油",
+      "markdown": "香油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "深一点的小铁盆",
+      "markdown": "深一点的小铁盆",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 皮蛋\r\n- 长条青椒（有些叫线椒，后面介绍以“青椒”代替）\r\n- 葱\r\n- 蒜\r\n- 小米辣(可选）\r\n- 食用油\r\n- 生抽\r\n- 陈醋\r\n- 白糖\r\n- 香油\r\n- 深一点的小铁盆",
+  "ingredients": [
+    {
+      "name": "皮蛋",
+      "text": "皮蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 4 根 （长 10-15cm，宽 2-4cm）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱 （大约",
+      "text": "葱 （大约 10cm 即可，葱绿最佳）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 3-4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15-20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "陈醋",
+      "text": "陈醋 15-20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 6-10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 5-7ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 3-4 颗",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 皮蛋 2 个\r\n- 青椒 4 根 （长 10-15cm，宽 2-4cm）\r\n- 葱 （大约 10cm 即可，葱绿最佳）\r\n- 蒜 3-4 瓣\r\n- 食用油 10-20ml\r\n- 生抽 15-20ml\r\n- 陈醋 15-20ml\r\n- 白糖 6-10g\r\n- 香油 5-7ml\r\n- 小米辣 3-4 颗",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "青椒清洗，去除根部，侧面切开，去除内部的子后在案板压平，备用（一定要去除青椒子，否则会在锅里炸开）"
+    },
+    {
+      "kind": "step",
+      "description": "葱切成半厘米小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "蒜去皮，切成碎末，备用"
+    },
+    {
+      "kind": "step",
+      "description": "皮蛋去皮，备用"
+    },
+    {
+      "kind": "step",
+      "description": "小米辣，切成 5-10mm 的小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml - 20ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "放入全部青椒，改小火保持锅子温度，煎至青椒变软（可以用筷子试一下，插入即透即可）"
+    },
+    {
+      "kind": "step",
+      "description": "关火，将皮蛋和青椒放入小铁盆中"
+    },
+    {
+      "kind": "step",
+      "description": "方法 1： 有擀面杖且砸东西不会吵到邻居：用擀面杖的一头在小盆中砸击皮蛋和青椒，至皮蛋与青椒混合（选项）"
+    },
+    {
+      "kind": "step",
+      "description": "方法 2：将青椒用手撕开，撕成大约半厘米的条状，用叉子将皮蛋压碎（选项）"
+    },
+    {
+      "kind": "step",
+      "description": "小米辣"
+    },
+    {
+      "kind": "step",
+      "description": "倒入生抽，陈醋，白糖，香油，以及其他未使用的备用食材"
+    },
+    {
+      "kind": "step",
+      "description": "均匀搅拌"
+    }
+  ],
+  "operationMarkdown": "1. 青椒清洗，去除根部，侧面切开，去除内部的子后在案板压平，备用（一定要去除青椒子，否则会在锅里炸开）\r\n2. 葱切成半厘米小段，备用\r\n3. 蒜去皮，切成碎末，备用\r\n4. 皮蛋去皮，备用\r\n5. 小米辣，切成 5-10mm 的小段，备用\r\n6. 热锅，锅内放入 10ml - 20ml 食用油\r\n7. 放入全部青椒，改小火保持锅子温度，煎至青椒变软（可以用筷子试一下，插入即透即可）\r\n8. 关火，将皮蛋和青椒放入小铁盆中\r\n9. 方法 1： 有擀面杖且砸东西不会吵到邻居：用擀面杖的一头在小盆中砸击皮蛋和青椒，至皮蛋与青椒混合（选项）\r\n10. 方法 2：将青椒用手撕开，撕成大约半厘米的条状，用叉子将皮蛋压碎（选项）\r\n11. 小米辣\r\n12. 倒入生抽，陈醋，白糖，香油，以及其他未使用的备用食材\r\n13. 均匀搅拌",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/雷椒皮蛋.md"
+  },
+  "hash": "bd34a19cebd5f12b921df6f233e59138648d6a85bdd5de95d1b726f2202abd31"
+}

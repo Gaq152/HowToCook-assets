@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "id": "54698df5-f798-44ef-ad1e-632a8c65c2c8",
+  "legacyIds": [
+    "soup_677af26e"
+  ],
+  "name": "朱雀汤",
+  "description": "朱雀汤是一道豫东地区的家常快手汤品，口感顺滑香甜，带着芝麻油的醇香。鸡蛋提供优质蛋白质，制作非常简单，只需烧水冲蛋几步就能完成，前后不到十分钟即可上桌，还有清热去火的效果。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 168,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香油（芝麻油）",
+      "markdown": "香油（芝麻油）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 香油（芝麻油）\r\n- 白糖\r\n- 水",
+  "ingredients": [
+    {
+      "name": "一个鸡蛋",
+      "text": "一个鸡蛋",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "500ml 水",
+      "text": "500ml 水",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "20 克白糖（根据个人口味调整）",
+      "text": "20 克白糖（根据个人口味调整）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "2ml 香油",
+      "text": "2ml 香油",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 人份的份量：\r\n\r\n- 一个鸡蛋\r\n- 500ml 水\r\n- 20 克白糖（根据个人口味调整）\r\n- 2ml 香油",
+  "calculationNotes": [
+    "按照 1 人份的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋在碗中打散，再倒入香油。"
+    },
+    {
+      "kind": "step",
+      "description": "水烧开后，在沸腾状态下快速倒入盛有鸡蛋的碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "放入白糖。"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋在碗中打散，再倒入香油。\r\n2. 水烧开后，在沸腾状态下快速倒入盛有鸡蛋的碗中。\r\n3. 放入白糖。\r\n\r\n![朱雀汤-预览图-1](./朱雀汤.jpg)",
+  "tips": "- 鸡蛋一定要打散，水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感\r\n- 此为豫东地区做法，其他地区有不放白糖放盐的，口味不同，根据个人口味调整\r\n- 此汤乃去火神器！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 鸡蛋一定要打散，水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感\r\n- 此为豫东地区做法，其他地区有不放白糖放盐的，口味不同，根据个人口味调整\r\n- 此汤乃去火神器！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/soup/54698df5-f798-44ef-ad1e-632a8c65c2c8_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/朱雀汤/朱雀汤.md"
+  },
+  "hash": "0ee185c6cd03397d6b2b3aeeab225f48bee2145df539a377e738def6088c79f0"
+}

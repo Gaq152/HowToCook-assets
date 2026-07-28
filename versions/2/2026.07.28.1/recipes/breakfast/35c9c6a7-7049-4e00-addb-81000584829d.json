@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 2,
+  "id": "35c9c6a7-7049-4e00-addb-81000584829d",
+  "legacyIds": [
+    "breakfast_72f84032"
+  ],
+  "name": "茶叶蛋",
+  "description": "这道传统小吃茶香浓郁，鲜香可口，富含优质蛋白质，是快捷的营养早餐之选。制作步骤清晰，难度适中，新手需要留意火候与香料配比，约 30 分钟即可完成，一次能做够 2-3 人食用，适合周末从容备好。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 193,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "茴香",
+      "markdown": "茴香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红茶",
+      "markdown": "红茶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 八角\r\n- 香叶\r\n- 桂皮\r\n- 茴香\r\n- 冰糖\r\n- 红茶\r\n- 生抽\r\n- 老抽\r\n- 食盐",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 400g（约 8 颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 4g（约 2 颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 0.5-1g（约 2 片）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 3g（1 小块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茴香",
+      "text": "茴香 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红茶",
+      "text": "红茶 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 25g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋 400g（约 8 颗）\r\n- 八角 4g（约 2 颗）\r\n- 香叶 0.5-1g（约 2 片）\r\n- 桂皮 3g（1 小块）\r\n- 茴香 5g\r\n- 冰糖 15g\r\n- 红茶 20g\r\n- 生抽 15g\r\n- 老抽 25g\r\n- 食盐 3g\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "用冷水将鸡蛋煮熟，大火大约 8 分钟（根据自家厨具决定）"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋捞出，过冷水"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋互相碰撞，使每个鸡蛋产生裂缝"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋下锅，放入八角，香叶，桂皮，茴香，冰糖，红茶，生抽，老抽，食盐"
+    },
+    {
+      "kind": "step",
+      "description": "加水直至没过鸡蛋"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮开之后，转中小火煮 15 分钟"
+    },
+    {
+      "kind": "note",
+      "description": "> 中火煮15 分钟之后，捞出料渣，鸡蛋再浸泡一会口感更佳"
+    }
+  ],
+  "operationMarkdown": "1. 用冷水将鸡蛋煮熟，大火大约 8 分钟（根据自家厨具决定）\r\n2. 鸡蛋捞出，过冷水\r\n3. 将鸡蛋互相碰撞，使每个鸡蛋产生裂缝\r\n4. 将鸡蛋下锅，放入八角，香叶，桂皮，茴香，冰糖，红茶，生抽，老抽，食盐\r\n5. 加水直至没过鸡蛋\r\n6. 大火煮开之后，转中小火煮 15 分钟\r\n\r\n> 中火煮15 分钟之后，捞出料渣，鸡蛋再浸泡一会口感更佳",
+  "tips": "- 鸡蛋捞出过冷水是为了让鸡蛋和壳之间产生间隙\r\n- 食盐可根据个人口味选择不加\r\n- 八角，香叶，桂皮，茴香，冰糖，自己没有这么多食材可以买现成的卤料包\r\n- 常规做法的卤汁渗透速度慢，内部味道容易偏淡。想入味更快、切面更好看：**剥壳** → 在蛋白侧面**划 3–11 刀**（上下十字方向，接近蛋黄即可，别太深以免蛋黄散出）→ 放入小容器，卤汁**没过鸡蛋** → 浸泡 **2 天以上**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 鸡蛋捞出过冷水是为了让鸡蛋和壳之间产生间隙\r\n- 食盐可根据个人口味选择不加\r\n- 八角，香叶，桂皮，茴香，冰糖，自己没有这么多食材可以买现成的卤料包\r\n- 常规做法的卤汁渗透速度慢，内部味道容易偏淡。想入味更快、切面更好看：**剥壳** → 在蛋白侧面**划 3–11 刀**（上下十字方向，接近蛋黄即可，别太深以免蛋黄散出）→ 放入小容器，卤汁**没过鸡蛋** → 浸泡 **2 天以上**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/茶叶蛋.md"
+  },
+  "hash": "29ce0540d510d94dc2339de662bcdfda7d837827dad68f55787d56683153f2bc"
+}

@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 2,
+  "id": "40567245-58b1-4d44-8f18-77a82e6d2804",
+  "legacyIds": [],
+  "name": "鲜肉烧卖",
+  "description": "这是一道江南风味的精致点心，皮薄如纸，馅料饱满多汁，咬开时肉香、笋鲜与皮冻融化后的汤汁交融，咸中带甜，口感软嫩弹牙。猪肉和虾仁提供优质蛋白质，冬笋与香菇增添膳食纤维和微量元素，低脂版本进一步减少了饱和脂肪。虽然包制手法需要一点耐心，但整体步骤清晰，新手多加练习也能掌握，从拌馅到出锅大约需要一小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1485,
+  "requirements": [
+    {
+      "text": "烧卖皮",
+      "markdown": "烧卖皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉末（肥瘦 3:7，如果想做低脂版本，用猪里脊肉或猪前腿肉）",
+      "markdown": "猪肉末（肥瘦 3:7，如果想做低脂版本，用猪里脊肉或猪前腿肉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜末",
+      "markdown": "生姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱末（只用绿色部分）",
+      "markdown": "葱末（只用绿色部分）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖（可选）",
+      "markdown": "糖（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉（可选）",
+      "markdown": "白胡椒粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻油",
+      "markdown": "芝麻油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "高汤或浓汤宝",
+      "markdown": "高汤或浓汤宝",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冬笋（可选）",
+      "markdown": "冬笋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "皮冻（可选但推荐）",
+      "markdown": "皮冻（可选但推荐）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菇（或干香菇泡发，可选）",
+      "markdown": "香菇（或干香菇泡发，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "虾仁（可选）",
+      "markdown": "虾仁（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油（或鸡油）（低脂版本）",
+      "markdown": "猪油（或鸡油）（低脂版本）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "复配食品增稠剂（κ-卡拉胶 45%、瓜尔胶 35%、氯化钾 20%）（或玉米淀粉）（低脂版本）",
+      "markdown": "复配食品增稠剂（κ-卡拉胶 45%、瓜尔胶 35%、氯化钾 20%）（或玉米淀粉）（低脂版本）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸笼垫（推荐顺序为刷油竹垫、草垫、粽叶、带孔硅油纸，传统上用草垫，现在更多用带孔硅油纸）",
+      "markdown": "蒸笼垫（推荐顺序为刷油竹垫、草垫、粽叶、带孔硅油纸，传统上用草垫，现在更多用带孔硅油纸）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 烧卖皮\r\n- 猪肉末（肥瘦 3:7，如果想做低脂版本，用猪里脊肉或猪前腿肉）\r\n- 生姜末\r\n- 葱末（只用绿色部分）\r\n- 生抽\r\n- 料酒\r\n- 盐\r\n- 糖（可选）\r\n- 白胡椒粉（可选）\r\n- 芝麻油\r\n- 高汤或浓汤宝\r\n- 冬笋（可选）\r\n- 皮冻（可选但推荐）\r\n- 香菇（或干香菇泡发，可选）\r\n- 虾仁（可选）\r\n- 猪油（或鸡油）（低脂版本）\r\n- 复配食品增稠剂（κ-卡拉胶 45%、瓜尔胶 35%、氯化钾 20%）（或玉米淀粉）（低脂版本）\r\n- 蒸笼垫（推荐顺序为刷油竹垫、草垫、粽叶、带孔硅油纸，传统上用草垫，现在更多用带孔硅油纸）",
+  "ingredients": [
+    {
+      "name": "烧卖皮",
+      "text": "烧卖皮 240-465 g（约 24-31 张，建议用每张 10g 的烧卖皮 30 张）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉末",
+      "text": "猪肉末 300 g（低脂版本用猪里脊或猪前腿肉 280 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜末",
+      "text": "生姜末 5-10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱末",
+      "text": "葱末 10-20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3-5 g（如果使用浓汤宝，减少 3 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 2-3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻油",
+      "text": "芝麻油 5 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "高汤",
+      "text": "高汤 30 mL",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "浓汤宝",
+      "text": "浓汤宝 6 g（建议家乐牌，约 1/8 块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冬笋",
+      "text": "冬笋 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "皮冻",
+      "text": "皮冻 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菇",
+      "text": "香菇 75 g（或干香菇 30 g 泡发）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "虾仁",
+      "text": "虾仁 100-200 g（约 20-25 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "复配食品增稠剂",
+      "text": "复配食品增稠剂 1.2 g（或玉米淀粉 2 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油（或鸡油）15 g",
+      "text": "猪油（或鸡油）15 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 2-3 个人吃。\r\n\r\n每份：\r\n\r\n- 烧卖皮 240-465 g（约 24-31 张，建议用每张 10g 的烧卖皮 30 张）\r\n- 猪肉末 300 g（低脂版本用猪里脊或猪前腿肉 280 g）\r\n- 生姜末 5-10 g\r\n- 葱末 10-20 g\r\n- 生抽 15 mL\r\n- 料酒 10 mL\r\n- 盐 3-5 g（如果使用浓汤宝，减少 3 g）\r\n- 糖 2-3 g\r\n- 白胡椒粉 2 g\r\n- 芝麻油 5 mL\r\n- 高汤 30 mL\r\n- 浓汤宝 6 g（建议家乐牌，约 1/8 块）\r\n- 冬笋 50 g\r\n- 皮冻 100 g\r\n- 香菇 75 g（或干香菇 30 g 泡发）\r\n- 虾仁 100-200 g（约 20-25 个）\r\n- 复配食品增稠剂 1.2 g（或玉米淀粉 2 g）\r\n- 猪油（或鸡油）15 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 2-3 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "（低脂版本）取 10 mL 冷水，加入复配食品增稠剂，调成糊糊"
+    },
+    {
+      "kind": "step",
+      "description": "（低脂版本）加入 25 mL 开水，搅拌至半透明凝胶"
+    },
+    {
+      "kind": "step",
+      "description": "（低脂版本）冷却后混入 280 g 纯瘦肉糜 + 15 g 融化猪油（或鸡油）"
+    },
+    {
+      "kind": "step",
+      "description": "将猪肉末与生姜末、葱末混合，加入酱油、料酒、盐、糖、白胡椒粉，顺一个方向搅拌上劲"
+    },
+    {
+      "kind": "step",
+      "description": "如果使用浓汤宝，取浓汤宝块加入 15 mL 热水混合，搅拌至乳浊液完全分散，再加入 15 mL 常温水"
+    },
+    {
+      "kind": "step",
+      "description": "慢慢加入水或高汤，继续搅拌，直到馅料吸收水分，变得粘稠，如果觉得肉馅太稠，补 5 mL 水继续搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "加入可选配料（冬笋、皮冻、香菇），最后淋上芝麻油，拌匀。冷藏 30 分钟，让味道融合"
+    },
+    {
+      "kind": "step",
+      "description": "取一张烧卖皮，放上约 20-25 g 馅料（别太贪心，否则包不住）"
+    },
+    {
+      "kind": "step",
+      "description": "用虎口轻轻收拢皮子边缘，形成“花瓶”状，顶部留开口"
+    },
+    {
+      "kind": "step",
+      "description": "用手指轻轻压实底部，确保站立稳定"
+    },
+    {
+      "kind": "step",
+      "description": "如果要加虾仁，在顶部加一颗虾仁"
+    },
+    {
+      "kind": "step",
+      "description": "重复包烧卖的步骤，直到包好"
+    },
+    {
+      "kind": "step",
+      "description": "放在蒸笼里，间隔开，避免粘连"
+    },
+    {
+      "kind": "step",
+      "description": "大火蒸 8-10 分钟即可"
+    }
+  ],
+  "operationMarkdown": "1. （低脂版本）取 10 mL 冷水，加入复配食品增稠剂，调成糊糊\r\n2. （低脂版本）加入 25 mL 开水，搅拌至半透明凝胶\r\n3. （低脂版本）冷却后混入 280 g 纯瘦肉糜 + 15 g 融化猪油（或鸡油）\r\n4. 将猪肉末与生姜末、葱末混合，加入酱油、料酒、盐、糖、白胡椒粉，顺一个方向搅拌上劲\r\n5. 如果使用浓汤宝，取浓汤宝块加入 15 mL 热水混合，搅拌至乳浊液完全分散，再加入 15 mL 常温水\r\n6. 慢慢加入水或高汤，继续搅拌，直到馅料吸收水分，变得粘稠，如果觉得肉馅太稠，补 5 mL 水继续搅拌\r\n7. 加入可选配料（冬笋、皮冻、香菇），最后淋上芝麻油，拌匀。冷藏 30 分钟，让味道融合\r\n8. 取一张烧卖皮，放上约 20-25 g 馅料（别太贪心，否则包不住）\r\n9. 用虎口轻轻收拢皮子边缘，形成“花瓶”状，顶部留开口\r\n10. 用手指轻轻压实底部，确保站立稳定\r\n11. 如果要加虾仁，在顶部加一颗虾仁\r\n12. 重复包烧卖的步骤，直到包好\r\n13. 放在蒸笼里，间隔开，避免粘连\r\n14. 大火蒸 8-10 分钟即可",
+  "tips": "- 烧卖中的脂肪主要来自肥肉，低脂版本中的肥肉被移除后为保证口感需要使用少量动物油来补偿\r\n- 如果没有烧卖皮，可用大馄饨皮，或者饺子皮擀薄\r\n- 皮的直径在 8-10 cm 之间，每张皮重约 10-15g，皮和馅的比例控制在 1:2 - 1:2.5\r\n- 绞肉机建议用中档，这样肉末不会太细（像糊糊）也不会太粗（像碎块），保持适中纹理，让馅料口感 Q 弹\r\n- 使用姜末 5 g，葱末 10 g 不容易掩盖鲜肉的味道；姜末 10 g，葱末 20 g 有点像饺子馅\r\n- 包烧卖的时候在虎口抹点油，收口不会粘手\r\n- 蒸的时候记得水开了再上笼，这样皮子不会塌掉\r\n- 做多了可 -18 ℃ 冷冻保存，冷冻保存的需要蒸 12-15 分钟\r\n- 蘸上玫瑰米醋更好吃，也可以根据口味配上桐乡辣酱、油泼辣子、生抽、姜丝\r\n- 参考资料：[【鲜肉烧麦的做法步骤图，鲜肉烧麦怎么做好吃】小什么l_下厨房](https://www.xiachufang.com/recipe/106527847/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 烧卖中的脂肪主要来自肥肉，低脂版本中的肥肉被移除后为保证口感需要使用少量动物油来补偿\r\n- 如果没有烧卖皮，可用大馄饨皮，或者饺子皮擀薄\r\n- 皮的直径在 8-10 cm 之间，每张皮重约 10-15g，皮和馅的比例控制在 1:2 - 1:2.5\r\n- 绞肉机建议用中档，这样肉末不会太细（像糊糊）也不会太粗（像碎块），保持适中纹理，让馅料口感 Q 弹\r\n- 使用姜末 5 g，葱末 10 g 不容易掩盖鲜肉的味道；姜末 10 g，葱末 20 g 有点像饺子馅\r\n- 包烧卖的时候在虎口抹点油，收口不会粘手\r\n- 蒸的时候记得水开了再上笼，这样皮子不会塌掉\r\n- 做多了可 -18 ℃ 冷冻保存，冷冻保存的需要蒸 12-15 分钟\r\n- 蘸上玫瑰米醋更好吃，也可以根据口味配上桐乡辣酱、油泼辣子、生抽、姜丝\r\n- 参考资料：[【鲜肉烧麦的做法步骤图，鲜肉烧麦怎么做好吃】小什么l_下厨房](https://www.xiachufang.com/recipe/106527847/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/鲜肉烧卖.md"
+  },
+  "hash": "59a188dd4ff879a4ac283324b39fc7b67ce42270b8840df5e1ab18cbfe693886"
+}

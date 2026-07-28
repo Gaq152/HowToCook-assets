@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "id": "ded9ee1a-5e10-42e7-9077-fa9ecb76a822",
+  "legacyIds": [
+    "vegetable_dish_2291424d"
+  ],
+  "name": "鸡蛋花",
+  "description": "一道简单易做的家常食疗汤饮，有甜咸两种风味，口感柔滑嫩爽，属于民间润喉小方。富含优质蛋白质和卵磷脂，易于消化吸收，可缓解喉咙干痒不适。制作极简单，初学者看一遍就能上手，从烧水到完成大约只需 5 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 107,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖 （可选，制作甜口）",
+      "markdown": "白糖 （可选，制作甜口）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐 （可选，制作咸口）",
+      "markdown": "食盐 （可选，制作咸口）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌器 （可选）",
+      "markdown": "搅拌器 （可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 白糖 （可选，制作甜口）\r\n- 食盐 （可选，制作咸口）\r\n- 搅拌器 （可选）",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个 （去壳后约 50 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "沸水",
+      "text": "沸水 100 - 150 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5 - 10 g （如制作甜口）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 1 - 2 g （如制作咸口）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人吃。\r\n\r\n每份：\r\n\r\n- 鸡蛋 1 个 （去壳后约 50 g）\r\n- 沸水 100 - 150 ml\r\n- 白糖 5 - 10 g （如制作甜口）\r\n- 食盐 1 - 2 g （如制作咸口）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将鸡蛋打入碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "使用筷子或搅拌器，顺着一个方向搅打蛋液，直至蛋清与蛋黄完全混合均匀，颜色一致。（此过程约需 1 - 2 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "将糖或盐等调味料加入蛋液中，略微搅匀。"
+    },
+    {
+      "kind": "step",
+      "description": "准备刚烧开的、100 ℃ 的沸水。"
+    },
+    {
+      "kind": "step",
+      "description": "**一边用筷子快速搅拌碗中的蛋液，一边将沸水以细流状冲入蛋液中**。确保沸水与蛋液充分混合。"
+    },
+    {
+      "kind": "step",
+      "description": "持续搅拌片刻，直至蛋液被完全烫熟，形成均匀的淡黄色蛋花。"
+    }
+  ],
+  "operationMarkdown": "1. 将鸡蛋打入碗中。\r\n2. 使用筷子或搅拌器，顺着一个方向搅打蛋液，直至蛋清与蛋黄完全混合均匀，颜色一致。（此过程约需 1 - 2 分钟）\r\n3. 将糖或盐等调味料加入蛋液中，略微搅匀。\r\n4. 准备刚烧开的、100 ℃ 的沸水。\r\n5. **一边用筷子快速搅拌碗中的蛋液，一边将沸水以细流状冲入蛋液中**。确保沸水与蛋液充分混合。\r\n6. 持续搅拌片刻，直至蛋液被完全烫熟，形成均匀的淡黄色蛋花。",
+  "tips": "- 为了防止生鸡蛋中可能含有的沙门氏菌，建议使用刚烧开的、100 ℃ 的滚水，瞬间将鸡蛋液完全烫熟。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 为了防止生鸡蛋中可能含有的沙门氏菌，建议使用刚烧开的、100 ℃ 的滚水，瞬间将鸡蛋液完全烫熟。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
+  },
+  "hash": "9519de833095b4cb77c1ac9d307203379aa450afe823e51da0c3bdc74877c5f7"
+}

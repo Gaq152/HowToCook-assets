@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "id": "a02cfd77-fd5a-49c8-a8df-4777e285ee87",
+  "legacyIds": [
+    "meat_dish_e9abca43"
+  ],
+  "name": "带把肘子",
+  "description": "带把肘子是陕西大荔的传统名菜，因脚爪形似把柄而得名。成菜肘皮胶粘软糯，肉质酥烂不腻，蘸甜面酱佐葱段食用，咸香醇厚。富含胶原蛋白和优质蛋白质，滋补养颜。制作需去骨、定形、长时间蒸制，对新手有一定挑战，预计整个制作过程约需 3.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 1037,
+  "requirements": [
+    {
+      "text": "带脚、爪猪前肘",
+      "markdown": "带脚、爪猪前肘",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "红豆腐乳",
+      "markdown": "红豆腐乳",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "甜面酱",
+      "markdown": "甜面酱",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "精盐",
+      "markdown": "精盐",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "红酱油",
+      "markdown": "红酱油",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "白酱油",
+      "markdown": "白酱油",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "蒜片",
+      "markdown": "蒜片",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "姜末",
+      "markdown": "姜末",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "小斧头（砸断骨头用）",
+      "markdown": "小斧头（砸断骨头用）",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "消毒纱布（能盖住肘子）",
+      "markdown": "消毒纱布（能盖住肘子）",
+      "group": "工具",
+      "kind": "tool"
+    }
+  ],
+  "requirementsMarkdown": "### 原料\r\n\r\n- 带脚、爪猪前肘\r\n- 红豆腐乳\r\n- 甜面酱\r\n- 精盐\r\n- 红酱油\r\n- 白酱油\r\n- 料酒\r\n- 蒜片\r\n- 姜末\r\n- 八角\r\n- 桂皮\r\n- 葱\r\n\r\n### 工具\r\n\r\n- 小斧头（砸断骨头用）\r\n- 消毒纱布（能盖住肘子）",
+  "ingredients": [
+    {
+      "name": "带脚、爪猪前肘",
+      "text": "带脚、爪猪前肘: 一个（大约二斤五两 = 1250 克）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红豆腐乳",
+      "text": "红豆腐乳: 1 块 = 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甜面酱",
+      "text": "甜面酱: 150 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "精盐",
+      "text": "精盐: 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红酱油",
+      "text": "红酱油: 35 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白酱油",
+      "text": "白酱油: 25 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒: 25 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜片",
+      "text": "蒜片: 50 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末: 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角: 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮: 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱: 200 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "小斧头（砸断骨头用）",
+    "消毒纱布（能盖住肘子）"
+  ],
+  "calculationMarkdown": "每份：三人量\r\n\r\n- 带脚、爪猪前肘: 一个（大约二斤五两 = 1250 克）\r\n- 红豆腐乳: 1 块 = 10 克\r\n- 甜面酱: 150 克\r\n- 精盐: 15 克\r\n- 红酱油: 35 克\r\n- 白酱油: 25 克\r\n- 料酒: 25 克\r\n- 蒜片: 50 克\r\n- 姜末: 10 克\r\n- 八角: 3 个\r\n- 桂皮: 5 克\r\n- 葱: 200 克",
+  "calculationNotes": [
+    "每份：三人量"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将肘子刮洗干净，肘头朝外、肘把（脚爪）朝里、肘皮朝下放在案板上。"
+    },
+    {
+      "kind": "step",
+      "description": "用刀在正中由肘头向肘把沿着腿骨将皮剖开，剔去腿骨两边的肉（三面离肉），底部骨与肉相连，使骨头露出，然后将两节腿骨由中间用刀背（还是用斧头吧）砸断。"
+    },
+    {
+      "kind": "step",
+      "description": "肘子放入煮锅煮至七成熟捞出（外观正常，内部淡红色），用干净抹布擦干水，趁热用红酱油涂抹肉皮。"
+    },
+    {
+      "kind": "step",
+      "description": "取蒸锅一个，锅底放入八角、桂皮，先将肘把的关节处用手掰断，不伤外皮，再将肘皮朝下装进蒸锅内，装锅时根据肘子体型，将肘把贴住锅边窝着装进锅内，成为圆形。"
+    },
+    {
+      "kind": "step",
+      "description": "撒入精盐，用消过毒的干净纱布盖在肉上，再将甜面酱（50 克）、葱（75 克）、红豆腐乳、红酱油、白酱油、姜、蒜等在纱布上抹开，用旺火蒸大约三小时（以蒸烂为准）。"
+    },
+    {
+      "kind": "step",
+      "description": "蒸完取出，揭去纱布，扣入盘中，拣去八角，上桌时另带葱段和甜面酱小碟（或将甜面酱抹到肘面上，另带葱段小碟亦可）。"
+    }
+  ],
+  "operationMarkdown": "1. 将肘子刮洗干净，肘头朝外、肘把（脚爪）朝里、肘皮朝下放在案板上。\r\n2. 用刀在正中由肘头向肘把沿着腿骨将皮剖开，剔去腿骨两边的肉（三面离肉），底部骨与肉相连，使骨头露出，然后将两节腿骨由中间用刀背（还是用斧头吧）砸断。\r\n3. 肘子放入煮锅煮至七成熟捞出（外观正常，内部淡红色），用干净抹布擦干水，趁热用红酱油涂抹肉皮。\r\n4. 取蒸锅一个，锅底放入八角、桂皮，先将肘把的关节处用手掰断，不伤外皮，再将肘皮朝下装进蒸锅内，装锅时根据肘子体型，将肘把贴住锅边窝着装进锅内，成为圆形。\r\n5. 撒入精盐，用消过毒的干净纱布盖在肉上，再将甜面酱（50 克）、葱（75 克）、红豆腐乳、红酱油、白酱油、姜、蒜等在纱布上抹开，用旺火蒸大约三小时（以蒸烂为准）。\r\n6. 蒸完取出，揭去纱布，扣入盘中，拣去八角，上桌时另带葱段和甜面酱小碟（或将甜面酱抹到肘面上，另带葱段小碟亦可）。",
+  "tips": "- 肘子七成熟要根据实际情况判断，有条件可询问家中长辈。\r\n- 蒸锅下半放水，上半放肘子，蒸时及时加水防止蒸干。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 肘子七成熟要根据实际情况判断，有条件可询问家中长辈。\r\n- 蒸锅下半放水，上半放肘子，蒸时及时加水防止蒸干。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/带把肘子.md"
+  },
+  "hash": "f59891b3b3d247d442c7f4d5173d7ef121d1894db01453b22e426cfbefeb9698"
+}

@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 2,
+  "id": "8820a01e-bee8-4b99-be45-b8abb1e810a4",
+  "legacyIds": [
+    "semi-finished_6f634d4b"
+  ],
+  "name": "牛油火锅底料",
+  "description": "这道重庆火锅底料以大量牛油为基底，糅合糍粑辣椒和多种香辛料，熬出的底料麻辣醇厚、香气浓烈，是涮烫毛肚、鸭肠等食材的灵魂。牛油和猪油提供了丰富能量，辣椒与花椒能温中散寒、促进食欲，但油脂含量较高，宜节制食用。制作过程需精准控制油温和翻炒火候，对新手有一定挑战，从备料到完成约需 1 小时。",
+  "category": "semi-finished",
+  "categoryName": "半成品",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 585,
+  "requirements": [
+    {
+      "text": "牛油 4500 g",
+      "markdown": "牛油 4500 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "（色拉油 或 菜籽油） 1000 ml",
+      "markdown": "（色拉油 或 菜籽油） 1000 ml",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "纯猪油 500 g",
+      "markdown": "纯猪油 500 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "豆瓣（郫县） 1000 g",
+      "markdown": "豆瓣（郫县） 1000 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "糍粑辣椒 3000 g",
+      "markdown": "糍粑辣椒 3000 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "老姜（切片） 250 g",
+      "markdown": "老姜（切片） 250 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "大葱（切段） 100 g",
+      "markdown": "大葱（切段） 100 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "洋葱（切丝） 100 g",
+      "markdown": "洋葱（切丝） 100 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "大蒜（切片） 200 g",
+      "markdown": "大蒜（切片） 200 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "豆鼓（剁碎）（永川） 10 g",
+      "markdown": "豆鼓（剁碎）（永川） 10 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "豆母子 140 g",
+      "markdown": "豆母子 140 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "红花椒 150 g",
+      "markdown": "红花椒 150 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "老油 ? 颗粒香料 100 g : 整形香料 150 g",
+      "markdown": "老油 ? 颗粒香料 100 g : 整形香料 150 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "麦芽粉（肉香） 12.5 g",
+      "markdown": "麦芽粉（肉香） 12.5 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "白酒(52%VOL) 150 ml",
+      "markdown": "白酒(52%VOL) 150 ml",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "老油 ?? 干辣椒面 15 g",
+      "markdown": "老油 ?? 干辣椒面 15 g",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "山奈 5 g",
+      "markdown": "山奈 5 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "八角 10 g",
+      "markdown": "八角 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "草果 10 g",
+      "markdown": "草果 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "肉桂 10 g",
+      "markdown": "肉桂 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "丁香 5 g",
+      "markdown": "丁香 5 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "小茴香 10 g",
+      "markdown": "小茴香 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "白芷 10 g",
+      "markdown": "白芷 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "荜拨 5 g",
+      "markdown": "荜拨 5 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香草 10 g",
+      "markdown": "香草 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香果 10 g",
+      "markdown": "香果 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "山楂 10 g",
+      "markdown": "山楂 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "陈皮 5 g",
+      "markdown": "陈皮 5 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香茅 10 g",
+      "markdown": "香茅 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "砂仁 10 g",
+      "markdown": "砂仁 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "白蔻 10 g",
+      "markdown": "白蔻 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "香叶 10 g",
+      "markdown": "香叶 10 g",
+      "group": "香料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "粉碎机",
+      "markdown": "粉碎机",
+      "group": "工具",
+      "kind": "tool"
+    }
+  ],
+  "requirementsMarkdown": "### 原料\r\n\r\n- 牛油 4500 g\r\n- （色拉油 或 菜籽油） 1000 ml\r\n- 纯猪油 500 g\r\n- 豆瓣（郫县） 1000 g\r\n- 糍粑辣椒 3000 g\r\n- 老姜（切片） 250 g\r\n- 大葱（切段） 100 g\r\n- 洋葱（切丝） 100 g\r\n- 大蒜（切片） 200 g\r\n- 豆鼓（剁碎）（永川） 10 g\r\n- 豆母子 140 g\r\n- 红花椒 150 g\r\n- 老油 ? 颗粒香料 100 g : 整形香料 150 g\r\n- 麦芽粉（肉香） 12.5 g\r\n- 白酒(52%VOL) 150 ml\r\n- 老油 ?? 干辣椒面 15 g\r\n\r\n### 香料\r\n\r\n- 山奈 5 g\r\n- 八角 10 g\r\n- 草果 10 g\r\n- 肉桂 10 g\r\n- 丁香 5 g\r\n- 小茴香 10 g\r\n- 白芷 10 g\r\n- 荜拨 5 g\r\n- 香草 10 g\r\n- 香果 10 g\r\n- 山楂 10 g\r\n- 陈皮 5 g\r\n- 香茅 10 g\r\n- 砂仁 10 g\r\n- 白蔻 10 g\r\n- 香叶 10 g\r\n\r\n#### 颗粒香料\r\n\r\n以上配料放入粉碎机打碎至大约 4 mm 颗粒备用。\r\n\r\n#### 整形香料\r\n\r\n以上配料洗净备用。\r\n\r\n### 工具\r\n\r\n- 粉碎机",
+  "ingredients": [
+    {
+      "name": "每份原料可制作",
+      "text": "每份原料可制作 7.5 kg 火锅底料/火锅老油",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "粉碎机"
+  ],
+  "calculationMarkdown": "- 每份原料可制作 7.5 kg 火锅底料/火锅老油",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "锅置旺火（大火）放入牛油烧至 八成热(240±10°C) 时放入 `老姜、大葱、洋葱、大蒜 (各100g)`，炸干（吸尽异味（牛油腥味））后捞出扔掉。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 `(色拉油 || 菜籽油)、纯猪油`，等待锅中油温下降到 五成热(150±10°C) 时放入 `糍粑辣椒` 持续翻炒 5-8 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 `豆瓣` 炒散，转用 **中小火** 慢炒至料渣略发白翻砂（发出沙沙声）。"
+    },
+    {
+      "kind": "step",
+      "description": "油在外观呈现樱桃红时放入 `姜片(150g)、大蒜(100g)` 炒香，大约 15 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 `豆鼓、豆母子` 炒香，放入 `红花椒、小茴香` 炒香。"
+    },
+    {
+      "kind": "step",
+      "description": "（老油） 此刻放入 颗粒香料"
+    },
+    {
+      "kind": "step",
+      "description": "放入 `麦芽粉` 炒散，放入 `白酒` 炒散。"
+    },
+    {
+      "kind": "section",
+      "title": "作为底料",
+      "description": "### 作为底料"
+    },
+    {
+      "kind": "step",
+      "description": "起锅装入容器中，静置于温度低的环境(10-20) 5 天后再使用效果最佳。"
+    },
+    {
+      "kind": "section",
+      "title": "作为老油",
+      "description": "### 作为老油"
+    },
+    {
+      "kind": "step",
+      "description": "起锅装入容器中放入 `干辣椒面` 搅匀置放 24 小时，等待制作 **老油**。"
+    },
+    {
+      "kind": "step",
+      "description": "将底料倒入锅中，加入 3/5 的开水用大火烧开 （底料:2/5 开水:3/5）。"
+    },
+    {
+      "kind": "step",
+      "description": "烧开后表面会出现泡沫，将泡沫撇净。"
+    },
+    {
+      "kind": "step",
+      "description": "转用 **中小火** 慢熬出味（约 25-30 分钟），过滤去渣。"
+    },
+    {
+      "kind": "step",
+      "description": "等待容器中 **油水分离** 后，将表面的 **油** 撇净（将油打出来） 装入另外的容器。"
+    },
+    {
+      "kind": "step",
+      "description": "将上一步所 **撇** 出来的 **油** 重新倒入 **净锅** 中，直至 **炼干** 油中水分起锅装入容器即为 **火锅老油**。"
+    }
+  ],
+  "operationMarkdown": "1. 锅置旺火（大火）放入牛油烧至 八成热(240±10°C) 时放入 `老姜、大葱、洋葱、大蒜 (各100g)`，炸干（吸尽异味（牛油腥味））后捞出扔掉。\r\n2. 放入 `(色拉油 || 菜籽油)、纯猪油`，等待锅中油温下降到 五成热(150±10°C) 时放入 `糍粑辣椒` 持续翻炒 5-8 分钟。\r\n3. 放入 `豆瓣` 炒散，转用 **中小火** 慢炒至料渣略发白翻砂（发出沙沙声）。\r\n4. 油在外观呈现樱桃红时放入 `姜片(150g)、大蒜(100g)` 炒香，大约 15 秒。\r\n5. 放入 `豆鼓、豆母子` 炒香，放入 `红花椒、小茴香` 炒香。\r\n6. （老油） 此刻放入 颗粒香料\r\n7. 放入 `麦芽粉` 炒散，放入 `白酒` 炒散。\r\n\r\n### 作为底料\r\n\r\n1. 起锅装入容器中，静置于温度低的环境(10-20) 5 天后再使用效果最佳。\r\n\r\n### 作为老油\r\n\r\n1. 起锅装入容器中放入 `干辣椒面` 搅匀置放 24 小时，等待制作 **老油**。\r\n2. 将底料倒入锅中，加入 3/5 的开水用大火烧开 （底料:2/5 开水:3/5）。\r\n3. 烧开后表面会出现泡沫，将泡沫撇净。\r\n4. 转用 **中小火** 慢熬出味（约 25-30 分钟），过滤去渣。\r\n5. 等待容器中 **油水分离** 后，将表面的 **油** 撇净（将油打出来） 装入另外的容器。\r\n6. 将上一步所 **撇** 出来的 **油** 重新倒入 **净锅** 中，直至 **炼干** 油中水分起锅装入容器即为 **火锅老油**。",
+  "tips": "- **警告：操作时请擦干手上水滴！以免水进入油锅中发生爆炸！造成严重烧伤！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **警告：操作时请擦干手上水滴！以免水进入油锅中发生爆炸！造成严重烧伤！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/semi-finished/牛油火锅底料.md"
+  },
+  "hash": "05e4b5fd6fb5f887c5c25bd01855510a35e3db5417b1b698aaad4531ef0b0ac2"
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "id": "ddcb7d00-7b40-4ff9-9375-b1549478691d",
+  "legacyIds": [
+    "staple_bc665093"
+  ],
+  "name": "醪糟小汤圆",
+  "description": "醪糟小汤圆是一道香甜软糯的传统中式甜品，酒酿的微酸与糯米的绵滑交融，暖胃又舒心。它富含碳水化合物和少量 B 族维生素，能快速补充能量，也有助促进血液循环。做法毫无门槛，对新手特别友好，从烧水到出锅只需约 15 分钟，是一碗随时都能轻松完成的家常甜汤。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 957,
+  "requirements": [
+    {
+      "text": "小汤圆",
+      "markdown": "小汤圆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "醪糟",
+      "markdown": "醪糟",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "枸杞（可选）",
+      "markdown": "枸杞（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 小汤圆\r\n* 醪糟\r\n* 白糖\r\n* 枸杞（可选）",
+  "ingredients": [
+    {
+      "name": "水",
+      "text": "水 300 毫升 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小汤圆",
+      "text": "小汤圆 250 克 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "醪糟",
+      "text": "醪糟 50 克 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "枸杞",
+      "text": "枸杞 5 颗 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用\r\n\r\n总量：\r\n\r\n* 水 300 毫升 * 份数\r\n* 小汤圆 250 克 * 份数\r\n* 醪糟 50 克 * 份数\r\n* 枸杞 5 颗 * 份数\r\n* 白糖",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将水倒入锅中并煮沸"
+    },
+    {
+      "kind": "step",
+      "description": "放入小汤圆煮 8 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "放入醪糟和枸杞再煮 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "盛入碗中根据个人口味加入白糖并搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "吃"
+    }
+  ],
+  "operationMarkdown": "1. 将水倒入锅中并煮沸\r\n2. 放入小汤圆煮 8 分钟\r\n3. 放入醪糟和枸杞再煮 2 分钟\r\n4. 盛入碗中根据个人口味加入白糖并搅拌均匀\r\n5. 吃",
+  "tips": "* 白糖的用量根据个人口味更改\r\n* 若喜欢更浓的口感可以减少 100 毫升内的水\r\n* 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 白糖的用量根据个人口味更改\r\n* 若喜欢更浓的口感可以减少 100 毫升内的水\r\n* 若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/醪糟小汤圆.md"
+  },
+  "hash": "bda4d18e8e86776b2293fe969b904ebc53e395b1a75af34e37c2d9b24632f8c3"
+}

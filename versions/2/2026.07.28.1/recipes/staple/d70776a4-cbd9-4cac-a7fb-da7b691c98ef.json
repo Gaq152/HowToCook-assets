@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "id": "d70776a4-cbd9-4cac-a7fb-da7b691c98ef",
+  "legacyIds": [
+    "staple_693aee62"
+  ],
+  "name": "螺蛳粉",
+  "description": "螺蛳粉是广西柳州的特色小吃，汤鲜味浓，酸辣爽口，米粉软滑筋道。口味上融合了螺蛳汤的鲜美、酸笋的独特发酵风味和辣椒油的刺激，层次分明。作为主食，米粉提供充足碳水化合物，螺蛳肉包和配料带来一定蛋白质，酸笋则有助于开胃促消化。这道菜所需操作简单，只需按顺序煮熟米粉和调味即可，对新手非常友好。从烧水到出锅，最快约十分钟就能端上餐桌，适合快手解决一餐。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 1109,
+  "requirements": [
+    {
+      "text": "袋装螺蛳粉一包，其中应该包含：米粉螺蛳肉包（可能放在配料包中）汤料包酸笋包、花生包、豆皮包、木耳包等配料包醋包、辣椒油等调味包",
+      "markdown": "袋装螺蛳粉一包，其中应该包含：\n- 米粉\n- 螺蛳肉包（可能放在配料包中）\n- 汤料包\n- 酸笋包、花生包、豆皮包、木耳包等配料包\n- 醋包、辣椒油等调味包",
+      "group": "原料",
+      "kind": "ingredient"
+    },
+    {
+      "text": "煮锅",
+      "markdown": "煮锅",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "电磁炉/灶台",
+      "markdown": "电磁炉/灶台",
+      "group": "工具",
+      "kind": "tool"
+    },
+    {
+      "text": "筷子一双",
+      "markdown": "筷子一双",
+      "group": "工具",
+      "kind": "tool"
+    }
+  ],
+  "requirementsMarkdown": "> 出于家常菜考虑，从螺蛳，酸笋等工序开始制作螺蛳粉并不现实，因此本食谱基于袋装螺蛳粉实现。\r\n\r\n### 原料\r\n\r\n- 袋装螺蛳粉一包，其中应该包含：\r\n  - 米粉\r\n  - 螺蛳肉包（可能放在配料包中）\r\n  - 汤料包\r\n  - 酸笋包、花生包、豆皮包、木耳包等配料包\r\n  - 醋包、辣椒油等调味包\r\n\r\n### 工具\r\n\r\n- 煮锅\r\n\r\n- 电磁炉/灶台\r\n\r\n- 筷子一双",
+  "ingredients": [
+    {
+      "name": "根据个人经验",
+      "text": "根据个人经验，一包袋装螺蛳粉足够一人一餐食（虽然看着很大包）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 1L",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [
+    "煮锅",
+    "电磁炉/灶台",
+    "筷子一双"
+  ],
+  "calculationMarkdown": "- 根据个人经验，一包袋装螺蛳粉足够一人一餐食（虽然看着很大包）\r\n- 水 1L",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "锅中加水，将水烧开"
+    },
+    {
+      "kind": "step",
+      "description": "下米粉，煮 3-5 分钟，期间用筷子搅拌，防止米粉粘在一起"
+    },
+    {
+      "kind": "step",
+      "description": "下汤料包，按个人口味添加"
+    },
+    {
+      "kind": "step",
+      "description": "下一部分配料包，如木耳，花生，螺蛳（这部分配料需要煮一会才入味）"
+    },
+    {
+      "kind": "step",
+      "description": "下调味包，按个人口味添加"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌后捞出，放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "下剩下的配料包，如酸笋，豆皮（这部分配料不适合被汤泡太久）"
+    },
+    {
+      "kind": "step",
+      "description": "享用美食"
+    }
+  ],
+  "operationMarkdown": "1. 锅中加水，将水烧开\r\n2. 下米粉，煮 3-5 分钟，期间用筷子搅拌，防止米粉粘在一起\r\n3. 下汤料包，按个人口味添加\r\n4. 下一部分配料包，如木耳，花生，螺蛳（这部分配料需要煮一会才入味）\r\n5. 下调味包，按个人口味添加\r\n6. 搅拌后捞出，放入碗中\r\n7. 下剩下的配料包，如酸笋，豆皮（这部分配料不适合被汤泡太久）\r\n8. 享用美食",
+  "tips": "- 如果想要更有嚼劲的粉，可以缩短第二步煮粉的时间\r\n- 如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程\r\n- 配料的选择请依照个人口味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果想要更有嚼劲的粉，可以缩短第二步煮粉的时间\r\n- 如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程\r\n- 配料的选择请依照个人口味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/螺蛳粉.md"
+  },
+  "hash": "020c4367bf2971884933ed4eec04143939e0c5834e4c82eaf3ad5596753a5725"
+}

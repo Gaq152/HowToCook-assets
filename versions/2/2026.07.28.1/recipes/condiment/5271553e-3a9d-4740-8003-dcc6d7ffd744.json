@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "id": "5271553e-3a9d-4740-8003-dcc6d7ffd744",
+  "legacyIds": [
+    "condiment_491d23fe"
+  ],
+  "name": "糖醋汁",
+  "description": "这款调味汁酸甜可口，是中餐里糖醋菜肴的经典风味来源。调制简单、比例易记，新手也能轻松上手，从备料到完成约需 10 分钟。糖分能提供能量，醋香有助于开胃解腻，让家常菜瞬间变得有滋有味。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 146,
+  "requirements": [
+    {
+      "text": "清水",
+      "markdown": "清水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白醋/米醋",
+      "markdown": "白醋/米醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 清水\r\n- 白糖\r\n- 白醋/米醋\r\n- 料酒\r\n- 生抽",
+  "ingredients": [
+    {
+      "name": "清水(50ml)",
+      "text": "清水(50ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽(40ml)",
+      "text": "生抽(40ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖(30g)",
+      "text": "白糖(30g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白醋(20ml)",
+      "text": "白醋(20ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒(10ml)",
+      "text": "料酒(10ml)",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 清水(50ml)\r\n- 生抽(40ml)\r\n- 白糖(30g)\r\n- 白醋(20ml)\r\n- 料酒(10ml)",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "按照比例将各调料在小碗中搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "按不同菜肴的方式处理完毕后，将配制好的糖醋汁倒入锅中"
+    },
+    {
+      "kind": "step",
+      "description": "根据各菜肴的不同，烹制 5-10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁，可增加菜的浓度、香味和光泽"
+    }
+  ],
+  "operationMarkdown": "1. 按照比例将各调料在小碗中搅拌均匀\r\n2. 按不同菜肴的方式处理完毕后，将配制好的糖醋汁倒入锅中\r\n3. 根据各菜肴的不同，烹制 5-10 分钟\r\n4. 大火收汁，可增加菜的浓度、香味和光泽",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/糖醋汁.md"
+  },
+  "hash": "a2e45f8861892f8424b84af9797958484f5e4150e88d4c913848eb6e3506c2e3"
+}

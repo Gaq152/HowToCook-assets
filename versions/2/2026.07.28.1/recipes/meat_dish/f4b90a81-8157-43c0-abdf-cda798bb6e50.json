@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 2,
+  "id": "f4b90a81-8157-43c0-abdf-cda798bb6e50",
+  "legacyIds": [
+    "meat_dish_4cb5520b"
+  ],
+  "name": "台式卤肉饭",
+  "description": "台式卤肉饭是一道浓香四溢的台湾家常料理，肉条软糯入味，酱汁琥珀般油亮，浇在热米饭上满口脂香。富含优质蛋白、胶原蛋白和碳水，能快速补充能量。做法对新手非常友好，只需备好食材、掌握火候，全程约 1.5 小时即可完成，其中动手操作仅需半小时，剩下的交给小火慢炖。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1495,
+  "requirements": [
+    {
+      "text": "红葱头（火葱）",
+      "markdown": "红葱头（火葱）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "带皮五花肉 （可用猪绞肉代替）",
+      "markdown": "带皮五花肉 （可用猪绞肉代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋（可选）",
+      "markdown": "鸡蛋（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米酒（可用料酒代替）",
+      "markdown": "米酒（可用料酒代替）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉（可选）",
+      "markdown": "五香粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 红葱头（火葱）\r\n- 带皮五花肉 （可用猪绞肉代替）\r\n- 鸡蛋（可选）\r\n- 食用油\r\n- 生抽酱油\r\n- 米酒（可用料酒代替）\r\n- 大蒜\r\n- 香叶\r\n- 八角\r\n- 冰糖\r\n- 白胡椒粉\r\n- 五香粉（可选）\r\n- 米饭",
+  "ingredients": [
+    {
+      "name": "红葱头",
+      "text": "红葱头 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "带皮五花肉",
+      "text": "带皮五花肉 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 4 个（可任意修改鸡蛋个数）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽酱油",
+      "text": "生抽酱油 75 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米酒",
+      "text": "米酒 10 + 25 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 25 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 1 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 6 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 6 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米饭 （根据个人食量决定）",
+      "text": "米饭 （根据个人食量决定）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。以下约莫 2~3 人份。\r\n\r\n- 红葱头 25 g\r\n- 带皮五花肉 500g\r\n- 鸡蛋 4 个（可任意修改鸡蛋个数）\r\n- 食用油 15 ml\r\n- 生抽酱油 75 ml\r\n- 米酒 10 + 25 ml\r\n- 大蒜 25 g\r\n- 香叶 2 片\r\n- 八角 1 颗\r\n- 冰糖 20 g\r\n- 白胡椒粉 6 g\r\n- 五香粉 6 g\r\n- 米饭 （根据个人食量决定）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。以下约莫 2~3 人份。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "带皮五花肉切成 $0.7cm（长）\\times 0.7cm（宽） \\times 2.5cm（高）$ 的细长条"
+    },
+    {
+      "kind": "step",
+      "description": "红葱头、大蒜切末备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡蛋煮熟剥壳，并用刀划破蛋白（便于入味），备用。"
+    },
+    {
+      "kind": "step",
+      "description": "**大火**热锅，锅内放入 15 ml 食用油，让油滑满锅底即可。"
+    },
+    {
+      "kind": "step",
+      "description": "放油的目的是防止五花肉刚下锅时粘锅。等待 5s 使油温稍微升高。"
+    },
+    {
+      "kind": "step",
+      "description": "放入五花肉条，翻炒至肉色稍微变白，沿锅边淋入米酒 10ml 。继续翻炒至五花肉不再出油。"
+    },
+    {
+      "kind": "step",
+      "description": "将切好的红葱头加入锅中，翻炒 1 分钟爆出油葱香味。"
+    },
+    {
+      "kind": "step",
+      "description": "将切好的红葱头加入锅中，翻炒 30 秒。"
+    },
+    {
+      "kind": "step",
+      "description": "把猪肉推到旁边，放入冰糖加热到融化冒泡变成焦糖，再把猪肉一起翻拌，让焦糖均匀附着。"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽炒出香气。"
+    },
+    {
+      "kind": "step",
+      "description": "呛入米酒 25 ml ，水加到淹过猪肉，加入白胡椒粉、五香粉、八角、香叶、水煮蛋，沸腾后转小火卤 1 小时。"
+    },
+    {
+      "kind": "step",
+      "description": "注意: 不同酱油的咸淡不一，卤的时候务必试味道，太甜加酱油，太咸加点糖或水调整。"
+    },
+    {
+      "kind": "step",
+      "description": "小火炖煮过程中，每隔 15 分钟 搅拌检查一次，防止粘锅。"
+    },
+    {
+      "kind": "step",
+      "description": "如发现过干，则可加入 100ml 清水继续炖煮。"
+    },
+    {
+      "kind": "step",
+      "description": "1 小时后，开大火收汁直到酱汁浓稠，呈现有光泽的琥珀色，即完成。"
+    },
+    {
+      "kind": "step",
+      "description": "炖煮结束后，乘一碗米饭，将软烂的卤肉浇在米饭上，并加上卤蛋，开始享用。"
+    }
+  ],
+  "operationMarkdown": "1. 带皮五花肉切成 $0.7cm（长）\\times 0.7cm（宽） \\times 2.5cm（高）$ 的细长条\r\n\r\n![肉条示例](./1.jpg)\r\n\r\n2. 红葱头、大蒜切末备用\r\n3. 鸡蛋煮熟剥壳，并用刀划破蛋白（便于入味），备用。\r\n4. **大火**热锅，锅内放入 15 ml 食用油，让油滑满锅底即可。\r\n\r\n  - 放油的目的是防止五花肉刚下锅时粘锅。等待 5s 使油温稍微升高。\r\n\r\n5. 放入五花肉条，翻炒至肉色稍微变白，沿锅边淋入米酒 10ml 。继续翻炒至五花肉不再出油。\r\n6. 将切好的红葱头加入锅中，翻炒 1 分钟爆出油葱香味。\r\n7. 将切好的红葱头加入锅中，翻炒 30 秒。\r\n8. 把猪肉推到旁边，放入冰糖加热到融化冒泡变成焦糖，再把猪肉一起翻拌，让焦糖均匀附着。\r\n9. 加入生抽炒出香气。\r\n10. 呛入米酒 25 ml ，水加到淹过猪肉，加入白胡椒粉、五香粉、八角、香叶、水煮蛋，沸腾后转小火卤 1 小时。\r\n\r\n  - 注意: 不同酱油的咸淡不一，卤的时候务必试味道，太甜加酱油，太咸加点糖或水调整。\r\n  - 小火炖煮过程中，每隔 15 分钟 搅拌检查一次，防止粘锅。\r\n  - 如发现过干，则可加入 100ml 清水继续炖煮。\r\n\r\n11. 1 小时后，开大火收汁直到酱汁浓稠，呈现有光泽的琥珀色，即完成。\r\n12. 炖煮结束后，乘一碗米饭，将软烂的卤肉浇在米饭上，并加上卤蛋，开始享用。",
+  "tips": "- 对于五花肉切条步骤，定义：五花肉带皮面向上摆在桌上，此时肉皮所在平面为长宽形成的平面，垂直此平面的为高。肉条最终效果是肥瘦相间的细长条。（注意：此处肉条一定要细，即长宽较小。细肉条更易于炖煮软糯）。\r\n- 五花肉切条小技巧：\r\n  - 若五花肉是**未冷冻**的，可以放入冰箱**冷冻室 30 分钟** 再取出切条。\r\n  - 若是**冷冻五花肉**，可以在**常温**下放置 **30 分钟** 后再切条。\r\n  - 切条时可以较小的力度将刀刃与肉快速摩擦，如此更易于切割并保护五花肉肥瘦相间的结构。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 对于五花肉切条步骤，定义：五花肉带皮面向上摆在桌上，此时肉皮所在平面为长宽形成的平面，垂直此平面的为高。肉条最终效果是肥瘦相间的细长条。（注意：此处肉条一定要细，即长宽较小。细肉条更易于炖煮软糯）。\r\n- 五花肉切条小技巧：\r\n  - 若五花肉是**未冷冻**的，可以放入冰箱**冷冻室 30 分钟** 再取出切条。\r\n  - 若是**冷冻五花肉**，可以在**常温**下放置 **30 分钟** 后再切条。\r\n  - 切条时可以较小的力度将刀刃与肉快速摩擦，如此更易于切割并保护五花肉肥瘦相间的结构。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/f4b90a81-8157-43c0-abdf-cda798bb6e50_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md"
+  },
+  "hash": "721bc7279e54f71a765ad0e7186f9f35d394d8d69388e8a99778c7885bafa2c9"
+}

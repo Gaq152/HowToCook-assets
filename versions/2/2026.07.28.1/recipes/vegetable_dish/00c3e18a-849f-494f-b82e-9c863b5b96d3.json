@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 2,
+  "id": "00c3e18a-849f-494f-b82e-9c863b5b96d3",
+  "legacyIds": [
+    "vegetable_dish_707c735b"
+  ],
+  "name": "松仁玉米",
+  "description": "松仁玉米是一道口感清甜脆嫩的家常快手菜，松仁香酥、玉米甜润，属于广受欢迎的北方家常风味。玉米和松仁搭配，能提供丰富的膳食纤维、不饱和脂肪酸和多种维生素，营养均衡。做法简单，新手也能轻松驾驭，从备料到出锅一般只需大约十五 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 580,
+  "requirements": [
+    {
+      "text": "玉米粒（建议使用甜玉米）",
+      "markdown": "玉米粒（建议使用甜玉米）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "熟松子仁",
+      "markdown": "熟松子仁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜（可选，增加色彩）",
+      "markdown": "胡萝卜（可选，增加色彩）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 玉米粒（建议使用甜玉米）\r\n* 熟松子仁\r\n* 胡萝卜（可选，增加色彩）\r\n* 食用油\r\n* 白砂糖\r\n* 盐\r\n* 淀粉\r\n* 水",
+  "ingredients": [
+    {
+      "name": "玉米粒",
+      "text": "玉米粒 200 g（可用罐头甜玉米，也可自备煮熟）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "熟松子仁",
+      "text": "熟松子仁 30 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 50 g（切小丁，可省略）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 20 ml（用于调淀粉水）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 玉米粒 200 g（可用罐头甜玉米，也可自备煮熟）\r\n* 熟松子仁 30 g\r\n* 胡萝卜 50 g（切小丁，可省略）\r\n* 食用油 15 ml\r\n* 白砂糖 10 g\r\n* 盐 1 g\r\n* 淀粉 5 g\r\n* 水 20 ml（用于调淀粉水）",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "加入白砂糖和盐，炒匀"
+    },
+    {
+      "kind": "step",
+      "description": "混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠"
+    },
+    {
+      "kind": "step",
+      "description": "加入熟松仁翻炒均匀"
+    },
+    {
+      "kind": "step",
+      "description": "出锅装盘"
+    }
+  ],
+  "operationMarkdown": "1. 玉米粒和胡萝卜丁提前焯水 1 分钟，捞出沥干备用\r\n2. 热锅凉油，放入胡萝卜丁略炒，再加入玉米粒翻炒\r\n3. 加入白砂糖和盐，炒匀\r\n4. 混合水与淀粉成水淀粉，倒入锅中快速翻炒使汤汁略稠\r\n5. 加入熟松仁翻炒均匀\r\n6. 出锅装盘",
+  "tips": "* 松仁可以提前用小火干炒至微微金黄香脆，更加美味\r\n* 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\r\n* 炒制时火候不宜过大，以防糊锅或松仁焦糊\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 松仁可以提前用小火干炒至微微金黄香脆，更加美味\r\n* 使用罐头玉米时应先沥干水分，避免炒制过程中出水过多\r\n* 炒制时火候不宜过大，以防糊锅或松仁焦糊\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/松仁玉米.md"
+  },
+  "hash": "0429fa3ac2a37308c726390f266fd66f4dac558f4652fa0133844460d26019ec"
+}

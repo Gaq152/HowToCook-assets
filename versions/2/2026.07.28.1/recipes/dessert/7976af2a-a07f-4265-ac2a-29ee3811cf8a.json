@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "id": "7976af2a-a07f-4265-ac2a-29ee3811cf8a",
+  "legacyIds": [
+    "dessert_41a0ab6c"
+  ],
+  "name": "炸鲜奶",
+  "description": "炸鲜奶是一道外壳酥脆、内馅柔软的甜点。制作本身不难，但奶糊必须充分加热并冷藏定型，否则切块和油炸时容易散开。实际操作约需 30 分钟，另需至少 2 小时冷藏定型。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1100,
+  "requirements": [
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米淀粉",
+      "markdown": "玉米淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "低筋面粉或普通面粉",
+      "markdown": "低筋面粉或普通面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面包糠",
+      "markdown": "面包糠",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大约 20cm × 15cm 的耐热方形容器",
+      "markdown": "大约 20cm × 15cm 的耐热方形容器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "厨房纸",
+      "markdown": "厨房纸",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛奶\r\n- 玉米淀粉\r\n- 低筋面粉或普通面粉\r\n- 面包糠\r\n- 鸡蛋\r\n- 白糖\r\n- 大约 20cm × 15cm 的耐热方形容器\r\n- 厨房纸",
+  "ingredients": [
+    {
+      "name": "牛奶",
+      "text": "牛奶 250ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米淀粉",
+      "text": "玉米淀粉 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 25g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "低筋面粉或普通面粉",
+      "text": "低筋面粉或普通面粉 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 个，去壳后约 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面包糠",
+      "text": "面包糠 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 700ml，实际消耗量会少于此数值",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "以下用量约可制作 12 块炸鲜奶，适合 3 - 4 人食用。\r\n\r\n- 牛奶 250ml\r\n- 玉米淀粉 30g\r\n- 白糖 25g\r\n- 低筋面粉或普通面粉 40g\r\n- 鸡蛋 1 个，去壳后约 50g\r\n- 面包糠 80g\r\n- 食用油 700ml，实际消耗量会少于此数值",
+  "calculationNotes": [
+    "以下用量约可制作 12 块炸鲜奶，适合 3 - 4 人食用。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "从牛奶中取出 80ml，与玉米淀粉混合，搅拌至没有可见颗粒"
+    },
+    {
+      "kind": "step",
+      "description": "将剩余的 170ml 牛奶和白糖倒入锅中，小火加热并持续搅拌，直至白糖完全溶解"
+    },
+    {
+      "kind": "step",
+      "description": "再次搅匀玉米淀粉液，将其缓慢倒入锅中，同时持续搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "保持小火加热并不断搅拌约 3 - 5 分钟，直至奶糊浓稠，刮过锅底后留下的纹路能保持 3 秒不消失"
+    },
+    {
+      "kind": "step",
+      "description": "在耐热容器内壁均匀涂抹约 2ml 食用油，倒入奶糊并将表面抹平，使奶糊厚度约为 2cm"
+    },
+    {
+      "kind": "step",
+      "description": "奶糊冷却至室温后盖好，放入冰箱冷藏至少 2 小时；轻按表面不粘手且整体不会流动时即可取出"
+    },
+    {
+      "kind": "step",
+      "description": "将定型后的奶糊脱模，切成约 6cm × 2cm × 2cm 的长条，共约 12 条"
+    },
+    {
+      "kind": "step",
+      "description": "将面粉、打散的鸡蛋液和面包糠分别放入 3 个容器"
+    },
+    {
+      "kind": "step",
+      "description": "每块奶条依次均匀裹上面粉、鸡蛋液和面包糠，确保各面都被覆盖"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒入 700ml 食用油，中火加热至 165 - 175℃；没有温度计时，可放入少量面包糠测试，面包糠应在 2 秒内浮起并持续冒出小气泡"
+    },
+    {
+      "kind": "step",
+      "description": "将奶条分 2 - 3 批放入油中，每批炸约 60 - 90 秒；期间翻动 1 - 2 次，使各面受热均匀"
+    },
+    {
+      "kind": "step",
+      "description": "奶条表面呈均匀金黄色时捞出，放在厨房纸上沥油约 2 分钟后食用"
+    }
+  ],
+  "operationMarkdown": "1. 从牛奶中取出 80ml，与玉米淀粉混合，搅拌至没有可见颗粒\r\n2. 将剩余的 170ml 牛奶和白糖倒入锅中，小火加热并持续搅拌，直至白糖完全溶解\r\n3. 再次搅匀玉米淀粉液，将其缓慢倒入锅中，同时持续搅拌\r\n4. 保持小火加热并不断搅拌约 3 - 5 分钟，直至奶糊浓稠，刮过锅底后留下的纹路能保持 3 秒不消失\r\n5. 在耐热容器内壁均匀涂抹约 2ml 食用油，倒入奶糊并将表面抹平，使奶糊厚度约为 2cm\r\n6. 奶糊冷却至室温后盖好，放入冰箱冷藏至少 2 小时；轻按表面不粘手且整体不会流动时即可取出\r\n7. 将定型后的奶糊脱模，切成约 6cm × 2cm × 2cm 的长条，共约 12 条\r\n8. 将面粉、打散的鸡蛋液和面包糠分别放入 3 个容器\r\n9. 每块奶条依次均匀裹上面粉、鸡蛋液和面包糠，确保各面都被覆盖\r\n10. 锅中倒入 700ml 食用油，中火加热至 165 - 175℃；没有温度计时，可放入少量面包糠测试，面包糠应在 2 秒内浮起并持续冒出小气泡\r\n11. 将奶条分 2 - 3 批放入油中，每批炸约 60 - 90 秒；期间翻动 1 - 2 次，使各面受热均匀\r\n12. 奶条表面呈均匀金黄色时捞出，放在厨房纸上沥油约 2 分钟后食用",
+  "tips": "- 玉米淀粉容易沉底，倒入锅前必须再次搅匀。\r\n- 一次放入过多奶条会使油温快速下降，导致外壳吸油且容易破裂。\r\n- 刚炸好的奶馅温度较高，食用前应先从中间掰开散热，避免烫伤。\r\n- 参考资料：[王刚的教学视频](https://www.bilibili.com/video/BV1U7411E7LH/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 玉米淀粉容易沉底，倒入锅前必须再次搅匀。\r\n- 一次放入过多奶条会使油温快速下降，导致外壳吸油且容易破裂。\r\n- 刚炸好的奶馅温度较高，食用前应先从中间掰开散热，避免烫伤。\r\n- 参考资料：[王刚的教学视频](https://www.bilibili.com/video/BV1U7411E7LH/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/7976af2a-a07f-4265-ac2a-29ee3811cf8a_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/炸鲜奶/炸鲜奶.md"
+  },
+  "hash": "bcdcf37747ef451eed7713191ad325d599b0f63ebe8d1c306224cc815db61b6b"
+}

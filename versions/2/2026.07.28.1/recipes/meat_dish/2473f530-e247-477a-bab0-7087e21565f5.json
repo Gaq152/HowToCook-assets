@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "id": "2473f530-e247-477a-bab0-7087e21565f5",
+  "legacyIds": [
+    "meat_dish_8a77749e"
+  ],
+  "name": "麻婆豆腐",
+  "description": "这道香辣滑嫩的豆腐菜以咸鸭蛋替代传统豆瓣酱，咸鲜中带着微麻微辣，格外开胃下饭。富含优质蛋白和钙、铁等多种微量元素。制作难度适中，对新手友好，全程约需 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 476,
+  "requirements": [
+    {
+      "text": "内脂豆腐（推荐清美）",
+      "markdown": "内脂豆腐（推荐清美）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水果刀",
+      "markdown": "水果刀",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "咸鸭蛋（推荐留夫鸭的，这个是灵魂）",
+      "markdown": "咸鸭蛋（推荐留夫鸭的，这个是灵魂）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉（超市的肉糜也行）",
+      "markdown": "五花肉（超市的肉糜也行）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒（不吃辣的可选）",
+      "markdown": "小米椒（不吃辣的可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香辣酱（推荐广乐的）",
+      "markdown": "香辣酱（推荐广乐的）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食盐",
+      "markdown": "食盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油（味极鲜酱油）",
+      "markdown": "酱油（味极鲜酱油）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 内脂豆腐（推荐清美）\r\n- 水果刀\r\n- 咸鸭蛋（推荐留夫鸭的，这个是灵魂）\r\n- 五花肉（超市的肉糜也行）\r\n- 大蒜\r\n- 生姜\r\n- 小米椒（不吃辣的可选）\r\n- 香辣酱（推荐广乐的）\r\n- 花椒\r\n- 食盐\r\n- 酱油（味极鲜酱油）",
+  "ingredients": [
+    {
+      "name": "1 盒内脂豆腐",
+      "text": "1 盒内脂豆腐",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1 枚咸鸭蛋",
+      "text": "1 枚咸鸭蛋",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "20-30g 五花肉",
+      "text": "20-30g 五花肉",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "两瓣大蒜",
+      "text": "两瓣大蒜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "2 片生姜",
+      "text": "2 片生姜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "5 根小米辣",
+      "text": "5 根小米辣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "5g 蒜蓉辣酱",
+      "text": "5g 蒜蓉辣酱",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "20 颗花椒",
+      "text": "20 颗花椒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "3g 食盐",
+      "text": "3g 食盐",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "10g 酱油",
+      "text": "10g 酱油",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 1 盒内脂豆腐\r\n- 1 枚咸鸭蛋\r\n- 20-30g 五花肉\r\n- 两瓣大蒜\r\n- 2 片生姜\r\n- 5 根小米辣\r\n- 5g 蒜蓉辣酱\r\n- 20 颗花椒\r\n- 3g 食盐\r\n- 10g 酱油",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "大蒜和生姜切碎，备用"
+    },
+    {
+      "kind": "step",
+      "description": "小米辣切成辣椒圈，备用"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切成肉糜（本来就是买的肉糜的跳过）"
+    },
+    {
+      "kind": "step",
+      "description": "肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀，备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸭蛋用菜刀竖着对半切开（注意安全），去除蛋黄（一定要去除，不然会腥），剩下的蛋白捣碎成大约 2 mm * 2 mm 大小，不用太碎，备用"
+    },
+    {
+      "kind": "step",
+      "description": "打开豆腐包装，用水果刀将在盒子中的豆腐划成大约 2.5 cm * 3 cm 大小，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "调成小火，放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒 20 秒，炒出香味"
+    },
+    {
+      "kind": "step",
+      "description": "调成中火，放入肉糜，翻炒大约 1 分钟，肉炒变色"
+    },
+    {
+      "kind": "step",
+      "description": "调成小火，放入豆腐，将剩下的食盐、味极鲜酱油酱油均匀的洒在豆腐上"
+    },
+    {
+      "kind": "step",
+      "description": "从锅边倒入开水（不然豆腐容易破），没过豆腐即可"
+    },
+    {
+      "kind": "step",
+      "description": "开大火，水沸腾后立马转入中火，等待大约 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "等到水只剩 1/5 并且豆腐表面已经入色，关火，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 大蒜和生姜切碎，备用\r\n2. 小米辣切成辣椒圈，备用\r\n3. 五花肉切成肉糜（本来就是买的肉糜的跳过）\r\n4. 肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀，备用\r\n5. 鸭蛋用菜刀竖着对半切开（注意安全），去除蛋黄（一定要去除，不然会腥），剩下的蛋白捣碎成大约 2 mm * 2 mm 大小，不用太碎，备用\r\n6. 打开豆腐包装，用水果刀将在盒子中的豆腐划成大约 2.5 cm * 3 cm 大小，备用\r\n7. 热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高\r\n8. 调成小火，放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒 20 秒，炒出香味\r\n9. 调成中火，放入肉糜，翻炒大约 1 分钟，肉炒变色\r\n10. 调成小火，放入豆腐，将剩下的食盐、味极鲜酱油酱油均匀的洒在豆腐上\r\n11. 从锅边倒入开水（不然豆腐容易破），没过豆腐即可\r\n12. 开大火，水沸腾后立马转入中火，等待大约 10 分钟\r\n13. 等到水只剩 1/5 并且豆腐表面已经入色，关火，盛盘",
+  "tips": "- 期间一定要注意观察，防止糊锅\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 期间一定要注意观察，防止糊锅\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/2473f530-e247-477a-bab0-7087e21565f5_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
+  },
+  "hash": "4178f5ac3a796c2116918e345de926f36dfc107aa036bbd60312807d918898e7"
+}

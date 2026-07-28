@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 2,
+  "id": "52344315-85f3-4138-b52f-df1c48f83cf7",
+  "legacyIds": [],
+  "name": "印度烤饼",
+  "description": "这是一道印度风味的发酵烤饼，外表微焦酥脆，内部松软有嚼劲，是咖喱的绝佳搭档。富含碳水化合物和蛋白质，酸奶的加入也让面饼更易消化。制作稍有难度，需注意面团软硬和火候，但平底锅即可操作，提前 1 小时发酵，总耗时约 1.5 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 559,
+  "requirements": [
+    {
+      "text": "中筋面粉（或高筋面粉）",
+      "markdown": "中筋面粉（或高筋面粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酸奶",
+      "markdown": "酸奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酵母",
+      "markdown": "酵母",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酥油(Ghee)或黄油",
+      "markdown": "酥油(Ghee)或黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "温水",
+      "markdown": "温水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑芝麻或白芝麻（可选）",
+      "markdown": "黑芝麻或白芝麻（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜叶（可选）",
+      "markdown": "香菜叶（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜（蒜蓉烤饼版本，可选）",
+      "markdown": "大蒜（蒜蓉烤饼版本，可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底锅（不粘锅或铸铁锅）",
+      "markdown": "平底锅（不粘锅或铸铁锅）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "擀面杖",
+      "markdown": "擀面杖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 中筋面粉（或高筋面粉）\r\n- 酸奶\r\n- 酵母\r\n- 糖\r\n- 盐\r\n- 酥油(Ghee)或黄油\r\n- 温水\r\n- 黑芝麻或白芝麻（可选）\r\n- 香菜叶（可选）\r\n- 大蒜（蒜蓉烤饼版本，可选）\r\n- 平底锅（不粘锅或铸铁锅）\r\n- 擀面杖",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "text": "中筋面粉 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸奶",
+      "text": "酸奶 60ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干酵母",
+      "text": "干酵母 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml（和面用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "温水",
+      "text": "温水 100ml（约 40°C）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酥油或黄油",
+      "text": "酥油或黄油 30g（涂抹用）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑芝麻",
+      "text": "黑芝麻 5g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 10g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3 瓣（约 9g），切碎（蒜蓉版本可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份可做 6 张烤饼，够 2-3 个人食用。\r\n\r\n每份：\r\n\r\n- 中筋面粉 300g\r\n- 酸奶 60ml\r\n- 干酵母 3g\r\n- 糖 10g\r\n- 盐 5g\r\n- 食用油 15ml（和面用）\r\n- 温水 100ml（约 40°C）\r\n- 酥油或黄油 30g（涂抹用）\r\n- 黑芝麻 5g（可选）\r\n- 香菜叶 10g（可选）\r\n- 大蒜 3 瓣（约 9g），切碎（蒜蓉版本可选）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份可做 6 张烤饼，够 2-3 个人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "和面与发酵",
+      "description": "### 和面与发酵"
+    },
+    {
+      "kind": "step",
+      "description": "将干酵母 3g 和糖 10g 溶解在 100ml 温水中（水温约 40°C，不可过烫）"
+    },
+    {
+      "kind": "step",
+      "description": "静置 **5 分钟**，直至*表面冒出细泡沫*（说明酵母已激活）"
+    },
+    {
+      "kind": "step",
+      "description": "在大碗中放入中筋面粉 300g 和盐 5g，混合均匀"
+    },
+    {
+      "kind": "step",
+      "description": "倒入酵母水、酸奶 60ml 和食用油 15ml"
+    },
+    {
+      "kind": "step",
+      "description": "用手揉成*光滑柔软*的面团（面团应比普通面团稍软，微微粘手是正常的）"
+    },
+    {
+      "kind": "step",
+      "description": "揉面 **8-10 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "在面团表面涂 3ml 油防止干裂"
+    },
+    {
+      "kind": "step",
+      "description": "用湿布或保鲜膜盖住碗口"
+    },
+    {
+      "kind": "step",
+      "description": "放置在温暖处发酵 **至少 1 小时**，直至*面团膨胀至约两倍大*"
+    },
+    {
+      "kind": "section",
+      "title": "分剂与擀制",
+      "description": "### 分剂与擀制"
+    },
+    {
+      "kind": "step",
+      "description": "将发酵好的面团取出，轻揉排气"
+    },
+    {
+      "kind": "step",
+      "description": "分成 6 个等大的小剂子（每个约 80g）"
+    },
+    {
+      "kind": "step",
+      "description": "取一个剂子，手上沾 3ml 面粉或油"
+    },
+    {
+      "kind": "step",
+      "description": "用擀面杖擀成长椭圆形或泪滴形面饼，厚度约 4-5mm"
+    },
+    {
+      "kind": "step",
+      "description": "如果制作蒜蓉烤饼：在面饼表面撒上切碎的大蒜和香菜叶，轻轻擀压使其嵌入面饼"
+    },
+    {
+      "kind": "step",
+      "description": "可在面饼表面撒上芝麻"
+    },
+    {
+      "kind": "section",
+      "title": "烤制",
+      "description": "### 烤制"
+    },
+    {
+      "kind": "note",
+      "description": "**方法一：平底锅（推荐）**"
+    },
+    {
+      "kind": "step",
+      "description": "将平底锅（铸铁锅最佳）大火加热至*非常烫*（滴水立即蒸发的程度）"
+    },
+    {
+      "kind": "step",
+      "description": "在面饼一面刷一层薄薄的水"
+    },
+    {
+      "kind": "step",
+      "description": "将刷水一面朝下放入锅中"
+    },
+    {
+      "kind": "step",
+      "description": "烤 **1-2 分钟**，直至*底面出现金棕色斑点且面饼开始鼓泡*"
+    },
+    {
+      "kind": "step",
+      "description": "翻面，继续烤 **1-2 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "如果有煤气灶：翻面后可用夹子夹起面饼，将其直接放在明火上烤 **数秒钟**，面饼会迅速鼓起"
+    },
+    {
+      "kind": "step",
+      "description": "取出后立即在表面涂上酥油或黄油"
+    },
+    {
+      "kind": "note",
+      "description": "**方法二：烤箱**"
+    },
+    {
+      "kind": "step",
+      "description": "烤箱预热至最高温度（通常 250°C）"
+    },
+    {
+      "kind": "step",
+      "description": "将面饼放在烤盘上"
+    },
+    {
+      "kind": "step",
+      "description": "烤 **3-5 分钟**，直至*表面金黄且鼓起*"
+    },
+    {
+      "kind": "step",
+      "description": "取出后涂上酥油或黄油"
+    },
+    {
+      "kind": "section",
+      "title": "上菜",
+      "description": "### 上菜"
+    },
+    {
+      "kind": "step",
+      "description": "趁热食用"
+    },
+    {
+      "kind": "step",
+      "description": "适合搭配任何印度咖喱，如黄油鸡、红芸豆咖喱等"
+    }
+  ],
+  "operationMarkdown": "### 和面与发酵\r\n\r\n1. 将干酵母 3g 和糖 10g 溶解在 100ml 温水中（水温约 40°C，不可过烫）\r\n2. 静置 **5 分钟**，直至*表面冒出细泡沫*（说明酵母已激活）\r\n3. 在大碗中放入中筋面粉 300g 和盐 5g，混合均匀\r\n4. 倒入酵母水、酸奶 60ml 和食用油 15ml\r\n5. 用手揉成*光滑柔软*的面团（面团应比普通面团稍软，微微粘手是正常的）\r\n6. 揉面 **8-10 分钟**\r\n7. 在面团表面涂 3ml 油防止干裂\r\n8. 用湿布或保鲜膜盖住碗口\r\n9. 放置在温暖处发酵 **至少 1 小时**，直至*面团膨胀至约两倍大*\r\n\r\n### 分剂与擀制\r\n\r\n1. 将发酵好的面团取出，轻揉排气\r\n2. 分成 6 个等大的小剂子（每个约 80g）\r\n3. 取一个剂子，手上沾 3ml 面粉或油\r\n4. 用擀面杖擀成长椭圆形或泪滴形面饼，厚度约 4-5mm\r\n5. 如果制作蒜蓉烤饼：在面饼表面撒上切碎的大蒜和香菜叶，轻轻擀压使其嵌入面饼\r\n6. 可在面饼表面撒上芝麻\r\n\r\n### 烤制\r\n\r\n**方法一：平底锅（推荐）**\r\n\r\n1. 将平底锅（铸铁锅最佳）大火加热至*非常烫*（滴水立即蒸发的程度）\r\n2. 在面饼一面刷一层薄薄的水\r\n3. 将刷水一面朝下放入锅中\r\n4. 烤 **1-2 分钟**，直至*底面出现金棕色斑点且面饼开始鼓泡*\r\n5. 翻面，继续烤 **1-2 分钟**\r\n6. 如果有煤气灶：翻面后可用夹子夹起面饼，将其直接放在明火上烤 **数秒钟**，面饼会迅速鼓起\r\n7. 取出后立即在表面涂上酥油或黄油\r\n\r\n**方法二：烤箱**\r\n\r\n8. 烤箱预热至最高温度（通常 250°C）\r\n9. 将面饼放在烤盘上\r\n10. 烤 **3-5 分钟**，直至*表面金黄且鼓起*\r\n11. 取出后涂上酥油或黄油\r\n\r\n### 上菜\r\n\r\n1. 趁热食用\r\n2. 适合搭配任何印度咖喱，如黄油鸡、红芸豆咖喱等",
+  "tips": "- 面团的柔软度是关键，太硬的面团烤出的饼会干硬。面团应该是湿润且略微粘手的状态。\r\n- 铸铁锅比不粘锅效果更好，能产生更高的温度和更好的焦斑。\r\n- 烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键。\r\n- 除了原味 Naan，常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。\r\n- Naan 在印度有数百年的历史，最早的记载出现在 1300 年，被认为源自波斯文化。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 面团的柔软度是关键，太硬的面团烤出的饼会干硬。面团应该是湿润且略微粘手的状态。\r\n- 铸铁锅比不粘锅效果更好，能产生更高的温度和更好的焦斑。\r\n- 烤好后必须立刻涂酥油或黄油，这是印度烤饼香气和口感的关键。\r\n- 除了原味 Naan，常见的变体还有：蒜蓉烤饼(Garlic Naan)、芝士烤饼(Cheese Naan)、黄油烤饼(Butter Naan)。\r\n- Naan 在印度有数百年的历史，最早的记载出现在 1300 年，被认为源自波斯文化。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/印度烤饼.md"
+  },
+  "hash": "4d33fec41c896a42bd6d425139f690cea4e49ea6b3251e389f81ddb7b35c6f97"
+}

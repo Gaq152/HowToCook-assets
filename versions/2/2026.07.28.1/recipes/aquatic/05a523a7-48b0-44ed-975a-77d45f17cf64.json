@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "id": "05a523a7-48b0-44ed-975a-77d45f17cf64",
+  "legacyIds": [
+    "aquatic_28c3c7c3"
+  ],
+  "name": "白灼虾",
+  "description": "白灼虾是一道粤式经典快手菜，虾肉鲜甜弹嫩，原汁原味。虾本身富含优质蛋白和多种矿物质，搭配蘸料开胃不油腻。做法简单容错率高，对新手非常友好，从备料到出锅大约只需 15 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 519,
+  "requirements": [
+    {
+      "text": "活虾",
+      "markdown": "活虾",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酱油",
+      "markdown": "酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻",
+      "markdown": "芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香醋",
+      "markdown": "香醋",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 活虾\r\n- 洋葱\r\n- 姜\r\n- 蒜\r\n- 葱\r\n- 食用油\r\n- 酱油\r\n- 料酒\r\n- 芝麻\r\n- 蚝油\r\n- 香醋",
+  "ingredients": [
+    {
+      "name": "虾",
+      "text": "虾 250g * 份数（建议 1-2 人份）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱 一根",
+      "text": "葱 一根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜 一块",
+      "text": "姜 一块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱 一头",
+      "text": "洋葱 一头",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 5-8 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻 一把",
+      "text": "芝麻 一把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香醋",
+      "text": "香醋 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n- 虾 250g * 份数（建议 1-2 人份）\r\n- 葱 一根\r\n- 姜 一块\r\n- 洋葱 一头\r\n- 蒜 5-8 瓣\r\n- 食用油 10-15ml\r\n- 料酒 20 ml\r\n- 酱油 10-15ml\r\n- 芝麻 一把\r\n- 香醋 10 ml\r\n- 蚝油 10 ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "洋葱切小块，姜切片，平铺平底锅。"
+    },
+    {
+      "kind": "step",
+      "description": "活虾冲洗一下（去除虾线、剪刀减掉虾腿虾须子都是可选操作），控水，铺在平底锅的洋葱、姜片之上。"
+    },
+    {
+      "kind": "step",
+      "description": "锅内倒入料酒，盖上锅盖，中火 1 分钟，小火 5 分钟，关火 5 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "和上一步并行操作，制作蘸料："
+    },
+    {
+      "kind": "step",
+      "description": "葱切成葱花、蒜切碎、倒入酱油、芝麻、香醋，搅拌之。"
+    },
+    {
+      "kind": "step",
+      "description": "油烧热，淋入蘸料。"
+    },
+    {
+      "kind": "step",
+      "description": "虾出锅，用干净的盘子装好。"
+    }
+  ],
+  "operationMarkdown": "1. 洋葱切小块，姜切片，平铺平底锅。\r\n2. 活虾冲洗一下（去除虾线、剪刀减掉虾腿虾须子都是可选操作），控水，铺在平底锅的洋葱、姜片之上。\r\n3. 锅内倒入料酒，盖上锅盖，中火 1 分钟，小火 5 分钟，关火 5 分钟。\r\n4. 和上一步并行操作，制作蘸料：\r\n\r\n  - 葱切成葱花、蒜切碎、倒入酱油、芝麻、香醋，搅拌之。\r\n  - 油烧热，淋入蘸料。\r\n\r\n5. 虾出锅，用干净的盘子装好。\r\n\r\n![白灼虾](./白灼虾.webp)",
+  "tips": "- 技术细节：\r\n  - 开始不能大火、防止糊底。\r\n  - 如果锅盖有通气口、时间要相应调节一下（考虑增加 30 秒中火）。\r\n  - 蘸料其实也是可选的、也可以是纯的醋，大自然馈赠的鲜虾在没有水带走冲淡鲜甜的情况下口感味道都非常棒的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 技术细节：\r\n  - 开始不能大火、防止糊底。\r\n  - 如果锅盖有通气口、时间要相应调节一下（考虑增加 30 秒中火）。\r\n  - 蘸料其实也是可选的、也可以是纯的醋，大自然馈赠的鲜虾在没有水带走冲淡鲜甜的情况下口感味道都非常棒的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/05a523a7-48b0-44ed-975a-77d45f17cf64_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/白灼虾/白灼虾.md"
+  },
+  "hash": "78dcd33cb0ba192f99b16eec46ade4fbcce0e75aa9969199b24d4b08b2ec1145"
+}

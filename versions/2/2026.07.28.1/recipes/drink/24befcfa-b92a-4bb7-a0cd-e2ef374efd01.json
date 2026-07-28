@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "id": "24befcfa-b92a-4bb7-a0cd-e2ef374efd01",
+  "legacyIds": [
+    "drink_207d7850"
+  ],
+  "name": "砂糖椰子冰沙",
+  "description": "砂糖椰子冰沙是一道极具热带风情的快手冷饮，清甜的椰香融合粗粒黄糖的焦香，口感绵密冰爽。椰子水富含天然电解质与矿物质，能快速补充水分，咖啡调糖增添碳水能量。制作门槛极低，只要提前将椰汁冻硬，敲打成沙即可，对新手毫无压力。从冷冻到出品需提前准备 10 小时以上，但动手操作仅需几分钟，很适合作为悠闲的午后冰品。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 231,
+  "requirements": [
+    {
+      "text": "瓶装椰汁（瓶口较大为佳）",
+      "markdown": "瓶装椰汁（瓶口较大为佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "咖啡调糖（黄色粗粒）",
+      "markdown": "咖啡调糖（黄色粗粒）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 瓶装椰汁（瓶口较大为佳）\r\n- 咖啡调糖（黄色粗粒）",
+  "ingredients": [
+    {
+      "name": "瓶装椰子汁",
+      "text": "瓶装椰子汁 500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "咖啡调糖",
+      "text": "咖啡调糖 10g（两包太古咖啡调糖）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "坚果碎",
+      "text": "坚果碎（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "冰沙最佳份量通常与融化速度有关，300g 在零下 18 度制成的冰沙在室温下通常可维持 30 分钟。\r\n\r\n每份：\r\n\r\n- 瓶装椰子汁 500ml\r\n- 咖啡调糖 10g（两包太古咖啡调糖）\r\n- 坚果碎（可选）",
+  "calculationNotes": [
+    "冰沙最佳份量通常与融化速度有关，300g 在零下 18 度制成的冰沙在室温下通常可维持 30 分钟。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "500ml 瓶装椰汁倒掉 200ml，立刻拧紧瓶盖。"
+    },
+    {
+      "kind": "step",
+      "description": "将这瓶椰汁放入冰箱冷冻区并冷冻 10 小时以上。"
+    },
+    {
+      "kind": "step",
+      "description": "将这瓶椰汁取出，若确认瓶中椰汁已彻底冻结，则在墙角、椅背、桌角等坚硬表面上用力抽打。（请务必确认表面不会因此受到损伤）"
+    },
+    {
+      "kind": "step",
+      "description": "当抽打到冻结椰汁变成冰沙状态，打开瓶盖倒出冰沙。"
+    },
+    {
+      "kind": "step",
+      "description": "在冰沙表面均匀撒上咖啡调糖或坚果碎。"
+    },
+    {
+      "kind": "step",
+      "description": "完成"
+    }
+  ],
+  "operationMarkdown": "1. 500ml 瓶装椰汁倒掉 200ml，立刻拧紧瓶盖。\r\n2. 将这瓶椰汁放入冰箱冷冻区并冷冻 10 小时以上。\r\n3. 将这瓶椰汁取出，若确认瓶中椰汁已彻底冻结，则在墙角、椅背、桌角等坚硬表面上用力抽打。（请务必确认表面不会因此受到损伤）\r\n4. 当抽打到冻结椰汁变成冰沙状态，打开瓶盖倒出冰沙。\r\n5. 在冰沙表面均匀撒上咖啡调糖或坚果碎。\r\n6. 完成",
+  "tips": "- 在以上步骤中，瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 在以上步骤中，瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/drink/24befcfa-b92a-4bb7-a0cd-e2ef374efd01_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md"
+  },
+  "hash": "505b4475a6c7171e321c9b1e20b1a70875866ce83d80a3288aba755bb2964837"
+}

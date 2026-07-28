@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "id": "19864ff6-697b-49b1-a9e4-0e8a28f023c9",
+  "legacyIds": [
+    "staple_999f6d62"
+  ],
+  "name": "炒意大利面",
+  "description": "这道炒意大利面软糯爽口，搭配肥牛和酱料，酱香浓郁，是带有西式风味的家常主食。富含碳水化合物与蛋白质，能快速补充能量。做法简单，新手也能轻松掌握，全程大约需要 30 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 406,
+  "requirements": [
+    {
+      "text": "意大利面",
+      "markdown": "意大利面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肥牛片",
+      "markdown": "肥牛片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱 / 黑胡椒酱（选其一即可）",
+      "markdown": "番茄酱 / 黑胡椒酱（选其一即可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜籽油（其他植物油也可）",
+      "markdown": "菜籽油（其他植物油也可）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 意大利面\r\n- 肥牛片\r\n- 番茄酱 / 黑胡椒酱（选其一即可）\r\n- 菜籽油（其他植物油也可）",
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "text": "意大利面 50 克 / 人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肥牛",
+      "text": "肥牛 5 片 / 人",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 5ml / 50 克意面",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 意大利面 50 克 / 人\r\n- 肥牛 5 片 / 人\r\n- 食用油 5ml / 50 克意面",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "加入 250 克水 / 人"
+    },
+    {
+      "kind": "step",
+      "description": "待水烧开，下入面条，中火煮 15 - 20 分钟（这个面通常比较硬，捞起来之前最好尝一下，中心如果有一点硬，需要继续煮）"
+    },
+    {
+      "kind": "step",
+      "description": "捞出面条，盛入盘中备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅倒入食用油，待油温中热，下入面条翻炒一分钟（如果太干，加入少量水）"
+    },
+    {
+      "kind": "step",
+      "description": "放入 10 克番茄酱、肥牛、加入 2g 食盐，继续翻炒一分钟"
+    },
+    {
+      "kind": "step",
+      "description": "起锅"
+    }
+  ],
+  "operationMarkdown": "1. 加入 250 克水 / 人\r\n2. 待水烧开，下入面条，中火煮 15 - 20 分钟（这个面通常比较硬，捞起来之前最好尝一下，中心如果有一点硬，需要继续煮）\r\n3. 捞出面条，盛入盘中备用\r\n4. 热锅倒入食用油，待油温中热，下入面条翻炒一分钟（如果太干，加入少量水）\r\n5. 放入 10 克番茄酱、肥牛、加入 2g 食盐，继续翻炒一分钟\r\n6. 起锅",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/19864ff6-697b-49b1-a9e4-0e8a28f023c9_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炒意大利面/炒意大利面.md"
+  },
+  "hash": "11fc1470a49cf7c7d8750672fd94294ade5cc150509ae126b09a76d389aadb46"
+}

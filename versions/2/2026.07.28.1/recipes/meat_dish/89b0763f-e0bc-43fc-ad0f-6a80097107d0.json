@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "id": "89b0763f-e0bc-43fc-ad0f-6a80097107d0",
+  "legacyIds": [
+    "meat_dish_7175adfc"
+  ],
+  "name": "徽派红烧肉",
+  "description": "徽派红烧肉是一道色泽红亮、肥而不腻的经典徽式家常菜，口感软糯 Q 弹，咸甜交融。以五花肉为主料，富含优质蛋白质和脂肪，能提供充沛能量。烹制需掌握炒糖色与火候，稍有挑战，预估制作时长约 45 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 3847,
+  "requirements": [
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜片",
+      "markdown": "姜片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 五花肉\r\n* 白砂糖\r\n* 食用油\r\n* 生抽\r\n* 蚝油\r\n* 老抽\r\n* 姜片\r\n* 蒜头\r\n* 料酒\r\n* 葱\r\n* 五香粉\r\n* 盐",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "text": "五花肉 300 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 200 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 100 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 五花肉 300 g\r\n* 白砂糖 100 g\r\n* 食用油 200 g\r\n* 生抽 10 ml\r\n* 蚝油 5 ml\r\n* 老抽 5 ml\r\n* 姜片 2 片\r\n* 蒜头 3 颗\r\n* 料酒 100 ml\r\n* 葱 1 根\r\n* 五香粉 10 g\r\n* 盐 10 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "五花肉切块，每块 2-3 cm 大小"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 150 ml 食用油，倒入五花肉，煎炸 2 分钟 后，加入盐，翻炒五花肉，2 分钟 后出锅"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 50 ml 食用油，倒入白砂糖，翻炒到咖啡色"
+    },
+    {
+      "kind": "step",
+      "description": "倒入五花肉，翻炒 30 S ，加入姜片、蒜头后翻炒 30 S"
+    },
+    {
+      "kind": "step",
+      "description": "加入料酒，五香粉、葱，加入水没过五花肉，盖上锅盖煮 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽、老抽、蚝油，中火煮 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "开锅，大火烧汁，端盘"
+    }
+  ],
+  "operationMarkdown": "1. 五花肉切块，每块 2-3 cm 大小\r\n2. 锅中加入 150 ml 食用油，倒入五花肉，煎炸 2 分钟 后，加入盐，翻炒五花肉，2 分钟 后出锅\r\n3. 锅中加入 50 ml 食用油，倒入白砂糖，翻炒到咖啡色\r\n4. 倒入五花肉，翻炒 30 S ，加入姜片、蒜头后翻炒 30 S\r\n5. 加入料酒，五香粉、葱，加入水没过五花肉，盖上锅盖煮 10 分钟\r\n6. 加入生抽、老抽、蚝油，中火煮 20 分钟\r\n7. 开锅，大火烧汁，端盘\r\n\r\n![徽派红烧肉-预览图-1](./1.jpeg)\r\n![徽派红烧肉-预览图-2](./2.jpeg)",
+  "tips": "* 葱是整根，不需要切碎\r\n* 步骤二加盐的目的是锁住五花肉的油脂\r\n* 制作过程，用部分五花肉做了水煮处理，跟未处理的一起做后续制作，发现未水煮的肉质更 Q 弹\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 葱是整根，不需要切碎\r\n* 步骤二加盐的目的是锁住五花肉的油脂\r\n* 制作过程，用部分五花肉做了水煮处理，跟未处理的一起做后续制作，发现未水煮的肉质更 Q 弹\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/89b0763f-e0bc-43fc-ad0f-6a80097107d0_0.webp",
+    "images/meat_dish/89b0763f-e0bc-43fc-ad0f-6a80097107d0_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md"
+  },
+  "hash": "1c27a2e31b5ad9184b26d0f6de1222f01eabc4dad1a996e7f843884506d0ef2c"
+}

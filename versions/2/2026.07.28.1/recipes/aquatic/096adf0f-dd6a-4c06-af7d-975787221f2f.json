@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 2,
+  "id": "096adf0f-dd6a-4c06-af7d-975787221f2f",
+  "legacyIds": [
+    "aquatic_9b178156"
+  ],
+  "name": "油焖大虾",
+  "description": "这道鲁菜经典以咸甜交融的酱汁包裹整虾，成菜红亮油润，虾肉紧实弹嫩。虾本身富含优质蛋白与虾青素，脂肪含量低，是补充营养又不易增加负担的食材。制作时需要炼葱油、剪虾、焖烧、收汁，对火候和调味把握有一定要求，更适合有基础的厨友尝试，全程大约需要 40 分钟。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 584,
+  "requirements": [
+    {
+      "text": "黑虎虾 or 明虾、",
+      "markdown": "黑虎虾 or 明虾、",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱、姜",
+      "markdown": "葱、姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒、盐、冰糖、植物油",
+      "markdown": "料酒、盐、冰糖、植物油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 黑虎虾 or 明虾、\r\n- 葱、姜\r\n- 料酒、盐、冰糖、植物油",
+  "ingredients": [
+    {
+      "name": "虾",
+      "text": "虾 10 只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄酒",
+      "text": "黄酒 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "植物油",
+      "text": "植物油",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "1 人食用的版本。\r\n\r\n- 虾 10 只\r\n- 花椒 5g\r\n- 葱 50g\r\n- 姜 20g\r\n- 黄酒 30g\r\n- 盐 3g\r\n- 冰糖 10g\r\n- 植物油",
+  "calculationNotes": [
+    "1 人食用的版本。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "剪虾枪到根上，虾须虾爪都剪掉，沙包挑掉，开背虾线挑出来，洗净备用"
+    },
+    {
+      "kind": "step",
+      "description": "炸料油"
+    },
+    {
+      "kind": "step",
+      "description": "油温三成热放花椒，油热离火，放葱姜（不要让油变色最好）葱稍微变黄沥油 （葱油弄多了可以留着作为拌面使用）。"
+    },
+    {
+      "kind": "step",
+      "description": "下油，虾摆放整齐，两面变色后轻轻摁虾头"
+    },
+    {
+      "kind": "step",
+      "description": "放姜米（姜切成细颗粒）"
+    },
+    {
+      "kind": "step",
+      "description": "黄酒 30g"
+    },
+    {
+      "kind": "step",
+      "description": "水两小碗"
+    },
+    {
+      "kind": "step",
+      "description": "盐 3g"
+    },
+    {
+      "kind": "step",
+      "description": "冰糖 10 克"
+    },
+    {
+      "kind": "step",
+      "description": "大火烧开转小火盖盖子闷（中途不能再加汤水，不要开盖）"
+    },
+    {
+      "kind": "step",
+      "description": "皮亮虾弯就可以起锅，虾摆盘"
+    },
+    {
+      "kind": "step",
+      "description": "收汁（过滤后倒回锅里收浓，放葱油 ） 汤汁剩余 1/4 时。"
+    },
+    {
+      "kind": "step",
+      "description": "浇汁"
+    },
+    {
+      "kind": "step",
+      "description": "完成"
+    },
+    {
+      "kind": "step",
+      "description": "![油焖大虾-预览图-1](./油焖大虾.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "开吃✅"
+    }
+  ],
+  "operationMarkdown": "1. 剪虾枪到根上，虾须虾爪都剪掉，沙包挑掉，开背虾线挑出来，洗净备用\r\n2. 炸料油\r\n\r\n  - 油温三成热放花椒，油热离火，放葱姜（不要让油变色最好）葱稍微变黄沥油 （葱油弄多了可以留着作为拌面使用）。\r\n\r\n3. 下油，虾摆放整齐，两面变色后轻轻摁虾头\r\n\r\n  - 放姜米（姜切成细颗粒）\r\n  - 黄酒 30g\r\n  - 水两小碗\r\n  - 盐 3g\r\n  - 冰糖 10 克\r\n\r\n4. 大火烧开转小火盖盖子闷（中途不能再加汤水，不要开盖）\r\n5. 皮亮虾弯就可以起锅，虾摆盘\r\n6. 收汁（过滤后倒回锅里收浓，放葱油 ） 汤汁剩余 1/4 时。\r\n7. 浇汁\r\n8. 完成\r\n9. ![油焖大虾-预览图-1](./油焖大虾.jpg)\r\n10. 开吃✅",
+  "tips": "- 做法参考：B 站老饭骨视频[从小吃到大的油焖大虾居然是假的？泰斗级大师还原真·味道](https://www.bilibili.com/video/BV17f4y1W7z9)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 做法参考：B 站老饭骨视频[从小吃到大的油焖大虾居然是假的？泰斗级大师还原真·味道](https://www.bilibili.com/video/BV17f4y1W7z9)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/096adf0f-dd6a-4c06-af7d-975787221f2f_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/油焖大虾/油焖大虾.md"
+  },
+  "hash": "eb28ce0bd228618673646441d511749cd6498ddd9b615315279ffb6a27dd0935"
+}

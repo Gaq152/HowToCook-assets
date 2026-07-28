@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "id": "fa62e856-5b3a-41f1-be4b-864cbc4d9503",
+  "legacyIds": [
+    "breakfast_af382287"
+  ],
+  "name": "煎饺",
+  "description": "煎饺是一道底部金黄酥脆、内馅鲜嫩多汁的家常面点，常见于北方餐桌。搭配速冻水饺制作，富含碳水化合物和蛋白质，简单快手。预估难度二星，对新手非常友好，总共约需 15 分钟就能端上桌。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 769,
+  "requirements": [
+    {
+      "text": "饺子（速冻水饺）",
+      "markdown": "饺子（速冻水饺）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻、葱花（切段）或其他配料",
+      "markdown": "芝麻、葱花（切段）或其他配料",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 饺子（速冻水饺）\r\n- 芝麻、葱花（切段）或其他配料",
+  "ingredients": [
+    {
+      "name": "饺子一包 （根据个人食量选择",
+      "text": "饺子一包 （根据个人食量选择， 约 10 - 15 个）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 饺子一包 （根据个人食量选择， 约 10 - 15 个）",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "取出平底锅（不沾平底锅最佳）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10ml - 15 ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "开火，放入饺子（尽量平均铺开，不宜堆叠）"
+    },
+    {
+      "kind": "step",
+      "description": "立刻加入清水，水线没过饺子平均高度的 1/2"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖（此时炉灶应该处于大火）"
+    },
+    {
+      "kind": "step",
+      "description": "等待 8 - 10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "当锅中水分仅剩 2mm 时， 转中火开始煎制"
+    },
+    {
+      "kind": "step",
+      "description": "当水分全部蒸发后，摇晃平底锅使饺子受热均匀"
+    },
+    {
+      "kind": "step",
+      "description": "放入黑芝麻和葱花再焖 10s"
+    },
+    {
+      "kind": "step",
+      "description": "1 - 2 分钟夹出一个饺子观察底部，若出现金黄色脆皮立即取出"
+    }
+  ],
+  "operationMarkdown": "1. 取出平底锅（不沾平底锅最佳）\r\n2. 加入 10ml - 15 ml 食用油\r\n3. 开火，放入饺子（尽量平均铺开，不宜堆叠）\r\n4. 立刻加入清水，水线没过饺子平均高度的 1/2\r\n5. 盖上锅盖（此时炉灶应该处于大火）\r\n6. 等待 8 - 10 分钟\r\n7. 当锅中水分仅剩 2mm 时， 转中火开始煎制\r\n8. 当水分全部蒸发后，摇晃平底锅使饺子受热均匀\r\n9. 放入黑芝麻和葱花再焖 10s\r\n10. 1 - 2 分钟夹出一个饺子观察底部，若出现金黄色脆皮立即取出",
+  "tips": "- 操作时，需时刻观察锅内情况，切记不可分神玩手机。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 操作时，需时刻观察锅内情况，切记不可分神玩手机。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/煎饺.md"
+  },
+  "hash": "d60b6e4327f8e6ada61817ab2148fdd2c3f17b6bf42920d202e13a489d000038"
+}

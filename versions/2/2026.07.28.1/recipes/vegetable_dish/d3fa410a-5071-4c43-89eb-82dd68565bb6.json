@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 2,
+  "id": "d3fa410a-5071-4c43-89eb-82dd68565bb6",
+  "legacyIds": [
+    "vegetable_dish_6d092c28"
+  ],
+  "name": "脆皮豆腐",
+  "description": "脆皮豆腐外酥里嫩，酱汁咸甜适口，是一道快手下饭菜。豆腐富含植物蛋白和钙质，鸡蛋提供优质蛋白，营养搭配均衡。制作需要耐心煎出金黄脆皮，但步骤清晰，初学者也能掌握，全程大约需要 30 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 840,
+  "requirements": [
+    {
+      "text": "老豆腐",
+      "markdown": "老豆腐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "玉米淀粉",
+      "markdown": "玉米淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "平底锅",
+      "markdown": "平底锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 老豆腐\r\n- 鸡蛋\r\n- 生抽\r\n- 老抽\r\n- 蚝油\r\n- 白糖\r\n- 玉米淀粉\r\n- 平底锅",
+  "ingredients": [
+    {
+      "name": "老豆腐",
+      "text": "老豆腐 1 块 （市场买 1.25 格 * 人）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 只 * 老豆腐块数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "玉米淀粉",
+      "text": "玉米淀粉 50 g * 老豆腐块数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 老豆腐 1 块 （市场买 1.25 格 * 人）\r\n- 鸡蛋 2 只 * 老豆腐块数\r\n- 玉米淀粉 50 g * 老豆腐块数\r\n- 生抽 20 g\r\n- 蚝油 10 g\r\n- 老抽 5 g\r\n- 白糖 10 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋搅拌形成蛋液放置备用"
+    },
+    {
+      "kind": "step",
+      "description": "配置酱料 （20 g 生抽+10 g 蚝油+5 g 老抽+10 g 白糖+10 g 玉米淀粉+200 ml 清水）"
+    },
+    {
+      "kind": "step",
+      "description": "老豆腐切片 （个人建议，仅供参考  人 * 5 片，厚度 1.2 cm）"
+    },
+    {
+      "kind": "step",
+      "description": "玉米淀粉倒入盘中，将老豆腐片粘上淀粉后，粘上蛋液，放置一旁"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 18ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "将粘上蛋液的老豆腐片均匀放入锅中，铺好锅底，小火煎至金黄翻面"
+    },
+    {
+      "kind": "step",
+      "description": "待两面煎至金黄后，倒入酱料，让每块豆腐都沐浴在酱料中，大火 3 分钟至酱汁浓稠"
+    },
+    {
+      "kind": "step",
+      "description": "关火"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋搅拌形成蛋液放置备用\r\n2. 配置酱料 （20 g 生抽+10 g 蚝油+5 g 老抽+10 g 白糖+10 g 玉米淀粉+200 ml 清水）\r\n3. 老豆腐切片 （个人建议，仅供参考  人 * 5 片，厚度 1.2 cm）\r\n4. 玉米淀粉倒入盘中，将老豆腐片粘上淀粉后，粘上蛋液，放置一旁\r\n5. 热锅，锅内放入 18ml 食用油。等待 10 秒让油温升高\r\n6. 将粘上蛋液的老豆腐片均匀放入锅中，铺好锅底，小火煎至金黄翻面\r\n7. 待两面煎至金黄后，倒入酱料，让每块豆腐都沐浴在酱料中，大火 3 分钟至酱汁浓稠\r\n8. 关火",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/脆皮豆腐.md"
+  },
+  "hash": "738e1de7c4a43008d63ac62137ed59963f98a8061c3cc5a3ddea29a5e9d26723"
+}

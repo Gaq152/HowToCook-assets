@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "id": "30f04138-07fe-41fc-afb0-66ed966bbb43",
+  "legacyIds": [
+    "staple_1eb80185"
+  ],
+  "name": "火腿饭团",
+  "description": "![火腿饭团](./饭团.png)\n一道简单快手的日式风味饭团，咸香火腿搭配沙拉酱与海苔，口感丰富饱腹。富含碳水化合物、蛋白质和维生素，能快速补充能量。制作难度极低，新手也能轻松上手，从煮饭到完成大约只需 1 小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 665,
+  "requirements": [
+    {
+      "text": "火腿",
+      "markdown": "火腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷冻青豆（可选）",
+      "markdown": "冷冻青豆（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冷冻玉米粒（可选）",
+      "markdown": "冷冻玉米粒（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "海苔碎（可选）",
+      "markdown": "海苔碎（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "喜欢的沙拉酱（推荐日式 mayo！）",
+      "markdown": "喜欢的沙拉酱（推荐日式 mayo！）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 火腿\r\n- 米饭\r\n- 水\r\n- 冷冻青豆（可选）\r\n- 冷冻玉米粒（可选）\r\n- 海苔碎（可选）\r\n- 喜欢的沙拉酱（推荐日式 mayo！）",
+  "ingredients": [
+    {
+      "name": "火腿(100g)",
+      "text": "火腿(100g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米饭(125g)",
+      "text": "米饭(125g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水(90ml)",
+      "text": "水(90ml)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷冻青豆(30g)",
+      "text": "冷冻青豆(30g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷冻玉米粒(30g)",
+      "text": "冷冻玉米粒(30g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "海苔碎(10g)",
+      "text": "海苔碎(10g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "喜欢的沙拉酱(20g)",
+      "text": "喜欢的沙拉酱(20g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 火腿(100g)\r\n- 米饭(125g)\r\n- 水(90ml)\r\n- 冷冻青豆(30g)\r\n- 冷冻玉米粒(30g)\r\n- 海苔碎(10g)\r\n- 喜欢的沙拉酱(20g)\r\n- 食用油 10-15ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将米饭和水放到电饭锅里，点击米饭模式，等待完成"
+    },
+    {
+      "kind": "step",
+      "description": "冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出。"
+    },
+    {
+      "kind": "step",
+      "description": "火腿切成 1cm 的方块"
+    },
+    {
+      "kind": "step",
+      "description": "与此同时，加入 10ml 食用油，加入火腿翻炒至火腿上色"
+    },
+    {
+      "kind": "step",
+      "description": "将米饭，火腿，海苔碎，青豆，玉米粒，沙拉酱放入碗中，混合均匀即可"
+    },
+    {
+      "kind": "step",
+      "description": "装盘（如果有的话）"
+    }
+  ],
+  "operationMarkdown": "1. 将米饭和水放到电饭锅里，点击米饭模式，等待完成\r\n2. 冷冻玉米粒和青豆放到锅里，加水没过所有食材，沸腾后静待 2 分钟后，捞出。\r\n3. 火腿切成 1cm 的方块\r\n4. 与此同时，加入 10ml 食用油，加入火腿翻炒至火腿上色\r\n5. 将米饭，火腿，海苔碎，青豆，玉米粒，沙拉酱放入碗中，混合均匀即可\r\n6. 装盘（如果有的话）",
+  "tips": "- 沙拉酱的程度可以根据个人口味酌情删减。\r\n- 可以尝试混合沙拉酱。\r\n- 参考资料：小红书 - 干饭选手又困了\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 沙拉酱的程度可以根据个人口味酌情删减。\r\n- 可以尝试混合沙拉酱。\r\n- 参考资料：小红书 - 干饭选手又困了\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/30f04138-07fe-41fc-afb0-66ed966bbb43_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/火腿饭团/火腿饭团.md"
+  },
+  "hash": "7f2c86a2852ba0776bd629087ae9d0d8be1635aa069640d6a69a7d9bba31ab5d"
+}

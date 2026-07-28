@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 2,
+  "id": "f8ea5fd9-e86b-43be-8466-ae7b6c444bd5",
+  "legacyIds": [
+    "staple_262c78e6"
+  ],
+  "name": "微波炉腊肠煲仔饭",
+  "description": "这是一道简单快手的粤式风味主食，米饭吸足腊肠油脂后油润咸香，搭配脆嫩青菜和胡萝卜，口感层次丰富。富含碳水化合物、蛋白质和多种维生素，营养均衡。烹饪用微波炉操作，对新手十分友好，预计全程仅需 15 分钟即可享用。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1039,
+  "requirements": [
+    {
+      "text": "工具微波炉2 个大碗（推荐微波炉专用碗）1 个小碗",
+      "markdown": "工具\n- 微波炉\n- 2 个大碗（推荐微波炉专用碗）\n- 1 个小碗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "原料米 200 ml腊肠 1 根鸡蛋 1 个红萝卜 1 个盐油 15 ml生抽 10 ml香葱 1 颗",
+      "markdown": "原料\n- 米 200 ml\n- 腊肠 1 根\n- 鸡蛋 1 个\n- 红萝卜 1 个\n- 盐\n- 油 15 ml\n- 生抽 10 ml\n- 香葱 1 颗",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 工具\r\n  - 微波炉\r\n  - 2 个大碗（推荐微波炉专用碗）\r\n  - 1 个小碗\r\n- 原料\r\n  - 米 200 ml\r\n  - 腊肠 1 根\r\n  - 鸡蛋 1 个\r\n  - 红萝卜 1 个\r\n  - 盐\r\n  - 油 15 ml\r\n  - 生抽 10 ml\r\n  - 香葱 1 颗",
+  "ingredients": [
+    {
+      "name": "原料米",
+      "text": "原料米 200 ml腊肠 1 根鸡蛋 1 个红萝卜 1 个盐油 15 ml生抽 10 ml香葱 1 颗",
+      "optional": false,
+      "source": "requirements-fallback"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "1 人份。",
+  "calculationNotes": [
+    "1 人份。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将米淘洗干净后倒入 `饭碗` 内，加入 400ml 的水，**盖上盖**"
+    },
+    {
+      "kind": "step",
+      "description": "放入微波炉，高火，`6` 分钟，煮饭途中准备原料"
+    },
+    {
+      "kind": "step",
+      "description": "切好腊肠"
+    },
+    {
+      "kind": "step",
+      "description": "洗好青菜"
+    },
+    {
+      "kind": "step",
+      "description": "切好红萝卜片"
+    },
+    {
+      "kind": "step",
+      "description": "切好葱花"
+    },
+    {
+      "kind": "step",
+      "description": "`青菜碗` 中放入青菜、红萝卜片，倒入 10 ml 油，放入 5 g 盐"
+    },
+    {
+      "kind": "step",
+      "description": "`小碗` 中倒入 10 ml 生抽、5 ml 油"
+    },
+    {
+      "kind": "step",
+      "description": "6 分钟后，用毛巾或隔热手套取出碗，可以看见米饭已经八分熟"
+    },
+    {
+      "kind": "step",
+      "description": "在米饭上摆入切片的腊肠，继续高火 `2` 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "取出腊肠饭，放入 `青菜碗`，高火 `4-5` 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "在腊肠饭上摆好青菜，磕入鸡蛋，看个人喜好继续高火 `40-60` 秒"
+    },
+    {
+      "kind": "step",
+      "description": "取出腊肠饭，此时已经基本完成。"
+    },
+    {
+      "kind": "step",
+      "description": "将 `小碗` 放入，继续高火 `30` 秒"
+    },
+    {
+      "kind": "step",
+      "description": "在腊肠饭上淋上叮热的生抽，撒上葱花即可"
+    },
+    {
+      "kind": "step",
+      "description": "多余的青菜可以沾着酱油吃"
+    }
+  ],
+  "operationMarkdown": "1. 将米淘洗干净后倒入 `饭碗` 内，加入 400ml 的水，**盖上盖**\r\n2. 放入微波炉，高火，`6` 分钟，煮饭途中准备原料\r\n\r\n  - 切好腊肠\r\n  - 洗好青菜\r\n  - 切好红萝卜片\r\n  - 切好葱花\r\n  - `青菜碗` 中放入青菜、红萝卜片，倒入 10 ml 油，放入 5 g 盐\r\n  - `小碗` 中倒入 10 ml 生抽、5 ml 油\r\n\r\n3. 6 分钟后，用毛巾或隔热手套取出碗，可以看见米饭已经八分熟\r\n4. 在米饭上摆入切片的腊肠，继续高火 `2` 分钟\r\n5. 取出腊肠饭，放入 `青菜碗`，高火 `4-5` 分钟\r\n6. 在腊肠饭上摆好青菜，磕入鸡蛋，看个人喜好继续高火 `40-60` 秒\r\n7. 取出腊肠饭，此时已经基本完成。\r\n8. 将 `小碗` 放入，继续高火 `30` 秒\r\n9. 在腊肠饭上淋上叮热的生抽，撒上葱花即可\r\n10. 多余的青菜可以沾着酱油吃",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/f8ea5fd9-e86b-43be-8466-ae7b6c444bd5_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md"
+  },
+  "hash": "8072ddf2f41c5ac44f0acf8b717adde8b49ec0453293e6af67d1f87684f331ed"
+}

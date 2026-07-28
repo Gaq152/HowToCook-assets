@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "id": "b0b1e080-997d-458e-b956-7a4ef8340965",
+  "legacyIds": [
+    "dessert_48708a65"
+  ],
+  "name": "酸奶意式奶冻",
+  "description": "一道改良自意大利经典的甜品，融入原味酸奶后口感更为清爽顺滑，甜而不腻，适合作为餐后小点搭配水果或果酱。奶制品带来丰富的钙质和蛋白质，营养温和。制作步骤简单，只需加热搅拌和冷藏定型，新手也能顺利上手，从准备到冷藏完成大约需要 5 小时。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1034,
+  "requirements": [
+    {
+      "text": "淡奶油",
+      "markdown": "淡奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "原味酸奶",
+      "markdown": "原味酸奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "吉利丁片",
+      "markdown": "吉利丁片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "筛网",
+      "markdown": "筛网",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 淡奶油\r\n- 糖\r\n- 原味酸奶\r\n- 吉利丁片\r\n- 筛网",
+  "ingredients": [
+    {
+      "name": "淡奶油",
+      "text": "淡奶油 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "原味酸奶",
+      "text": "原味酸奶 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "吉利丁片",
+      "text": "吉利丁片 6g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3-6 个人吃。\r\n\r\n每份：\r\n\r\n- 淡奶油 200g\r\n- 糖 40g\r\n- 原味酸奶 250g\r\n- 吉利丁片 6g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3-6 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "吉利丁片剪成小片，泡入冷水中"
+    },
+    {
+      "kind": "step",
+      "description": "淡奶油和糖放入锅中，加热至 60 度"
+    },
+    {
+      "kind": "step",
+      "description": "关火，吉利丁从水中取出，控干水份，加入热淡奶油中，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "淡奶油降温至 40 度，加入原味酸奶，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将上述步骤得到的混合物过两遍筛网"
+    },
+    {
+      "kind": "step",
+      "description": "分装入合适的容器，放入冰箱冷藏 4 小时以上"
+    }
+  ],
+  "operationMarkdown": "1. 吉利丁片剪成小片，泡入冷水中\r\n2. 淡奶油和糖放入锅中，加热至 60 度\r\n3. 关火，吉利丁从水中取出，控干水份，加入热淡奶油中，搅拌均匀\r\n4. 淡奶油降温至 40 度，加入原味酸奶，搅拌均匀\r\n5. 将上述步骤得到的混合物过两遍筛网\r\n6. 分装入合适的容器，放入冰箱冷藏 4 小时以上",
+  "tips": "- 传统版本的意式奶冻只用淡奶油，且糖量更大，比较甜腻。此版本做了改良，吃起来负担更小。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 传统版本的意式奶冻只用淡奶油，且糖量更大，比较甜腻。此版本做了改良，吃起来负担更小。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/b0b1e080-997d-458e-b956-7a4ef8340965_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md"
+  },
+  "hash": "7b57d39799b2fc8aa4ce989f74dcd4ff6b63cb8106b9b981ab8e2045713146c9"
+}

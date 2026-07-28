@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 2,
+  "id": "63d5bd52-6ad9-41ab-a0f0-0d7499d44cb3",
+  "legacyIds": [
+    "meat_dish_958b437b"
+  ],
+  "name": "小米辣炒肉",
+  "description": "小米辣炒肉香辣过瘾，是一道典型的西南风味下饭菜，猪肉的鲜嫩搭配小米辣的爽辣，令人食欲大开。猪肉富含蛋白质和脂肪，辣椒提供丰富的维生素 C，能够促进食欲。虽然需要掌握爆香和翻炒的火候，但步骤清晰，新手也能轻松上手，预计制作时长约 25 分钟。注意，这道菜辣味突出，不建议清淡饮食者尝试。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 620,
+  "requirements": [
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花生油",
+      "markdown": "花生油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五花肉/瘦肉",
+      "markdown": "五花肉/瘦肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 小米辣\r\n* 花生油\r\n* 五花肉/瘦肉\r\n* 盐\r\n* 生抽\r\n* 蚝油\r\n* 大蒜\r\n* 姜\r\n* 豆瓣酱\r\n* 鸡精\r\n* 白糖",
+  "ingredients": [
+    {
+      "name": "小米椒",
+      "text": "小米椒 20 个，根据个人口味加减",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花生油",
+      "text": "花生油 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉/瘦肉",
+      "text": "五花肉/瘦肉 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1-2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜蒜",
+      "text": "姜蒜 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 10g，根据个人口味加减",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 小米椒 20 个，根据个人口味加减\r\n- 花生油 20ml\r\n- 五花肉/瘦肉 200g\r\n- 盐 1-2g\r\n- 生抽 10ml\r\n- 蚝油 10ml\r\n- 姜蒜 50g\r\n- 豆瓣酱 10g，根据个人口味加减\r\n- 鸡精 10g\r\n- 白糖 5g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将小米辣洗净，斜刀切大一点"
+    },
+    {
+      "kind": "step",
+      "description": "肉的话，想切丝切丝，想切片切片，倒入调料（生抽、蚝油、盐）腌制 5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "热锅倒油，先把肉炒好盛起"
+    },
+    {
+      "kind": "step",
+      "description": "姜蒜爆香，倒入豆瓣酱翻炒，到入切好的小米辣，再倒入瘦肉，翻炒一下，放点生抽、鸡精、盐、糖翻炒"
+    }
+  ],
+  "operationMarkdown": "1. 将小米辣洗净，斜刀切大一点\r\n2. 肉的话，想切丝切丝，想切片切片，倒入调料（生抽、蚝油、盐）腌制 5 分钟\r\n3. 热锅倒油，先把肉炒好盛起\r\n4. 姜蒜爆香，倒入豆瓣酱翻炒，到入切好的小米辣，再倒入瘦肉，翻炒一下，放点生抽、鸡精、盐、糖翻炒",
+  "tips": "**调料可以根据自己的喜好放，也可以加老抽，老抽更香！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "**调料可以根据自己的喜好放，也可以加老抽，老抽更香！**\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/小米辣炒肉.md"
+  },
+  "hash": "d51a95ecec6f1823f6bbc935ef5135c87b6156a9e5098d7d1d9cdbe7f8988627"
+}

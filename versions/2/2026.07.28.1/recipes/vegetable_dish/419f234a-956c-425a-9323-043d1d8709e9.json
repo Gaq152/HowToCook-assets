@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "id": "419f234a-956c-425a-9323-043d1d8709e9",
+  "legacyIds": [
+    "vegetable_dish_38609c21"
+  ],
+  "name": "莴笋叶煎饼",
+  "description": "莴笋叶煎饼是一道简单快手的家常小吃，口感外酥里嫩，带有莴笋叶的清香味。莴笋叶富含维生素和膳食纤维，搭配鸡蛋补充优质蛋白，营养均衡。制作过程无需复杂技巧，只需搅拌并煎制两面，新手也很容易上手，预计从备料到出锅仅需 大约 10 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 477,
+  "requirements": [
+    {
+      "text": "莴笋叶",
+      "markdown": "莴笋叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 莴笋叶\r\n* 鸡蛋\r\n* 食用油\r\n* 生抽\r\n* 淀粉\r\n* 鸡精",
+  "ingredients": [
+    {
+      "name": "莴笋叶",
+      "text": "莴笋叶 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 莴笋叶 50 g\r\n* 鸡蛋 2 个\r\n* 食用油 30 ml\r\n* 生抽 5 ml\r\n* 淀粉 15 g\r\n* 鸡精 2 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "莴笋叶剁碎，加入鸡蛋、生粉、生抽、鸡精搅拌均匀备用"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，倒入莴笋叶浆汁，均匀平铺在锅面上"
+    },
+    {
+      "kind": "step",
+      "description": "第一面炸 120 S 后，翻面再炸 60 S 后出锅"
+    }
+  ],
+  "operationMarkdown": "1. 莴笋叶剁碎，加入鸡蛋、生粉、生抽、鸡精搅拌均匀备用\r\n2. 起锅烧油，倒入莴笋叶浆汁，均匀平铺在锅面上\r\n3. 第一面炸 120 S 后，翻面再炸 60 S 后出锅\r\n\r\n![莴笋叶煎饼-预览图-1](./1.jpeg)\r\n![莴笋叶煎饼-预览图-2](./2.jpeg)\r\n![莴笋叶煎饼-预览图-3](./3.jpeg)",
+  "tips": "* 选择莴笋叶是某省市买到的蔬菜包基本都包含莴笋，可以换成韭菜等\r\n* 莴笋叶直接焯水后凉拌有苦味，所以选择做成煎饼的配菜\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 选择莴笋叶是某省市买到的蔬菜包基本都包含莴笋，可以换成韭菜等\r\n* 莴笋叶直接焯水后凉拌有苦味，所以选择做成煎饼的配菜\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/419f234a-956c-425a-9323-043d1d8709e9_0.webp",
+    "images/vegetable_dish/419f234a-956c-425a-9323-043d1d8709e9_1.webp",
+    "images/vegetable_dish/419f234a-956c-425a-9323-043d1d8709e9_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md"
+  },
+  "hash": "5b33244be3a91a3e11f65a5ac1d733c8e6a6bed2b2410d9d35e83de1726eb123"
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 2,
+  "id": "b9ebde1a-88ee-409b-a473-0b996f918b62",
+  "legacyIds": [
+    "dessert_d1ccc72e"
+  ],
+  "name": "咖啡椰奶冻",
+  "description": "这款甜品融合了咖啡的醇厚与椰奶的清甜，口感像布丁般细腻滑嫩，层次丰富。淡奶油和椰汁提供了优质脂肪与植物营养，食用能带来满足感。做法非常友好，只需混合加热，无需复杂技巧，新手也能一次成功。不算冷藏的话，实际操作约需 1 小时，加上冷藏定型共 大约 4 小时即可享用。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 162,
+  "requirements": [
+    {
+      "text": "125ml 淡奶油",
+      "markdown": "125ml 淡奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "250ml 椰树牌椰汁",
+      "markdown": "250ml 椰树牌椰汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "35ml espresso 意式浓缩",
+      "markdown": "35ml espresso 意式浓缩",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "50ml 椰子水",
+      "markdown": "50ml 椰子水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "10g 吉利丁(gelatin)",
+      "markdown": "10g 吉利丁(gelatin)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "过滤网（可选）",
+      "markdown": "过滤网（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "（那个...有摆盘需求的话，可以来点蓝莓 and/or 咖啡粉）",
+      "markdown": "（那个...有摆盘需求的话，可以来点蓝莓 and/or 咖啡粉）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 125ml 淡奶油\r\n- 250ml 椰树牌椰汁\r\n- 35ml espresso 意式浓缩\r\n- 50ml 椰子水\r\n- 10g 吉利丁(gelatin)\r\n- 过滤网（可选）\r\n- （那个...有摆盘需求的话，可以来点蓝莓 and/or 咖啡粉）",
+  "ingredients": [
+    {
+      "name": "125ml 淡奶油(whipping cream",
+      "text": "125ml 淡奶油(whipping cream, 35% M.E)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "250ml 椰树牌椰汁",
+      "text": "250ml 椰树牌椰汁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "35ml espresso 意式浓缩（个人不推荐用 fruity 的咖啡豆）",
+      "text": "35ml espresso 意式浓缩（个人不推荐用 fruity 的咖啡豆）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "50ml 椰子水（推荐 vita coco coconut water",
+      "text": "50ml 椰子水（推荐 vita coco coconut water，有条件可以敲一个椰子）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "10g 吉利丁",
+      "text": "10g 吉利丁",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "3-4 人份：\r\n\r\n- 125ml 淡奶油(whipping cream, 35% M.E)\r\n- 250ml 椰树牌椰汁\r\n- 35ml espresso 意式浓缩（个人不推荐用 fruity 的咖啡豆）\r\n- 50ml 椰子水（推荐 vita coco coconut water，有条件可以敲一个椰子）\r\n- 10g 吉利丁\r\n- 糖（可选）",
+  "calculationNotes": [
+    "3-4 人份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将定量淡奶油，椰树牌椰汁，espresso，椰子水混合备用。"
+    },
+    {
+      "kind": "step",
+      "description": "将以上液体加热 1 分钟，温度达到 50-60 度即可。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）如果格外嗜甜可以加额外的糖。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入吉利丁，搅拌至融化，煮 1 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）过筛 （这一步可以让椰奶冻口感更佳顺畅）。"
+    },
+    {
+      "kind": "step",
+      "description": "放入模具。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）过滤掉表层的泡泡。这一步可以让椰奶冻口感更好，并且看着也会更棒。"
+    },
+    {
+      "kind": "step",
+      "description": "放入冰箱冷藏区，等待 3 小时。"
+    }
+  ],
+  "operationMarkdown": "1. 将定量淡奶油，椰树牌椰汁，espresso，椰子水混合备用。\r\n2. 将以上液体加热 1 分钟，温度达到 50-60 度即可。\r\n3. （可选）如果格外嗜甜可以加额外的糖。\r\n4. 倒入吉利丁，搅拌至融化，煮 1 分钟。\r\n5. （可选）过筛 （这一步可以让椰奶冻口感更佳顺畅）。\r\n6. 放入模具。\r\n7. （可选）过滤掉表层的泡泡。这一步可以让椰奶冻口感更好，并且看着也会更棒。\r\n8. 放入冰箱冷藏区，等待 3 小时。",
+  "tips": "注意事项：请务必不要让液体煮沸！！！也不要冒泡泡！！！\r\n关于厨具清洗：建议直接用洗碗机，如果没有的话可以用温水洗。（因为 gelatin 不好清洗，洗碗机会比较好）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "注意事项：请务必不要让液体煮沸！！！也不要冒泡泡！！！\r\n关于厨具清洗：建议直接用洗碗机，如果没有的话可以用温水洗。（因为 gelatin 不好清洗，洗碗机会比较好）\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/b9ebde1a-88ee-409b-a473-0b996f918b62_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
+  },
+  "hash": "8f8ee9af45a30801873478c0d2df96ade2c7fe877d986ba467031ed1061d2ff2"
+}

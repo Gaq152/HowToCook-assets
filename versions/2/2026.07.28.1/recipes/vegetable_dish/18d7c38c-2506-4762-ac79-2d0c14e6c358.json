@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 2,
+  "id": "18d7c38c-2506-4762-ac79-2d0c14e6c358",
+  "legacyIds": [],
+  "name": "印度土豆花菜",
+  "description": "这道印度家常素菜以干香金黄、香料浓郁为特点，土豆绵软、花菜略带焦边，属于北印度风味。土豆和花菜富含膳食纤维与维生素 C，营养均衡。做法简单，对新手友好，从准备到出锅约需 25 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 668,
+  "requirements": [
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花菜（菜花）",
+      "markdown": "花菜（菜花）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青辣椒",
+      "markdown": "青辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然籽",
+      "markdown": "孜然籽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜黄粉",
+      "markdown": "姜黄粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉",
+      "markdown": "红辣椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜粉",
+      "markdown": "香菜粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度综合香料粉(Garam Masala)",
+      "markdown": "印度综合香料粉(Garam Masala)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炒锅（带盖）",
+      "markdown": "炒锅（带盖）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 土豆\r\n- 花菜（菜花）\r\n- 洋葱\r\n- 番茄\r\n- 生姜\r\n- 大蒜\r\n- 青辣椒\r\n- 香菜\r\n- 食用油\r\n- 孜然籽\r\n- 姜黄粉\r\n- 红辣椒粉\r\n- 香菜粉\r\n- 印度综合香料粉(Garam Masala)\r\n- 盐\r\n- 炒锅（带盖）",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "text": "土豆 2 个（约 250g），去皮切块（约 2cm 大小）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花菜",
+      "text": "花菜 1 个（约 300g），掰成小朵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 1 个（约 100g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 1 个（约 100g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 8g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3 瓣（约 9g），切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青辣椒",
+      "text": "青辣椒 1 根，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然籽",
+      "text": "孜然籽 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜黄粉",
+      "text": "姜黄粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜粉",
+      "text": "香菜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度综合香料粉",
+      "text": "印度综合香料粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜叶",
+      "text": "香菜叶 15g（装饰用）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。\r\n\r\n每份：\r\n\r\n- 土豆 2 个（约 250g），去皮切块（约 2cm 大小）\r\n- 花菜 1 个（约 300g），掰成小朵\r\n- 洋葱 1 个（约 100g），切碎\r\n- 番茄 1 个（约 100g），切碎\r\n- 生姜 8g，磨碎\r\n- 大蒜 3 瓣（约 9g），切碎\r\n- 青辣椒 1 根，切碎\r\n- 食用油 30ml\r\n- 孜然籽 3g\r\n- 姜黄粉 3g\r\n- 红辣椒粉 3g\r\n- 香菜粉 5g\r\n- 印度综合香料粉 3g\r\n- 盐 5g\r\n- 香菜叶 15g（装饰用）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人食用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将土豆去皮切成约 2cm 的块状"
+    },
+    {
+      "kind": "step",
+      "description": "将花菜掰成均匀的小朵，大朵可用刀切小"
+    },
+    {
+      "kind": "step",
+      "description": "在炒锅中倒入 30ml 食用油，中火加热"
+    },
+    {
+      "kind": "step",
+      "description": "油热后放入孜然籽 3g，炸至*孜然籽变深色且散发香味*（约 10 秒，注意不要炸糊）"
+    },
+    {
+      "kind": "step",
+      "description": "放入切碎的洋葱，翻炒至*洋葱变透明微黄*（约 3-4 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入生姜、大蒜和青辣椒，翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入切碎的番茄，翻炒至*番茄软烂*（约 2-3 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 1 分钟，使香料与蔬菜融合"
+    },
+    {
+      "kind": "step",
+      "description": "放入土豆块，翻炒 2 分钟使土豆表面裹上香料"
+    },
+    {
+      "kind": "step",
+      "description": "放入花菜朵，轻轻翻拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖，转中小火，**焖 12-15 分钟**，期间每 3-4 分钟打开翻炒一次防止粘锅"
+    },
+    {
+      "kind": "step",
+      "description": "当*土豆用筷子可轻松戳透、花菜略有焦边*时，撒入印度综合香料粉 3g"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "关火，撒上香菜叶，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 将土豆去皮切成约 2cm 的块状\r\n2. 将花菜掰成均匀的小朵，大朵可用刀切小\r\n3. 在炒锅中倒入 30ml 食用油，中火加热\r\n4. 油热后放入孜然籽 3g，炸至*孜然籽变深色且散发香味*（约 10 秒，注意不要炸糊）\r\n5. 放入切碎的洋葱，翻炒至*洋葱变透明微黄*（约 3-4 分钟）\r\n6. 加入生姜、大蒜和青辣椒，翻炒 1 分钟\r\n7. 加入切碎的番茄，翻炒至*番茄软烂*（约 2-3 分钟）\r\n8. 加入姜黄粉 3g、红辣椒粉 3g、香菜粉 5g、盐 5g\r\n9. 翻炒 1 分钟，使香料与蔬菜融合\r\n10. 放入土豆块，翻炒 2 分钟使土豆表面裹上香料\r\n11. 放入花菜朵，轻轻翻拌均匀\r\n12. 盖上锅盖，转中小火，**焖 12-15 分钟**，期间每 3-4 分钟打开翻炒一次防止粘锅\r\n13. 当*土豆用筷子可轻松戳透、花菜略有焦边*时，撒入印度综合香料粉 3g\r\n14. 翻炒 1 分钟\r\n15. 关火，撒上香菜叶，盛盘",
+  "tips": "- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\r\n- 土豆块不要切太小，否则容易炒散。\r\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\r\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\r\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 这道菜是干炒风格(Dry)，不需要加水。如果觉得太干容易粘锅，可以加入极少量水（约 15-30ml），但不宜过多。\r\n- 土豆块不要切太小，否则容易炒散。\r\n- 花菜的边缘略微焦黄是正常的，反而会增添风味。\r\n- Aloo Gobi 因 2001 年的英国喜剧电影\"Bend It Like Beckham\"（像贝克汉姆一样踢球）而在西方世界广为人知。\r\n- 这道菜可以搭配印度烤饼(Naan)、印度薄饼(Roti)或米饭食用。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/印度土豆花菜.md"
+  },
+  "hash": "431469bdd4589b8deb20061be3a73c3a435405c8f1c9de8ff9b808926a610cc5"
+}

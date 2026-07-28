@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "id": "426f5a7c-b6f8-474c-8ad3-0220b0af63fe",
+  "legacyIds": [],
+  "name": "印度奶茶",
+  "description": "印度奶茶是一道充满异域风情的家常饮品，以红茶、牛奶和多种香料现煮而成，口感浓郁顺滑，带有生姜、豆蔻、肉桂交织的辛香暖意。牛奶提供优质蛋白和钙质，香料则有助于暖身驱寒、促进消化。制作过程简单直观，对新手友好，从备料到入口只需大约 10 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 135,
+  "requirements": [
+    {
+      "text": "红茶（CTC 红茶最佳，或阿萨姆红茶）",
+      "markdown": "红茶（CTC 红茶最佳，或阿萨姆红茶）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "全脂牛奶",
+      "markdown": "全脂牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小豆蔻（绿色）",
+      "markdown": "小豆蔻（绿色）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉桂棒",
+      "markdown": "肉桂棒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "丁香",
+      "markdown": "丁香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒粒",
+      "markdown": "黑胡椒粒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小奶锅",
+      "markdown": "小奶锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 红茶（CTC 红茶最佳，或阿萨姆红茶）\r\n- 全脂牛奶\r\n- 生姜\r\n- 小豆蔻（绿色）\r\n- 肉桂棒\r\n- 丁香\r\n- 黑胡椒粒\r\n- 糖\r\n- 小奶锅",
+  "ingredients": [
+    {
+      "name": "水",
+      "text": "水 120ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "全脂牛奶",
+      "text": "全脂牛奶 120ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红茶",
+      "text": "红茶 8g（约 2 茶匙）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 5g（约 1cm 一块），拍碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "绿色小豆蔻",
+      "text": "绿色小豆蔻 2 颗，拍开",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉桂棒",
+      "text": "肉桂棒 1 小段（约 2cm）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "丁香",
+      "text": "丁香 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒粒",
+      "text": "黑胡椒粒 2 颗，拍碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 10-15g（根据个人口味调整）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。\r\n\r\n每份（大约 200ml）：\r\n\r\n- 水 120ml\r\n- 全脂牛奶 120ml\r\n- 红茶 8g（约 2 茶匙）\r\n- 生姜 5g（约 1cm 一块），拍碎\r\n- 绿色小豆蔻 2 颗，拍开\r\n- 肉桂棒 1 小段（约 2cm）\r\n- 丁香 2 颗\r\n- 黑胡椒粒 2 颗，拍碎\r\n- 糖 10-15g（根据个人口味调整）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。",
+    "每份（大约 200ml）："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将生姜拍碎（不用切太碎，拍开即可释放姜汁）"
+    },
+    {
+      "kind": "step",
+      "description": "将小豆蔻用刀背拍开，露出里面的籽"
+    },
+    {
+      "kind": "step",
+      "description": "将黑胡椒粒拍碎"
+    },
+    {
+      "kind": "step",
+      "description": "在小奶锅中倒入 120ml 水"
+    },
+    {
+      "kind": "step",
+      "description": "放入拍碎的生姜、小豆蔻、肉桂棒、丁香、黑胡椒粒"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮沸后转小火，**煮 2 分钟**，让香料的味道充分释出"
+    },
+    {
+      "kind": "step",
+      "description": "加入红茶 8g，继续小火**煮 2 分钟**，直至*茶汤颜色变深*"
+    },
+    {
+      "kind": "step",
+      "description": "倒入全脂牛奶 120ml"
+    },
+    {
+      "kind": "step",
+      "description": "中火加热，**注意观察**，当奶茶开始*冒泡上升*时立即转小火（牛奶极易溢出）"
+    },
+    {
+      "kind": "step",
+      "description": "小火**煮 2-3 分钟**，期间可以将锅提起倒回（反复提拉 3-4 次），使茶汤与牛奶充分融合"
+    },
+    {
+      "kind": "step",
+      "description": "加入糖，搅拌溶解"
+    },
+    {
+      "kind": "step",
+      "description": "关火"
+    },
+    {
+      "kind": "step",
+      "description": "用滤网过滤到茶盏中，去除茶叶和香料残渣"
+    },
+    {
+      "kind": "step",
+      "description": "趁热饮用"
+    }
+  ],
+  "operationMarkdown": "1. 将生姜拍碎（不用切太碎，拍开即可释放姜汁）\r\n2. 将小豆蔻用刀背拍开，露出里面的籽\r\n3. 将黑胡椒粒拍碎\r\n4. 在小奶锅中倒入 120ml 水\r\n5. 放入拍碎的生姜、小豆蔻、肉桂棒、丁香、黑胡椒粒\r\n6. 大火煮沸后转小火，**煮 2 分钟**，让香料的味道充分释出\r\n7. 加入红茶 8g，继续小火**煮 2 分钟**，直至*茶汤颜色变深*\r\n8. 倒入全脂牛奶 120ml\r\n9. 中火加热，**注意观察**，当奶茶开始*冒泡上升*时立即转小火（牛奶极易溢出）\r\n10. 小火**煮 2-3 分钟**，期间可以将锅提起倒回（反复提拉 3-4 次），使茶汤与牛奶充分融合\r\n11. 加入糖，搅拌溶解\r\n12. 关火\r\n13. 用滤网过滤到茶盏中，去除茶叶和香料残渣\r\n14. 趁热饮用",
+  "tips": "- CTC 红茶（Crush, Tear, Curl 工艺制成）是印度奶茶的最佳选择，因为其颗粒细碎，能在短时间内释放浓厚的茶味。中国的祁门红茶或滇红也可以替代。\r\n- 牛奶和水的比例可以根据个人喜好调整。更浓的奶茶用牛奶多水少，更清爽的用水多牛奶少。\r\n- 生姜是印度奶茶的灵魂，不建议省略。\r\n- 印度人喜欢将奶茶煮得很甜，如果不习惯可以减少糖量。\r\n- 在印度，Chai 不仅是饮品，更是一种社交文化。朋友聚会、商务谈判、甚至初次见面，都从一份 Chai 开始。据统计印度每天消耗超过 10 亿份茶。\r\n- 印度街头奶茶摊(Chai Wala)通常使用陶土杯(Kulhad)盛茶，赋予茶汤一种独特的泥土芬芳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- CTC 红茶（Crush, Tear, Curl 工艺制成）是印度奶茶的最佳选择，因为其颗粒细碎，能在短时间内释放浓厚的茶味。中国的祁门红茶或滇红也可以替代。\r\n- 牛奶和水的比例可以根据个人喜好调整。更浓的奶茶用牛奶多水少，更清爽的用水多牛奶少。\r\n- 生姜是印度奶茶的灵魂，不建议省略。\r\n- 印度人喜欢将奶茶煮得很甜，如果不习惯可以减少糖量。\r\n- 在印度，Chai 不仅是饮品，更是一种社交文化。朋友聚会、商务谈判、甚至初次见面，都从一份 Chai 开始。据统计印度每天消耗超过 10 亿份茶。\r\n- 印度街头奶茶摊(Chai Wala)通常使用陶土杯(Kulhad)盛茶，赋予茶汤一种独特的泥土芬芳。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/印度奶茶.md"
+  },
+  "hash": "f9de839dc143f10d2979ed6837a4f3b1fd98eb1e3e0599bdf7554e81619ff5d7"
+}

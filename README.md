@@ -1,4 +1,45 @@
-# HowToCook Flutter 数据转换方案
+# HowToCook 静态数据仓库
+
+本仓库同时维护两个互不干扰的数据通道：
+
+- **V1（兼容通道）**：根目录的 `manifest.json`、`recipes/`、`images/`、`tips/`。为已发布的旧版 App 保持冻结。
+- **V2（版本化通道）**：`channels/v2-stable.json` 指向 `versions/2/{dataVersion}/` 下的不可变全量数据。
+
+V2 从 [Gaq152/HowToCook](https://github.com/Gaq152/HowToCook) 的固定提交构建，使用 Markdown AST 解析，完整保留上游原始板块，同时输出 Flutter 易于消费的结构化字段。
+
+## V2 快速开始
+
+```bash
+git clone https://github.com/Gaq152/HowToCook-assets.git
+cd HowToCook-assets
+git clone https://github.com/Gaq152/HowToCook.git origin
+npm ci
+
+# YYYY.MM.DD.N 必须是一个尚未发布的数据版本
+node scripts/v2/build.mjs \
+  --source origin \
+  --data-version 2026.07.28.1 \
+  --update-registry
+
+node scripts/v2/validate.mjs --data-version 2026.07.28.1
+npm test
+```
+
+构建器只会清理目标 `versions/2/{dataVersion}`，不会修改根目录 V1 数据。构建与发布设计详见 [V2_DATA_FORMAT.md](V2_DATA_FORMAT.md)。
+
+## V2 稳定入口
+
+```text
+https://gaq152.github.io/HowToCook-assets/channels/v2-stable.json
+```
+
+客户端先读取 channel，再读取其中 `manifestPath` 指向的版本化 manifest。版本目录发布后不可原地修改；需要修正数据时必须提升 `dataVersion`。
+
+构建器默认拒绝覆盖已存在的版本目录。只有在首次发布前验证可复现性时才可添加 `--rebuild`；已经推送的版本禁止重建后覆盖。
+
+## V1 旧转换方案（仅保留历史说明）
+
+以下内容描述旧版根目录数据和交互式 `scripts/cli.js`。该脚本不再用于构建 V2。
 
 本文档说明如何将 HowToCook 菜谱数据转换为 Flutter 应用可用的 JSON 格式，并部署到 GitHub 作为静态资源。
 

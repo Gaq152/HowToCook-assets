@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "2fdbaf14-da70-4cd5-b3e9-1ab080b1e7fa",
+  "legacyIds": [
+    "staple_ab754a08"
+  ],
+  "name": "炸酱面",
+  "description": "炸酱面是一道酱香浓郁、面条劲道的传统北京家常面食，搭配清爽菜码，咸甜适口。主要营养来自瘦肉蛋白质和蔬菜维生素，能为人体提供充足能量。做法对新手友好，预计制作时长约 30 分钟，熟练掌握后可通过备菜与炒酱并行进一步缩短时间。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1272,
+  "requirements": [
+    {
+      "text": "肉丁/肉末",
+      "markdown": "肉丁/肉末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面条（挂面或普通面条）",
+      "markdown": "面条（挂面或普通面条）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜码（根据个人喜好选择，通常 4-10 种，可选择黄瓜、白菜、萝卜等）",
+      "markdown": "菜码（根据个人喜好选择，通常 4-10 种，可选择黄瓜、白菜、萝卜等）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "甜面酱",
+      "markdown": "甜面酱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 肉丁/肉末\r\n* 面条（挂面或普通面条）\r\n* 蒜\r\n* 菜码（根据个人喜好选择，通常 4-10 种，可选择黄瓜、白菜、萝卜等）\r\n* 豆瓣酱\r\n* 甜面酱",
+  "ingredients": [
+    {
+      "name": "肉丁/肉末",
+      "text": "肉丁/肉末 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "如果 面条 选择了挂面",
+      "text": "如果 面条 选择了挂面：150g如果 面条 选择了普通面条：250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "菜码 总量",
+      "text": "菜码 总量 35g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "甜面酱",
+      "text": "甜面酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n每份：\r\n\r\n* 肉丁/肉末 150g\r\n* 如果 *面条* 选择了*挂面*：150g  \r\n  如果 *面条* 选择了*普通面条*：250g\r\n* 葱 15g\r\n* 菜码 总量 35g\r\n* 食用油 10g\r\n* 豆瓣酱 20g\r\n* 甜面酱 20g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "菜码切丝备用。"
+    },
+    {
+      "kind": "step",
+      "description": "葱切碎。油锅烧热，下葱和肉，炒至肉完全熟透（无红色）"
+    },
+    {
+      "kind": "step",
+      "description": "下豆瓣酱和甜面酱，继续炒至**微微粘稠**。盛出，得到*炸酱*。"
+    },
+    {
+      "kind": "step",
+      "description": "取大碗，加凉水备用。"
+    },
+    {
+      "kind": "step",
+      "description": "煮面条至断生（无白芯），盛入第 4 步装有凉水的碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "立即控水捞出，盛入干净的碗中。"
+    },
+    {
+      "kind": "step",
+      "description": "取第 3 步炸酱，倒入碗中，拌匀。然后取第 1 步菜码，倒入碗中，拌匀。"
+    }
+  ],
+  "operationMarkdown": "1. 菜码切丝备用。\r\n2. 葱切碎。油锅烧热，下葱和肉，炒至肉完全熟透（无红色）\r\n3. 下豆瓣酱和甜面酱，继续炒至**微微粘稠**。盛出，得到*炸酱*。\r\n4. 取大碗，加凉水备用。\r\n5. 煮面条至断生（无白芯），盛入第 4 步装有凉水的碗中。\r\n6. 立即控水捞出，盛入干净的碗中。\r\n7. 取第 3 步炸酱，倒入碗中，拌匀。然后取第 1 步菜码，倒入碗中，拌匀。",
+  "tips": "* 肉推荐瘦肉丁，口感更好，推荐现买现用。\r\n* *面条*推荐使用*普通面条*。\r\n* 面条口感关键在于劲道。勿选龙须等细面。\r\n* 如有条件（另一个锅）且熟练后，第 2、3 步和 1、4、5、6 步可分时并行执行。\r\n* 甜咸口个人有爱好，两种酱的配比需要自己迭代优化。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 肉推荐瘦肉丁，口感更好，推荐现买现用。\r\n* *面条*推荐使用*普通面条*。\r\n* 面条口感关键在于劲道。勿选龙须等细面。\r\n* 如有条件（另一个锅）且熟练后，第 2、3 步和 1、4、5、6 步可分时并行执行。\r\n* 甜咸口个人有爱好，两种酱的配比需要自己迭代优化。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炸酱面.md"
+  },
+  "hash": "b9aa95a1adf9965e21bf468a0fb4df5fb0579d9683c3002a1e923ecaba8bed80"
+}

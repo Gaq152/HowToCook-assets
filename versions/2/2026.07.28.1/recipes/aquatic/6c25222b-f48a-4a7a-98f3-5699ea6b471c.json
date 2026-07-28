@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "id": "6c25222b-f48a-4a7a-98f3-5699ea6b471c",
+  "legacyIds": [],
+  "name": "响油鳝丝",
+  "description": "响油鳝丝是一道经典的江浙沪家常菜，鳝丝鲜嫩滑爽，蒜香浓郁，酱汁微甜，淋上热猪油后香气四溢，非常下饭。鳝鱼富含优质蛋白和 DHA，营养丰富。这道菜对刀工和火候有一定要求，难度适中，新手需要稍加练习。从备料到出锅，一般 大约 40 分钟就能端上餐桌。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 556,
+  "requirements": [
+    {
+      "text": "鳝丝",
+      "markdown": "鳝丝",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜末",
+      "markdown": "姜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜末",
+      "markdown": "蒜末",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花",
+      "markdown": "葱花",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油",
+      "markdown": "猪油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鳝丝\r\n- 大蒜\r\n- 姜末\r\n- 料酒\r\n- 生抽\r\n- 蚝油\r\n- 老抽\r\n- 食用盐\r\n- 白糖\r\n- 胡椒粉\r\n- 淀粉\r\n- 蒜末\r\n- 葱花\r\n- 猪油",
+  "ingredients": [
+    {
+      "name": "鳝丝",
+      "text": "鳝丝 400 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 40 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 13 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 3 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 6-15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 3.5-8 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 10 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 50 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜末",
+      "text": "蒜末 40 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油",
+      "text": "猪油 20 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 鳝丝 400 g\r\n- 大蒜 40 g\r\n- 姜末 20 g\r\n- 料酒 13 g\r\n- 生抽 3 g\r\n- 蚝油 2 g\r\n- 老抽 2 g\r\n- 食用盐 2 g\r\n- 白糖 6-15 g\r\n- 胡椒粉 3.5-8 g\r\n- 淀粉 10 g\r\n- 水 50 g\r\n- 蒜末 40 g\r\n- 葱花 15 g\r\n- 猪油 20 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将鳝鱼切成三段后切成细丝"
+    },
+    {
+      "kind": "step",
+      "description": "加入 0.5 g 胡椒粉、3 g 料酒搅拌均匀，再加入 5 g 香油腌制"
+    },
+    {
+      "kind": "step",
+      "description": "热油滑锅"
+    },
+    {
+      "kind": "step",
+      "description": "加入植物油，烧到 6 成热"
+    },
+    {
+      "kind": "step",
+      "description": "加入一半蒜末和全部姜末，翻炒几下"
+    },
+    {
+      "kind": "step",
+      "description": "加入鳝丝，中火爆炒 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "边缘淋入 10 g 料酒，翻炒几下"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽，炒匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入蚝油、老抽，翻炒几下"
+    },
+    {
+      "kind": "step",
+      "description": "加入食用盐、白糖、3 g 胡椒粉，炒匀"
+    },
+    {
+      "kind": "step",
+      "description": "淀粉和水混合为水淀粉，倒入锅中，收汁至浓稠"
+    },
+    {
+      "kind": "step",
+      "description": "装盘，撒上蒜蓉、葱花"
+    },
+    {
+      "kind": "step",
+      "description": "另起锅烧热，加入猪油，烧至七成热，浇在鳝丝上"
+    }
+  ],
+  "operationMarkdown": "1. 将鳝鱼切成三段后切成细丝\r\n2. 加入 0.5 g 胡椒粉、3 g 料酒搅拌均匀，再加入 5 g 香油腌制\r\n3. 热油滑锅\r\n4. 加入植物油，烧到 6 成热\r\n5. 加入一半蒜末和全部姜末，翻炒几下\r\n6. 加入鳝丝，中火爆炒 30 秒\r\n7. 边缘淋入 10 g 料酒，翻炒几下\r\n8. 加入生抽，炒匀\r\n9. 加入蚝油、老抽，翻炒几下\r\n10. 加入食用盐、白糖、3 g 胡椒粉，炒匀\r\n11. 淀粉和水混合为水淀粉，倒入锅中，收汁至浓稠\r\n12. 装盘，撒上蒜蓉、葱花\r\n13. 另起锅烧热，加入猪油，烧至七成热，浇在鳝丝上",
+  "tips": "- 不能将鳝鱼的血洗得太干净，否则鳝鱼很容易发黑发臭\r\n- 鳝鱼可以让摊主帮忙宰杀\r\n- 可以多加一些胡椒粉和白糖，有利于去腥增香\r\n- 参考资料：[“响油鳝丝”的家常做法，味道很赞，先收藏了 - YouTube](https://www.youtube.com/watch?v=X2DvbhnWcN4)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 不能将鳝鱼的血洗得太干净，否则鳝鱼很容易发黑发臭\r\n- 鳝鱼可以让摊主帮忙宰杀\r\n- 可以多加一些胡椒粉和白糖，有利于去腥增香\r\n- 参考资料：[“响油鳝丝”的家常做法，味道很赞，先收藏了 - YouTube](https://www.youtube.com/watch?v=X2DvbhnWcN4)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/响油鳝丝.md"
+  },
+  "hash": "37539e337c77e0584a9eb69d36d45e9878cbc901d348e9cda42f5d42800756fb"
+}

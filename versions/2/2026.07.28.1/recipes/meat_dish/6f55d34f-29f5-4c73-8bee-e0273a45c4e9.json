@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "id": "6f55d34f-29f5-4c73-8bee-e0273a45c4e9",
+  "legacyIds": [
+    "meat_dish_bf17c0af"
+  ],
+  "name": "咖喱肥牛",
+  "description": "咖喱肥牛是一道浓郁下饭的家常菜，咖喱的辛香与肥牛的脂香融合，搭配土豆、胡萝卜等蔬菜，口感绵软醇厚。富含蛋白质、维生素和钙质，荤素搭配均衡。做法简单，对新手友好，一般只需 40 分钟就能端上餐桌，很适合作为便当菜。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1821,
+  "requirements": [
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "纯牛奶（推荐卫岗鲜奶）",
+      "markdown": "纯牛奶（推荐卫岗鲜奶）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肥牛卷",
+      "markdown": "肥牛卷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "咖喱块",
+      "markdown": "咖喱块",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 香叶\r\n- 纯牛奶（推荐卫岗鲜奶）\r\n- 洋葱\r\n- 胡萝卜\r\n- 土豆\r\n- 肥牛卷\r\n- 咖喱块",
+  "ingredients": [
+    {
+      "name": "香叶",
+      "text": "香叶 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "纯牛奶",
+      "text": "纯牛奶 50ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 200g （挺饱腹的，酌情添加）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肥牛卷",
+      "text": "肥牛卷 300g （喜欢吃肉就多来点）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "咖喱块",
+      "text": "咖喱块 2 块 （大约 100g）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 香叶 1 片\r\n- 纯牛奶 50ml\r\n- 洋葱 100g\r\n- 胡萝卜 150g\r\n- 土豆 200g （挺饱腹的，酌情添加）\r\n- 肥牛卷 300g （喜欢吃肉就多来点）\r\n- 咖喱块 2 块 （大约 100g）",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "洋葱切成条状、胡萝卜以及土豆切成块状，备用"
+    },
+    {
+      "kind": "step",
+      "description": "烧一锅开水，水沸时将肥牛卷下锅，捞出血沫后放在一边沥水，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml - 15ml 食用油，**等待 10 秒让油温升高**"
+    },
+    {
+      "kind": "step",
+      "description": "放入洋葱，翻炒至洋葱变软变透明"
+    },
+    {
+      "kind": "step",
+      "description": "放入土豆以及胡萝卜**翻炒 2 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "加入冷水至淹没所有食材即可"
+    },
+    {
+      "kind": "step",
+      "description": "将香叶、咖喱块投入锅中，盖上锅盖，**待水沸腾后将火调小然后等待直至土豆块以及胡萝卜块炖至软烂（可用筷子确认）**"
+    },
+    {
+      "kind": "step",
+      "description": "加入肥牛卷以及牛奶，盖上锅盖再小火煮 2-3 分钟即可出锅（用勺子搅拌食材，注意力度，避免肥牛卷破碎）"
+    }
+  ],
+  "operationMarkdown": "1. 洋葱切成条状、胡萝卜以及土豆切成块状，备用\r\n2. 烧一锅开水，水沸时将肥牛卷下锅，捞出血沫后放在一边沥水，备用\r\n3. 热锅，锅内放入 10ml - 15ml 食用油，**等待 10 秒让油温升高**\r\n4. 放入洋葱，翻炒至洋葱变软变透明\r\n5. 放入土豆以及胡萝卜**翻炒 2 分钟**\r\n6. 加入冷水至淹没所有食材即可\r\n7. 将香叶、咖喱块投入锅中，盖上锅盖，**待水沸腾后将火调小然后等待直至土豆块以及胡萝卜块炖至软烂（可用筷子确认）**\r\n8. 加入肥牛卷以及牛奶，盖上锅盖再小火煮 2-3 分钟即可出锅（用勺子搅拌食材，注意力度，避免肥牛卷破碎）",
+  "tips": "- 咖喱块不用捣碎，直接整块投入即可。\r\n- 操作时，需要注意搅拌食材，避免食材调味料不均匀。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 咖喱块不用捣碎，直接整块投入即可。\r\n- 操作时，需要注意搅拌食材，避免食材调味料不均匀。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/6f55d34f-29f5-4c73-8bee-e0273a45c4e9_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
+  },
+  "hash": "5b70a827538b0e96873cdb3c83eda692e50caf0dd3784a401c295a2e058ae815"
+}

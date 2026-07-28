@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "id": "f0a1d835-e5c1-4b90-b86f-9f02b8e95bc8",
+  "legacyIds": [
+    "staple_9fbf6ff3"
+  ],
+  "name": "炒年糕",
+  "description": "这是一道闽南风味的主食，年糕软糯弹牙，带着葱油的焦香，家常又饱腹。以米粉制成的年糕提供充足碳水化合物，搭配鸡蛋和青菜能补充蛋白质与维生素，营养均衡。做法简单，对新手友好，从准备到出锅大约需要 30 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 960,
+  "requirements": [
+    {
+      "text": "年糕/白粿 （形状不限）",
+      "markdown": "年糕/白粿 （形状不限）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "调味料: 酱油，盐",
+      "markdown": "调味料: 酱油，盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "（可选）：鸡蛋，青菜",
+      "markdown": "（可选）：鸡蛋，青菜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 年糕/白粿 （形状不限）\r\n- 葱\r\n- 调味料: 酱油，盐\r\n- （可选）：鸡蛋，青菜",
+  "ingredients": [
+    {
+      "name": "年糕",
+      "text": "年糕 250 g * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 根 * 份数",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 50 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酱油",
+      "text": "酱油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1-2g * 份数，按口味喜好。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1 个人食用\r\n\r\n总量：\r\n\r\n- 年糕 250 g * 份数\r\n- 小葱 2 根 * 份数\r\n- 食用油 50 ml\r\n- 酱油 15 ml\r\n- 盐 1-2g * 份数，按口味喜好。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1 个人食用",
+    "总量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "锅中加水烧开，煮熟年糕，碗中加水确保年糕不会粘连，捞起年糕备用。"
+    },
+    {
+      "kind": "step",
+      "description": "小葱切葱花（将葱白和葱叶分开），青菜切小段备用。"
+    },
+    {
+      "kind": "step",
+      "description": "（可选） 制作炒蛋，见[西红柿炒蛋](https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B.md)。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入 30ml 食用油。"
+    },
+    {
+      "kind": "step",
+      "description": "将葱白倒入锅中，直至大部分葱白变成焦黄色且发出香味，倒出葱油备用。"
+    },
+    {
+      "kind": "step",
+      "description": "重新热锅，加入 20ml 食用油。"
+    },
+    {
+      "kind": "step",
+      "description": "加入所有辅料（鸡蛋，青菜等），翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "将年糕的水倒掉，向锅中加入年糕。"
+    },
+    {
+      "kind": "step",
+      "description": "加入酱油和盐，翻炒均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "关火，加入葱油，翻炒均匀，乘盘。"
+    }
+  ],
+  "operationMarkdown": "1. 锅中加水烧开，煮熟年糕，碗中加水确保年糕不会粘连，捞起年糕备用。\r\n2. 小葱切葱花（将葱白和葱叶分开），青菜切小段备用。\r\n3. （可选） 制作炒蛋，见[西红柿炒蛋](https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B.md)。\r\n4. 热锅，加入 30ml 食用油。\r\n5. 将葱白倒入锅中，直至大部分葱白变成焦黄色且发出香味，倒出葱油备用。\r\n6. 重新热锅，加入 20ml 食用油。\r\n7. 加入所有辅料（鸡蛋，青菜等），翻炒均匀。\r\n8. 将年糕的水倒掉，向锅中加入年糕。\r\n9. 加入酱油和盐，翻炒均匀。\r\n10. 关火，加入葱油，翻炒均匀，乘盘。",
+  "tips": "- 辅料的选择可以根据个人选择酌情添加，如加入瘦肉等\r\n- 在煮年糕的时候注意搅拌，以免粘锅\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 辅料的选择可以根据个人选择酌情添加，如加入瘦肉等\r\n- 在煮年糕的时候注意搅拌，以免粘锅\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/炒年糕.md"
+  },
+  "hash": "f163aa6fbf8697d271ec0f3e72facd876b5445f258becdc8549912ff6c73f20c"
+}

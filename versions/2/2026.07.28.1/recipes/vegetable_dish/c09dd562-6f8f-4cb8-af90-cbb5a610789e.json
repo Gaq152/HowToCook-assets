@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "id": "c09dd562-6f8f-4cb8-af90-cbb5a610789e",
+  "legacyIds": [
+    "vegetable_dish_849db323"
+  ],
+  "name": "水油焖蔬菜",
+  "description": "水油焖蔬菜是一道简单快手的家常佐餐，通过沸水加几滴油和调料，让叶菜口感软嫩、色泽油亮，既清爽又带有淡淡油香。这种做法有助于提高脂溶性维生素的吸收率，比生吃蔬菜更有营养价值。烹饪难度低，对新手非常友好，从洗菜到出锅一般只需 10 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 92,
+  "requirements": [
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油（可选）",
+      "markdown": "蚝油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "叶菜类蔬菜",
+      "markdown": "叶菜类蔬菜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 食用油\r\n* 盐\r\n* 蚝油（可选）\r\n* 叶菜类蔬菜",
+  "ingredients": [
+    {
+      "name": "叶菜类蔬菜",
+      "text": "叶菜类蔬菜：300g ~ 500g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "叶菜类蔬菜含水量较多，在准备时可能看起来体积很大。实际受热后体积会迅速减小。\r\n\r\n* 叶菜类蔬菜：300g ~ 500g",
+  "calculationNotes": [
+    "叶菜类蔬菜含水量较多，在准备时可能看起来体积很大。实际受热后体积会迅速减小。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "洗净蔬菜"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 150ml 水，并烧开。（水不需要能完全没过蔬菜）"
+    },
+    {
+      "kind": "step",
+      "description": "加入 3g 盐"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）加入 3ml 蚝油"
+    },
+    {
+      "kind": "step",
+      "description": "加入 2ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "下菜， 翻拌一下，然后盖上锅盖焖 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 洗净蔬菜\r\n2. 锅中加入 150ml 水，并烧开。（水不需要能完全没过蔬菜）\r\n3. 加入 3g 盐\r\n4. （可选）加入 3ml 蚝油\r\n5. 加入 2ml 食用油\r\n6. 下菜， 翻拌一下，然后盖上锅盖焖 1 分钟\r\n7. 盛盘",
+  "tips": "* 不确定咸淡的情况， 可以先少放盐， 在出锅前尝味， 考虑调整加盐\r\n* 可以用鸡汤、骨头汤等替代水， 更好吃\r\n* 焖的时间不可过长\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 不确定咸淡的情况， 可以先少放盐， 在出锅前尝味， 考虑调整加盐\r\n* 可以用鸡汤、骨头汤等替代水， 更好吃\r\n* 焖的时间不可过长\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/水油焖蔬菜.md"
+  },
+  "hash": "7098021feeba66c8eba924d54d865b5ea8a004e4d325394fac8d0d440b845895"
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "id": "7502d6eb-f7d9-4a0c-a633-b92abc2b52d1",
+  "legacyIds": [
+    "meat_dish_4610a4c2"
+  ],
+  "name": "瘦肉土豆片",
+  "description": "一道快手家常小炒，肉片滑嫩，土豆片软韧入味，带有蒜苗清香，属于典型的家常菜风格。瘦肉富含优质蛋白质和铁质，土豆提供碳水化合物和膳食纤维，搭配均衡。制作流程简单明了，需注意刀工和火候，适合有一定基础的新手尝试。从备料到出锅，预计 大约 1 小时即可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 585,
+  "requirements": [
+    {
+      "text": "纯瘦肉",
+      "markdown": "纯瘦肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉（玉米淀粉或其他淀粉）",
+      "markdown": "生粉（玉米淀粉或其他淀粉）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 纯瘦肉\r\n- 土豆\r\n- 蒜苗\r\n- 生粉（玉米淀粉或其他淀粉）\r\n- 生抽\r\n- 老抽\r\n- 食用盐",
+  "ingredients": [
+    {
+      "name": "纯瘦肉",
+      "text": "纯瘦肉 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗",
+      "text": "蒜苗 2 根（约 20 g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "1 人食用版本\r\n\r\n- 纯瘦肉 200g\r\n- 土豆 200g\r\n- 蒜苗 2 根（约 20 g）\r\n- 生粉 5g\r\n- 生抽 10g\r\n- 老抽 3g\r\n- 食用盐 2g",
+  "calculationNotes": [
+    "1 人食用版本"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "土豆去皮、对半切开，再切成约 2mm 的薄片，备用"
+    },
+    {
+      "kind": "step",
+      "description": "蒜苗洗净，切成约 1cm 的段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "瘦肉洗净切成约 2mm 的薄片，放入碗中，加入 5g 生粉、5g 生抽、3g 老抽腌制十分钟，备用"
+    },
+    {
+      "kind": "step",
+      "description": "瘦肉腌制时，烧一锅开水，将土豆片放入锅中，焯水，约 5 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "放入瘦肉，翻炒至变色，倒入蒜苗一起炒，蒜苗炒约 20 秒"
+    },
+    {
+      "kind": "step",
+      "description": "放入土豆，保持翻炒，加入 2g 食用盐、5g 生抽，"
+    },
+    {
+      "kind": "step",
+      "description": "炒约 3 分钟，盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 土豆去皮、对半切开，再切成约 2mm 的薄片，备用\r\n2. 蒜苗洗净，切成约 1cm 的段，备用\r\n3. 瘦肉洗净切成约 2mm 的薄片，放入碗中，加入 5g 生粉、5g 生抽、3g 老抽腌制十分钟，备用\r\n4. 瘦肉腌制时，烧一锅开水，将土豆片放入锅中，焯水，约 5 分钟\r\n5. 热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高\r\n6. 放入瘦肉，翻炒至变色，倒入蒜苗一起炒，蒜苗炒约 20 秒\r\n7. 放入土豆，保持翻炒，加入 2g 食用盐、5g 生抽，\r\n8. 炒约 3 分钟，盛盘",
+  "tips": "- 土豆片焯水注意不宜太久，防止土豆片变软\r\n- 腌制瘦肉要搅拌均匀\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 土豆片焯水注意不宜太久，防止土豆片变软\r\n- 腌制瘦肉要搅拌均匀\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/7502d6eb-f7d9-4a0c-a633-b92abc2b52d1_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md"
+  },
+  "hash": "828f7078a5fd44d2cc9d1372c3f8f7a0b87c1f3c797a38cef9b4c6ba5f32e6df"
+}

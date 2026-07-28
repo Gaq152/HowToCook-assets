@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 2,
+  "id": "425ce9f0-0bcb-45b1-a23f-ac920455f284",
+  "legacyIds": [
+    "meat_dish_416b2f4f"
+  ],
+  "name": "姜葱捞鸡",
+  "description": "姜葱捞鸡是一道粤式经典家常菜，鸡肉嫩滑多汁，葱姜香气浓郁，咸鲜适口，十分下饭。鸡腿肉提供优质蛋白质，搭配姜葱能温中散寒、促进食欲。整体操作以蒸制和手撕为主，步骤清晰，对新手来说比较容易上手。从备料到完成大约需要 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 549,
+  "requirements": [
+    {
+      "text": "鸡腿肉",
+      "markdown": "鸡腿肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐焗鸡粉",
+      "markdown": "盐焗鸡粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱，姜",
+      "markdown": "葱，姜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡腿肉\r\n- 盐焗鸡粉\r\n- 葱，姜",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "text": "鸡腿 4 个， 约 400g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐焗鸡粉",
+      "text": "盐焗鸡粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油",
+      "text": "油 35ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 鸡腿 4 个， 约 400g\r\n- 盐焗鸡粉 5g\r\n- 姜 50g\r\n- 葱 1 根\r\n- 盐 5g\r\n- 糖 5g\r\n- 油 35ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "四个鸡腿清洗干净，放入碗中"
+    },
+    {
+      "kind": "step",
+      "description": "碗中加入盐焗鸡粉和 5ml 油，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "让鸡腿静置腌制 15 分钟， 同时准备蒸锅并把水煮开"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿腌制完成后， 放入水开后的蒸锅中，蒸制 20 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将姜根据个人口味切成 1）姜蓉或 2）姜丝或 3）姜粒"
+    },
+    {
+      "kind": "step",
+      "description": "将葱切成 0.5cm 小段"
+    },
+    {
+      "kind": "step",
+      "description": "将葱姜放入蘸料碗，并加入盐和糖"
+    },
+    {
+      "kind": "step",
+      "description": "将剩余的油倒入另一个锅中加热至六至七层热"
+    },
+    {
+      "kind": "step",
+      "description": "将热油淋入葱姜碗中"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿蒸好后将其撕碎成鸡丝，不需要特别细，大概 1cm 粗就可以"
+    },
+    {
+      "kind": "step",
+      "description": "姜葱姜油淋在鸡丝上，搅拌均匀即可"
+    }
+  ],
+  "operationMarkdown": "1. 四个鸡腿清洗干净，放入碗中\r\n2. 碗中加入盐焗鸡粉和 5ml 油，搅拌均匀\r\n3. 让鸡腿静置腌制 15 分钟， 同时准备蒸锅并把水煮开\r\n4. 鸡腿腌制完成后， 放入水开后的蒸锅中，蒸制 20 分钟\r\n5. 将姜根据个人口味切成 1）姜蓉或 2）姜丝或 3）姜粒\r\n6. 将葱切成 0.5cm 小段\r\n7. 将葱姜放入蘸料碗，并加入盐和糖\r\n8. 将剩余的油倒入另一个锅中加热至六至七层热\r\n9. 将热油淋入葱姜碗中\r\n10. 鸡腿蒸好后将其撕碎成鸡丝，不需要特别细，大概 1cm 粗就可以\r\n11. 姜葱姜油淋在鸡丝上，搅拌均匀即可",
+  "tips": "- 参考: [白饭杀手来啦 #姜葱捞鸡-哔哩哔哩](https://b23.tv/2trBdqJ)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 参考: [白饭杀手来啦 #姜葱捞鸡-哔哩哔哩](https://b23.tv/2trBdqJ)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md"
+  },
+  "hash": "65329f7996eb9aa48c86c83e0635a69e1b29395537c41e1faf7050cda39da5b2"
+}

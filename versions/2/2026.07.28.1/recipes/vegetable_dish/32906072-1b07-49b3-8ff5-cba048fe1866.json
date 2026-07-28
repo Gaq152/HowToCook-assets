@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "32906072-1b07-49b3-8ff5-cba048fe1866",
+  "legacyIds": [
+    "vegetable_dish_43f0a330"
+  ],
+  "name": "素炒豆角",
+  "description": "这是一道酱香浓郁的家常小炒，豆角软嫩入味，鲜辣下饭。富含膳食纤维和多种维生素，有助于促进消化。做法简单，新手也能轻松上手，从备菜到出锅大约 20 分钟。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 107,
+  "requirements": [
+    {
+      "text": "豆角",
+      "markdown": "豆角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "耗油",
+      "markdown": "耗油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 豆角\r\n- 小米椒\r\n- 葱\r\n- 蒜\r\n- 生抽\r\n- 老抽\r\n- 耗油\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "text": "豆角 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 3 圈",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 6ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 2ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "耗油",
+      "text": "耗油 6ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 6g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，受食材个体影响，本菜谱为 2 人份菜谱\r\n\r\n- 豆角 250g\r\n- 小米椒 2 个\r\n- 葱 3 圈\r\n- 蒜 2 颗\r\n- 生抽 6ml\r\n- 老抽 2ml\r\n- 耗油 6ml\r\n- 盐 6g",
+  "calculationNotes": [
+    "注意，受食材个体影响，本菜谱为 2 人份菜谱"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "葱切花，蒜切沫，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "生抽、老抽、耗油、盐混合调料汁，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "小米椒切圈，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "豆角去筋，45° 斜切*4-10cm*小段，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油(10ml - 15ml)，冒烟后放入葱、小米椒，翻炒至闻到香味；"
+    },
+    {
+      "kind": "step",
+      "description": "加入豆角，翻炒*30s*,"
+    },
+    {
+      "kind": "step",
+      "description": "加入料汁，开大火翻炒*2分钟*"
+    },
+    {
+      "kind": "step",
+      "description": "倒入 150ml 水"
+    },
+    {
+      "kind": "step",
+      "description": "转中小火，盖上锅盖焖制 8-10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入蒜切沫，出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 葱切花，蒜切沫，备用。\r\n2. 生抽、老抽、耗油、盐混合调料汁，备用。\r\n3. 小米椒切圈，备用。\r\n4. 豆角去筋，45° 斜切*4-10cm*小段，备用。\r\n5. 起锅烧油(10ml - 15ml)，冒烟后放入葱、小米椒，翻炒至闻到香味；\r\n6. 加入豆角，翻炒*30s*,\r\n7. 加入料汁，开大火翻炒*2分钟*\r\n8. 倒入 150ml 水\r\n9. 转中小火，盖上锅盖焖制 8-10 分钟\r\n10. 加入蒜切沫，出锅。",
+  "tips": "- 切豆角需要一定的刀工，不会的可以使用剪刀\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 切豆角需要一定的刀工，不会的可以使用剪刀\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/素炒豆角.md"
+  },
+  "hash": "03369616511170fc48e0b46bb61502ac16ea3cc74047220b1356cdba4c8e6c62"
+}

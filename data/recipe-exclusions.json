@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "recipes": [
+    {
+      "sourcePath": "soup/陈皮排骨汤.md",
+      "reason": "与 soup/陈皮排骨汤/陈皮排骨汤.md 内容重复；保留已有图片和旧 V1 ID 的文件夹版本"
+    }
+  ]
+}

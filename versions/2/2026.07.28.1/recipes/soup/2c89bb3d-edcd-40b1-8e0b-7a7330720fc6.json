@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 2,
+  "id": "2c89bb3d-edcd-40b1-8e0b-7a7330720fc6",
+  "legacyIds": [
+    "soup_2d791764"
+  ],
+  "name": "米粥",
+  "description": "白粥清淡绵软，是家常必备的暖胃主食，米香纯粹，老少皆宜。富含碳水化合物和少量蛋白质，易于消化吸收，有补脾、和胃、清肺的食养之效。操作简单，只需掌握好火候和水量，初学者也能轻松完成，全程约需 25 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 308,
+  "requirements": [
+    {
+      "text": "米",
+      "markdown": "米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水",
+      "markdown": "水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "植物油（可选）",
+      "markdown": "植物油（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 米\r\n* 水\r\n* 植物油（可选）",
+  "ingredients": [
+    {
+      "name": "一般一个人可以食用",
+      "text": "一般一个人可以食用 60ml-110ml 的米。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水的体积是米饭的体积的",
+      "text": "水的体积是米饭的体积的 9-12 倍。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "一碗容量是",
+      "text": "一碗容量是 500ml。",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "中断大火加热的最晚时间 T1",
+      "text": "中断大火加热的最晚时间 T1：1.5 分钟/500ml * 水体积",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "米粥能够食用的最早时间 Tr",
+      "text": "米粥能够食用的最早时间 Tr：10 分钟/500ml * 水体积",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油的质量 Mo",
+      "text": "油的质量 Mo：生米体积 / 10",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冷藏时间 Tc",
+      "text": "冷藏时间 Tc = 生米体积 /10 ml/分钟。",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "* 一般一个人可以食用 60ml-110ml 的米。\r\n* 水的体积是米饭的体积的 9-12 倍。\r\n* 一碗容量是 500ml。\r\n* 中断大火加热的最晚时间 T1：1.5  分钟/500ml * 水体积\r\n* 米粥能够食用的最早时间 Tr：10  分钟/500ml * 水体积\r\n* 油的质量 Mo：生米体积 / 10\r\n* 冷藏时间 Tc = 生米体积 /10 ml/分钟。\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "（可选）将 Mo ml 的油与洗净的米混合，*尽量确保完全混合，即每粒米上至少都沾上少量油*"
+    },
+    {
+      "kind": "step",
+      "description": "（可选）将 米-油混合物品冷藏保存，冷藏时间 Tc。"
+    },
+    {
+      "kind": "step",
+      "description": "将米和水加入锅中。"
+    },
+    {
+      "kind": "step",
+      "description": "开大火，加热到 T1。"
+    },
+    {
+      "kind": "step",
+      "description": "在 T1 之前将火关小。**如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！**"
+    },
+    {
+      "kind": "step",
+      "description": "加热到 Tr。在 Tr 时关闭火源。"
+    }
+  ],
+  "operationMarkdown": "1. （可选）将 Mo ml 的油与洗净的米混合，*尽量确保完全混合，即每粒米上至少都沾上少量油*\r\n2. （可选）将 米-油混合物品冷藏保存，冷藏时间 Tc。\r\n3. 将米和水加入锅中。\r\n4. 开大火，加热到 T1。\r\n5. 在 T1 之前将火关小。**如果忘记此步骤，水可能会漫出而熄灭火焰。非常危险！**\r\n6. 加热到 Tr。在 Tr 时关闭火源。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/米粥.md"
+  },
+  "hash": "8cf0f6bdffe087926f9fdcbdc3e292f172c332e4b2c50ec5b5d9a41c45c756ad"
+}

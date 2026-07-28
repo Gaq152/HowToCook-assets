@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "id": "1fb5e575-8cae-44d9-8614-cb558103f261",
+  "legacyIds": [
+    "dessert_dd04e783"
+  ],
+  "name": "无厨师机蜂蜜面包",
+  "description": "这是一款无需厨师机的家常蜂蜜小面包，松软香甜，底部略带脆感，表面刷满蜂蜜水再撒上芝麻，透着朴实的甜香。主要用料为高筋面粉、牛奶、鸡蛋和黄油，提供充足的碳水化合物、蛋白质和钙质，作为早餐或加餐都很安心。做法简单，全程手揉，发酵时间灵活，甚至可以提前一晚放入冰箱冷藏，第二天再烘烤，对新手相当友好。制作耗时大约 3 小时，其中大部分是发面等待时间，实际动手并不费力。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 5,
+  "estimatedCaloriesKcal": 176,
+  "requirements": [
+    {
+      "text": "高筋面粉：400g",
+      "markdown": "高筋面粉：400g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶: 200g",
+      "markdown": "牛奶: 200g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酵母：4g",
+      "markdown": "酵母：4g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋：1 个",
+      "markdown": "鸡蛋：1 个",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖：70g",
+      "markdown": "白砂糖：70g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐: 2g",
+      "markdown": "盐: 2g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油: 30g",
+      "markdown": "黄油: 30g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蜂蜜：20g",
+      "markdown": "蜂蜜：20g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水: 20g",
+      "markdown": "水: 20g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻",
+      "markdown": "芝麻",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "面包本体\r\n\r\n- 高筋面粉：400g\r\n- 牛奶: 200g\r\n- 酵母：4g\r\n- 鸡蛋：1 个\r\n- 白砂糖：70g\r\n- 盐: 2g\r\n- 黄油: 30g\r\n\r\n蜂蜜水（涂在顶部）\r\n\r\n- 蜂蜜：20g\r\n- 水: 20g\r\n\r\n可选（洒在顶部）\r\n\r\n- 芝麻",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "text": "高筋面粉：400g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶: 200g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "酵母",
+      "text": "酵母：4g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋：1 个",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖：70g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "盐",
+      "text": "盐: 2g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油: 30g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "蜂蜜",
+      "text": "蜂蜜：20g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "水",
+      "text": "水: 20g",
+      "optional": false,
+      "source": "requirements-fallback"
+    },
+    {
+      "name": "芝麻",
+      "text": "芝麻",
+      "optional": false,
+      "source": "requirements-fallback"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "以下用料烤制时使用一个长方形烤盘（10 x 15 英寸（约 25 x 38 厘米）） + 一个正方形烤盘（9 × 9 英寸（约 23 × 23 厘米）） + 油纸。建议按照需求减少用量，每顿早餐吃大概可以吃两周（冰箱储存）, 冰箱储存会变硬, 微波炉加热 10 - 20s 即可。",
+  "calculationNotes": [
+    "以下用料烤制时使用一个长方形烤盘（10 x 15 英寸（约 25 x 38 厘米）） + 一个正方形烤盘（9 × 9 英寸（约 23 × 23 厘米）） + 油纸。建议按照需求减少用量，每顿早餐吃大概可以吃两周（冰箱储存）, 冰箱储存会变硬, 微波炉加热 10 - 20s 即可。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "制作面团：将面粉，牛奶（建议加热到 40°，本人使用微波炉 15 - 20s），酵母，鸡蛋，面粉，糖和盐混合起来。"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌面团，将原料混合均匀成团。"
+    },
+    {
+      "kind": "step",
+      "description": "加入黄油混合。"
+    },
+    {
+      "kind": "step",
+      "description": "继续搅拌 + 手揉，均匀混合。"
+    },
+    {
+      "kind": "step",
+      "description": "开始发面，使用保鲜膜覆盖容器，普通气温(10 - 20°)放置 1 - 2 小时，稍长时间对效果影响不大。"
+    },
+    {
+      "kind": "step",
+      "description": "明显看到面团发酵变大（2 倍）即可开始切分面团, 此时面团应该不再十分黏手。"
+    },
+    {
+      "kind": "step",
+      "description": "切分面团：理想状态每一份 60g（美观），可根据喜好适当调整大小。"
+    },
+    {
+      "kind": "step",
+      "description": "将每一份小面团使用擀面杖擀成舌状后卷起, 再次醒面 10。"
+    },
+    {
+      "kind": "step",
+      "description": "再次使用擀面杖擀成舌状后卷起, 从中间切开（一个变成两个）。"
+    },
+    {
+      "kind": "step",
+      "description": "再次使用擀面杖擀成舌状后卷起, 从中间切开（两个变成四个）。（此步骤可以按照自己的时间多擀/卷几次, 把握一份的大小就行）"
+    },
+    {
+      "kind": "step",
+      "description": "烤盘放入油纸并倒入花生油, （每份卷好的）底部蘸水 + 面粉后放入烤盘。"
+    },
+    {
+      "kind": "step",
+      "description": "再次醒发（盖上保鲜膜）, 这一步可以放入冰箱, 第二天再烤。"
+    },
+    {
+      "kind": "step",
+      "description": "刷上蛋液。"
+    },
+    {
+      "kind": "step",
+      "description": "烤箱 180°(355°F), 18 - 20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "出炉后, 刷上蜂蜜水, 撒上芝麻。"
+    }
+  ],
+  "operationMarkdown": "1. 制作面团：将面粉，牛奶（建议加热到 40°，本人使用微波炉 15 - 20s），酵母，鸡蛋，面粉，糖和盐混合起来。\r\n2. 搅拌面团，将原料混合均匀成团。\r\n3. 加入黄油混合。\r\n4. 继续搅拌 + 手揉，均匀混合。\r\n5. 开始发面，使用保鲜膜覆盖容器，普通气温(10 - 20°)放置 1 - 2 小时，稍长时间对效果影响不大。\r\n6. 明显看到面团发酵变大（2 倍）即可开始切分面团, 此时面团应该不再十分黏手。\r\n7. 切分面团：理想状态每一份 60g（美观），可根据喜好适当调整大小。\r\n8. 将每一份小面团使用擀面杖擀成舌状后卷起, 再次醒面 10。\r\n9. 再次使用擀面杖擀成舌状后卷起, 从中间切开（一个变成两个）。\r\n10. 再次使用擀面杖擀成舌状后卷起, 从中间切开（两个变成四个）。（此步骤可以按照自己的时间多擀/卷几次, 把握一份的大小就行）\r\n11. 烤盘放入油纸并倒入花生油, （每份卷好的）底部蘸水 + 面粉后放入烤盘。\r\n12. 再次醒发（盖上保鲜膜）, 这一步可以放入冰箱, 第二天再烤。\r\n13. 刷上蛋液。\r\n14. 烤箱 180°(355°F), 18 - 20 分钟。\r\n15. 出炉后, 刷上蜂蜜水, 撒上芝麻。",
+  "tips": "- 发面时间并不固定, 每 1 小时看一下确认就可以, 明显发酵变大即可, 建议发酵 2 - 2.5 倍大。\r\n- 面团大小不会显著影响口感和烘烤效果，可根据喜好调整。\r\n- 参考资料：下厨房 - 脆底蜂蜜小面包\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 发面时间并不固定, 每 1 小时看一下确认就可以, 明显发酵变大即可, 建议发酵 2 - 2.5 倍大。\r\n- 面团大小不会显著影响口感和烘烤效果，可根据喜好调整。\r\n- 参考资料：下厨房 - 脆底蜂蜜小面包\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/1fb5e575-8cae-44d9-8614-cb558103f261_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md"
+  },
+  "hash": "8d4deb410de0dbdf16286d522a038596580cc7e8c0cfe6649ade46917e5352aa"
+}

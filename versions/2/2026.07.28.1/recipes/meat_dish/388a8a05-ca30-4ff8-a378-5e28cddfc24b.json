@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "id": "388a8a05-ca30-4ff8-a378-5e28cddfc24b",
+  "legacyIds": [
+    "meat_dish_8af007ba"
+  ],
+  "name": "咕噜肉",
+  "description": "咕噜肉是一道经典粤式家常菜，酸甜开胃、外酥里嫩，菠萝的果香让肉块吃起来格外清爽解腻。猪肉提供优质蛋白质，青椒和菠萝则补充维生素与膳食纤维。这道菜的难点在于掌握炸肉的火候，对新手略有挑战，但只要按步骤操作便能成功。从腌制到出锅，全程大约需要 40 分钟，很适合为家人做一道下饭快菜。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 673,
+  "requirements": [
+    {
+      "text": "梅头猪肉",
+      "markdown": "梅头猪肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "罐头菠萝片",
+      "markdown": "罐头菠萝片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "茄汁",
+      "markdown": "茄汁",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白醋",
+      "markdown": "白醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜蓉",
+      "markdown": "蒜蓉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉",
+      "markdown": "生粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 梅头猪肉\r\n- 青椒\r\n- 罐头菠萝片\r\n- 盐\r\n- 茄汁\r\n- 白醋\r\n- 蒜蓉\r\n- 生抽\r\n- 生粉\r\n- 白砂糖",
+  "ingredients": [
+    {
+      "name": "1 汤匙",
+      "text": "1 汤匙 = 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "1 茶匙",
+      "text": "1 茶匙 = 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "梅头猪肉",
+      "text": "梅头猪肉 100g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 25g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "罐头菠萝片",
+      "text": "罐头菠萝片 75g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1/4 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "茄汁",
+      "text": "茄汁 4 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白醋",
+      "text": "白醋 2 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜蓉",
+      "text": "蒜蓉 1 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 1/2 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 2 1/2 茶匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 2 汤匙",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 200 毫升",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 1 汤匙 = 15ml\r\n- 1 茶匙 = 5ml\r\n\r\n- 梅头猪肉 100g\r\n- 青椒 25g\r\n- 罐头菠萝片 75g\r\n- 盐 1/4 茶匙\r\n- 茄汁 4 汤匙\r\n- 白醋 2 茶匙\r\n- 蒜蓉 1 汤匙\r\n- 生抽 1/2 茶匙\r\n- 生粉 2 1/2 茶匙\r\n- 白砂糖 2 汤匙\r\n- 水 200 毫升",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将梅头猪肉（100 克）洗净，然后用厨房纸抹干水份，将猪肉切成比想要的成品小一圈的大小。"
+    },
+    {
+      "kind": "step",
+      "description": "用盐（1/2 茶匙）腌制梅头猪肉 20 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将青椒（25 克）切碎。"
+    },
+    {
+      "kind": "step",
+      "description": "将菠萝片（75 克）切件。"
+    },
+    {
+      "kind": "step",
+      "description": "在碗中加入茄汁（4 汤匙）﹑白醋（2 茶匙）﹑蒜蓉（1 汤匙）﹑生抽（½ 茶匙）﹑生粉（2½ 茶匙）﹑白砂糖（2 汤匙）﹑盐（¼ 茶匙）和水（200 毫升），拌匀成酱汁。"
+    },
+    {
+      "kind": "step",
+      "description": "将梅头猪肉粒沾上生粉（6 汤匙）。"
+    },
+    {
+      "kind": "step",
+      "description": "加入油（500 毫升）中火加热。"
+    },
+    {
+      "kind": "step",
+      "description": "将梅头猪肉粒放至锅里中火炸 5 分钟，然后盛起。"
+    },
+    {
+      "kind": "step",
+      "description": "加入梅头猪肉粒，再大火翻炸 1 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入油（1 茶匙）和酱汁，中火加热 3 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "加入青椒和菠萝，大火加热 2 分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "将已炸好的梅头猪肉粒与酱汁拌匀即可。"
+    }
+  ],
+  "operationMarkdown": "1. 将梅头猪肉（100 克）洗净，然后用厨房纸抹干水份，将猪肉切成比想要的成品小一圈的大小。\r\n2. 用盐（1/2 茶匙）腌制梅头猪肉 20 分钟。\r\n3. 将青椒（25 克）切碎。\r\n4. 将菠萝片（75 克）切件。\r\n5. 在碗中加入茄汁（4 汤匙）﹑白醋（2 茶匙）﹑蒜蓉（1 汤匙）﹑生抽（½ 茶匙）﹑生粉（2½ 茶匙）﹑白砂糖（2 汤匙）﹑盐（¼ 茶匙）和水（200 毫升），拌匀成酱汁。\r\n6. 将梅头猪肉粒沾上生粉（6 汤匙）。\r\n7. 加入油（500 毫升）中火加热。\r\n8. 将梅头猪肉粒放至锅里中火炸 5 分钟，然后盛起。\r\n9. 加入梅头猪肉粒，再大火翻炸 1 分钟。\r\n10. 加入油（1 茶匙）和酱汁，中火加热 3 分钟。\r\n11. 加入青椒和菠萝，大火加热 2 分钟。\r\n12. 将已炸好的梅头猪肉粒与酱汁拌匀即可。",
+  "tips": "- 想让肉更有层次可以在生粉中加鸡蛋，炸出来会更香脆\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 想让肉更有层次可以在生粉中加鸡蛋，炸出来会更香脆\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/咕噜肉.md"
+  },
+  "hash": "c3d1d201986bc6a0e8375c6ba10a3b13839fe17eb1e5e89ae9d3bf0a42d1f16b"
+}

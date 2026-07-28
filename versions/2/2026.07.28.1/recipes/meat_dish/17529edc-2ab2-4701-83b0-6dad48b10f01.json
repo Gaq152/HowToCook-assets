@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "id": "17529edc-2ab2-4701-83b0-6dad48b10f01",
+  "legacyIds": [
+    "meat_dish_4bfb3820"
+  ],
+  "name": "小炒鸡肝",
+  "description": "这道鸡肝小炒蒜香浓郁，口感嫩滑带点孜然的焦香，是一道家常风味小炒。鸡肝富含铁、维生素 A 和优质蛋白，有助补血明目。制作时需掌握焯水去腥的技巧，对新手略有挑战，从备料到出锅大约需要四十分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 760,
+  "requirements": [
+    {
+      "text": "生鸡肝",
+      "markdown": "生鸡肝",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗（蒜苗指的是：大蒜幼苗发育到一定时期的青苗。有些地方叫做青蒜，特别说明一下。）",
+      "markdown": "蒜苗（蒜苗指的是：大蒜幼苗发育到一定时期的青苗。有些地方叫做青蒜，特别说明一下。）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱、姜、料酒",
+      "markdown": "大葱、姜、料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐、鸡精（味精）、五香粉（十三香）、胡椒粉",
+      "markdown": "食用盐、鸡精（味精）、五香粉（十三香）、胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "烧烤料或孜然粉（可选）",
+      "markdown": "烧烤料或孜然粉（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻（可选）",
+      "markdown": "芝麻（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 生鸡肝\r\n- 蒜苗（蒜苗指的是：大蒜幼苗发育到一定时期的青苗。有些地方叫做青蒜，特别说明一下。）\r\n- 大葱、姜、料酒\r\n- 食用盐、鸡精（味精）、五香粉（十三香）、胡椒粉\r\n- 烧烤料或孜然粉（可选）\r\n- 芝麻（可选）\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "生鸡肝",
+      "text": "生鸡肝 5 个（约 800g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗（约",
+      "text": "蒜苗（约 200g，喜欢吃的可以多放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 150g（分成两份，一份切段 100g，一份切片 50g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 120g（分成两份，一份切片 70g，一份切丁 50g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5g（也可以是味精）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 5g（十三香）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "烧烤料或孜然粉",
+      "text": "烧烤料或孜然粉 10g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻",
+      "text": "芝麻 5g （可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。\r\n一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 生鸡肝 5 个（约 800g）\r\n- 蒜苗（约 200g，喜欢吃的可以多放）\r\n- 大葱 150g（分成两份，一份切段 100g，一份切片 50g）\r\n- 姜 120g（分成两份，一份切片 70g，一份切丁 50g）\r\n- 料酒 30ml\r\n- 食用盐 5g\r\n- 鸡精 5g（也可以是味精）\r\n- 五香粉 5g（十三香）\r\n- 胡椒粉 5g\r\n- 烧烤料或孜然粉 10g（可选）\r\n- 芝麻 5g （可选）\r\n- 食用油 30ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。\r\n一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡肝清洗，备用"
+    },
+    {
+      "kind": "step",
+      "description": "蒜苗清洗，切段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "大葱清洗，取 100g 切段，取 50g 切片，备用"
+    },
+    {
+      "kind": "step",
+      "description": "姜清晰，取 70g 切片， 取 50g 切丁，备用"
+    },
+    {
+      "kind": "step",
+      "description": "第一步：焯水"
+    },
+    {
+      "kind": "step",
+      "description": "清洗后的鸡肝放入锅内，加入凉水淹没鸡肝，并放入 100g 切段的大葱、70g 切片的姜和 30ml 料酒"
+    },
+    {
+      "kind": "step",
+      "description": "开大火，待水沸腾调至中火并撇去浮沫后**等待5-10分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "关火，捞出过凉水并清洗干净"
+    },
+    {
+      "kind": "step",
+      "description": "清洗干净后切片，备用"
+    },
+    {
+      "kind": "step",
+      "description": "第二步：炒制"
+    },
+    {
+      "kind": "step",
+      "description": "开中火。锅内加入 30ml 食用油，等待 10 秒使油升温"
+    },
+    {
+      "kind": "step",
+      "description": "加入 50g 切片的大葱和 50g 切丁的姜，翻炒爆香"
+    },
+    {
+      "kind": "step",
+      "description": "爆香后加入切片的鸡肝，翻炒至微微发黄"
+    },
+    {
+      "kind": "step",
+      "description": "加入蒜苗，翻炒 30 秒，断生后调至为小火"
+    },
+    {
+      "kind": "step",
+      "description": "加入调味料\n  - 食用盐 5g\n  - 鸡精（味精） 5g\n  - 五香粉（十三香） 5g\n  - 胡椒粉 5g\n  - 烧烤料或 10g （可选）"
+    },
+    {
+      "kind": "step",
+      "description": "调至为大火，快速翻炒 30 秒防止糊锅，关火"
+    },
+    {
+      "kind": "step",
+      "description": "盛出盘内，可以撒入 5g 芝麻作为装饰，如果不喜欢或者没有则可以不用添加。"
+    }
+  ],
+  "operationMarkdown": "1. 鸡肝清洗，备用\r\n2. 蒜苗清洗，切段，备用\r\n3. 大葱清洗，取 100g 切段，取 50g 切片，备用\r\n4. 姜清晰，取 70g 切片， 取 50g 切丁，备用\r\n5. 第一步：焯水\r\n\r\n  - 清洗后的鸡肝放入锅内，加入凉水淹没鸡肝，并放入 100g 切段的大葱、70g 切片的姜和 30ml 料酒\r\n  - 开大火，待水沸腾调至中火并撇去浮沫后**等待5-10分钟**\r\n  - 关火，捞出过凉水并清洗干净\r\n  - 清洗干净后切片，备用\r\n\r\n6. 第二步：炒制\r\n\r\n  - 开中火。锅内加入 30ml 食用油，等待 10 秒使油升温\r\n  - 加入 50g 切片的大葱和 50g 切丁的姜，翻炒爆香\r\n  - 爆香后加入切片的鸡肝，翻炒至微微发黄\r\n  - 加入蒜苗，翻炒 30 秒，断生后调至为小火\r\n  - 加入调味料\r\n    - 食用盐 5g\r\n    - 鸡精（味精） 5g\r\n    - 五香粉（十三香） 5g\r\n    - 胡椒粉 5g\r\n    - 烧烤料或 10g （可选）\r\n  - 调至为大火，快速翻炒 30 秒防止糊锅，关火\r\n  - 盛出盘内，可以撒入 5g 芝麻作为装饰，如果不喜欢或者没有则可以不用添加。",
+  "tips": "- 焯水时，需要注意观察沸腾的水位线，不要让水溢出避免发生危险。\r\n- 焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 焯水时，需要注意观察沸腾的水位线，不要让水溢出避免发生危险。\r\n- 焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/17529edc-2ab2-4701-83b0-6dad48b10f01_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
+  },
+  "hash": "c8dbaa8cb2cd86094e1b1c0dd527f98036789b2324c1530bcee64ac58b0bfa2d"
+}

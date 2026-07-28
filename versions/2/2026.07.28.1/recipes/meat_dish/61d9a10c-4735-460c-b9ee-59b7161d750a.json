@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "id": "61d9a10c-4735-460c-b9ee-59b7161d750a",
+  "legacyIds": [
+    "meat_dish_3098f98f"
+  ],
+  "name": "香辣鸡爪煲",
+  "description": "香辣浓郁、口感 Q 弹，是一道常见的家常下饭菜。鸡爪富含胶原蛋白，有助滋润皮肤、强健筋骨。制作需要先去趾甲，若用整只鸡爪还需去骨，对新手略有挑战，但耐心按步骤操作也能成功。从焯水到小火慢煮再翻炒入味，全程约需 45 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 986,
+  "requirements": [
+    {
+      "text": "鸡爪",
+      "markdown": "鸡爪",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒面（可选）",
+      "markdown": "辣椒面（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "五香粉",
+      "markdown": "五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡爪\r\n- 葱\r\n- 姜\r\n- 料酒\r\n- 香叶\r\n- 八角\r\n- 生抽\r\n- 老抽\r\n- 蒜\r\n- 小米椒\r\n- 辣椒面（可选）\r\n- 蚝油\r\n- 五香粉\r\n- 盐\r\n- 鸡精",
+  "ingredients": [
+    {
+      "name": "一斤鸡爪",
+      "text": "一斤鸡爪",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角三个",
+      "text": "八角三个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 6 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜末",
+      "text": "蒜末 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 3g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 一斤鸡爪\r\n- 香叶 3 片\r\n- 八角三个\r\n- 小米椒 6 个\r\n- 姜末 10g\r\n- 蒜末 10g\r\n- 小葱 2 根\r\n- 蚝油 3g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "给鸡爪剪去指甲。如果买的鸡爪只有脚掌部分，对半切开即可。 如果是整只鸡爪，需要去骨。清水洗干净。"
+    },
+    {
+      "kind": "step",
+      "description": "鸡爪冷水下锅，葱姜料酒焯水，水开，撇去浮沫。"
+    },
+    {
+      "kind": "step",
+      "description": "加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟。\n![煮鸡爪](./result1.jpg)"
+    },
+    {
+      "kind": "step",
+      "description": "捞出鸡爪，留一碗鸡汤备用。"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，用小火炒香姜末、蒜末、小米椒，能吃辣再放点辣椒面。加入生抽、老抽、蚝油、五香粉、盐，炒出酱香味。"
+    },
+    {
+      "kind": "step",
+      "description": "放入鸡爪，放一点盐调味，翻炒一两分钟，再倒入鸡汤，边炒边搅动。"
+    },
+    {
+      "kind": "step",
+      "description": "放入鸡精提鲜，撒入葱段搅拌均匀即可出锅。"
+    },
+    {
+      "kind": "note",
+      "description": "注：如果需要加入配菜，请在放入鸡爪之前，底料炒香之后执行。"
+    }
+  ],
+  "operationMarkdown": "1. 给鸡爪剪去指甲。如果买的鸡爪只有脚掌部分，对半切开即可。 如果是整只鸡爪，需要去骨。清水洗干净。\r\n2. 鸡爪冷水下锅，葱姜料酒焯水，水开，撇去浮沫。\r\n3. 加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟。\r\n  ![煮鸡爪](./result1.jpg)\r\n4. 捞出鸡爪，留一碗鸡汤备用。\r\n5. 起锅烧油，用小火炒香姜末、蒜末、小米椒，能吃辣再放点辣椒面。加入生抽、老抽、蚝油、五香粉、盐，炒出酱香味。\r\n6. 放入鸡爪，放一点盐调味，翻炒一两分钟，再倒入鸡汤，边炒边搅动。\r\n7. 放入鸡精提鲜，撒入葱段搅拌均匀即可出锅。\r\n\r\n注：如果需要加入配菜，请在放入鸡爪之前，底料炒香之后执行。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/61d9a10c-4735-460c-b9ee-59b7161d750a_0.webp",
+    "images/meat_dish/61d9a10c-4735-460c-b9ee-59b7161d750a_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md"
+  },
+  "hash": "97e6c4f601f229965fa968df7756742293448918b50ffef2b0243856162c7e32"
+}

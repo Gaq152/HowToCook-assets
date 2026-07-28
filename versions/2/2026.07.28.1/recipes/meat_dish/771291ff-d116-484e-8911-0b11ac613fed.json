@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "id": "771291ff-d116-484e-8911-0b11ac613fed",
+  "legacyIds": [
+    "meat_dish_89adeae2"
+  ],
+  "name": "红烧猪蹄",
+  "description": "红烧猪蹄是一道汤汁浓郁、肉质软糯的经典家常菜，咸香甜美，极为下饭。猪蹄富含胶原蛋白和蛋白质，营养丰富。这道菜对新手有一定挑战，但借助高压锅可以简化流程，有一定烹饪基础更易上手。从备料到完成大约需要 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 639,
+  "requirements": [
+    {
+      "text": "猪蹄",
+      "markdown": "猪蹄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪蹄\r\n- 香叶\r\n- 姜\r\n- 葱\r\n- 老抽\r\n- 桂皮\r\n- 冰糖\r\n- 料酒\r\n- 生抽\r\n- 盐\r\n- 八角\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "猪蹄",
+      "text": "猪蹄：2~3 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱半根",
+      "text": "葱半根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 1 块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 7-8 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 20 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 8 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份正好够 3-4 人吃。\r\n\r\n- 猪蹄：2~3 根\r\n- 食用油：30ml\r\n- 香叶 2 片\r\n- 姜 5 片\r\n- 葱半根\r\n- 桂皮 1 块\r\n- 冰糖 7-8 粒\r\n- 料酒 30 ml\r\n- 生抽 20 ml\r\n- 老抽 20 ml\r\n- 盐 8 克\r\n- 八角 4 个",
+  "calculationNotes": [
+    "一份正好够 3-4 人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "开始制作",
+      "description": "### 开始制作"
+    },
+    {
+      "kind": "step",
+      "description": "冷水锅中放入热心摊主剁好的猪蹄，加入 20 ml 料酒与葱姜，煮 15 分钟去掉血腥"
+    },
+    {
+      "kind": "step",
+      "description": "热锅冷油，倒入 30ml 食用油，放入 7-8 粒冰糖，开小火，熬成糖色，期间用锅铲把冰糖压碎，大概熬 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "熬成糖色后，放入焯过水的猪蹄，继续小火，翻炒猪蹄，直至所有猪蹄两面微黄"
+    },
+    {
+      "kind": "step",
+      "description": "加入香叶 2 片、桂皮 1 块、八角 4 个、生抽 20 ml、老抽 20 ml、料酒 10 ml、姜 3 片、盐 8 克，转中火、继续翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入开水或者冷水，水需要没过猪蹄，盖上锅盖，大火烧开，烧开之后关火"
+    },
+    {
+      "kind": "step",
+      "description": "把锅内的食材全部倒入高压锅中，高压锅中需要 15 分钟（如果同学没有高压锅，可放在锅中大火转小火熬制即可）"
+    },
+    {
+      "kind": "step",
+      "description": "15 分钟之后，把高压锅的食材倒入炒锅中，开大火收汁，此时可用筷子尝下味道、淡的话可以加 2~3g 盐"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁时长根据锅中的水来算，一般 30 秒即可，多留点也无碍、红烧猪蹄汤也是很下饭的"
+    }
+  ],
+  "operationMarkdown": "### 开始制作\r\n\r\n1. 冷水锅中放入热心摊主剁好的猪蹄，加入 20 ml 料酒与葱姜，煮 15 分钟去掉血腥\r\n2. 热锅冷油，倒入 30ml 食用油，放入 7-8 粒冰糖，开小火，熬成糖色，期间用锅铲把冰糖压碎，大概熬 2 分钟\r\n3. 熬成糖色后，放入焯过水的猪蹄，继续小火，翻炒猪蹄，直至所有猪蹄两面微黄\r\n4. 加入香叶 2 片、桂皮 1 块、八角 4 个、生抽 20 ml、老抽 20 ml、料酒 10 ml、姜 3 片、盐 8 克，转中火、继续翻炒 1 分钟\r\n5. 加入开水或者冷水，水需要没过猪蹄，盖上锅盖，大火烧开，烧开之后关火\r\n6. 把锅内的食材全部倒入高压锅中，高压锅中需要 15 分钟（如果同学没有高压锅，可放在锅中大火转小火熬制即可）\r\n7. 15 分钟之后，把高压锅的食材倒入炒锅中，开大火收汁，此时可用筷子尝下味道、淡的话可以加 2~3g 盐\r\n8. 大火收汁时长根据锅中的水来算，一般 30 秒即可，多留点也无碍、红烧猪蹄汤也是很下饭的",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/771291ff-d116-484e-8911-0b11ac613fed_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md"
+  },
+  "hash": "5a7a94e4c663c35669172305cd6ff706c0dc4e2ae68c364566abdead13b6d696"
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "id": "4043b5a9-3fc6-45fd-ab4b-ad3978d8f3a5",
+  "legacyIds": [
+    "staple_76eda847"
+  ],
+  "name": "蒸卤面",
+  "description": "这是一道豫南地区经典的家常面食，荤素搭配，面条吸足汤汁，口感软韧，咸香入味。五花肉提供优质蛋白质和脂肪，芹菜富含膳食纤维。做法简单易学，新手也能从容上手，整体制作约需一小时。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1563,
+  "requirements": [
+    {
+      "text": "猪五花肉",
+      "markdown": "猪五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜",
+      "markdown": "芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鲜面条（要求必须是最细的，如果附近菜市场没有，请参考制作焖面）",
+      "markdown": "鲜面条（要求必须是**最细**的，如果附近菜市场没有，请参考制作[焖面](https://note.youdao.com/)）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱，姜，蒜",
+      "markdown": "葱，姜，蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油（花生油最佳）",
+      "markdown": "食用油（花生油最佳）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽，老抽，料酒，盐，五香粉",
+      "markdown": "生抽，老抽，料酒，盐，五香粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸锅，需带笼屉",
+      "markdown": "蒸锅，需带笼屉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炒锅",
+      "markdown": "炒锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒",
+      "markdown": "花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干红椒",
+      "markdown": "干红椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青椒",
+      "markdown": "青椒",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 猪五花肉\r\n- 芹菜\r\n- 鲜面条（要求必须是**最细**的，如果附近菜市场没有，请参考制作[焖面](https://note.youdao.com/)）\r\n- 葱，姜，蒜\r\n- 食用油（花生油最佳）\r\n- 生抽，老抽，料酒，盐，五香粉\r\n- 蒸锅，需带笼屉\r\n- 炒锅\r\n\r\n下列原料供有一定烹饪基础或者学有余力的同学选配\r\n\r\n- 花椒\r\n- 干红椒\r\n- 青椒",
+  "ingredients": [
+    {
+      "name": "芹菜 两根中等大小的芹菜",
+      "text": "芹菜 两根中等大小的芹菜",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉",
+      "text": "五花肉 350g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面条",
+      "text": "面条 500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 10cm",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 5 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜片",
+      "text": "姜片 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青椒",
+      "text": "青椒 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干红椒",
+      "text": "干红椒 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒 20 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五香粉",
+      "text": "五香粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n- 芹菜 两根中等大小的芹菜\r\n- 五花肉 350g\r\n- 面条 500g\r\n- 大葱 10cm\r\n- 大蒜 5 瓣\r\n- 姜片 20g\r\n- 青椒 2 个\r\n- 干红椒 3 个\r\n- 花椒 20 粒\r\n- 盐 10g\r\n- 五香粉 5g\r\n- 生抽 15ml\r\n- 老抽 10ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "备料",
+      "description": "### 备料"
+    },
+    {
+      "kind": "step",
+      "description": "猪肉去皮，切成 `2 cm * 6 cm * 0.5 cm` 薄片备用"
+    },
+    {
+      "kind": "step",
+      "description": "芹菜去叶，去掉根部 2cm，然后从中对半切开，切成 2cm 段备用"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜去皮切粒备用，葱切 0.2cm 薄片备用，姜切细丝备用"
+    },
+    {
+      "kind": "section",
+      "title": "预制",
+      "description": "### 预制"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅烧热至冒烟后，倒入 3ml 食用油滑锅后倒出底油"
+    },
+    {
+      "kind": "step",
+      "description": "重新加入食用油，加入肉片，葱姜蒜，干红椒，炒 1 分钟，注意不停匀速翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "加入料酒，生抽，老抽，再翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "续入 500ml 热水。盖上锅盖炖煮 3 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将芹菜，青椒倒入锅中，加入盐，五香粉调味，盖上锅盖继续炖煮 3 分钟 后关火"
+    },
+    {
+      "kind": "step",
+      "description": "蒸锅加入 1000ml 水，烧开上汽后，将面条摊平在笼屉上放入锅中，蒸 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "面条蒸熟后取出，用筷子和无情铁手扒拉散开在案板上，室温冷却"
+    },
+    {
+      "kind": "section",
+      "title": "再加工",
+      "description": "### 再加工"
+    },
+    {
+      "kind": "step",
+      "description": "将面条放入菜锅中搅拌，搅拌方式为一手持筷，一手持锅铲将菜翻至面条上面，以面条以全部均匀上色为搅拌完成标准"
+    },
+    {
+      "kind": "step",
+      "description": "将搅拌后的面条再次放在整屉上，再次蒸 10 分钟 关火"
+    }
+  ],
+  "operationMarkdown": "### 备料\r\n\r\n1. 猪肉去皮，切成 `2 cm * 6 cm * 0.5 cm` 薄片备用\r\n2. 芹菜去叶，去掉根部 2cm，然后从中对半切开，切成 2cm 段备用\r\n3. 大蒜去皮切粒备用，葱切 0.2cm 薄片备用，姜切细丝备用\r\n\r\n### 预制\r\n\r\n1. 炒锅烧热至冒烟后，倒入 3ml 食用油滑锅后倒出底油\r\n2. 重新加入食用油，加入肉片，葱姜蒜，干红椒，炒 1 分钟，注意不停匀速翻炒\r\n3. 加入料酒，生抽，老抽，再翻炒 1 分钟\r\n4. 续入 500ml 热水。盖上锅盖炖煮 3 分钟\r\n5. 将芹菜，青椒倒入锅中，加入盐，五香粉调味，盖上锅盖继续炖煮 3 分钟 后关火\r\n6. 蒸锅加入 1000ml 水，烧开上汽后，将面条摊平在笼屉上放入锅中，蒸 15 分钟\r\n7. 面条蒸熟后取出，用筷子和无情铁手扒拉散开在案板上，室温冷却\r\n\r\n### 再加工\r\n\r\n1. 将面条放入菜锅中搅拌，搅拌方式为一手持筷，一手持锅铲将菜翻至面条上面，以面条以全部均匀上色为搅拌完成标准\r\n2. 将搅拌后的面条再次放在整屉上，再次蒸 10 分钟 关火",
+  "tips": "- 技术总结\r\n  - 切割猪肉时，可以让菜市场摊贩帮忙，根据经验，请求时机把握在已切割后未付款之前成功率最高\r\n  - 首次做饭时可以提前备好料防止手忙脚乱，后续熟练后可以并发执行\r\n  - 两次蒸面条时，都要尽量的弄散开，可以避免蒸好后团在一起。面条太长时可以拽断，方便后续搅拌与盛取\r\n  - 取出蒸好的面条时尽量动作轻一些，避免蒸屉翻到面条触水\r\n  - 佐餐时啤酒更配呦！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 技术总结\r\n  - 切割猪肉时，可以让菜市场摊贩帮忙，根据经验，请求时机把握在已切割后未付款之前成功率最高\r\n  - 首次做饭时可以提前备好料防止手忙脚乱，后续熟练后可以并发执行\r\n  - 两次蒸面条时，都要尽量的弄散开，可以避免蒸好后团在一起。面条太长时可以拽断，方便后续搅拌与盛取\r\n  - 取出蒸好的面条时尽量动作轻一些，避免蒸屉翻到面条触水\r\n  - 佐餐时啤酒更配呦！\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/蒸卤面.md"
+  },
+  "hash": "dbb0624b5cd83ba10f5c7b5aff08e6680a038c5d989ccaaa22ab58bcc5acc224"
+}

@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 2,
+  "id": "a2908bd7-9745-47b2-b15f-dff9bdcf1007",
+  "legacyIds": [
+    "meat_dish_80c5aed8"
+  ],
+  "name": "尖叫牛蛙",
+  "description": "这道菜鲜辣开胃，蛙肉滑嫩弹牙，是一道典型的川味家常菜。牛蛙本身高蛋白、低脂肪，搭配泡姜泡椒等发酵食材，有助于促进食欲。做法相对直接，但油温控制和调味比例需要稍加留意，一般初学者也能在 1 到 2 小时内完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1643,
+  "requirements": [
+    {
+      "text": "牛蛙肉",
+      "markdown": "牛蛙肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "泡姜",
+      "markdown": "泡姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "泡椒",
+      "markdown": "泡椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "野山椒（也可以用干红辣椒替代）",
+      "markdown": "野山椒（也可以用干红辣椒替代）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青红辣椒",
+      "markdown": "青红辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱（推荐郫县豆瓣）",
+      "markdown": "豆瓣酱（推荐郫县豆瓣）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐巴",
+      "markdown": "盐巴",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生粉（干淀粉也可）",
+      "markdown": "生粉（干淀粉也可）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒（推荐雪花）",
+      "markdown": "啤酒（推荐雪花）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "藤椒油（可选）",
+      "markdown": "藤椒油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪油（可选）",
+      "markdown": "猪油（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱花",
+      "markdown": "葱花",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 牛蛙肉\r\n- 泡姜\r\n- 泡椒\r\n- 野山椒（也可以用干红辣椒替代）\r\n- 青红辣椒\r\n- 大蒜\r\n- 豆瓣酱（推荐郫县豆瓣）\r\n- 盐巴\r\n- 胡椒粉\r\n- 生粉（干淀粉也可）\r\n- 啤酒（推荐雪花）\r\n- 料酒\r\n- 藤椒油（可选）\r\n- 猪油（可选）\r\n- 葱花",
+  "ingredients": [
+    {
+      "name": "牛蛙肉块",
+      "text": "牛蛙肉块 800g （买 3 斤活蛙，建议挑小个头的，肉质鲜嫩）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "泡姜",
+      "text": "泡姜 20-30 克 （看个人口味，喜欢重口一点可以多放）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "泡椒",
+      "text": "泡椒 5-10 克 （看个人吃辣的承受能力，不能吃辣的建议减半为 2.5 克，微微辣）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "野山椒",
+      "text": "野山椒 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青红辣椒",
+      "text": "青红辣椒 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 30-50 克 （可以根据口味偏好调整，最好不低于 30 克）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 20-30 克 （重口选 30，想吃清淡点 20 克。PS 这菜不可能太清淡，哈哈）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐巴",
+      "text": "盐巴 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 10 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 400-500ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "藤椒油",
+      "text": "藤椒油 5-10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生粉",
+      "text": "生粉 30 克 （干淀粉可以平替）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪油",
+      "text": "猪油 20ml（没有猪油也可，用食用油替代）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 200ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱花",
+      "text": "葱花 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "1 份\r\n\r\n每份：\r\n\r\n- 牛蛙肉块 800g （买 3 斤活蛙，建议挑小个头的，肉质鲜嫩）\r\n- 泡姜 20-30 克 （看个人口味，喜欢重口一点可以多放）\r\n- 泡椒 5-10 克 （看个人吃辣的承受能力，不能吃辣的建议减半为 2.5 克，微微辣）\r\n- 野山椒 10 克\r\n- 青红辣椒 20 克\r\n- 大蒜 30-50 克 （可以根据口味偏好调整，最好不低于 30 克）\r\n- 豆瓣酱 20-30 克 （重口选 30，想吃清淡点 20 克。PS 这菜不可能太清淡，哈哈）\r\n- 盐巴 15 克\r\n- 胡椒粉 10 克\r\n- 啤酒 400-500ml\r\n- 料酒 10ml\r\n- 藤椒油 5-10ml\r\n- 生粉 30 克 （干淀粉可以平替）\r\n- 猪油 20ml（没有猪油也可，用食用油替代）\r\n- 食用油 200ml\r\n- 葱花 5 克",
+  "calculationNotes": [
+    "1 份",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "牛蛙肉洗净后控干水分，加入 10 克以上的盐巴和 50ml 以上的啤酒，用手抓 5 分钟，去除牛蛙肉的腥味"
+    },
+    {
+      "kind": "step",
+      "description": "然后对着清水冲洗，直至不再流出血水和杂质，控干水分，放到合适的器皿中，准备腌制"
+    },
+    {
+      "kind": "step",
+      "description": "加入 5 克盐，30 克生粉，10ml 料酒，5 克胡椒粉，用手抓均匀，腌制 5-10 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将泡姜 泡椒 野山椒 切丝或者片（根据自己刀工选择），青红辣椒切成圈圈 大蒜拨开即可"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧热，加入 200ml 食用油（锅底比较平的可以再加 100ml）,烧至 6 成油温（有小气泡出现），将腌制好的牛蛙倒入，快速过油炸制，10 秒钟后捞出（不能超时太多，否则会导致蛙肉老柴）"
+    },
+    {
+      "kind": "step",
+      "description": "捞出蛙肉后，控油，并将锅中的热油倒出到碗中，保留 30ml,加入 20ml 猪油（如果没有，则在锅中保留总共 50ml 食用油）"
+    },
+    {
+      "kind": "step",
+      "description": "待油温 6 成热，加入泡姜、泡椒、野山椒、大蒜，超出香味，加入豆瓣酱 20 克，中火翻炒至出红油（时间控制在 30 秒），倒入 400ml 啤酒，"
+    },
+    {
+      "kind": "step",
+      "description": "然后倒入炸过的牛蛙肉，用勺子推着翻，不要用力搅拌，加入 5 克胡椒粉，加入 5ml 藤椒油，中火慢焖 3 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加大火力，大火收汁半分钟，加入青红辣椒圈，再煮 10 秒准备起锅"
+    },
+    {
+      "kind": "step",
+      "description": "盛到盆里，撒上葱花，可以开动了！"
+    }
+  ],
+  "operationMarkdown": "1. 牛蛙肉洗净后控干水分，加入 10 克以上的盐巴和 50ml 以上的啤酒，用手抓 5 分钟，去除牛蛙肉的腥味\r\n2. 然后对着清水冲洗，直至不再流出血水和杂质，控干水分，放到合适的器皿中，准备腌制\r\n3. 加入 5 克盐，30 克生粉，10ml 料酒，5 克胡椒粉，用手抓均匀，腌制 5-10 分钟\r\n4. 将泡姜 泡椒 野山椒 切丝或者片（根据自己刀工选择），青红辣椒切成圈圈 大蒜拨开即可\r\n5. 起锅烧热，加入 200ml 食用油（锅底比较平的可以再加 100ml）,烧至 6 成油温（有小气泡出现），将腌制好的牛蛙倒入，快速过油炸制，10 秒钟后捞出（不能超时太多，否则会导致蛙肉老柴）\r\n6. 捞出蛙肉后，控油，并将锅中的热油倒出到碗中，保留 30ml,加入 20ml 猪油（如果没有，则在锅中保留总共 50ml 食用油）\r\n7. 待油温 6 成热，加入泡姜、泡椒、野山椒、大蒜，超出香味，加入豆瓣酱 20 克，中火翻炒至出红油（时间控制在 30 秒），倒入 400ml 啤酒，\r\n8. 然后倒入炸过的牛蛙肉，用勺子推着翻，不要用力搅拌，加入 5 克胡椒粉，加入 5ml 藤椒油，中火慢焖 3 分钟\r\n9. 加大火力，大火收汁半分钟，加入青红辣椒圈，再煮 10 秒准备起锅\r\n10. 盛到盆里，撒上葱花，可以开动了！",
+  "tips": "- 控干水分的时候可以选择漏勺按压\r\n- 生粉抓揉的时候要均匀覆盖蛙肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 控干水分的时候可以选择漏勺按压\r\n- 生粉抓揉的时候要均匀覆盖蛙肉\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/a2908bd7-9745-47b2-b15f-dff9bdcf1007_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md"
+  },
+  "hash": "947d86558c6fdd20d8dfdc33150c90dfc94d86a9e247230d4d740a75d60f256c"
+}

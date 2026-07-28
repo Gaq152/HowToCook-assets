@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 2,
+  "id": "2d40c216-30c1-4b22-bad4-d4ee2aed59f5",
+  "legacyIds": [
+    "meat_dish_31376e9b"
+  ],
+  "name": "简易红烧肉",
+  "description": "这道家常美味色泽红润油亮，口感软糯，肥而不腻，酱香浓郁，搭配米饭特别过瘾。五花肉提供优质蛋白质和必需脂肪酸，加上鹌鹑蛋或豆皮，营养更全面。做法对新手相当友好，从备料到出锅大约需要 1.5 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 2775,
+  "requirements": [
+    {
+      "text": "注：如果有可能，请尽量把刀磨的锋利一些。",
+      "markdown": "注：如果有可能，请尽量把刀磨的锋利一些。",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "主料：大肉、鸡蛋（可选）、豆皮（可选）",
+      "markdown": "主料：`大肉`、`鸡蛋`（可选）、`豆皮`（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辅料：生姜、冰糖、生抽、老抽、料酒、香叶、八角、盐、水、葱（记得要开水）",
+      "markdown": "辅料：`生姜`、`冰糖`、`生抽`、`老抽`、`料酒`、`香叶`、`八角`、`盐`、`水`、`葱`（记得要开水）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 注：如果有可能，请尽量把刀磨的锋利一些。\r\n- 主料：`大肉`、`鸡蛋`（可选）、`豆皮`（可选）\r\n- 辅料：`生姜`、`冰糖`、`生抽`、`老抽`、`料酒`、`香叶`、`八角`、`盐`、`水`、`葱`（记得要开水）",
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "text": "猪五花肉：约 3~4 斤",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜： 6 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖：15 克（约 7 块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽：10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽：15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒：5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开水",
+      "text": "开水：没过食材的量，需要 600ml-900ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶：3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角：2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鹌鹑蛋（可选",
+      "text": "鹌鹑蛋（可选，没有鹌鹑蛋，可以用同等重量的鸡蛋代替）：0-2 个",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆皮",
+      "text": "豆皮（可选）：0-80g",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐：2-3g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2-3 个人吃。\r\n\r\n如果只有 1 人食用，可以考虑食材减半。\r\n\r\n- 猪五花肉：约 3~4 斤\r\n- 姜： 6 片\r\n- 冰糖：15 克（约 7 块）\r\n- 生抽：10ml\r\n- 老抽：15ml\r\n- 料酒：5ml\r\n- 开水：没过食材的量，需要 600ml-900ml\r\n- 香叶：3 片\r\n- 八角：2 个\r\n- 鹌鹑蛋（可选，没有鹌鹑蛋，可以用同等重量的鸡蛋代替）：0-2 个\r\n- 豆皮（可选）：0-80g\r\n- 盐：2-3g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2-3 个人吃。",
+    "如果只有 1 人食用，可以考虑食材减半。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "原材料准备",
+      "description": "### 原材料准备"
+    },
+    {
+      "kind": "step",
+      "description": "`猪五花肉`切大块（约 4.5cm ，冷冻半小时至一小时更好切）"
+    },
+    {
+      "kind": "step",
+      "description": "`豆皮`切 2cm 的宽度"
+    },
+    {
+      "kind": "step",
+      "description": "`生姜`切片（每片厚度约 3mm ）"
+    },
+    {
+      "kind": "step",
+      "description": "`水`烧开"
+    },
+    {
+      "kind": "step",
+      "description": "`鹌鹑蛋`煮熟并用`叉子`/`牙签`扎孔（尽量多些好入味）"
+    },
+    {
+      "kind": "step",
+      "description": "`大葱`大葱白色的部分`葱白`"
+    },
+    {
+      "kind": "section",
+      "title": "开始制作",
+      "description": "### 开始制作"
+    },
+    {
+      "kind": "step",
+      "description": "冷水锅中放入切好的`猪五花肉`，加入料酒与葱姜，煮 15 分钟去掉血腥"
+    },
+    {
+      "kind": "step",
+      "description": "锅中放入两片`生姜`提味"
+    },
+    {
+      "kind": "step",
+      "description": "开中小火后直接加入`五花肉`，不需要放入食用油，每块`五花肉`六个面都煎一下，煎至出油即可"
+    },
+    {
+      "kind": "step",
+      "description": "将煎出的油倒出备用，并将`五花肉`推至一边，加入 15g `冰糖`，翻炒至`冰糖`融化；"
+    },
+    {
+      "kind": "step",
+      "description": "融化后将五花肉与冰糖炒至融合上色，加入"
+    },
+    {
+      "kind": "step",
+      "description": "`生抽` 10ml"
+    },
+    {
+      "kind": "step",
+      "description": "`老抽` 15ml"
+    },
+    {
+      "kind": "step",
+      "description": "`料酒` 5ml"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒至上色；"
+    },
+    {
+      "kind": "step",
+      "description": "加入`烧好的开水`炖煮 40 分钟（刀工差的同学切的过大请自觉延长炖煮时间），并放入"
+    },
+    {
+      "kind": "step",
+      "description": "`生姜` 2 片"
+    },
+    {
+      "kind": "step",
+      "description": "`香叶` 3 片"
+    },
+    {
+      "kind": "step",
+      "description": "`八角` 2 个"
+    },
+    {
+      "kind": "step",
+      "description": "盖上锅盖煮至沸腾后，加入煮好扎好孔的`鹌鹑蛋`和`豆皮`，开中小火，等待 40 分钟。（中途可适当翻搅防止粘锅）；"
+    },
+    {
+      "kind": "step",
+      "description": "打开锅盖，待汤汁快没有的时候开大火收汁（切记不可收干）；"
+    },
+    {
+      "kind": "step",
+      "description": "加入 2-3g `盐`，翻炒一下，就可以出锅了。"
+    }
+  ],
+  "operationMarkdown": "### 原材料准备\r\n\r\n1. `猪五花肉`切大块（约 4.5cm ，冷冻半小时至一小时更好切）\r\n2. `豆皮`切 2cm 的宽度\r\n3. `生姜`切片（每片厚度约 3mm ）\r\n4. `水`烧开\r\n5. `鹌鹑蛋`煮熟并用`叉子`/`牙签`扎孔（尽量多些好入味）\r\n6. `大葱`大葱白色的部分`葱白`\r\n\r\n### 开始制作\r\n\r\n1. 冷水锅中放入切好的`猪五花肉`，加入料酒与葱姜，煮 15 分钟去掉血腥\r\n2. 锅中放入两片`生姜`提味\r\n3. 开中小火后直接加入`五花肉`，不需要放入食用油，每块`五花肉`六个面都煎一下，煎至出油即可\r\n4. 将煎出的油倒出备用，并将`五花肉`推至一边，加入 15g `冰糖`，翻炒至`冰糖`融化；\r\n5. 融化后将五花肉与冰糖炒至融合上色，加入\r\n\r\n  - `生抽` 10ml\r\n  - `老抽` 15ml\r\n  - `料酒` 5ml\r\n  - 翻炒至上色；\r\n\r\n6. 加入`烧好的开水`炖煮 40 分钟（刀工差的同学切的过大请自觉延长炖煮时间），并放入\r\n\r\n  - `生姜` 2 片\r\n  - `香叶` 3 片\r\n  - `八角` 2 个\r\n\r\n7. 盖上锅盖煮至沸腾后，加入煮好扎好孔的`鹌鹑蛋`和`豆皮`，开中小火，等待 40 分钟。（中途可适当翻搅防止粘锅）；\r\n8. 打开锅盖，待汤汁快没有的时候开大火收汁（切记不可收干）；\r\n9. 加入 2-3g `盐`，翻炒一下，就可以出锅了。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/2d40c216-30c1-4b22-bad4-d4ee2aed59f5_0.webp",
+    "images/meat_dish/2d40c216-30c1-4b22-bad4-d4ee2aed59f5_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/红烧肉/简易红烧肉.md"
+  },
+  "hash": "57424956e1cbde6113d35500b5daf8d6d7aaf05612ed90c2875ac25722c9335a"
+}

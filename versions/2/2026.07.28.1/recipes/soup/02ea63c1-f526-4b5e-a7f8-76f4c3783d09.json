@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "id": "02ea63c1-f526-4b5e-a7f8-76f4c3783d09",
+  "legacyIds": [
+    "soup_6e1a34c6"
+  ],
+  "name": "小米粥",
+  "description": "小米粥是一道北方常见的家常粥品，口感绵滑，米香浓郁，熬出的米油尤其养胃。它富含蛋白质、脂肪、碳水化合物和胡萝卜素，维生素 B1 含量在粮食中名列前茅，容易消化吸收。做法非常简单，新手也能轻松掌握，从烧水到出锅大约需要 30-35 分钟。",
+  "category": "soup",
+  "categoryName": "汤粥",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 362,
+  "requirements": [
+    {
+      "text": "小米",
+      "markdown": "小米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "水（山泉水最佳）",
+      "markdown": "水（山泉水最佳）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 小米\r\n- 水（山泉水最佳）",
+  "ingredients": [
+    {
+      "name": "小米",
+      "text": "小米 100 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水（山泉水最佳）",
+      "text": "水（山泉水最佳） 2000 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 小米 100 克\r\n- 水（山泉水最佳） 2000 克\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）"
+    },
+    {
+      "kind": "step",
+      "description": "水烧开，务必烧开！！！"
+    },
+    {
+      "kind": "step",
+      "description": "水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。"
+    },
+    {
+      "kind": "step",
+      "description": "改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底"
+    }
+  ],
+  "operationMarkdown": "1. 小米 100 克，放入碗中，用水轻淘一遍（用手搅拌一下，将水倒掉，只是去掉外面的浮灰，不可搓洗！！！）\r\n2. 水烧开，务必烧开！！！\r\n3. 水烧开沸腾时，将小米倒入锅内。（很容易被忽视的一个很重要的环节）\r\n4. 搅拌使得小米不会粘连锅底，继续用大火熬 6-10 分钟，注意用中间穿插搅拌几次。\r\n5. 改中火、文火熬 15-20 分钟，锅盖要错开一条缝，千万不能让小米油溜掉哟，中间继续搅拌几次，不要糊锅底",
+  "tips": "* 这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\r\n* 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\r\n* 千万记住小米需要在水开的时候下锅\r\n* 不喜欢放碱，更喜欢原汁原味的小米香\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水\r\n* 小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的\r\n* 千万记住小米需要在水开的时候下锅\r\n* 不喜欢放碱，更喜欢原汁原味的小米香\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/soup/小米粥.md"
+  },
+  "hash": "58be6335744dfd950276f116bf11333c1b4a1324c05ba33000926a28084de0a9"
+}

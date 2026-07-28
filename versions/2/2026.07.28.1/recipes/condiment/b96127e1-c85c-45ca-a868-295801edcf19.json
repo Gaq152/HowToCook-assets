@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "id": "b96127e1-c85c-45ca-a868-295801edcf19",
+  "legacyIds": [
+    "condiment_241627f2"
+  ],
+  "name": "草莓酱",
+  "description": "这是一道酸甜可口、果香浓郁的家常果酱，非常适合涂抹面包。草莓富含维生素 C，不过熬煮时糖分较高，可依口味调整。做法非常简单，新手也能轻松搞定，从准备到熬好大约需要两个小时。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1940,
+  "requirements": [
+    {
+      "text": "草莓",
+      "markdown": "草莓",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "保鲜膜",
+      "markdown": "保鲜膜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 草莓\r\n- 白砂糖\r\n- 保鲜膜",
+  "ingredients": [
+    {
+      "name": "草莓",
+      "text": "草莓 1200 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 400 克 （如需要低糖饮食，可以考虑降低到 200g）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 草莓 1200 克\r\n- 白糖 400 克 （如需要低糖饮食，可以考虑降低到 200g）",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "草莓洗净去叶"
+    },
+    {
+      "kind": "step",
+      "description": "将草莓切碎放入合适的碗中"
+    },
+    {
+      "kind": "step",
+      "description": "将白糖倒入碗中与草莓搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "碗用保鲜膜覆盖静置 1 小时"
+    },
+    {
+      "kind": "step",
+      "description": "将静置的草莓和糖的混合物倒入不粘锅中开大火烧开"
+    },
+    {
+      "kind": "step",
+      "description": "烧开后转小火不断搅拌直至果酱呈粘稠状关火"
+    },
+    {
+      "kind": "step",
+      "description": "待草莓酱冷却后装入准备好的密封罐中"
+    }
+  ],
+  "operationMarkdown": "1. 草莓洗净去叶\r\n2. 将草莓切碎放入合适的碗中\r\n3. 将白糖倒入碗中与草莓搅拌均匀\r\n4. 碗用保鲜膜覆盖静置 1 小时\r\n5. 将静置的草莓和糖的混合物倒入不粘锅中开大火烧开\r\n6. 烧开后转小火不断搅拌直至果酱呈粘稠状关火\r\n7. 待草莓酱冷却后装入准备好的密封罐中\r\n\r\n![洗好的草莓](./洗好的草莓.jpeg)\r\n![混合好的草莓](./混合好的草莓.jpeg)\r\n![熬煮的草莓](./熬煮的草莓.jpeg)\r\n![做好的草莓](./做好的草莓酱.png)",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/condiment/b96127e1-c85c-45ca-a868-295801edcf19_0.webp",
+    "images/condiment/b96127e1-c85c-45ca-a868-295801edcf19_1.webp",
+    "images/condiment/b96127e1-c85c-45ca-a868-295801edcf19_2.webp",
+    "images/condiment/b96127e1-c85c-45ca-a868-295801edcf19_3.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/草莓酱/草莓酱.md"
+  },
+  "hash": "e02d661cb1e366a8e64c0a9ddd9de445b3a4738dd3d10823fc06ec51e357a3ab"
+}

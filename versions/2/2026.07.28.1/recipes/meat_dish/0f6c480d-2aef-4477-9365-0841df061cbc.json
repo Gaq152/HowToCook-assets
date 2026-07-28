@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "id": "0f6c480d-2aef-4477-9365-0841df061cbc",
+  "legacyIds": [
+    "meat_dish_6412ed06"
+  ],
+  "name": "黔式腊肠娃娃菜",
+  "description": "这道菜咸鲜可口，融合了黔式腊肠的醇香与娃娃菜的清甜，是西南菜系中少见的不辣风味，南北皆宜。娃娃菜富含维生素和膳食纤维，搭配腊肠的蛋白质与脂肪，营养均衡。制作过程极为简单，无需掌握火候和额外调味，从备料到出锅仅需 15 分钟，非常适合新手和忙碌的日常。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 1030,
+  "requirements": [
+    {
+      "text": "黔式腊肠",
+      "markdown": "黔式腊肠",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "娃娃菜",
+      "markdown": "娃娃菜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 黔式腊肠\r\n- 娃娃菜",
+  "ingredients": [
+    {
+      "name": "黔式腊肠",
+      "text": "黔式腊肠 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "娃娃菜",
+      "text": "娃娃菜 300g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 750ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "按照 1 人的份量：\r\n\r\n- 黔式腊肠 200g\r\n- 娃娃菜 300g\r\n- 水 750ml",
+  "calculationNotes": [
+    "按照 1 人的份量："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "锅内放入 750ml 水，开火加热至沸腾"
+    },
+    {
+      "kind": "step",
+      "description": "放入腊肠，计时 13 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "放入娃娃菜，计时 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "关火，夹出腊肠及娃娃菜"
+    },
+    {
+      "kind": "step",
+      "description": "娃娃菜切段、腊肠切片，装盘"
+    }
+  ],
+  "operationMarkdown": "1. 锅内放入 750ml 水，开火加热至沸腾\r\n2. 放入腊肠，计时 13 分钟\r\n3. 放入娃娃菜，计时 2 分钟\r\n4. 关火，夹出腊肠及娃娃菜\r\n5. 娃娃菜切段、腊肠切片，装盘",
+  "tips": "- 根据锅的大小，建议以水量没过食材为宜，宁多勿少\r\n- 如果没有刀具，娃娃菜和腊肠不切也可以\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 根据锅的大小，建议以水量没过食材为宜，宁多勿少\r\n- 如果没有刀具，娃娃菜和腊肠不切也可以\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/0f6c480d-2aef-4477-9365-0841df061cbc_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md"
+  },
+  "hash": "0c66e7d660012cd82f8700a5d451c84832b2017c3f40b139d0c20edcd04555e2"
+}

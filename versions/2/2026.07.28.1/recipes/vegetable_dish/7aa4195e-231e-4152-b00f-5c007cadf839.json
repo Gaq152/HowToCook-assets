@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "id": "7aa4195e-231e-4152-b00f-5c007cadf839",
+  "legacyIds": [
+    "vegetable_dish_81a3a7b8"
+  ],
+  "name": "蒜蓉西兰花",
+  "description": "这道家常蔬菜以蒜香浓郁、调味简单见长，西兰花焯水后软嫩或微脆，清淡鲜美。富含维生素 C、膳食纤维和多种抗氧化物质，是营养均衡的快手素菜。制作过程不难，新手也能轻松掌握，从备料到出锅一般约 15 分钟即可完成。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 187,
+  "requirements": [
+    {
+      "text": "西兰花 1 个",
+      "markdown": "西兰花 1 个",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜 3-4 瓣",
+      "markdown": "大蒜 3-4 瓣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 西兰花 1 个\r\n- 大蒜 3-4 瓣\r\n- 生抽\r\n- 蚝油\r\n- 白糖",
+  "ingredients": [
+    {
+      "name": "西兰花 约",
+      "text": "西兰花 约 200 g （约 1/2 中等大小的西兰花）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 3-4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 10 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 西兰花 约 200 g （约 1/2 中等大小的西兰花）\r\n- 大蒜 3-4 瓣\r\n- 生抽 10 ml\r\n- 蚝油 5 ml\r\n- 白糖 2 g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将 西兰花 切成小朵，清洗干净。"
+    },
+    {
+      "kind": "step",
+      "description": "将 大蒜 去皮，切成蒜末，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中加入 1000 ml 饮用水，大火烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "放入 西兰花，保持大火 **煮 2-3 分钟**，至 西兰花 颜色变翠绿，口感变软。"
+    },
+    {
+      "kind": "step",
+      "description": "将 煮好的 西兰花 捞出，沥干水分，摆入盘中，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，加入 10 ml 食用油。油温升高后，放入 大蒜末，小火煸炒出香味。"
+    },
+    {
+      "kind": "step",
+      "description": "加入 10 ml 生抽，5 ml 蚝油，2 g 白糖，加入 30 ml 饮用水。"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中汤汁烧开。"
+    },
+    {
+      "kind": "step",
+      "description": "将烧好的蒜蓉汁 均匀淋在盘中的 西兰花 上。"
+    }
+  ],
+  "operationMarkdown": "1. 将 西兰花 切成小朵，清洗干净。\r\n2. 将 大蒜 去皮，切成蒜末，备用。\r\n3. 锅中加入 1000 ml 饮用水，大火烧开。\r\n4. 放入 西兰花，保持大火 **煮 2-3 分钟**，至 西兰花 颜色变翠绿，口感变软。\r\n5. 将 煮好的 西兰花 捞出，沥干水分，摆入盘中，备用。\r\n6. 热锅，加入 10 ml 食用油。油温升高后，放入 大蒜末，小火煸炒出香味。\r\n7. 加入 10 ml 生抽，5 ml 蚝油，2 g 白糖，加入 30 ml 饮用水。\r\n8. 将锅中汤汁烧开。\r\n9. 将烧好的蒜蓉汁 均匀淋在盘中的 西兰花 上。",
+  "tips": "- 焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。\r\n- 如果想保留西兰花更脆的口感，可以缩短焯水时间。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。\r\n- 如果想保留西兰花更脆的口感，可以缩短焯水时间。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/蒜蓉西兰花.md"
+  },
+  "hash": "76ddf88e6bd067393eb30f8968017d4e4517f40632a3b18cbef8579bed4518f1"
+}

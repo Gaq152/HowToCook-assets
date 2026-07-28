@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "id": "ecbe5282-36ba-49d2-8918-1e26d99f6aef",
+  "legacyIds": [
+    "drink_17a8d980"
+  ],
+  "name": "冬瓜茶",
+  "description": "冬瓜茶是一款清爽解暑的传统饮品，口感甘甜柔和，带有冬瓜特有的清香，冰镇后风味更佳。冬瓜本身低热量、富含水分，搭配冰糖熬制，能补充能量、生津止渴。制作不复杂，但对新手而言需要一些耐心，全程大约需要 4 到 5 小时。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 296,
+  "requirements": [
+    {
+      "text": "冬瓜",
+      "markdown": "冬瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "保鲜膜",
+      "markdown": "保鲜膜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "过滤网",
+      "markdown": "过滤网",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大锅",
+      "markdown": "大锅",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 冬瓜\r\n- 冰糖\r\n- 保鲜膜\r\n- 过滤网\r\n- 大锅",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "text": "冬瓜 1000g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 300g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 4-5 个人饮用。\r\n\r\n每份：\r\n\r\n- 冬瓜 1000g\r\n- 冰糖 300g",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 4-5 个人饮用。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "**准备冬瓜**：将冬瓜去皮，去籽，切成小块（每块不超过 4cm）。"
+    },
+    {
+      "kind": "step",
+      "description": "**加入冰糖**：冬瓜加入冰糖，搅拌均匀，盖上保鲜膜放冰箱冷藏 2 小时以上。"
+    },
+    {
+      "kind": "step",
+      "description": "**煮冬瓜**： 此时冬瓜出了很多水, 倒入锅中 大火煮开，然后转中小火慢慢熬制 1~2 个小时，中途多搅拌防止糊锅。"
+    },
+    {
+      "kind": "step",
+      "description": "**过滤冬瓜茶**：使用过滤网将煮好的冬瓜茶液过滤，取出冬瓜块，只保留茶液。"
+    },
+    {
+      "kind": "step",
+      "description": "**冷却**：将冬瓜茶液放凉后，倒入干净的容器中，放入冰箱冷藏即可。"
+    },
+    {
+      "kind": "step",
+      "description": "**享用**: 熬好的冬瓜茶液是浓缩汁，根据个人喜好添加水或其他饮品，冷热皆宜。"
+    }
+  ],
+  "operationMarkdown": "1. **准备冬瓜**：将冬瓜去皮，去籽，切成小块（每块不超过 4cm）。\r\n2. **加入冰糖**：冬瓜加入冰糖，搅拌均匀，盖上保鲜膜放冰箱冷藏 2 小时以上。\r\n3. **煮冬瓜**： 此时冬瓜出了很多水, 倒入锅中 大火煮开，然后转中小火慢慢熬制 1~2 个小时，中途多搅拌防止糊锅。\r\n4. **过滤冬瓜茶**：使用过滤网将煮好的冬瓜茶液过滤，取出冬瓜块，只保留茶液。\r\n5. **冷却**：将冬瓜茶液放凉后，倒入干净的容器中，放入冰箱冷藏即可。\r\n6. **享用**: 熬好的冬瓜茶液是浓缩汁，根据个人喜好添加水或其他饮品，冷热皆宜。",
+  "tips": "- **口感调整**：冰糖的用量可以调整，以达到个人喜好的甜度。\r\n- **保存方法**：冷藏保存，建议 1 周内喝完。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- **口感调整**：冰糖的用量可以调整，以达到个人喜好的甜度。\r\n- **保存方法**：冷藏保存，建议 1 周内喝完。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/冬瓜茶.md"
+  },
+  "hash": "a8a7d4610a11b6a80b8e02e7b9e55b5875aa32d50ef6fc1fee331d0418faaa78"
+}

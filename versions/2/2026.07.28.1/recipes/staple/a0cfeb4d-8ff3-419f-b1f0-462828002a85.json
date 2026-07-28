@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 2,
+  "id": "a0cfeb4d-8ff3-419f-b1f0-462828002a85",
+  "legacyIds": [
+    "staple_bbe73a88"
+  ],
+  "name": "日式咖喱饭",
+  "description": "日式咖喱饭是一道浓郁醇厚的家常和风料理，以咖喱块调味，搭配土豆、胡萝卜、洋葱和肉类，口感顺滑绵密、辛香微甜。它富含蛋白质、碳水与多种维生素，能为身体提供充足能量。做法整体不算复杂，但需要掌握火候与搅拌技巧，适合稍有下厨经验的朋友尝试。从备料到出锅约需 1 小时，冷藏后风味更佳。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 730,
+  "requirements": [
+    {
+      "text": "咖喱块（推荐品牌好侍）",
+      "markdown": "咖喱块（推荐品牌好侍）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "土豆",
+      "markdown": "土豆",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "肉（猪肉、鸡肉、牛肉均可）",
+      "markdown": "肉（猪肉、鸡肉、牛肉均可）",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "蒜头",
+      "markdown": "蒜头",
+      "group": "主食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "花椰菜（清水煮开）",
+      "markdown": "花椰菜（清水煮开）",
+      "group": "副食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "培根（即食）",
+      "markdown": "培根（即食）",
+      "group": "副食材",
+      "kind": "ingredient"
+    },
+    {
+      "text": "煎蛋或太阳蛋",
+      "markdown": "煎蛋或[太阳蛋](../../breakfast/太阳蛋.md)",
+      "group": "副食材",
+      "kind": "ingredient"
+    }
+  ],
+  "requirementsMarkdown": "### 主食材\r\n\r\n- 咖喱块（推荐品牌好侍）\r\n- 土豆\r\n- 胡萝卜\r\n- 洋葱\r\n- 肉（猪肉、鸡肉、牛肉均可）\r\n- 蒜头\r\n\r\n### 副食材\r\n\r\n额外用作点缀的食材，可选\r\n\r\n- 花椰菜（清水煮开）\r\n- 培根（即食）\r\n- 煎蛋或[太阳蛋](../../breakfast/太阳蛋.md)",
+  "ingredients": [
+    {
+      "name": "洋葱",
+      "text": "洋葱 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆",
+      "text": "土豆 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 1 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 2~3 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉",
+      "text": "肉 2 斤",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "食材用量与咖喱成正比，计算部分以 **半盒好侍咖喱块(115g)** 为例。半盒约六碗份，做好的咖喱在冰箱冷藏后风味更佳，不用担心一个人吃不完。\r\n\r\n- 洋葱 2 个\r\n- 土豆 2 个\r\n- 胡萝卜 1 根\r\n- 蒜头 2~3 瓣\r\n- 肉 2 斤",
+  "calculationNotes": [
+    "食材用量与咖喱成正比，计算部分以 **半盒好侍咖喱块(115g)** 为例。半盒约六碗份，做好的咖喱在冰箱冷藏后风味更佳，不用担心一个人吃不完。"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "1. 食材准备",
+      "description": "### 1. 食材准备"
+    },
+    {
+      "kind": "step",
+      "description": "胡萝卜去头尾，去皮，滚刀切"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱剥去外层去芯，切成月牙状"
+    },
+    {
+      "kind": "step",
+      "description": "土豆去皮、切大块"
+    },
+    {
+      "kind": "step",
+      "description": "肉切块状"
+    },
+    {
+      "kind": "step",
+      "description": "剥蒜拍平切碎"
+    },
+    {
+      "kind": "step",
+      "description": "咖喱块切碎，增加接触面积加速溶解"
+    },
+    {
+      "kind": "section",
+      "title": "2. 烧煮过程",
+      "description": "### 2. 烧煮过程"
+    },
+    {
+      "kind": "step",
+      "description": "热油锅放入蒜和肉，**快速翻炒**至肉*表面变白*"
+    },
+    {
+      "kind": "step",
+      "description": "加入胡萝卜，**快速翻炒**至均匀受热"
+    },
+    {
+      "kind": "step",
+      "description": "加入洋葱，**快速翻炒**至洋葱*变透明状*"
+    },
+    {
+      "kind": "step",
+      "description": "加入土豆，保持翻炒至土豆*变软*（可以用筷子确认）"
+    },
+    {
+      "kind": "step",
+      "description": "加水没过所有食材，沸腾后**等待 15 分钟**"
+    },
+    {
+      "kind": "step",
+      "description": "关火，加咖喱并搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "等待咖喱融化后再开火，缓慢**搅拌 10 分钟**，防止糊锅"
+    },
+    {
+      "kind": "step",
+      "description": "在外观*呈粘稠状态*关火结束制作"
+    },
+    {
+      "kind": "section",
+      "title": "3.冷藏后加热",
+      "description": "### 3.冷藏后加热"
+    },
+    {
+      "kind": "note",
+      "description": "冷藏的咖喱每次取出需要吃的份量，加热后盖在[米饭](../米饭/电饭煲蒸米饭.md)上。"
+    },
+    {
+      "kind": "step",
+      "description": "微波炉：单人份高火 2-3 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "锅：需额外加 50ml 水，加热时保持搅拌"
+    }
+  ],
+  "operationMarkdown": "### 1. 食材准备\r\n\r\n1. 胡萝卜去头尾，去皮，滚刀切\r\n2. 洋葱剥去外层去芯，切成月牙状\r\n3. 土豆去皮、切大块\r\n4. 肉切块状\r\n5. 剥蒜拍平切碎\r\n6. 咖喱块切碎，增加接触面积加速溶解\r\n\r\n### 2. 烧煮过程\r\n\r\n1. 热油锅放入蒜和肉，**快速翻炒**至肉*表面变白*\r\n2. 加入胡萝卜，**快速翻炒**至均匀受热\r\n3. 加入洋葱，**快速翻炒**至洋葱*变透明状*\r\n4. 加入土豆，保持翻炒至土豆*变软*（可以用筷子确认）\r\n5. 加水没过所有食材，沸腾后**等待 15 分钟**\r\n6. 关火，加咖喱并搅拌\r\n7. 等待咖喱融化后再开火，缓慢**搅拌 10 分钟**，防止糊锅\r\n8. 在外观*呈粘稠状态*关火结束制作\r\n\r\n### 3.冷藏后加热\r\n\r\n冷藏的咖喱每次取出需要吃的份量，加热后盖在[米饭](../米饭/电饭煲蒸米饭.md)上。\r\n\r\n1. 微波炉：单人份高火 2-3 分钟\r\n2. 锅：需额外加 50ml 水，加热时保持搅拌",
+  "tips": "### 备注说明\r\n\r\n- 步骤 1-6 可以在 2-5 的等待过程进行，在这个过程也可以用清水锅煮些蔬菜，或做个煎蛋。\r\n- 2-5 到 2-6 之间，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。\r\n\r\n### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[处理肉, 胡萝卜, 洋葱, 土豆] --> B(开油锅, 先后下锅炒熟)\r\n    B --> C[加水没过食材, 煮15分钟]\r\n    C --> D[咖喱切碎, 开水煮花椰菜等]\r\n    C --> E[加入咖喱搅拌 10 分钟]\r\n    D --> E\r\n```\r\n\r\n### 成品\r\n\r\n![日式咖喱饭成品](./成品.jpg)\r\n\r\n### 参考资料\r\n\r\n- [世界美食教程的微博视频](http://t.cn/EJ77yFy)\r\n\r\n---\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "### 备注说明\r\n\r\n- 步骤 1-6 可以在 2-5 的等待过程进行，在这个过程也可以用清水锅煮些蔬菜，或做个煎蛋。\r\n- 2-5 到 2-6 之间，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。\r\n\r\n### 流程图解\r\n\r\n``` mermaid\r\ngraph TD\r\n    A[处理肉, 胡萝卜, 洋葱, 土豆] --> B(开油锅, 先后下锅炒熟)\r\n    B --> C[加水没过食材, 煮15分钟]\r\n    C --> D[咖喱切碎, 开水煮花椰菜等]\r\n    C --> E[加入咖喱搅拌 10 分钟]\r\n    D --> E\r\n```\r\n\r\n### 成品\r\n\r\n![日式咖喱饭成品](./成品.jpg)\r\n\r\n### 参考资料\r\n\r\n- [世界美食教程的微博视频](http://t.cn/EJ77yFy)\r\n\r\n---\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/a0cfeb4d-8ff3-419f-b1f0-462828002a85_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/日式咖喱饭/日式咖喱饭.md"
+  },
+  "hash": "9797d8a6af30b08f1912c203bb8e2d666fd9af90e53c74b6877f7d37dff07b6c"
+}

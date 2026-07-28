@@ -1,0 +1,16 @@
+{
+  "name": "howtocook-assets-pipeline",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "mdast-util-to-string": "^4.0.0",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "sharp": "0.35.3",
+    "unified": "^11.0.5"
+  }
+}

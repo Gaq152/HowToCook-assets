@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 2,
+  "id": "616cba69-519a-4c10-a6fb-7adc95b499c2",
+  "legacyIds": [
+    "meat_dish_a6142d4e"
+  ],
+  "name": "粉蒸肉",
+  "description": "粉蒸肉是一道经典中式蒸菜，香味浓郁，口感软糯，属于广泛流传的家常风味。五花肉提供优质蛋白质和脂肪，搭配土豆等根茎蔬菜，营养均衡。此菜适合有一定烹饪经验的人士制作，从准备到完成大约需要 90 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1606,
+  "requirements": [
+    {
+      "text": "五花肉 500g（肥瘦相间）",
+      "markdown": "五花肉 500g（肥瘦相间）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒸肉米粉 100g（推荐使用李锦记或自制）",
+      "markdown": "蒸肉米粉 100g（推荐使用李锦记或自制）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽 15ml",
+      "markdown": "生抽 15ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽 10ml",
+      "markdown": "老抽 10ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒 15ml",
+      "markdown": "料酒 15ml",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "郫县豆瓣酱 10g（可选）",
+      "markdown": "郫县豆瓣酱 10g（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜末 10g",
+      "markdown": "姜末 10g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜末 10g",
+      "markdown": "蒜末 10g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖 5g",
+      "markdown": "白砂糖 5g",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "土豆 300g（或南瓜 300g，作为垫底食材）",
+      "markdown": "土豆 300g（或南瓜 300g，作为垫底食材）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "清水（蒸锅用）2000ml",
+      "markdown": "清水（蒸锅用）2000ml",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 五花肉 500g（肥瘦相间）\r\n- 蒸肉米粉 100g（推荐使用李锦记或自制）\r\n- 生抽 15ml\r\n- 老抽 10ml\r\n- 料酒 15ml\r\n- 郫县豆瓣酱 10g（可选）\r\n- 姜末 10g\r\n- 蒜末 10g\r\n- 白砂糖 5g\r\n- 土豆 300g（或南瓜 300g，作为垫底食材）\r\n- 清水（蒸锅用）2000ml",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "text": "五花肉 250g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒸肉米粉",
+      "text": "蒸肉米粉 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 7.5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 7.5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "text": "郫县豆瓣酱 5g（可选）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜末",
+      "text": "姜末 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜末",
+      "text": "蒜末 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 2.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "土豆或南瓜",
+      "text": "土豆或南瓜 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒸锅用水",
+      "text": "蒸锅用水 1000ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3 个人吃。\r\n\r\n每份：\r\n\r\n- 五花肉 250g\r\n- 蒸肉米粉 50g\r\n- 生抽 7.5ml\r\n- 老抽 5ml\r\n- 料酒 7.5ml\r\n- 郫县豆瓣酱 5g（可选）\r\n- 姜末 5g\r\n- 蒜末 5g\r\n- 白砂糖 2.5g\r\n- 土豆或南瓜 150g\r\n- 蒸锅用水 1000ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将五花肉洗净，切成长约 5cm、宽约 3cm、厚度约 0.5cm 的肉片"
+    },
+    {
+      "kind": "step",
+      "description": "将姜、蒜切成颗粒直径不大于 1mm 的细末"
+    },
+    {
+      "kind": "step",
+      "description": "取一大碗，放入切好的五花肉、15ml 生抽、10ml 老抽、15ml 料酒、10g 郫县豆瓣酱、10g 姜末、10g 蒜末、5g 白砂糖"
+    },
+    {
+      "kind": "step",
+      "description": "用筷子搅拌均匀后，盖上保鲜膜，室温(20°C - 25°C)静置腌制 30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "腌制完成后，加入 100g 蒸肉米粉，继续翻拌 2 分钟，确保每片肉都均匀裹粉"
+    },
+    {
+      "kind": "step",
+      "description": "土豆去皮，切片厚度控制在 0.8cm，片面积约为 5cm x 5cm，重量控制在 300g"
+    },
+    {
+      "kind": "step",
+      "description": "在直径 20cm 的深碗底部铺满土豆片，尽量无重叠"
+    },
+    {
+      "kind": "step",
+      "description": "将拌好粉的五花肉均匀铺在土豆片上，压实"
+    },
+    {
+      "kind": "step",
+      "description": "蒸锅中加入 2000ml 清水，开火加热至水面持续冒泡(100°C)"
+    },
+    {
+      "kind": "step",
+      "description": "将装好食材的碗放入蒸锅内，盖好锅盖"
+    },
+    {
+      "kind": "step",
+      "description": "保持中火蒸 60 分钟（火力保持在可持续沸腾的程度，约 600W 热功率）"
+    },
+    {
+      "kind": "step",
+      "description": "时间结束后，用筷子插入肉块中央，若能轻松穿透并无明显阻力，则表明蒸熟"
+    },
+    {
+      "kind": "step",
+      "description": "若未达到此状态，则继续加热 10 - 15 分钟，直至肉质软烂，油脂渗出"
+    },
+    {
+      "kind": "step",
+      "description": "取出盛盘，即可食用"
+    }
+  ],
+  "operationMarkdown": "1. 将五花肉洗净，切成长约 5cm、宽约 3cm、厚度约 0.5cm 的肉片\r\n2. 将姜、蒜切成颗粒直径不大于 1mm 的细末\r\n3. 取一大碗，放入切好的五花肉、15ml 生抽、10ml 老抽、15ml 料酒、10g 郫县豆瓣酱、10g 姜末、10g 蒜末、5g 白砂糖\r\n4. 用筷子搅拌均匀后，盖上保鲜膜，室温(20°C - 25°C)静置腌制 30 分钟\r\n5. 腌制完成后，加入 100g 蒸肉米粉，继续翻拌 2 分钟，确保每片肉都均匀裹粉\r\n6. 土豆去皮，切片厚度控制在 0.8cm，片面积约为 5cm x 5cm，重量控制在 300g\r\n7. 在直径 20cm 的深碗底部铺满土豆片，尽量无重叠\r\n8. 将拌好粉的五花肉均匀铺在土豆片上，压实\r\n9. 蒸锅中加入 2000ml 清水，开火加热至水面持续冒泡(100°C)\r\n10. 将装好食材的碗放入蒸锅内，盖好锅盖\r\n11. 保持中火蒸 60 分钟（火力保持在可持续沸腾的程度，约 600W 热功率）\r\n12. 时间结束后，用筷子插入肉块中央，若能轻松穿透并无明显阻力，则表明蒸熟\r\n13. 若未达到此状态，则继续加热 10 - 15 分钟，直至肉质软烂，油脂渗出\r\n14. 取出盛盘，即可食用",
+  "tips": "- 如需自制米粉，可将大米 150g 放入锅中，中小火炒至微黄色（约 8 分钟），再加入干辣椒 1g、花椒 1g、八角 0.5g，炒香后用料理机打碎，过筛备用\r\n- 蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 热水（90°C 以上），以维持蒸汽充足\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如需自制米粉，可将大米 150g 放入锅中，中小火炒至微黄色（约 8 分钟），再加入干辣椒 1g、花椒 1g、八角 0.5g，炒香后用料理机打碎，过筛备用\r\n- 蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 热水（90°C 以上），以维持蒸汽充足\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/粉蒸肉.md"
+  },
+  "hash": "b009d40cded10df5924de4a25cd40a353ffd901230ea085a99e4d19db0d67b19"
+}

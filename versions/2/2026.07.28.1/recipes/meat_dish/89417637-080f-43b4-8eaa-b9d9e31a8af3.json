@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 2,
+  "id": "89417637-080f-43b4-8eaa-b9d9e31a8af3",
+  "legacyIds": [
+    "meat_dish_bcba4438"
+  ],
+  "name": "姜炒鸡",
+  "description": "姜炒鸡是湖南风味的下饭菜肴，鸡肉干香入味，姜香浓郁，辣而不燥。鸡肉富含优质蛋白，生姜有助于驱寒暖胃、促进食欲。做法简单，新手也能轻松掌握。从腌制到出锅大约需要 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1539,
+  "requirements": [
+    {
+      "text": "鸡",
+      "markdown": "鸡",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米椒",
+      "markdown": "小米椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "美人辣",
+      "markdown": "美人辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "泡椒",
+      "markdown": "泡椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡\r\n- 生姜\r\n- 啤酒\r\n- 生抽\r\n- 老抽\r\n- 盐\r\n- 小米椒\r\n- 美人辣\r\n- 泡椒\r\n- 大蒜",
+  "ingredients": [
+    {
+      "name": "鸡",
+      "text": "鸡 = 半只（土鸡最好，预计 650g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 = 50ml（茶油最好，没有就用菜籽油）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 = 半斤 (250g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 = 半瓶 250ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 = 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 = 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米椒",
+      "text": "小米椒 = 0-5 个 (0-50g)（根据辣口味调整）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "美人辣",
+      "text": "美人辣 = 0-5 个 (0-50g)（没有可以用小米椒代替）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "泡椒",
+      "text": "泡椒 = 5 个 (50g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 = 3 头 (50g)",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡 = 半只（土鸡最好，预计 650g）\r\n- 食用油 = 50ml（茶油最好，没有就用菜籽油）\r\n- 生姜 = 半斤 (250g)\r\n- 啤酒 = 半瓶 250ml\r\n- 生抽 = 20ml\r\n- 老抽 = 10ml\r\n- 盐 = 3g\r\n- 小米椒 = 0-5 个 (0-50g)（根据辣口味调整）\r\n- 美人辣 = 0-5 个 (0-50g)（没有可以用小米椒代替）\r\n- 泡椒 = 5 个 (50g)\r\n- 大蒜 = 3 头 (50g)",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡尽量剁成 1cm 的小块，洗净后滤干，再放生抽腌和料酒腌制 30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "大先热锅到微微冒烟，放入食用油，等 5 秒"
+    },
+    {
+      "kind": "step",
+      "description": "下入姜片后转中火炒 30 秒，"
+    },
+    {
+      "kind": "step",
+      "description": "下入鸡块翻炒 3 分钟，炒干水分，炒出鸡油"
+    },
+    {
+      "kind": "step",
+      "description": "放入各种剁碎的辣椒和大蒜子，加盐和老抽继续翻炒 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "倒入啤酒，中小火焖 2 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "大火收汁盛盘"
+    }
+  ],
+  "operationMarkdown": "1. 鸡尽量剁成 1cm 的小块，洗净后滤干，再放生抽腌和料酒腌制 30 分钟\r\n2. 大先热锅到微微冒烟，放入食用油，等 5 秒\r\n3. 下入姜片后转中火炒 30 秒，\r\n4. 下入鸡块翻炒 3 分钟，炒干水分，炒出鸡油\r\n5. 放入各种剁碎的辣椒和大蒜子，加盐和老抽继续翻炒 30 秒\r\n6. 倒入啤酒，中小火焖 2 分钟\r\n7. 大火收汁盛盘",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/89417637-080f-43b4-8eaa-b9d9e31a8af3_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md"
+  },
+  "hash": "f600b929c8e38495fadb38518261595807be7964ef64dca0f3c2250851f3c871"
+}

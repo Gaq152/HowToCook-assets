@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 2,
+  "id": "d41ff35b-aa67-4460-9b44-d65e2e7eada5",
+  "legacyIds": [],
+  "name": "黄油鸡",
+  "description": "这是一道源自印度的经典咖喱菜肴，以烤制后再炖煮的鸡腿肉搭配番茄、黄油和奶油制成的酱汁，口感醇厚丝滑，酸甜微辣，带有独特的香料复合香气。鸡肉、酸奶和腰果提供了丰富的蛋白质与健康脂肪，番茄和香料也带来一定的维生素与抗氧化物。制作有一定挑战，需要掌握火候和香料的平衡，加上腌制时间共约 1 小时 45 分钟方可完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 641,
+  "requirements": [
+    {
+      "text": "鸡腿肉（去骨）",
+      "markdown": "鸡腿肉（去骨）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "酸奶",
+      "markdown": "酸奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淡奶油(Heavy Cream)",
+      "markdown": "淡奶油(Heavy Cream)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄",
+      "markdown": "番茄",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "腰果（用于增稠）",
+      "markdown": "腰果（用于增稠）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜黄粉",
+      "markdown": "姜黄粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红辣椒粉（Kashmiri 红辣椒粉最佳，色红味不辣）",
+      "markdown": "红辣椒粉（Kashmiri 红辣椒粉最佳，色红味不辣）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "印度综合香料粉(Garam Masala)",
+      "markdown": "印度综合香料粉(Garam Masala)",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜粉",
+      "markdown": "香菜粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "孜然粉",
+      "markdown": "孜然粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小豆蔻粉",
+      "markdown": "小豆蔻粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干葫芦巴叶(Kasuri Methi)— 可选但强烈推荐",
+      "markdown": "干葫芦巴叶(Kasuri Methi)— 可选但强烈推荐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "糖",
+      "markdown": "糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "炒锅",
+      "markdown": "炒锅",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "搅拌机/料理机",
+      "markdown": "搅拌机/料理机",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡腿肉（去骨）\r\n- 酸奶\r\n- 黄油\r\n- 淡奶油(Heavy Cream)\r\n- 番茄\r\n- 洋葱\r\n- 生姜\r\n- 大蒜\r\n- 腰果（用于增稠）\r\n- 姜黄粉\r\n- 红辣椒粉（Kashmiri 红辣椒粉最佳，色红味不辣）\r\n- 印度综合香料粉(Garam Masala)\r\n- 香菜粉\r\n- 孜然粉\r\n- 小豆蔻粉\r\n- 干葫芦巴叶(Kasuri Methi)— 可选但强烈推荐\r\n- 糖\r\n- 盐\r\n- 食用油\r\n- 炒锅\r\n- 搅拌机/料理机",
+  "ingredients": [
+    {
+      "name": "鸡腿肉",
+      "text": "鸡腿肉 500g（去骨，切大块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "酸奶",
+      "text": "酸奶 80ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g，磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣（约 12g），磨碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜黄粉",
+      "text": "姜黄粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬汁",
+      "text": "柠檬汁 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄",
+      "text": "番茄 5 个（约 500g），切块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 1 个（约 100g），切块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "腰果",
+      "text": "腰果 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 4 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淡奶油",
+      "text": "淡奶油 100ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红辣椒粉",
+      "text": "红辣椒粉 5g（Kashmiri 红辣椒粉最佳）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜粉",
+      "text": "香菜粉 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "孜然粉",
+      "text": "孜然粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "印度综合香料粉",
+      "text": "印度综合香料粉 3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小豆蔻粉",
+      "text": "小豆蔻粉 2g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干葫芦巴叶",
+      "text": "干葫芦巴叶 3g（用手搓碎）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "水",
+      "text": "水 100ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。\r\n\r\n每份：\r\n\r\n**腌鸡部分：**\r\n\r\n- 鸡腿肉 500g（去骨，切大块）\r\n- 酸奶 80ml\r\n- 生姜 10g，磨碎\r\n- 大蒜 4 瓣（约 12g），磨碎\r\n- 红辣椒粉 5g\r\n- 姜黄粉 3g\r\n- 盐 3g\r\n- 柠檬汁 15ml\r\n- 食用油 15ml\r\n\r\n**酱汁部分：**\r\n\r\n- 番茄 5 个（约 500g），切块\r\n- 洋葱 1 个（约 100g），切块\r\n- 腰果 30g\r\n- 生姜 10g\r\n- 大蒜 4 瓣\r\n- 黄油 50g\r\n- 淡奶油 100ml\r\n- 红辣椒粉 5g（Kashmiri 红辣椒粉最佳）\r\n- 香菜粉 5g\r\n- 孜然粉 3g\r\n- 印度综合香料粉 3g\r\n- 小豆蔻粉 2g\r\n- 干葫芦巴叶 3g（用手搓碎）\r\n- 糖 10g\r\n- 盐 5g\r\n- 水 100ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 3-4 个人食用。",
+    "每份：",
+    "**腌鸡部分：**",
+    "**酱汁部分：**"
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "腌制鸡肉（提前 1 小时）",
+      "description": "### 腌制鸡肉（提前 1 小时）"
+    },
+    {
+      "kind": "step",
+      "description": "在大碗中混合酸奶、生姜泥、大蒜泥、红辣椒粉、姜黄粉、盐、柠檬汁"
+    },
+    {
+      "kind": "step",
+      "description": "放入鸡肉块，充分裹上腌料"
+    },
+    {
+      "kind": "step",
+      "description": "盖保鲜膜，冷藏腌制**至少 1 小时**"
+    },
+    {
+      "kind": "section",
+      "title": "烤制鸡肉",
+      "description": "### 烤制鸡肉"
+    },
+    {
+      "kind": "step",
+      "description": "在平底锅中倒入 15ml 食用油，大火加热"
+    },
+    {
+      "kind": "step",
+      "description": "将腌好的鸡肉块放入锅中（不要倒入腌料汁）"
+    },
+    {
+      "kind": "step",
+      "description": "大火煎至*两面焦黄*（每面约 3 分钟），鸡肉不需要完全煮熟"
+    },
+    {
+      "kind": "step",
+      "description": "盛出备用"
+    },
+    {
+      "kind": "section",
+      "title": "制作酱汁底料",
+      "description": "### 制作酱汁底料"
+    },
+    {
+      "kind": "step",
+      "description": "在锅中放入番茄块、洋葱块、腰果、生姜、大蒜和水 100ml"
+    },
+    {
+      "kind": "step",
+      "description": "大火煮沸后转中火，**煮 15 分钟**，直至*所有材料完全软烂*"
+    },
+    {
+      "kind": "step",
+      "description": "稍微冷却后，倒入搅拌机中打成*细腻顺滑的泥状*"
+    },
+    {
+      "kind": "step",
+      "description": "用滤网过滤一遍，去除渣滓，得到顺滑的酱汁，备用"
+    },
+    {
+      "kind": "section",
+      "title": "炖煮",
+      "description": "### 炖煮"
+    },
+    {
+      "kind": "step",
+      "description": "在炒锅中放入黄油 50g，中火加热融化"
+    },
+    {
+      "kind": "step",
+      "description": "倒入过滤好的番茄酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "加入红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 5g"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 **3-5 分钟**，直至*酱汁颜色变深且油花浮出*"
+    },
+    {
+      "kind": "step",
+      "description": "放入烤好的鸡肉块，翻拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "加入糖 10g（平衡番茄的酸味），搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "倒入淡奶油 100ml，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "小火**炖 10-12 分钟**，使鸡肉完全熟透且吸收酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "加入印度综合香料粉 3g、小豆蔻粉 2g"
+    },
+    {
+      "kind": "step",
+      "description": "撒入干葫芦巴叶 3g（用手搓碎后撒入）"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌均匀，关火"
+    },
+    {
+      "kind": "step",
+      "description": "盛盘，可额外淋上少量淡奶油作为装饰"
+    }
+  ],
+  "operationMarkdown": "### 腌制鸡肉（提前 1 小时）\r\n\r\n1. 在大碗中混合酸奶、生姜泥、大蒜泥、红辣椒粉、姜黄粉、盐、柠檬汁\r\n2. 放入鸡肉块，充分裹上腌料\r\n3. 盖保鲜膜，冷藏腌制**至少 1 小时**\r\n\r\n### 烤制鸡肉\r\n\r\n1. 在平底锅中倒入 15ml 食用油，大火加热\r\n2. 将腌好的鸡肉块放入锅中（不要倒入腌料汁）\r\n3. 大火煎至*两面焦黄*（每面约 3 分钟），鸡肉不需要完全煮熟\r\n4. 盛出备用\r\n\r\n### 制作酱汁底料\r\n\r\n1. 在锅中放入番茄块、洋葱块、腰果、生姜、大蒜和水 100ml\r\n2. 大火煮沸后转中火，**煮 15 分钟**，直至*所有材料完全软烂*\r\n3. 稍微冷却后，倒入搅拌机中打成*细腻顺滑的泥状*\r\n4. 用滤网过滤一遍，去除渣滓，得到顺滑的酱汁，备用\r\n\r\n### 炖煮\r\n\r\n1. 在炒锅中放入黄油 50g，中火加热融化\r\n2. 倒入过滤好的番茄酱汁\r\n3. 加入红辣椒粉 5g、香菜粉 5g、孜然粉 3g、盐 5g\r\n4. 翻炒 **3-5 分钟**，直至*酱汁颜色变深且油花浮出*\r\n5. 放入烤好的鸡肉块，翻拌均匀\r\n6. 加入糖 10g（平衡番茄的酸味），搅拌\r\n7. 倒入淡奶油 100ml，搅拌均匀\r\n8. 小火**炖 10-12 分钟**，使鸡肉完全熟透且吸收酱汁\r\n9. 加入印度综合香料粉 3g、小豆蔻粉 2g\r\n10. 撒入干葫芦巴叶 3g（用手搓碎后撒入）\r\n11. 搅拌均匀，关火\r\n12. 盛盘，可额外淋上少量淡奶油作为装饰",
+  "tips": "- 干葫芦巴叶(Kasuri Methi)是这道菜独特风味的关键配料，能赋予一种特殊的草本香气。在印度食品店或电商平台可以购买到。\r\n- 使用 Kashmiri 红辣椒粉可以使颜色更鲜红但辣度较低。如果买不到，可以用普通红辣椒粉减半并加入 3g 红甜椒粉。\r\n- 腰果的作用是使酱汁更加浓稠丝滑。如果对坚果过敏，可以用等量的淡奶油替代。\r\n- 此菜通常搭配印度烤饼(Naan)或巴斯马蒂米饭食用。\r\n- 黄油鸡被认为是印度对世界美食最大的贡献之一，在全球各地的印度餐厅菜单上几乎都名列前茅。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 干葫芦巴叶(Kasuri Methi)是这道菜独特风味的关键配料，能赋予一种特殊的草本香气。在印度食品店或电商平台可以购买到。\r\n- 使用 Kashmiri 红辣椒粉可以使颜色更鲜红但辣度较低。如果买不到，可以用普通红辣椒粉减半并加入 3g 红甜椒粉。\r\n- 腰果的作用是使酱汁更加浓稠丝滑。如果对坚果过敏，可以用等量的淡奶油替代。\r\n- 此菜通常搭配印度烤饼(Naan)或巴斯马蒂米饭食用。\r\n- 黄油鸡被认为是印度对世界美食最大的贡献之一，在全球各地的印度餐厅菜单上几乎都名列前茅。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/黄油鸡.md"
+  },
+  "hash": "15f2eca712466302e6bacd0873f3f8f65e6f91f97913032cba0f4f3ef7c01255"
+}

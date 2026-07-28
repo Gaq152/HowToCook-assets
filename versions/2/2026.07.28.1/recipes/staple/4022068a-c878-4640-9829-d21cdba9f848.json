@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "id": "4022068a-c878-4640-9829-d21cdba9f848",
+  "legacyIds": [
+    "staple_e0de9c26"
+  ],
+  "name": "蛋炒饭",
+  "description": "一道家常蛋炒饭，金黄的蛋丝裹着粒粒分明的米饭，搭配火腿、胡萝卜和黄瓜，口感丰富，咸香适口。鸡蛋提供优质蛋白，胡萝卜增添维生素，碳水化合物带来充足能量。制作步骤稍多，但新手按流程操作也能成功，全程大约需要 25 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 853,
+  "requirements": [
+    {
+      "text": "冷饭",
+      "markdown": "冷饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火腿",
+      "markdown": "火腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄瓜",
+      "markdown": "黄瓜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香葱",
+      "markdown": "香葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "灯影牛肉丝/午餐肉/腊肠/卤肉...等熟肉（备选）",
+      "markdown": "灯影牛肉丝/午餐肉/腊肠/卤肉...等熟肉（备选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 冷饭\r\n* 鸡蛋\r\n* 火腿\r\n* 黄瓜\r\n* 胡萝卜\r\n* 油\r\n* 盐\r\n* 胡椒粉\r\n* 生抽\r\n* 香葱\r\n* 灯影牛肉丝/午餐肉/腊肠/卤肉...等熟肉（备选）\r\n\r\n准备时，米饭可以参考[米饭的做法](./米饭/电饭煲蒸米饭.md)。",
+  "ingredients": [
+    {
+      "name": "冷饭（份数500ml）",
+      "text": "冷饭（份数*500ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋 （份数1.5 //",
+      "text": "鸡蛋 （份数*1.5 // 1 向下取整）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火腿（份数2 个）",
+      "text": "火腿（份数*2 个）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄瓜（可选",
+      "text": "黄瓜（可选，份数*30g）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜（可选",
+      "text": "胡萝卜（可选，份数*30g）",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "油（份数12ml）",
+      "text": "油（份数*12ml）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐（份数4g - 份数6g）",
+      "text": "盐（份数*4g - 份数*6g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉（份数8g）",
+      "text": "胡椒粉（份数*8g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香葱（份数1 颗）",
+      "text": "香葱（份数*1 颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽（份数10ml）",
+      "text": "生抽（份数*10ml）",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用\r\n\r\n总量：\r\n\r\n* 冷饭（份数*500ml）\r\n* 鸡蛋 （份数*1.5 // 1 向下取整）\r\n* 火腿（份数*2 个）\r\n* 黄瓜（可选，份数*30g）\r\n* 胡萝卜（可选，份数*30g）\r\n* 油（份数*12ml）\r\n* 盐（份数\\*4g - 份数*6g）\r\n* 胡椒粉（份数*8g）\r\n* 香葱（份数*1 颗）\r\n* 生抽（份数*10ml）\r\n\r\n使用上述条件，计算出计划使用的原材料比例。",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 1-2 个人食用",
+    "总量：",
+    "使用上述条件，计算出计划使用的原材料比例。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "米饭提前用铲子铲成小块"
+    },
+    {
+      "kind": "step",
+      "description": "火腿肠、胡萝卜、黄瓜等根据需求切片或者块状"
+    },
+    {
+      "kind": "step",
+      "description": "如果家里有熟肉 准备好味道更佳"
+    },
+    {
+      "kind": "step",
+      "description": "将蛋白，蛋黄分开，分别打入一个大碗里，各自搅匀。注意，不要在这一步加盐。"
+    },
+    {
+      "kind": "step",
+      "description": "大火热锅，待锅里冒烟放入食用油，放入蛋白，待主体凝固后盛出备用。"
+    },
+    {
+      "kind": "step",
+      "description": "如果油够，则直接放入蛋黄，如果油不够则放入食用油并等其升温到大火热锅"
+    },
+    {
+      "kind": "step",
+      "description": "待主体凝固后，将火调至中小火，倒入火腿肠、熟肉，胡萝卜、黄瓜等备料、翻炒 10 秒钟（到爆香）"
+    },
+    {
+      "kind": "step",
+      "description": "重新倒入蛋白，翻炒 5s 钟，迅速倒入米饭大火翻炒，为的就是每一粒饭都裹上鸡蛋。"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒过程中将米饭的块状捣碎、这一步过程会比较长、待米饭全部捣碎再翻炒均匀即可"
+    },
+    {
+      "kind": "step",
+      "description": "调至小火、加盐、胡椒粉、生抽"
+    },
+    {
+      "kind": "step",
+      "description": "进一步翻炒均匀，能看到一些米饭在锅里有“跳起来”的时候其实就已经差不多了"
+    },
+    {
+      "kind": "step",
+      "description": "最后倒入香葱再翻炒 10s"
+    },
+    {
+      "kind": "step",
+      "description": "关火、盛入碗中"
+    }
+  ],
+  "operationMarkdown": "1. 米饭提前用铲子铲成小块\r\n2. 火腿肠、胡萝卜、黄瓜等根据需求切片或者块状\r\n3. 如果家里有熟肉 准备好味道更佳\r\n4. 将蛋白，蛋黄分开，分别打入一个大碗里，各自搅匀。注意，不要在这一步加盐。\r\n5. 大火热锅，待锅里冒烟放入食用油，放入蛋白，待主体凝固后盛出备用。\r\n6. 如果油够，则直接放入蛋黄，如果油不够则放入食用油并等其升温到大火热锅\r\n7. 待主体凝固后，将火调至中小火，倒入火腿肠、熟肉，胡萝卜、黄瓜等备料、翻炒 10 秒钟（到爆香）\r\n8. 重新倒入蛋白，翻炒 5s 钟，迅速倒入米饭大火翻炒，为的就是每一粒饭都裹上鸡蛋。\r\n9. 翻炒过程中将米饭的块状捣碎、这一步过程会比较长、待米饭全部捣碎再翻炒均匀即可\r\n10. 调至小火、加盐、胡椒粉、生抽\r\n11. 进一步翻炒均匀，能看到一些米饭在锅里有“跳起来”的时候其实就已经差不多了\r\n12. 最后倒入香葱再翻炒 10s\r\n13. 关火、盛入碗中",
+  "tips": "* 技术总结\r\n  - 使用隔夜的冷饭炒饭最佳，没有冷饭的同学也可以现煮（可以使用冰箱立马给米饭降温），不过要做到“粒粒分明”的口感就需要炒更久。\r\n  - 炒饭要做到“粒粒分明”其实就是要将饭炒干。为什么要用隔夜的冷饭是因为隔夜已经流失了一定的水分。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 技术总结\r\n  - 使用隔夜的冷饭炒饭最佳，没有冷饭的同学也可以现煮（可以使用冰箱立马给米饭降温），不过要做到“粒粒分明”的口感就需要炒更久。\r\n  - 炒饭要做到“粒粒分明”其实就是要将饭炒干。为什么要用隔夜的冷饭是因为隔夜已经流失了一定的水分。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/蛋炒饭.md"
+  },
+  "hash": "37668542f428b85fdf0ad042868785938fbdadb8306d03a6dc355fa11bd0db08"
+}

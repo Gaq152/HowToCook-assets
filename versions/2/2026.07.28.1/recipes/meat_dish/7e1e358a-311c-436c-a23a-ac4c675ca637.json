@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 2,
+  "id": "7e1e358a-311c-436c-a23a-ac4c675ca637",
+  "legacyIds": [
+    "meat_dish_dd46b330"
+  ],
+  "name": "小酥肉",
+  "description": "小酥肉外酥里嫩，咸香中带着花椒的微麻，是川渝地区家家户户都会做的家常炸物。猪肉富含蛋白质和脂肪，油炸后热量较高，适合偶尔解馋。这道菜步骤稍多，需掌握初炸定型与复炸上色的火候，对新手略有挑战，预计从头到尾约 1 小时 30 分钟完成。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1939,
+  "requirements": [
+    {
+      "text": "去皮猪肉（根据喜好选择肥瘦）",
+      "markdown": "去皮猪肉（根据喜好选择肥瘦）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "植物油",
+      "markdown": "植物油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老姜",
+      "markdown": "老姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "十三香",
+      "markdown": "十三香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡椒粉",
+      "markdown": "胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒碎",
+      "markdown": "花椒碎",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒粒",
+      "markdown": "花椒粒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "红薯淀粉",
+      "markdown": "红薯淀粉",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 去皮猪肉（根据喜好选择肥瘦）\r\n- 植物油\r\n- 老姜\r\n- 小葱\r\n- 料酒\r\n- 盐\r\n- 十三香\r\n- 胡椒粉\r\n- 味精\r\n- 鸡精\r\n- 花椒碎\r\n- 花椒粒\r\n- 生抽\r\n- 鸡蛋\r\n- 面粉\r\n- 红薯淀粉",
+  "ingredients": [
+    {
+      "name": "猪肉",
+      "text": "猪肉 500 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 30 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "红薯淀粉",
+      "text": "红薯淀粉 120 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老姜",
+      "text": "老姜 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 80 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 4 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "十三香",
+      "text": "十三香 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡椒粉",
+      "text": "胡椒粉 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精",
+      "text": "味精 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒碎",
+      "text": "花椒碎 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒粒",
+      "text": "花椒粒 3 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 8 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "### 主料\r\n\r\n- 猪肉 500 克\r\n\r\n### 辅料\r\n\r\n- 鸡蛋 2 个\r\n- 面粉 30 克\r\n- 红薯淀粉 120 克\r\n\r\n### 葱姜水\r\n\r\n- 老姜 20 克\r\n- 小葱 15 克\r\n- 料酒 15 克\r\n- 清水 80 克\r\n\r\n### 腌制调料\r\n\r\n- 盐 4 克\r\n- 十三香 2 克\r\n- 胡椒粉 3 克\r\n- 味精 5 克\r\n- 鸡精 5 克\r\n- 花椒碎 3 克\r\n- 花椒粒 3 克\r\n- 生抽 8 克",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "葱姜水制作",
+      "description": "### 葱姜水制作"
+    },
+    {
+      "kind": "step",
+      "description": "老姜切丝，小葱不用切。"
+    },
+    {
+      "kind": "step",
+      "description": "根据计算公式倒入料酒、清水。"
+    },
+    {
+      "kind": "step",
+      "description": "用手捏揉 5 分钟，使姜葱的味道充分溶解在水中。"
+    },
+    {
+      "kind": "section",
+      "title": "猪肉处理",
+      "description": "### 猪肉处理"
+    },
+    {
+      "kind": "step",
+      "description": "将猪肉去皮洗净"
+    },
+    {
+      "kind": "step",
+      "description": "切成长度 8~10 厘米，厚度 1.5 厘米的肉条。"
+    },
+    {
+      "kind": "step",
+      "description": "根据上面的计算公式加入盐，十三香、胡椒粉、味精、鸡精、花椒碎、花椒粒、生抽。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入前面制作好的葱姜水"
+    },
+    {
+      "kind": "step",
+      "description": "抓匀并且充分揉制 10 分钟，直至肉吸收所有水分并且变得粘手。"
+    },
+    {
+      "kind": "step",
+      "description": "封上保鲜膜放冷藏室静置 30 分钟。"
+    },
+    {
+      "kind": "section",
+      "title": "猪肉裹粉",
+      "description": "### 猪肉裹粉"
+    },
+    {
+      "kind": "step",
+      "description": "将面粉、红薯粉倒入腌制好的肉中，加入鸡蛋清。"
+    },
+    {
+      "kind": "step",
+      "description": "充分揉制 15 分钟。"
+    },
+    {
+      "kind": "section",
+      "title": "初炸定形状",
+      "description": "### 初炸定形状"
+    },
+    {
+      "kind": "step",
+      "description": "锅中倒入植物油，根据锅大小控制油量，油面高度 3 厘米以上。"
+    },
+    {
+      "kind": "step",
+      "description": "大火将温加热至 150° 后，转小火保持温度。"
+    },
+    {
+      "kind": "step",
+      "description": "将裹好粉的肉条用筷子夹入油锅中，捋成自己喜欢的形状，炸 3~5 分钟定型。目测颜色微黄，用锅铲翻动感受倒略微有些硬了就可以。具体时间受肉块大小、油温、裹粉程度影响。"
+    },
+    {
+      "kind": "step",
+      "description": "捞出沥油。"
+    },
+    {
+      "kind": "note",
+      "description": "tips: 如果对时间没把握可以稍微多炸一下，否则肉会带一点生味。 没有经验可以一条一条的下锅，防止粘连。"
+    },
+    {
+      "kind": "section",
+      "title": "复炸出成品",
+      "description": "### 复炸出成品"
+    },
+    {
+      "kind": "step",
+      "description": "将油温升至 180° 放入初炸好的肉条，炸至金黄色即可捞出。"
+    }
+  ],
+  "operationMarkdown": "### 葱姜水制作\r\n\r\n1. 老姜切丝，小葱不用切。\r\n2. 根据计算公式倒入料酒、清水。\r\n3. 用手捏揉 5 分钟，使姜葱的味道充分溶解在水中。\r\n\r\n### 猪肉处理\r\n\r\n1. 将猪肉去皮洗净\r\n2. 切成长度 8~10 厘米，厚度 1.5 厘米的肉条。\r\n3. 根据上面的计算公式加入盐，十三香、胡椒粉、味精、鸡精、花椒碎、花椒粒、生抽。\r\n4. 倒入前面制作好的葱姜水\r\n5. 抓匀并且充分揉制 10 分钟，直至肉吸收所有水分并且变得粘手。\r\n6. 封上保鲜膜放冷藏室静置 30 分钟。\r\n\r\n### 猪肉裹粉\r\n\r\n1. 将面粉、红薯粉倒入腌制好的肉中，加入鸡蛋清。\r\n2. 充分揉制 15 分钟。\r\n\r\n### 初炸定形状\r\n\r\n1. 锅中倒入植物油，根据锅大小控制油量，油面高度 3 厘米以上。\r\n2. 大火将温加热至 150° 后，转小火保持温度。\r\n3. 将裹好粉的肉条用筷子夹入油锅中，捋成自己喜欢的形状，炸 3~5 分钟定型。目测颜色微黄，用锅铲翻动感受倒略微有些硬了就可以。具体时间受肉块大小、油温、裹粉程度影响。\r\n4. 捞出沥油。\r\n\r\ntips: 如果对时间没把握可以稍微多炸一下，否则肉会带一点生味。 没有经验可以一条一条的下锅，防止粘连。\r\n\r\n### 复炸出成品\r\n\r\n1. 将油温升至 180° 放入初炸好的肉条，炸至金黄色即可捞出。",
+  "tips": "- 裹粉一定要把红薯粉揉散，不要有干的颗粒裹在里面，否则会炸！！！\r\n- 如果肉太多吃不完，可以只炸一遍然后放冰箱。后面再吃的时候拿出来复炸，口感基本没影响。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 裹粉一定要把红薯粉揉散，不要有干的颗粒裹在里面，否则会炸！！！\r\n- 如果肉太多吃不完，可以只炸一遍然后放冰箱。后面再吃的时候拿出来复炸，口感基本没影响。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/小酥肉.md"
+  },
+  "hash": "4b7ea49509422aa4af815458d12bcb858e668876ad945f1fb4fdb9ae8a028b4a"
+}

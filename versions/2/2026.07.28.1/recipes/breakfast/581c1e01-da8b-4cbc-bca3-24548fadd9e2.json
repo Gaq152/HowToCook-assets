@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "id": "581c1e01-da8b-4cbc-bca3-24548fadd9e2",
+  "legacyIds": [
+    "breakfast_fc251fde"
+  ],
+  "name": "吐司果酱",
+  "description": "这是一道极简快手早餐，烤至微脆的吐司夹入甜香果酱，外脆内软，方便随身携带，属于典型的便捷西式简餐。主要提供碳水化合物和糖分，能快速补充晨间能量。操作几乎零门槛，非常适合不擅烹饪的忙碌新手。从准备到完成只需大约 2 分钟，无需开火，也几乎不用清洗厨具。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 223,
+  "requirements": [
+    {
+      "text": "新鲜吐司",
+      "markdown": "新鲜吐司",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "果酱",
+      "markdown": "果酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面包机",
+      "markdown": "面包机",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 新鲜吐司\r\n- 果酱\r\n- 面包机",
+  "ingredients": [
+    {
+      "name": "吐司两片",
+      "text": "吐司两片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "果酱足够涂满一面吐司的量",
+      "text": "果酱足够涂满一面吐司的量",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 吐司两片\r\n- 果酱足够涂满一面吐司的量",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将吐司放入面包机"
+    },
+    {
+      "kind": "step",
+      "description": "设置好档位，时间到了会自动弹出"
+    },
+    {
+      "kind": "step",
+      "description": "两分钟后吐司加热完成弹出"
+    },
+    {
+      "kind": "step",
+      "description": "先取出一片吐司，涂满果酱再盖上另一片吐司即可"
+    },
+    {
+      "kind": "step",
+      "description": "用餐巾纸包一下可以边走边吃也可以吃完再出门"
+    },
+    {
+      "kind": "note",
+      "description": "两分钟快速搞定，操作很简单，味道十分美味，十分适合程序员。耗时短，不会产生额外垃圾，也不需要清洗工具什么的。"
+    }
+  ],
+  "operationMarkdown": "1. 将吐司放入面包机\r\n2. 设置好档位，时间到了会自动弹出\r\n3. 两分钟后吐司加热完成弹出\r\n4. 先取出一片吐司，涂满果酱再盖上另一片吐司即可\r\n5. 用餐巾纸包一下可以边走边吃也可以吃完再出门\r\n\r\n两分钟快速搞定，操作很简单，味道十分美味，十分适合程序员。耗时短，不会产生额外垃圾，也不需要清洗工具什么的。",
+  "tips": "面包机一般不会超过一百块，吐司去楼下超市或美团买菜送上门，一般一包十块钱八片，保质期比较短，很干净卫生。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "面包机一般不会超过一百块，吐司去楼下超市或美团买菜送上门，一般一包十块钱八片，保质期比较短，很干净卫生。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/吐司果酱.md"
+  },
+  "hash": "06db09f0acf27d9b9c4a3476951ded5b13bc40cc7bcaff4f5f773827201cb31e"
+}

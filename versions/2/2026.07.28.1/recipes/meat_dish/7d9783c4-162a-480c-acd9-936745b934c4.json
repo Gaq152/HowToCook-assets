@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "id": "7d9783c4-162a-480c-acd9-936745b934c4",
+  "legacyIds": [
+    "meat_dish_4193001d"
+  ],
+  "name": "湖南家常红烧肉",
+  "description": "湖南家常红烧肉是一道湘味浓郁的家常菜，五花肉经慢炖后肥而不腻、入口软糯，咸香中带着微辣回甘。富含优质蛋白和脂肪，能为身体提供充足能量。制作需要一些耐心，对新手有一定挑战，但按步骤操作不难掌握，预计全程约 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1348,
+  "requirements": [
+    {
+      "text": "带皮五花肉",
+      "markdown": "带皮五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干小米椒🌶（根据个人情况而定）",
+      "markdown": "干小米椒🌶（根据个人情况而定）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖（锁油上色）",
+      "markdown": "冰糖（锁油上色）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开水",
+      "markdown": "开水",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 带皮五花肉\r\n- 干小米椒🌶（根据个人情况而定）\r\n- 姜\r\n- 生抽\r\n- 老抽\r\n- 香叶\r\n- 桂皮\r\n- 八角\r\n- 冰糖\r\n- 料酒\r\n- 盐\r\n- 冰糖（锁油上色）\r\n- 食用油\r\n- 开水",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "text": "五花肉：500g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮",
+      "text": "桂皮 1 小块",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 6 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 20 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 3 颗",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份正好够 2 人吃。\r\n\r\n- 五花肉：500g\r\n- 食用油：10g\r\n- 香叶 5 片\r\n- 姜 3 片\r\n- 桂皮 1 小块\r\n- 冰糖 6 颗\r\n- 料酒 20 克\r\n- 生抽 5 克\r\n- 老抽 2 克\r\n- 盐 2 克\r\n- 八角 3 颗",
+  "calculationNotes": [
+    "一份正好够 2 人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "带皮五花肉洗净冷水下锅，加入姜片 2~3 片去腥味，煮到沸腾捞出冷水冲净白沫"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切块，尺寸 1.5cm*1.5cm 块状大小"
+    },
+    {
+      "kind": "step",
+      "description": "热锅加入油，加入冰糖小火搅拌至焦糖色即可，加入切好的五花肉，中火翻炒上色"
+    },
+    {
+      "kind": "step",
+      "description": "加入备好的姜片、八角、桂皮、生抽、老抽、料酒、干小米椒、盐，小火翻炒 1 分钟，加开水没过肉"
+    },
+    {
+      "kind": "step",
+      "description": "加盖中火煮沸，转小火慢顿 30 分钟，慢炖期间，间隔 10 分钟搅拌一次防止粘锅"
+    },
+    {
+      "kind": "step",
+      "description": "小火慢炖汤汁剩三分之一的时，调成中火收汁出锅。"
+    }
+  ],
+  "operationMarkdown": "1. 带皮五花肉洗净冷水下锅，加入姜片 2~3 片去腥味，煮到沸腾捞出冷水冲净白沫\r\n2. 五花肉切块，尺寸 1.5cm*1.5cm 块状大小\r\n3. 热锅加入油，加入冰糖小火搅拌至焦糖色即可，加入切好的五花肉，中火翻炒上色\r\n4. 加入备好的姜片、八角、桂皮、生抽、老抽、料酒、干小米椒、盐，小火翻炒 1 分钟，加开水没过肉\r\n5. 加盖中火煮沸，转小火慢顿 30 分钟，慢炖期间，间隔 10 分钟搅拌一次防止粘锅\r\n6. 小火慢炖汤汁剩三分之一的时，调成中火收汁出锅。",
+  "tips": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/7d9783c4-162a-480c-acd9-936745b934c4_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md"
+  },
+  "hash": "3eea44e77f9b124acb779df585992d5c574dcbfbd4524169ab6ea8a458221bd3"
+}

@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "id": "a27d314e-92e9-433f-8f5f-18e7ae22fb08",
+  "legacyIds": [
+    "meat_dish_2e95ad17"
+  ],
+  "name": "回锅肉",
+  "description": "回锅肉是四川传统名菜，以二刀肉或五花肉为主料，成菜色泽红亮，肥肉透明微卷、瘦肉干香不柴，口感肥而不腻，咸鲜微辣，带有蒜苗与豆瓣酱的复合香气。猪肉富含优质蛋白和必需脂肪酸，搭配青红椒、蒜苗可补充维生素。这道菜步骤稍多，包含煮、切、煸炒，对火候和刀工有一定要求，但按流程操作新手也能成功，预计全程耗时约 40 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 997,
+  "requirements": [
+    {
+      "text": "五花肉",
+      "markdown": "五花肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小葱",
+      "markdown": "小葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青红椒",
+      "markdown": "青红椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苗",
+      "markdown": "蒜苗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "味精",
+      "markdown": "味精",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 五花肉\r\n- 小葱\r\n- 生姜\r\n- 青红椒\r\n- 蒜苗\r\n- 料酒\r\n- 豆瓣酱\r\n- 生抽酱油\r\n- 味精",
+  "ingredients": [
+    {
+      "name": "五花肉的用量为",
+      "text": "五花肉的用量为 0.5 斤/男人 0.3 斤/女人 （正宗回锅肉使用二刀肉[俗称：臀尖]制作，肉质坚实，肥瘦合适）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小葱",
+      "text": "小葱 2 棵",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10-40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青红椒（根据受辣程度选择",
+      "text": "青红椒（根据受辣程度选择, 0-30g）*注：不建议使用肉厚的菜椒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜苗",
+      "text": "蒜苗 1 把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "味精",
+      "text": "味精 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 五花肉的用量为 0.5 斤/男人 0.3 斤/女人 （正宗回锅肉使用二刀肉[俗称：臀尖]制作，肉质坚实，肥瘦合适）\r\n- 小葱 2 棵\r\n- 生姜 10-40g\r\n- 青红椒（根据受辣程度选择, 0-30g）*注：不建议使用肉厚的菜椒\r\n- 蒜苗 1 把\r\n- 料酒 5ml\r\n- 豆瓣酱 10ml\r\n- 味精 5g\r\n- 生抽 5ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "五花肉一段处理",
+      "description": "### 五花肉一段处理"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热，用手将五花肉紧紧压在锅上炙皮"
+    },
+    {
+      "kind": "step",
+      "description": "这一步是为了处理猪皮上的汗腺（或者买肉的时候让师傅烧一下皮，喜欢汗腺的可以无视）"
+    },
+    {
+      "kind": "step",
+      "description": "用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除，不刷干净会有苦味"
+    },
+    {
+      "kind": "step",
+      "description": "将五花肉放入锅中，放入能淹没五花肉的冷水，放入生姜片、料酒和小葱（取 2 棵小葱打结）"
+    },
+    {
+      "kind": "step",
+      "description": "开大火煮，水开后撇去浮沫，继续煮 15 分钟，煮至瘦肉部分可以用筷子轻松刺穿"
+    },
+    {
+      "kind": "section",
+      "title": "配菜处理",
+      "description": "### 配菜处理"
+    },
+    {
+      "kind": "step",
+      "description": "青红椒切圈"
+    },
+    {
+      "kind": "step",
+      "description": "蒜苗切段"
+    },
+    {
+      "kind": "step",
+      "description": "生姜切小薄片"
+    },
+    {
+      "kind": "step",
+      "description": "将 5ml 豆瓣酱和 5ml 生抽提前混合"
+    },
+    {
+      "kind": "section",
+      "title": "五花肉二段处理",
+      "description": "### 五花肉二段处理"
+    },
+    {
+      "kind": "step",
+      "description": "将煮熟的五花肉捞出放入冷水晾凉"
+    },
+    {
+      "kind": "step",
+      "description": "擦干五花肉的水，切成上肥下瘦的 2mm 的薄片（切厚了口感不好，而且很油）"
+    },
+    {
+      "kind": "section",
+      "title": "开始炒肉",
+      "description": "### 开始炒肉"
+    },
+    {
+      "kind": "note",
+      "description": "注意，此步骤**操作要迅速，小心糊锅**"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热，放入一层底油滑锅"
+    },
+    {
+      "kind": "step",
+      "description": "放入五花肉煸炒至肥肉透明，肉片微卷（欲称起灯盏窝），二刀肉效果最佳。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入豆瓣生抽混合物，5g 味精翻炒 15 秒"
+    },
+    {
+      "kind": "step",
+      "description": "放入青红椒圈和小姜片，放入另 5ml 豆瓣酱翻炒 30 秒"
+    },
+    {
+      "kind": "step",
+      "description": "放入蒜苗翻炒 60 秒"
+    },
+    {
+      "kind": "step",
+      "description": "出锅"
+    },
+    {
+      "kind": "section",
+      "title": "简易版本",
+      "description": "### 简易版本"
+    },
+    {
+      "kind": "step",
+      "description": "选用冰冻五花肉常量放置 0.5 小时 或者鲜五花肉放冰箱冷藏 1 个小时，切成 2-5 mm 薄片"
+    },
+    {
+      "kind": "step",
+      "description": "开中火，辣椒放过锅中干煸 30-45 秒后取出"
+    },
+    {
+      "kind": "step",
+      "description": "锅烧热，放入一层底油滑锅，放入姜片煸炒 15 秒"
+    },
+    {
+      "kind": "step",
+      "description": "倒入五花肉，间隔 10 S 翻炒一次，待五花肉出现焦黄色（翻炒时间越久五花肉口感越硬）"
+    },
+    {
+      "kind": "step",
+      "description": "倒入之前干煸过的辣椒、10ml 豆瓣酱，生抽调味，继续翻炒 60 秒"
+    },
+    {
+      "kind": "step",
+      "description": "倒入切成段的蒜苗翻炒 10 秒"
+    },
+    {
+      "kind": "step",
+      "description": "出锅"
+    }
+  ],
+  "operationMarkdown": "### 五花肉一段处理\r\n\r\n1. 锅烧热，用手将五花肉紧紧压在锅上炙皮\r\n\r\n  - 这一步是为了处理猪皮上的汗腺（或者买肉的时候让师傅烧一下皮，喜欢汗腺的可以无视）\r\n\r\n2. 用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除，不刷干净会有苦味\r\n3. 将五花肉放入锅中，放入能淹没五花肉的冷水，放入生姜片、料酒和小葱（取 2 棵小葱打结）\r\n4. 开大火煮，水开后撇去浮沫，继续煮 15 分钟，煮至瘦肉部分可以用筷子轻松刺穿\r\n\r\n### 配菜处理\r\n\r\n1. 青红椒切圈\r\n2. 蒜苗切段\r\n3. 生姜切小薄片\r\n4. 将 5ml 豆瓣酱和 5ml 生抽提前混合\r\n\r\n### 五花肉二段处理\r\n\r\n1. 将煮熟的五花肉捞出放入冷水晾凉\r\n2. 擦干五花肉的水，切成上肥下瘦的 2mm 的薄片（切厚了口感不好，而且很油）\r\n\r\n### 开始炒肉\r\n\r\n注意，此步骤**操作要迅速，小心糊锅**\r\n\r\n1. 锅烧热，放入一层底油滑锅\r\n2. 放入五花肉煸炒至肥肉透明，肉片微卷（欲称起灯盏窝），二刀肉效果最佳。\r\n3. 倒入豆瓣生抽混合物，5g 味精翻炒 15 秒\r\n4. 放入青红椒圈和小姜片，放入另 5ml 豆瓣酱翻炒 30 秒\r\n5. 放入蒜苗翻炒 60 秒\r\n6. 出锅\r\n\r\n### 简易版本\r\n\r\n1. 选用冰冻五花肉常量放置 0.5 小时 或者鲜五花肉放冰箱冷藏 1 个小时，切成 2-5 mm 薄片\r\n2. 开中火，辣椒放过锅中干煸 30-45 秒后取出\r\n3. 锅烧热，放入一层底油滑锅，放入姜片煸炒 15 秒\r\n4. 倒入五花肉，间隔 10 S 翻炒一次，待五花肉出现焦黄色（翻炒时间越久五花肉口感越硬）\r\n5. 倒入之前干煸过的辣椒、10ml 豆瓣酱，生抽调味，继续翻炒 60 秒\r\n6. 倒入切成段的蒜苗翻炒 10 秒\r\n7. 出锅\r\n\r\n![回锅肉-预览图-1](./1.jpeg)\r\n![回锅肉-预览图-2](./2.jpeg)",
+  "tips": "- 不喜欢蒜苗可以换成洋葱或者其他蔬菜，但是要注意蔬菜的易熟程度将蔬菜提前炒至，不然会出现蔬菜半生不熟的情况\r\n- 如果回锅肉比较大块可以切成 5 厘米见方的块，五花肉煮至筷子稍微用力即可插入猪皮即可\r\n- 回锅肉过冷水晾凉后肉质会更紧致\r\n- 回锅肉擦干水是为了避免炒至的时候爆油溅伤\r\n- 回锅肉切记不要切厚了，不然很腻\r\n- 如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 不喜欢蒜苗可以换成洋葱或者其他蔬菜，但是要注意蔬菜的易熟程度将蔬菜提前炒至，不然会出现蔬菜半生不熟的情况\r\n- 如果回锅肉比较大块可以切成 5 厘米见方的块，五花肉煮至筷子稍微用力即可插入猪皮即可\r\n- 回锅肉过冷水晾凉后肉质会更紧致\r\n- 回锅肉擦干水是为了避免炒至的时候爆油溅伤\r\n- 回锅肉切记不要切厚了，不然很腻\r\n- 如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/a27d314e-92e9-433f-8f5f-18e7ae22fb08_0.webp",
+    "images/meat_dish/a27d314e-92e9-433f-8f5f-18e7ae22fb08_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/回锅肉/回锅肉.md"
+  },
+  "hash": "81a26ea81c2214a252804b5e438050c0abdfdad0351a4cb9465162535c803c87"
+}

@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "id": "585d2fe1-c997-4a7a-b47d-230505654010",
+  "legacyIds": [
+    "aquatic_8bfd57d8"
+  ],
+  "name": "糖醋鲤鱼",
+  "description": "糖醋鲤鱼是经典鲁菜，外酥里嫩、酸甜适口，鱼身炸至金黄浇上红亮糖醋汁，十分诱人。鱼肉富含优质蛋白和多种矿物质，易于消化吸收。这道菜对新手不太友好，难度中等偏上，需掌握改刀、挂糊和油炸火候。从备料到成菜大约需要 1 小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 1011,
+  "requirements": [
+    {
+      "text": "鲤鱼",
+      "markdown": "鲤鱼",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "番茄酱",
+      "markdown": "番茄酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白糖",
+      "markdown": "白糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白醋",
+      "markdown": "白醋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜一颗",
+      "markdown": "香菜一颗",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盆（两个）",
+      "markdown": "盆（两个）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "菜刀一个",
+      "markdown": "菜刀一个",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "笊篱一个、锅铲一个",
+      "markdown": "笊篱一个、锅铲一个",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鲤鱼\r\n- 番茄酱\r\n- 白糖\r\n- 白醋\r\n- 淀粉\r\n- 盐\r\n- 葱\r\n- 姜\r\n- 料酒\r\n- 香菜一颗\r\n- 盆（两个）\r\n- 菜刀一个\r\n- 笊篱一个、锅铲一个",
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "text": "鲤鱼 = 约 3 斤",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "清水",
+      "text": "清水 = 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "番茄酱",
+      "text": "番茄酱 = 40g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白糖",
+      "text": "白糖 = 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白醋",
+      "text": "白醋 = 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 = 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 = 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱",
+      "text": "大葱 = 30g（约半颗）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 = 30g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 = 25g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，该菜只有 3 人以上版本（过大或太小的鱼都是不合适的），所以不需要公式计算，特别适合家庭聚餐时食用，如年夜饭\r\n\r\n- 鲤鱼 = 约 3 斤\r\n- 清水 = 50g\r\n- 番茄酱 = 40g\r\n- 白糖 = 20g\r\n- 白醋 = 10g\r\n- 淀粉 = 10g\r\n- 盐 = 30g\r\n- 大葱 = 30g（约半颗）\r\n- 姜 = 30g\r\n- 料酒 = 25g",
+  "calculationNotes": [
+    "注意，该菜只有 3 人以上版本（过大或太小的鱼都是不合适的），所以不需要公式计算，特别适合家庭聚餐时食用，如年夜饭"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将鱼清洗干净，确保无鱼鳞等异物"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下 1cm，按紧鱼身往左片 3-4cm，再将鱼片中间轻轻划一刀"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼放进盆里，然后将大姜切片，大葱切段（随便切切就行了，主要是需要去腥味）"
+    },
+    {
+      "kind": "step",
+      "description": "用吃奶的力气将大葱大姜里的汁水挤到盆中"
+    },
+    {
+      "kind": "step",
+      "description": "加入 20g 盐，25g 料酒，然后给鲤鱼搓个澡，涂抹均匀"
+    },
+    {
+      "kind": "step",
+      "description": "![腌制](./腌制.jpg)\n\n  （腌鱼时间越长，鱼腥味就越小，推荐腌 30 分钟以上）"
+    },
+    {
+      "kind": "step",
+      "description": "找个干净的盆，加入 100g 面粉、200g 淀粉、180g 水、5g 盐，用手将其搅拌均匀，面糊此时粘稠呈可拉丝状态，然后打入一个鸡蛋，再次搅匀"
+    },
+    {
+      "kind": "step",
+      "description": "等待 30 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "将鱼放在案板上，用干毛巾将鱼身上的水擦干（这样可以更好的挂糊）"
+    },
+    {
+      "kind": "step",
+      "description": "将盆冲洗干净，用干毛巾擦干"
+    },
+    {
+      "kind": "step",
+      "description": "起锅烧油，加入约 1L 的油，将油温烧至 7 成热，约 200-240 度"
+    },
+    {
+      "kind": "step",
+      "description": "捏起鱼的尾巴，将鱼头沉入锅底，用勺子往鱼的身上淋热油，待面糊成型后，将鱼慢慢放入锅中，拿锅铲轻轻铲起鱼的头部，然后垫上笊篱。防止底部炸糊。"
+    },
+    {
+      "kind": "step",
+      "description": "准备一个盛鱼的盘子，放在锅的旁边。"
+    },
+    {
+      "kind": "step",
+      "description": "用锅铲从鱼身处轻轻铲入，两个工具配合鱼翻个身。再炸两分钟，还是同样的方式（笊篱托着鱼头，锅铲托着鱼身，将鱼盛入盘中）"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中的油倒入擦干的盆中，放置一边，然后将锅刷干净"
+    },
+    {
+      "kind": "step",
+      "description": "将 50g 清水、40g 番茄酱、20g 白糖、10g 白醋放入小碗中，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "再准备一个小碗加入 10g 淀粉、10g 水，搅拌成水淀粉"
+    },
+    {
+      "kind": "step",
+      "description": "开大火将锅烧热，然后倒入之前准备的料汁，大火烧开，转小火"
+    },
+    {
+      "kind": "step",
+      "description": "加入调好的水淀粉，边倒边搅拌，然后 20 秒后关火"
+    },
+    {
+      "kind": "step",
+      "description": "将熬好的糖醋汁用勺子均匀地浇在鱼身上，可以加点香菜或葱花点缀，糖醋鲤鱼就做好了"
+    },
+    {
+      "kind": "step",
+      "description": "![糖醋鲤鱼-预览图-2](./成品.jpg)\n\n  这里的糖醋汁熬的有点稠了......"
+    }
+  ],
+  "operationMarkdown": "1. 将鱼清洗干净，确保无鱼鳞等异物\r\n2. 将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下 1cm，按紧鱼身往左片 3-4cm，再将鱼片中间轻轻划一刀\r\n3. 将鱼放进盆里，然后将大姜切片，大葱切段（随便切切就行了，主要是需要去腥味）\r\n4. 用吃奶的力气将大葱大姜里的汁水挤到盆中\r\n5. 加入 20g 盐，25g 料酒，然后给鲤鱼搓个澡，涂抹均匀\r\n6. ![腌制](./腌制.jpg)\r\n\r\n    （腌鱼时间越长，鱼腥味就越小，推荐腌 30 分钟以上）\r\n\r\n7. 找个干净的盆，加入 100g 面粉、200g 淀粉、180g 水、5g 盐，用手将其搅拌均匀，面糊此时粘稠呈可拉丝状态，然后打入一个鸡蛋，再次搅匀\r\n8. 等待 30 分钟\r\n9. 将鱼放在案板上，用干毛巾将鱼身上的水擦干（这样可以更好的挂糊）\r\n10. 将盆冲洗干净，用干毛巾擦干\r\n11. 起锅烧油，加入约 1L 的油，将油温烧至 7 成热，约 200-240 度\r\n12. 捏起鱼的尾巴，将鱼头沉入锅底，用勺子往鱼的身上淋热油，待面糊成型后，将鱼慢慢放入锅中，拿锅铲轻轻铲起鱼的头部，然后垫上笊篱。防止底部炸糊。\r\n13. 准备一个盛鱼的盘子，放在锅的旁边。\r\n14. 用锅铲从鱼身处轻轻铲入，两个工具配合鱼翻个身。再炸两分钟，还是同样的方式（笊篱托着鱼头，锅铲托着鱼身，将鱼盛入盘中）\r\n15. 将锅中的油倒入擦干的盆中，放置一边，然后将锅刷干净\r\n16. 将 50g 清水、40g 番茄酱、20g 白糖、10g 白醋放入小碗中，搅拌均匀\r\n17. 再准备一个小碗加入 10g 淀粉、10g 水，搅拌成水淀粉\r\n18. 开大火将锅烧热，然后倒入之前准备的料汁，大火烧开，转小火\r\n19. 加入调好的水淀粉，边倒边搅拌，然后 20 秒后关火\r\n20. 将熬好的糖醋汁用勺子均匀地浇在鱼身上，可以加点香菜或葱花点缀，糖醋鲤鱼就做好了\r\n21. ![糖醋鲤鱼-预览图-2](./成品.jpg)\r\n\r\n    这里的糖醋汁熬的有点稠了......",
+  "tips": "这道菜难度系数算中等吧，对新手还是不太友好的......\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "这道菜难度系数算中等吧，对新手还是不太友好的......\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/585d2fe1-c997-4a7a-b47d-230505654010_0.webp",
+    "images/aquatic/585d2fe1-c997-4a7a-b47d-230505654010_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
+  },
+  "hash": "1e6335aec05f038d60cedfbd0b1c6840f469bceb5f67cce6fd8c063925c72e99"
+}

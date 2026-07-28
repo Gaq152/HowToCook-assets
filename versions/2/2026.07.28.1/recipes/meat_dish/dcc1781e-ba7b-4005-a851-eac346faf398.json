@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "id": "dcc1781e-ba7b-4005-a851-eac346faf398",
+  "legacyIds": [
+    "meat_dish_2262770f"
+  ],
+  "name": "香干芹菜炒肉",
+  "description": "香干芹菜炒肉是一道家常小炒，豆干柔韧、芹菜爽脆、猪肉嫩滑，咸鲜微辣。芹菜富含膳食纤维，豆干和猪肉提供优质植物蛋白与动物蛋白。做法简单，对新手友好，从备料到出锅大约只需 30 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 741,
+  "requirements": [
+    {
+      "text": "豆干",
+      "markdown": "豆干",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香芹/芹菜",
+      "markdown": "香芹/芹菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "猪肉",
+      "markdown": "猪肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "辣椒：青椒或者红椒都可以",
+      "markdown": "辣椒：青椒或者红椒都可以",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "花椒：可选",
+      "markdown": "花椒：可选",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精：可选",
+      "markdown": "鸡精：可选",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蚝油",
+      "markdown": "蚝油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 豆干\r\n- 香芹/芹菜\r\n- 猪肉\r\n- 大蒜\r\n- 辣椒：青椒或者红椒都可以\r\n- 花椒：可选\r\n- 盐\r\n- 鸡精：可选\r\n- 老抽\r\n- 蚝油\r\n- 食用油",
+  "ingredients": [
+    {
+      "name": "豆干",
+      "text": "豆干：150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香芹",
+      "text": "香芹：4 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "猪肉",
+      "text": "猪肉：200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头：2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "辣椒",
+      "text": "辣椒：4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "花椒",
+      "text": "花椒：6 粒（不喜欢可以不放，或者放花椒水）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐：5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精：3g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽：8ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蚝油",
+      "text": "蚝油：5ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油：10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "注意，此数值大约是 2 个人的量。\r\n\r\n每份：\r\n\r\n- 豆干：150g\r\n- 香芹：4 根\r\n- 猪肉：200g\r\n- 蒜头：2 瓣\r\n- 辣椒：4 个\r\n- 花椒：6 粒（不喜欢可以不放，或者放花椒水）\r\n- 盐：5g\r\n- 鸡精：3g\r\n- 老抽：8ml\r\n- 蚝油：5ml\r\n- 食用油：10-15ml",
+  "calculationNotes": [
+    "注意，此数值大约是 2 个人的量。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "芹菜去叶切段、切成不超过 4cm 的条状，备用"
+    },
+    {
+      "kind": "step",
+      "description": "香干切条，宽约小拇指，备用"
+    },
+    {
+      "kind": "step",
+      "description": "蒜头切片或者剁成蒜泥都行，备用"
+    },
+    {
+      "kind": "step",
+      "description": "辣椒切圈或者斜切成条都行，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "放入花椒、大蒜爆香（可以吃姜的也可以额外放入一些姜片/姜丝）"
+    },
+    {
+      "kind": "step",
+      "description": "加入猪肉炒至变色，再加入 8ml 老抽上色翻炒均匀（有豆瓣酱的，可以放入 3ml 豆瓣酱一起翻炒）"
+    },
+    {
+      "kind": "step",
+      "description": "加入香干翻炒均匀（大约 2 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入辣椒翻炒均匀（大约 1-2 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "加入芹菜，放入 5g 盐翻炒 1 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "加入 3g 鸡精、5ml 蚝油翻炒均匀，即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 芹菜去叶切段、切成不超过 4cm 的条状，备用\r\n2. 香干切条，宽约小拇指，备用\r\n3. 蒜头切片或者剁成蒜泥都行，备用\r\n4. 辣椒切圈或者斜切成条都行，备用\r\n5. 热锅，锅内放入 10ml - 15ml 食用油。等待 10 秒让油温升高\r\n6. 放入花椒、大蒜爆香（可以吃姜的也可以额外放入一些姜片/姜丝）\r\n7. 加入猪肉炒至变色，再加入 8ml 老抽上色翻炒均匀（有豆瓣酱的，可以放入 3ml 豆瓣酱一起翻炒）\r\n8. 加入香干翻炒均匀（大约 2 分钟）\r\n9. 加入辣椒翻炒均匀（大约 1-2 分钟）\r\n10. 加入芹菜，放入 5g 盐翻炒 1 分钟\r\n11. 加入 3g 鸡精、5ml 蚝油翻炒均匀，即可出锅",
+  "tips": "- 如果没有买到香芹，或者用的芹菜比较粗，可以考虑焯水，放入滚水中 1 分钟捞出，冷水冲洗（保持爽脆）\r\n- 如果买到的豆干比较硬、紧实，也可以切条后再焯水\r\n- [香干芹菜炒肉教程](https://www.xiachufang.com/recipe/105987156/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果没有买到香芹，或者用的芹菜比较粗，可以考虑焯水，放入滚水中 1 分钟捞出，冷水冲洗（保持爽脆）\r\n- 如果买到的豆干比较硬、紧实，也可以切条后再焯水\r\n- [香干芹菜炒肉教程](https://www.xiachufang.com/recipe/105987156/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/dcc1781e-ba7b-4005-a851-eac346faf398_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md"
+  },
+  "hash": "b8d5eb9088203e97b4f2eac8c70c3eca4762edf2a886d780dfda676d2bd73324"
+}

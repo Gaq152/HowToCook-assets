@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "id": "7f519e10-7d66-4951-90b3-a432d8186655",
+  "legacyIds": [
+    "breakfast_86643b0a"
+  ],
+  "name": "燕麦鸡蛋饼",
+  "description": "燕麦鸡蛋饼是一道快手营养早餐，口感软嫩，带有燕麦的谷物香气与蛋奶的醇厚，属于家常简约风格。富含蛋白质、碳水化合物和膳食纤维，能为身体提供充足能量，尤其适合健身人士和工作日早晨。做法简单，对新手友好，从备料到出锅通常只需十几分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 535,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "燕麦",
+      "markdown": "燕麦",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶 50-100g，能够将燕麦搅拌粘稠即可",
+      "markdown": "牛奶 50-100g，能够将燕麦搅拌粘稠即可",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可根据口味选择增加 50g 蔬菜，如菠菜。",
+      "markdown": "可根据口味选择增加 50g 蔬菜，如菠菜。",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 燕麦\r\n- 牛奶 50-100g，能够将燕麦搅拌粘稠即可\r\n- 可根据口味选择增加 50g 蔬菜，如菠菜。",
+  "ingredients": [
+    {
+      "name": "鸡蛋两个",
+      "text": "鸡蛋两个，亦可选择两个蛋清，一个蛋黄。",
+      "optional": true,
+      "source": "calculation-list"
+    },
+    {
+      "name": "纯干燕麦片",
+      "text": "纯干燕麦片 50g （大约等同一个鸡蛋的量）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶一盒 约",
+      "text": "牛奶一盒 约 250ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蔬菜碎叶一把",
+      "text": "蔬菜碎叶一把",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 鸡蛋两个，亦可选择两个蛋清，一个蛋黄。\r\n- 纯干燕麦片 50g （大约等同一个鸡蛋的量）\r\n- 牛奶一盒 约 250ml\r\n- 蔬菜碎叶一把",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将牛奶与干燕麦混合搅拌均匀至黏稠状。"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋搅拌均匀至颜色单一程度。"
+    },
+    {
+      "kind": "step",
+      "description": "将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "平底锅中加入一层黄油并覆盖均匀。"
+    },
+    {
+      "kind": "step",
+      "description": "下入搅拌好的食材，并摊开至饼状。"
+    },
+    {
+      "kind": "step",
+      "description": "小火加热两到三分钟。如想要加入蔬菜，可以在加热过程中加入碎菜叶。"
+    },
+    {
+      "kind": "step",
+      "description": "翻面继续加热两分钟。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅，搭配剩下的牛奶作为早餐。"
+    }
+  ],
+  "operationMarkdown": "1. 将牛奶与干燕麦混合搅拌均匀至黏稠状。\r\n2. 将鸡蛋搅拌均匀至颜色单一程度。\r\n3. 将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀。\r\n4. 平底锅中加入一层黄油并覆盖均匀。\r\n5. 下入搅拌好的食材，并摊开至饼状。\r\n6. 小火加热两到三分钟。如想要加入蔬菜，可以在加热过程中加入碎菜叶。\r\n7. 翻面继续加热两分钟。\r\n8. 出锅，搭配剩下的牛奶作为早餐。",
+  "tips": "- 如果口味偏咸口，可以在搅拌鸡蛋液时加入盐，胡椒等调料。\r\n- 煎饼时使用小火，避免燕麦部分煎糊。\r\n\r\n### 营养成分\r\n\r\n一份上述早餐的预估营养价值（三大营养素）如下，供热爱健身人群参考*。\r\n\r\n- 碳水化合物：39g\r\n- 蛋白质：30g\r\n- 脂肪：19g\r\n- 总热量：450kcal\r\n\r\n*： 牛奶按照常见的 250ml 计算\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 如果口味偏咸口，可以在搅拌鸡蛋液时加入盐，胡椒等调料。\r\n- 煎饼时使用小火，避免燕麦部分煎糊。\r\n\r\n### 营养成分\r\n\r\n一份上述早餐的预估营养价值（三大营养素）如下，供热爱健身人群参考*。\r\n\r\n- 碳水化合物：39g\r\n- 蛋白质：30g\r\n- 脂肪：19g\r\n- 总热量：450kcal\r\n\r\n*： 牛奶按照常见的 250ml 计算\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/燕麦鸡蛋饼.md"
+  },
+  "hash": "aec1961df1db41029c06a12eb76d441492aa0866c43e3d0c619738de9c1454d3"
+}

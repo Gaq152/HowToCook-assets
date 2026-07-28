@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "id": "acbce2ba-985d-447d-a1cd-518e4c182cd3",
+  "legacyIds": [
+    "dessert_b25b5b03"
+  ],
+  "name": "草莓冰淇淋",
+  "description": "这是一道不需要搅拌机就能轻松制作的家常草莓冰淇淋，果香浓郁、口感绵密。草莓富含维生素 C，搭配奶香四溢的炼乳和奶油，能提供能量和钙质。做法简单不考验厨艺，新手也能一次成功。全程制作耗时约八小时，其中大部分是冷冻时间，实际动手只需短短几十分钟。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 1653,
+  "requirements": [
+    {
+      "text": "加糖炼乳",
+      "markdown": "加糖炼乳",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "草莓",
+      "markdown": "草莓",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "重奶油",
+      "markdown": "重奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香草精",
+      "markdown": "香草精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰淇淋模具（可选）",
+      "markdown": "冰淇淋模具（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 加糖炼乳\r\n- 草莓\r\n- 重奶油\r\n- 香草精\r\n- 冰淇淋模具（可选）",
+  "ingredients": [
+    {
+      "name": "草莓糖浆",
+      "text": "草莓糖浆:",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "草莓",
+      "text": "草莓 500 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 45 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香草精",
+      "text": "香草精 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰淇淋底料",
+      "text": "冰淇淋底料:",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香草精",
+      "text": "香草精 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "重奶油",
+      "text": "重奶油 6 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "加糖炼乳",
+      "text": "加糖炼乳 400 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "一份：\r\n\r\n- 草莓糖浆:\r\n- 草莓 500 克\r\n- 白砂糖 45 克\r\n- 香草精 1 克\r\n- 食盐 1 克\r\n- 冰淇淋底料:\r\n- 香草精 5 克\r\n- 食盐 1 克\r\n- 重奶油 6 克\r\n- 加糖炼乳 400 克",
+  "calculationNotes": [
+    "一份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "先做草莓糖浆。把草莓洗干净，去掉顶部叶子。将草莓切成 **5mm** 的小块。保留一半切碎的草莓，稍后折叠成冰淇淋。"
+    },
+    {
+      "kind": "step",
+      "description": "将另一半切碎的草莓和糖一起放入酱汁锅中。用中火搅拌和烹饪，直到草莓释放液体并在锅中形成糖浆。"
+    },
+    {
+      "kind": "step",
+      "description": "让草莓在糖浆中加热，不时搅拌，直到它们分解并变形，糖浆稍微变稠。"
+    },
+    {
+      "kind": "step",
+      "description": "当糖浆保持分开 **3秒钟** 时，就已经准备好了。把糖浆从火上移开，加入香草和盐搅拌。将草莓糖浆放在一边冷却。"
+    },
+    {
+      "kind": "step",
+      "description": "当糖浆冷却时，准备冰淇淋基料。在碗中加入甜炼乳、浓奶油、香草精和盐。使用手动搅拌器搅打混合物，直到它变得轻盈蓬松，并形成柔软的尖峰。"
+    },
+    {
+      "kind": "step",
+      "description": "将保留的切碎的新鲜草莓折叠到冰淇淋底座中。将生过的冰淇淋底座转移到冷冻安全容器中。将冷却的草莓糖浆淋在冰淇淋上，然后轻轻地将其旋入混合物中。"
+    },
+    {
+      "kind": "step",
+      "description": "盖上冰淇淋并冷冻 **八小时** ，然后舀取和食用。"
+    }
+  ],
+  "operationMarkdown": "1. 先做草莓糖浆。把草莓洗干净，去掉顶部叶子。将草莓切成 **5mm** 的小块。保留一半切碎的草莓，稍后折叠成冰淇淋。\r\n2. 将另一半切碎的草莓和糖一起放入酱汁锅中。用中火搅拌和烹饪，直到草莓释放液体并在锅中形成糖浆。\r\n3. 让草莓在糖浆中加热，不时搅拌，直到它们分解并变形，糖浆稍微变稠。\r\n4. 当糖浆保持分开 **3秒钟** 时，就已经准备好了。把糖浆从火上移开，加入香草和盐搅拌。将草莓糖浆放在一边冷却。\r\n5. 当糖浆冷却时，准备冰淇淋基料。在碗中加入甜炼乳、浓奶油、香草精和盐。使用手动搅拌器搅打混合物，直到它变得轻盈蓬松，并形成柔软的尖峰。\r\n6. 将保留的切碎的新鲜草莓折叠到冰淇淋底座中。将生过的冰淇淋底座转移到冷冻安全容器中。将冷却的草莓糖浆淋在冰淇淋上，然后轻轻地将其旋入混合物中。\r\n7. 盖上冰淇淋并冷冻 **八小时** ，然后舀取和食用。",
+  "tips": "- 制作过程中注意安全，避免割/烫到手。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 制作过程中注意安全，避免割/烫到手。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
+  },
+  "hash": "a5a28004d7ef66ad3844d451b2637360d3e25513e431acd2bf899cb935328f0a"
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 2,
+  "id": "f28ba20a-d586-42ef-95d7-6372b29f2960",
+  "legacyIds": [
+    "meat_dish_71197600"
+  ],
+  "name": "蒜苔炒肉末",
+  "description": "蒜苔炒肉末是北方家常菜，咸鲜脆嫩，蒜香浓郁。蒜苔富含膳食纤维和维生素，五花肉提供蛋白质，荤素搭配均衡。做法简单，备料轻松，新手也能快速上手。从切配到出锅大约只需 10 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 258,
+  "requirements": [
+    {
+      "text": "五花肉薄片",
+      "markdown": "五花肉薄片",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜苔",
+      "markdown": "蒜苔",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜瓣",
+      "markdown": "蒜瓣",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 五花肉薄片\r\n- 蒜苔\r\n- 食用盐\r\n- 生抽\r\n- 食用油\r\n- 蒜瓣",
+  "ingredients": [
+    {
+      "name": "蒜苔",
+      "text": "蒜苔 1 扎（每扎蒜苔约 190g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五花肉薄片",
+      "text": "五花肉薄片 4 片（约 20g）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜瓣",
+      "text": "蒜瓣 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食盐",
+      "text": "食盐 2g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "1 人食用版本\r\n\r\n- 蒜苔 1 扎（每扎蒜苔约 190g）\r\n- 五花肉薄片 4 片（约 20g）\r\n- 食用油 10ml\r\n- 蒜瓣 2 瓣\r\n- 生抽 15ml\r\n- 食盐 2g",
+  "calculationNotes": [
+    "1 人食用版本"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "蒜苔切成 5cm 小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "五花肉切成 5mm * 5cm 丝状，备用"
+    },
+    {
+      "kind": "step",
+      "description": "蒜瓣拍碎切成末，备用"
+    },
+    {
+      "kind": "step",
+      "description": "热锅，锅内放入 10ml 食用油。等待 10 秒让油温升高"
+    },
+    {
+      "kind": "step",
+      "description": "放入蒜末，中火翻炒 **10 秒** 将蒜末炒出香味"
+    },
+    {
+      "kind": "step",
+      "description": "放入五花肉和 5ml 生抽，中火翻炒 **30 秒** 将肉炒熟并上色"
+    },
+    {
+      "kind": "step",
+      "description": "将蒜苔放入锅内并加入 10ml 生抽，翻炒 **30 秒**"
+    },
+    {
+      "kind": "step",
+      "description": "锅内加入 20g 水，中火翻炒 **5 分钟** 将蒜苔炒至稍稍变软"
+    },
+    {
+      "kind": "step",
+      "description": "最后加入 2g 食盐，中火翻炒 **30 秒**，即可出锅装盘"
+    }
+  ],
+  "operationMarkdown": "1. 蒜苔切成 5cm 小段，备用\r\n2. 五花肉切成 5mm * 5cm 丝状，备用\r\n3. 蒜瓣拍碎切成末，备用\r\n4. 热锅，锅内放入 10ml 食用油。等待 10 秒让油温升高\r\n5. 放入蒜末，中火翻炒 **10 秒** 将蒜末炒出香味\r\n6. 放入五花肉和 5ml 生抽，中火翻炒 **30 秒** 将肉炒熟并上色\r\n7. 将蒜苔放入锅内并加入 10ml 生抽，翻炒 **30 秒**\r\n8. 锅内加入 20g 水，中火翻炒 **5 分钟** 将蒜苔炒至稍稍变软\r\n9. 最后加入 2g 食盐，中火翻炒 **30 秒**，即可出锅装盘",
+  "tips": "- 加入食盐前可尝一下咸淡，自行决定是否增减盐量\r\n- 选用五花肉薄片是因为切肉简单且不用腌制即可入味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 加入食盐前可尝一下咸淡，自行决定是否增减盐量\r\n- 选用五花肉薄片是因为切肉简单且不用腌制即可入味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/蒜苔炒肉末.md"
+  },
+  "hash": "dc0977f1039cb0f861f99d1b1af2562f68e28682aa39cfdab6af7870a5e279bc"
+}

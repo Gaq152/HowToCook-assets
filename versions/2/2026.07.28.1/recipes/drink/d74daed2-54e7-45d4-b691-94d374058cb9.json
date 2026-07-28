@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "d74daed2-54e7-45d4-b691-94d374058cb9",
+  "legacyIds": [
+    "drink_a3cda7a8"
+  ],
+  "name": "Mojito莫吉托",
+  "description": "这款鸡尾酒口感清爽酸甜，带有薄荷的清凉和朗姆酒的微醺，是经典的夏季饮品。酒精含量较低，佐以富含维生素 C 的青柠，能生津解渴、提神醒脑。制作十分简单，对新手友好，从备料到完成只需大约十 分钟。",
+  "category": "drink",
+  "categoryName": "饮料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 187,
+  "requirements": [
+    {
+      "text": "打碎的冰块",
+      "markdown": "打碎的冰块",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰镇苏打水",
+      "markdown": "冰镇苏打水",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "压汁器",
+      "markdown": "压汁器",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "海波杯",
+      "markdown": "海波杯",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "研杵",
+      "markdown": "研杵",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 打碎的冰块\r\n- 冰镇苏打水\r\n- 压汁器\r\n- 海波杯\r\n- 研杵",
+  "ingredients": [
+    {
+      "name": "一块青柠（切成两个半块）",
+      "text": "一块青柠（切成两个半块）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "五珠薄荷叶",
+      "text": "五珠薄荷叶",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖浆",
+      "text": "糖浆 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "金色朗姆酒",
+      "text": "金色朗姆酒 45ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蓝天原味伏特加",
+      "text": "蓝天原味伏特加 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 一块青柠（切成两个半块）\r\n- 五珠薄荷叶\r\n- 糖浆 20ml\r\n- 金色朗姆酒 45ml\r\n- 蓝天原味伏特加 10ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁；"
+    },
+    {
+      "kind": "step",
+      "description": "用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中；"
+    },
+    {
+      "kind": "step",
+      "description": "加入 糖浆 20ml；"
+    },
+    {
+      "kind": "step",
+      "description": "加入 金色朗姆酒 45ml；"
+    },
+    {
+      "kind": "step",
+      "description": "将剩下的半块青柠压出汁水放入杯中；"
+    },
+    {
+      "kind": "step",
+      "description": "轻轻搅拌，使砂糖/糖浆处于半融合状态；"
+    },
+    {
+      "kind": "step",
+      "description": "将打碎的冰块放入杯中，直到占杯中 3/4；"
+    },
+    {
+      "kind": "step",
+      "description": "加入冰镇苏打水直到刚好淹没碎冰；"
+    },
+    {
+      "kind": "step",
+      "description": "旋转搅拌半分钟；"
+    },
+    {
+      "kind": "step",
+      "description": "使用碎冰将海波杯补满；"
+    },
+    {
+      "kind": "step",
+      "description": "将剩下的一株薄荷叶拍醒，插入碎冰，作装饰。"
+    }
+  ],
+  "operationMarkdown": "1. 将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁；\r\n2. 用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中；\r\n3. 加入 糖浆 20ml；\r\n4. 加入 金色朗姆酒 45ml；\r\n5. 将剩下的半块青柠压出汁水放入杯中；\r\n6. 轻轻搅拌，使砂糖/糖浆处于半融合状态；\r\n7. 将打碎的冰块放入杯中，直到占杯中 3/4；\r\n8. 加入冰镇苏打水直到刚好淹没碎冰；\r\n9. 旋转搅拌半分钟；\r\n10. 使用碎冰将海波杯补满；\r\n11. 将剩下的一株薄荷叶拍醒，插入碎冰，作装饰。",
+  "tips": "- 参考资料：[【哔哩哔哩】莫吉托(Mojito)世界上最著名的经典鸡尾酒之一。](https://www.bilibili.com/video/BV1jg4y187kB)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 参考资料：[【哔哩哔哩】莫吉托(Mojito)世界上最著名的经典鸡尾酒之一。](https://www.bilibili.com/video/BV1jg4y187kB)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/drink/Mojito莫吉托.md"
+  },
+  "hash": "7508093166eb54915777305e5561e8b84a8ad168482f65c1f0ded7490b2fa388"
+}

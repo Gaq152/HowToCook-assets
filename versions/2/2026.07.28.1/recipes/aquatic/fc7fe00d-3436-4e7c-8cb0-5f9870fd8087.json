@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "id": "fc7fe00d-3436-4e7c-8cb0-5f9870fd8087",
+  "legacyIds": [
+    "aquatic_5ee1668c"
+  ],
+  "name": "干煎阿根廷红虾",
+  "description": "一道鲜美诱人的海鲜快手菜，煎制后的阿根廷红虾肉质白嫩，口感鲜甜浓郁，虾壳酥香。富含碘、磷和虾青素等微量元素，有助于增强免疫力、保护心脏并降低胆固醇。难度适中，需要掌握火候和翻面技巧，但步骤清晰，新手按操作来也能成功。预计 大约 20 分钟即可完成。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 309,
+  "requirements": [
+    {
+      "text": "阿根廷红虾（选用了速冻虾）",
+      "markdown": "阿根廷红虾（选用了速冻虾）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "海盐（研磨装）",
+      "markdown": "海盐（研磨装）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黑胡椒（研磨装）",
+      "markdown": "黑胡椒（研磨装）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白葡萄酒",
+      "markdown": "白葡萄酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜",
+      "markdown": "香菜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "柠檬",
+      "markdown": "柠檬",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生姜",
+      "markdown": "生姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 阿根廷红虾（选用了速冻虾）\r\n- 海盐（研磨装）\r\n- 黑胡椒（研磨装）\r\n- 白葡萄酒\r\n- 生抽\r\n- 香菜\r\n- 柠檬\r\n- 洋葱\r\n- 生姜\r\n- 大蒜",
+  "ingredients": [
+    {
+      "name": "阿根廷红虾",
+      "text": "阿根廷红虾 2-3 只",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "海盐",
+      "text": "海盐 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黑胡椒（研磨装）",
+      "text": "黑胡椒（研磨装）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白葡萄酒",
+      "text": "白葡萄酒 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 1ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香菜",
+      "text": "香菜 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "柠檬",
+      "text": "柠檬 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生姜",
+      "text": "生姜 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜",
+      "text": "大蒜 10g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 阿根廷红虾 2-3 只\r\n- 海盐 5g\r\n- 黑胡椒（研磨装）\r\n- 白葡萄酒 20ml\r\n- 生抽 1ml\r\n- 香菜 3 片\r\n- 柠檬 1 片\r\n- 洋葱 10g\r\n- 生姜 10g\r\n- 大蒜 10g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "阿根廷红虾解冻，最好是提前 1 天从速冻取出放到冷藏里自然解冻，能更好保持风味和口感。可买已经开背去虾线的，节省了不少时间"
+    },
+    {
+      "kind": "step",
+      "description": "解冻好的红虾洗净擦干备用，注意这里一定要沥干水分，赶时间可以用厨房用纸吸干水分"
+    },
+    {
+      "kind": "step",
+      "description": "生姜切片，洋葱切小方块，香菜洗干净后，叶茎分离，把香菜叶切碎，大蒜压碎切成小块碎末"
+    },
+    {
+      "kind": "step",
+      "description": "大火热锅，热锅后倒入两调羹橄榄油，等油温升高后，放入生姜片，洋葱块和香菜茎煸炒"
+    },
+    {
+      "kind": "step",
+      "description": "约 1 分钟后取出生姜，洋葱和香菜茎，弃用"
+    },
+    {
+      "kind": "step",
+      "description": "调中大火，放入红虾开始煎，注意所有虾需要单面都完整接触平底锅，煎约 2 分钟，同时给每只虾刷上一层油"
+    },
+    {
+      "kind": "step",
+      "description": "待底面虾壳有微微焦黄时翻面，并撒入大蒜碎末，轻微晃动平底锅使得受热均匀"
+    },
+    {
+      "kind": "step",
+      "description": "约 1 分钟后添加 20ml 白葡萄酒"
+    },
+    {
+      "kind": "step",
+      "description": "再煎 1 分钟后调中小火，均匀撒上一层盐和黑胡椒"
+    },
+    {
+      "kind": "step",
+      "description": "给每只虾滴上一滴生抽"
+    },
+    {
+      "kind": "step",
+      "description": "撒上香菜叶，装盘"
+    },
+    {
+      "kind": "step",
+      "description": "切好柠檬片，摆放到盘边即可"
+    }
+  ],
+  "operationMarkdown": "1. 阿根廷红虾解冻，最好是提前 1 天从速冻取出放到冷藏里自然解冻，能更好保持风味和口感。可买已经开背去虾线的，节省了不少时间\r\n2. 解冻好的红虾洗净擦干备用，注意这里一定要沥干水分，赶时间可以用厨房用纸吸干水分\r\n3. 生姜切片，洋葱切小方块，香菜洗干净后，叶茎分离，把香菜叶切碎，大蒜压碎切成小块碎末\r\n4. 大火热锅，热锅后倒入两调羹橄榄油，等油温升高后，放入生姜片，洋葱块和香菜茎煸炒\r\n5. 约 1 分钟后取出生姜，洋葱和香菜茎，弃用\r\n6. 调中大火，放入红虾开始煎，注意所有虾需要单面都完整接触平底锅，煎约 2 分钟，同时给每只虾刷上一层油\r\n7. 待底面虾壳有微微焦黄时翻面，并撒入大蒜碎末，轻微晃动平底锅使得受热均匀\r\n8. 约 1 分钟后添加 20ml 白葡萄酒\r\n9. 再煎 1 分钟后调中小火，均匀撒上一层盐和黑胡椒\r\n10. 给每只虾滴上一滴生抽\r\n11. 撒上香菜叶，装盘\r\n12. 切好柠檬片，摆放到盘边即可",
+  "tips": "- 柠檬可提升虾的口感，但偏酸，可以根据喜好添加，也可以不用\r\n- 趁热吃\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 柠檬可提升虾的口感，但偏酸，可以根据喜好添加，也可以不用\r\n- 趁热吃\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/fc7fe00d-3436-4e7c-8cb0-5f9870fd8087_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md"
+  },
+  "hash": "ce99d7ff01b832bd176fe1a14fd9e5aa1e520218d233520f70fd65b15469bef9"
+}

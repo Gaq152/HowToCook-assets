@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "id": "addd859b-ccd1-4678-9878-b51042ca5837",
+  "legacyIds": [
+    "vegetable_dish_68e6de93"
+  ],
+  "name": "小炒藕丁",
+  "description": "小炒藕丁是一道快手家常素菜，藕丁脆嫩爽口，咸鲜中带着微微辣意，非常下饭。莲藕富含膳食纤维和维生素，有助于清热润燥。制作简单，只要注意藕丁焯水和调味，厨房新手也能轻松完成。全程大约 20 分钟就能端上餐桌。",
+  "category": "vegetable_dish",
+  "categoryName": "素菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 214,
+  "requirements": [
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "小米辣",
+      "markdown": "小米辣",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "莲藕",
+      "markdown": "莲藕",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽",
+      "markdown": "生抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽",
+      "markdown": "老抽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "耗油",
+      "markdown": "耗油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大葱\r\n- 小米辣\r\n- 莲藕\r\n- 生抽\r\n- 老抽\r\n- 耗油\r\n- 油",
+  "ingredients": [
+    {
+      "name": "大葱",
+      "text": "大葱 1 段",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "小米辣",
+      "text": "小米辣 1-2 根 （看个人吃辣程度）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "莲藕",
+      "text": "莲藕 1 段",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "耗油",
+      "text": "耗油 15 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 大葱 1 段\r\n- 小米辣 1-2 根 （看个人吃辣程度）\r\n- 莲藕 1 段\r\n- 生抽 30 ml\r\n- 老抽 15 ml\r\n- 耗油 15 ml\r\n- 食用油 10-15ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "大葱、小米辣切小段，备用"
+    },
+    {
+      "kind": "step",
+      "description": "莲藕去皮，切成不超过 3cm 的小块，放入水中备用（防止氧化发黑）"
+    },
+    {
+      "kind": "step",
+      "description": "取炒锅，锅内放入 500ml 凉水，煮沸"
+    },
+    {
+      "kind": "step",
+      "description": "将藕丁下入沸水中，焯水 2 分钟后，取出放入盘中备用"
+    },
+    {
+      "kind": "step",
+      "description": "将锅中水倒掉后，将锅加热干燥，加入 10-15 ml 食用油"
+    },
+    {
+      "kind": "step",
+      "description": "待油温升高后，下入葱花，小米辣爆香"
+    },
+    {
+      "kind": "step",
+      "description": "将处理好的藕丁下入锅中，大火翻炒"
+    },
+    {
+      "kind": "step",
+      "description": "加入生抽、老抽、耗油"
+    },
+    {
+      "kind": "step",
+      "description": "翻炒 2 分钟即可出锅"
+    }
+  ],
+  "operationMarkdown": "1. 大葱、小米辣切小段，备用\r\n2. 莲藕去皮，切成不超过 3cm 的小块，放入水中备用（防止氧化发黑）\r\n3. 取炒锅，锅内放入 500ml 凉水，煮沸\r\n4. 将藕丁下入沸水中，焯水 2 分钟后，取出放入盘中备用\r\n5. 将锅中水倒掉后，将锅加热干燥，加入 10-15 ml 食用油\r\n6. 待油温升高后，下入葱花，小米辣爆香\r\n7. 将处理好的藕丁下入锅中，大火翻炒\r\n8. 加入生抽、老抽、耗油\r\n9. 翻炒 2 分钟即可出锅",
+  "tips": "- 食用莲藕要挑选外皮呈黄褐色、肉肥厚而白的。如果发黑，有异味，则不宜食用。\r\n- 请尽量不要使用铁器，会导致莲藕发黑\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 食用莲藕要挑选外皮呈黄褐色、肉肥厚而白的。如果发黑，有异味，则不宜食用。\r\n- 请尽量不要使用铁器，会导致莲藕发黑\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/vegetable_dish/addd859b-ccd1-4678-9878-b51042ca5837_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md"
+  },
+  "hash": "98928ce910891c0ac7baf7415d0fd5e920f1c680d6a52b8144ccb22eb9c30d21"
+}

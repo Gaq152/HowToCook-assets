@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "id": "dabc7c1d-aae3-4d5d-81b6-389ffdbf6a11",
+  "legacyIds": [
+    "meat_dish_961cfd00"
+  ],
+  "name": "奶酪培根通心粉",
+  "description": "奶酪培根通心粉是经典美式家常菜，口感浓郁绵密，奶酪包裹弹牙通心粉，搭配香脆培根，咸香满足。富含蛋白质与钙质，但热量和脂肪较高，建议偶尔享用。制作需要一定耐心，掌握基础白酱和火候对新手略有挑战，整体难度中等。不烘烤时约 30 分钟即可上桌，若选择烘烤需额外预热和烤制，总时长约 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 728,
+  "requirements": [
+    {
+      "text": "通心粉",
+      "markdown": "通心粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "奶酪",
+      "markdown": "奶酪",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉类",
+      "markdown": "肉类",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "面粉",
+      "markdown": "面粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "牛奶",
+      "markdown": "牛奶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 通心粉\r\n- 奶酪\r\n- 肉类\r\n- 洋葱\r\n- 黄油\r\n- 面粉\r\n- 牛奶\r\n- 大蒜",
+  "ingredients": [
+    {
+      "name": "通心粉",
+      "text": "通心粉 100-125g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "奶酪",
+      "text": "奶酪 40-55g，若要烘烤额外准备 25g， 条状",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "培根或其他肉类",
+      "text": "培根或其他肉类 100-125g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 25g-40g 切成碎",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 15g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "面粉",
+      "text": "面粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "牛奶",
+      "text": "牛奶 125ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜半瓣",
+      "text": "大蒜半瓣，切碎",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n- 通心粉 100-125g\r\n- 奶酪 40-55g，若要烘烤额外准备 25g， 条状\r\n- 培根或其他肉类 100-125g\r\n- 洋葱 25g-40g 切成碎\r\n- 黄油 15g\r\n- 面粉 10g\r\n- 牛奶 125ml\r\n- 大蒜半瓣，切碎",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。"
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "奶酪要磨成碎末"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切成条状"
+    },
+    {
+      "kind": "step",
+      "description": "通心粉用微咸的水煮 6 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "**中火**"
+    },
+    {
+      "kind": "step",
+      "description": "锅中放入黄油，等待融化"
+    },
+    {
+      "kind": "step",
+      "description": "加入洋葱"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱软化后加入大蒜"
+    },
+    {
+      "kind": "step",
+      "description": "大蒜香味出来后，加入肉类，等待 5 秒"
+    },
+    {
+      "kind": "step",
+      "description": "**小火**"
+    },
+    {
+      "kind": "step",
+      "description": "分四次加入牛奶，每次搅拌 5 秒后再加下一次"
+    },
+    {
+      "kind": "step",
+      "description": "加入面粉并充分搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "加入奶酪并搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将通心粉和奶酪搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "如果不打算烘烤，可以直接吃了"
+    },
+    {
+      "kind": "step",
+      "description": "**烘烤：**"
+    },
+    {
+      "kind": "step",
+      "description": "预热烤箱至 180°C"
+    },
+    {
+      "kind": "step",
+      "description": "将额外的 50g 芝士铺在通心粉之上"
+    },
+    {
+      "kind": "step",
+      "description": "等待烤箱预热至 180°C 后，将通心粉放入"
+    },
+    {
+      "kind": "step",
+      "description": "烤至表面金黄,约 24 分钟"
+    }
+  ],
+  "operationMarkdown": "1. 奶酪要磨成碎末\r\n2. 洋葱切成条状\r\n3. 通心粉用微咸的水煮 6 分钟\r\n4. **中火**\r\n5. 锅中放入黄油，等待融化\r\n6. 加入洋葱\r\n7. 洋葱软化后加入大蒜\r\n8. 大蒜香味出来后，加入肉类，等待 5 秒\r\n9. **小火**\r\n10. 分四次加入牛奶，每次搅拌 5 秒后再加下一次\r\n11. 加入面粉并充分搅拌\r\n12. 加入奶酪并搅拌均匀\r\n13. 将通心粉和奶酪搅拌\r\n14. 如果不打算烘烤，可以直接吃了\r\n15. **烘烤：**\r\n16. 预热烤箱至 180°C\r\n17. 将额外的 50g 芝士铺在通心粉之上\r\n18. 等待烤箱预热至 180°C 后，将通心粉放入\r\n19. 烤至表面金黄,约 24 分钟",
+  "tips": "本料理及其不健康，有大约 1300 大卡，80g 脂肪，不建议常吃。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "本料理及其不健康，有大约 1300 大卡，80g 脂肪，不建议常吃。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/dabc7c1d-aae3-4d5d-81b6-389ffdbf6a11_0.webp",
+    "images/meat_dish/dabc7c1d-aae3-4d5d-81b6-389ffdbf6a11_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
+  },
+  "hash": "9e09c4207412b28886be8887ae8455215e6708d22e676ec3b2d77657ee8dd820"
+}

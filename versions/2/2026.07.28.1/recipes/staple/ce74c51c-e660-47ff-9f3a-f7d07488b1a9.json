@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "id": "ce74c51c-e660-47ff-9f3a-f7d07488b1a9",
+  "legacyIds": [
+    "staple_5b8e7b4c"
+  ],
+  "name": "意式肉酱面",
+  "description": "意式肉酱面是一道简单快手的家常西餐，酱汁浓郁、面条筋道，适合忙碌的日常。肉末和洋葱搭配成品意面酱，能快速补充蛋白质与碳水化合物，洋葱还含有膳食纤维。做法对初学者十分友好，全程只需简单切炒，熟练后 15 分钟就能端上桌，比方便面更满足。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 1,
+  "estimatedCaloriesKcal": 1199,
+  "requirements": [
+    {
+      "text": "意大利面",
+      "markdown": "意大利面",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "意大利面酱",
+      "markdown": "意大利面酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "肉沫",
+      "markdown": "肉沫",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白洋葱（紫洋葱也可以）",
+      "markdown": "白洋葱（紫洋葱也可以）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 意大利面\r\n- 意大利面酱\r\n- 肉沫\r\n- 白洋葱（紫洋葱也可以）",
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "text": "意大利面 180 克（可以根据食量上下浮动）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "肉沫",
+      "text": "肉沫 80 克（可以根据食量上下浮动）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱大半个 （大约",
+      "text": "洋葱大半个 （大约 150 克，通常是肉的两倍重）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "意大利面酱",
+      "text": "意大利面酱 300 克（可以看情况上下浮动）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每次制作前需要确定计划做几份。一份正好够 2 个人吃。\r\n\r\n每份：\r\n\r\n- 意大利面 180 克（可以根据食量上下浮动）\r\n- 肉沫 80 克（可以根据食量上下浮动）\r\n- 洋葱大半个 （大约 150 克，通常是肉的两倍重）\r\n- 意大利面酱 300 克（可以看情况上下浮动）\r\n- 食用油 10-15ml",
+  "calculationNotes": [
+    "每次制作前需要确定计划做几份。一份正好够 2 个人吃。",
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "锅中加水，烧开后放入意面（等待 6 - 12 分钟）"
+    },
+    {
+      "kind": "step",
+      "description": "在烧水的时候可以进行下面这些步骤，但请注意煮面的时间"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切成小丁"
+    },
+    {
+      "kind": "step",
+      "description": "空锅中倒油，中火下入洋葱碎"
+    },
+    {
+      "kind": "step",
+      "description": "时刻搅拌，注意不要让洋葱烧糊，直到洋葱变成半透明状"
+    },
+    {
+      "kind": "step",
+      "description": "下入肉沫，继续搅拌（搅散），直到肉末变成棕色"
+    },
+    {
+      "kind": "step",
+      "description": "加入意大利面酱，稍微搅拌一下即可"
+    },
+    {
+      "kind": "step",
+      "description": "把煮好的意大利面沥干水分并倒入肉酱中搅拌均匀即可（或者直接把做好的肉酱倒在意面上也行）"
+    }
+  ],
+  "operationMarkdown": "1. 锅中加水，烧开后放入意面（等待 6 - 12 分钟）\r\n2. 在烧水的时候可以进行下面这些步骤，但请注意煮面的时间\r\n3. 洋葱切成小丁\r\n4. 空锅中倒油，中火下入洋葱碎\r\n5. 时刻搅拌，注意不要让洋葱烧糊，直到洋葱变成半透明状\r\n6. 下入肉沫，继续搅拌（搅散），直到肉末变成棕色\r\n7. 加入意大利面酱，稍微搅拌一下即可\r\n8. 把煮好的意大利面沥干水分并倒入肉酱中搅拌均匀即可（或者直接把做好的肉酱倒在意面上也行）",
+  "tips": "- 意大利面分为很多不同的粗细，煮面条之前请注意意面盒子上标注的时间\r\n- 意大利面酱并不是番茄酱，平常用的番茄酱准确是叫番茄沙司，而意大利面酱虽然和番茄沙司都是调味过的番茄酱，但加的调味料不同\r\n\r\n![不同种类的意面](./spaghetti.jpg)\r\n![意大利面酱](./sauce.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 意大利面分为很多不同的粗细，煮面条之前请注意意面盒子上标注的时间\r\n- 意大利面酱并不是番茄酱，平常用的番茄酱准确是叫番茄沙司，而意大利面酱虽然和番茄沙司都是调味过的番茄酱，但加的调味料不同\r\n\r\n![不同种类的意面](./spaghetti.jpg)\r\n![意大利面酱](./sauce.jpg)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/ce74c51c-e660-47ff-9f3a-f7d07488b1a9_0.webp",
+    "images/staple/ce74c51c-e660-47ff-9f3a-f7d07488b1a9_1.webp",
+    "images/staple/ce74c51c-e660-47ff-9f3a-f7d07488b1a9_2.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/意式肉酱面/意式肉酱面.md"
+  },
+  "hash": "47276d5677516bca510dff993f4f0261edaf7a7131cfeb8a8d4cb3bc174578bc"
+}

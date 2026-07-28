@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "id": "254b163d-4090-45ab-a2bc-4eee4cec2df2",
+  "legacyIds": [
+    "meat_dish_64e44d83"
+  ],
+  "name": "香菇滑鸡",
+  "description": "香菇滑鸡是一道以鸡腿肉和香菇为主料的家常菜，鸡腿肉经过煸炒和焖煮后口感滑嫩，搭配香菇独特的菌香，汤汁浓郁鲜美，属于老少皆宜的粤式风味。鸡肉富含优质蛋白质和多种氨基酸，香菇含有香菇多糖和膳食纤维，有助于增强免疫力和促进消化。这道菜需要一些刀工和火候控制，对新手有一定挑战，整体制作约需 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 608,
+  "requirements": [
+    {
+      "text": "大鸡腿",
+      "markdown": "大鸡腿",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干香菇",
+      "markdown": "干香菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱",
+      "markdown": "葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 大鸡腿\r\n- 干香菇\r\n- 姜\r\n- 葱\r\n- 蒜",
+  "ingredients": [
+    {
+      "name": "大鸡腿",
+      "text": "大鸡腿 2 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干香菇",
+      "text": "干香菇 5 粒",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 2 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 2 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 2 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "温水(30-40 ℃)",
+      "text": "温水(30-40 ℃) 150ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1.5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽",
+      "text": "老抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "糖",
+      "text": "糖 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香油",
+      "text": "香油 5ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 大鸡腿 2 个\r\n- 干香菇 5 粒\r\n- 姜 2 片\r\n- 葱 2 颗\r\n- 蒜 2 瓣\r\n- 温水(30-40 ℃) 150ml\r\n- 料酒 15ml\r\n- 生抽 30ml\r\n- 盐 1.5g\r\n- 老抽 15ml\r\n- 糖 15ml\r\n- 香油 5ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "温水泡发干香菇"
+    },
+    {
+      "kind": "step",
+      "description": "姜切小块，葱切段，蒜对半切小粒"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿去骨（不去骨也可，只是略影响程序员吃饭的效率而已），切成小块"
+    },
+    {
+      "kind": "step",
+      "description": "泡发的香菇一分为四，香菇水留着备用"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿肉焯水 1 分钟，去除血沫和杂质"
+    },
+    {
+      "kind": "step",
+      "description": "鸡腿肉中加料酒 15ml、生抽 15ml、盐 1.5g、老抽 15ml，抓匀"
+    },
+    {
+      "kind": "step",
+      "description": "油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用"
+    },
+    {
+      "kind": "step",
+      "description": "锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀"
+    },
+    {
+      "kind": "step",
+      "description": "等待 20 秒会有香菇香味从锅中飘出，此时下入煸炒过的鸡腿肉，下入香菇水（全部，**本程序员认为的灵魂操作**）、糖 15ml、生抽 30ml"
+    },
+    {
+      "kind": "step",
+      "description": "转中火不盖盖，咕嘟 2 分钟收浓汤汁，淋入香油 5ml，撒上葱花后即可关火、装盘"
+    }
+  ],
+  "operationMarkdown": "1. 温水泡发干香菇\r\n2. 姜切小块，葱切段，蒜对半切小粒\r\n3. 鸡腿去骨（不去骨也可，只是略影响程序员吃饭的效率而已），切成小块\r\n4. 泡发的香菇一分为四，香菇水留着备用\r\n5. 鸡腿肉焯水 1 分钟，去除血沫和杂质\r\n6. 鸡腿肉中加料酒 15ml、生抽 15ml、盐 1.5g、老抽 15ml，抓匀\r\n7. 油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用\r\n8. 锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀\r\n9. 等待 20 秒会有香菇香味从锅中飘出，此时下入煸炒过的鸡腿肉，下入香菇水（全部，**本程序员认为的灵魂操作**）、糖 15ml、生抽 30ml\r\n10. 转中火不盖盖，咕嘟 2 分钟收浓汤汁，淋入香油 5ml，撒上葱花后即可关火、装盘",
+  "tips": "- 鸡腿去骨操作较复杂，本人经验可供参考：\r\n  - 鸡腿于案板摆正，**骨头正对程序员**，从头部划一刀至最底部，刀口要深，确保有碰到骨头\r\n  - 用手扒拉肉到两边\r\n  - 用刀尖隔开骨头上沾着的肉\r\n  - 鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点\r\n  - 用刀尖切断最后的粘连即可\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 鸡腿去骨操作较复杂，本人经验可供参考：\r\n  - 鸡腿于案板摆正，**骨头正对程序员**，从头部划一刀至最底部，刀口要深，确保有碰到骨头\r\n  - 用手扒拉肉到两边\r\n  - 用刀尖隔开骨头上沾着的肉\r\n  - 鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点\r\n  - 用刀尖切断最后的粘连即可\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/254b163d-4090-45ab-a2bc-4eee4cec2df2_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md"
+  },
+  "hash": "291d6da29534c4921e4d6ce70f1c47856329262b8b7c9379db9fbea98d3b0bd4"
+}

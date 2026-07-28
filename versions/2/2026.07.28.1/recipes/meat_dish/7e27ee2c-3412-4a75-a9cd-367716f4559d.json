@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 2,
+  "id": "7e27ee2c-3412-4a75-a9cd-367716f4559d",
+  "legacyIds": [
+    "meat_dish_38608d65"
+  ],
+  "name": "茭白炒肉",
+  "description": "茭白炒肉是一道家常快手菜，口感鲜嫩爽脆，咸鲜适口，属于典型的江南家常风味。茭白富含膳食纤维和多种维生素，搭配瘦肉提供优质蛋白，荤素搭配均衡营养。烹饪难度中等，新手稍加练习即可掌握，预计制作时长约 20 分钟。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 515,
+  "requirements": [
+    {
+      "text": "茭白",
+      "markdown": "茭白",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "瘦肉",
+      "markdown": "瘦肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "淀粉",
+      "markdown": "淀粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用油",
+      "markdown": "食用油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "* 茭白\r\n* 瘦肉\r\n* 淀粉\r\n* 食用油\r\n* 鸡精\r\n* 姜\r\n* 蒜\r\n* 料酒\r\n* 盐",
+  "ingredients": [
+    {
+      "name": "茭白",
+      "text": "茭白 2 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "瘦肉",
+      "text": "瘦肉 100 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "淀粉",
+      "text": "淀粉 15 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 30 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5 g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 1 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜",
+      "text": "蒜 1 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 5 ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 2 g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n* 茭白 2 根\r\n* 瘦肉 100 g\r\n* 淀粉 15 g\r\n* 食用油 30 ml\r\n* 鸡精 5 g\r\n* 姜 1 片\r\n* 蒜 1 个\r\n* 料酒 5 ml\r\n* 盐 2 g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "section",
+      "title": "准备",
+      "description": "### 准备"
+    },
+    {
+      "kind": "step",
+      "description": "茭白切片，每片厚度 0.5 cm"
+    },
+    {
+      "kind": "step",
+      "description": "瘦肉切条，厚度 0.3-0.5 cm，加入料酒、生粉、盐、水搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "姜切片、蒜头剁碎"
+    },
+    {
+      "kind": "section",
+      "title": "制作",
+      "description": "### 制作"
+    },
+    {
+      "kind": "step",
+      "description": "起锅水烧开，放入茭白，水煮 60-90 S 后取出沥干"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，倒入 15 ml 油，倒入瘦肉，反复翻炒 60 S 取出"
+    },
+    {
+      "kind": "step",
+      "description": "起锅，倒入 15 ml 油，倒入姜、蒜翻炒 30S，加入茭白继续翻炒 30 S"
+    },
+    {
+      "kind": "step",
+      "description": "继续加入瘦肉翻炒 60 S，加入 20 ml 水，加入盐、鸡精后翻炒 60S 出锅"
+    }
+  ],
+  "operationMarkdown": "### 准备\r\n\r\n1. 茭白切片，每片厚度 0.5 cm\r\n2. 瘦肉切条，厚度 0.3-0.5 cm，加入料酒、生粉、盐、水搅拌\r\n3. 姜切片、蒜头剁碎\r\n\r\n### 制作\r\n\r\n1. 起锅水烧开，放入茭白，水煮 60-90 S 后取出沥干\r\n2. 起锅，倒入 15 ml 油，倒入瘦肉，反复翻炒 60 S 取出\r\n3. 起锅，倒入 15 ml 油，倒入姜、蒜翻炒 30S，加入茭白继续翻炒 30 S\r\n4. 继续加入瘦肉翻炒 60 S，加入 20 ml 水，加入盐、鸡精后翻炒 60S 出锅\r\n\r\n![茭白炒肉-预览图-1](./1.jpeg)\r\n![茭白炒肉-预览图-2](./2.jpeg)",
+  "tips": "* 最后一个步骤，可以考虑加蚝油、生抽代替盐上色\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "* 最后一个步骤，可以考虑加蚝油、生抽代替盐上色\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/7e27ee2c-3412-4a75-a9cd-367716f4559d_0.webp",
+    "images/meat_dish/7e27ee2c-3412-4a75-a9cd-367716f4559d_1.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md"
+  },
+  "hash": "9b7baba0dfd3a567bce873c18a9026221eedd953f6a81097da9abde5257f5dce"
+}

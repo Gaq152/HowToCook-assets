@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "id": "b3e1edae-5f28-46c0-aa23-c220f5a194b9",
+  "legacyIds": [
+    "staple_b6d28a64"
+  ],
+  "name": "韩式拌饭",
+  "description": "韩式拌饭是一道色彩缤纷、口感丰富的韩国家常料理，甜辣酱汁包裹着米饭、蔬菜、牛肉和溏心蛋，拌匀后一口满足。多种蔬菜提供维生素和膳食纤维，牛肉和鸡蛋补充优质蛋白，营养均衡。制作简单但备菜步骤稍多，新手也能从容完成，从准备到上桌大约需要 45 分钟。",
+  "category": "staple",
+  "categoryName": "主食",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 1080,
+  "requirements": [
+    {
+      "text": "米饭",
+      "markdown": "米饭",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火锅牛肉卷",
+      "markdown": "火锅牛肉卷",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆芽",
+      "markdown": "豆芽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蘑菇",
+      "markdown": "蘑菇",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "胡萝卜",
+      "markdown": "胡萝卜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "西葫芦",
+      "markdown": "西葫芦",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "韩式辣酱",
+      "markdown": "韩式辣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "雪碧",
+      "markdown": "雪碧",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻",
+      "markdown": "芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芝麻油",
+      "markdown": "芝麻油",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 米饭\r\n- 鸡蛋\r\n- 火锅牛肉卷\r\n- 豆芽\r\n- 蘑菇\r\n- 胡萝卜\r\n- 西葫芦\r\n- 韩式辣酱\r\n- 雪碧\r\n- 芝麻\r\n- 芝麻油",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "text": "米饭 1 碗 (400g)",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 1 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "火锅牛肉卷",
+      "text": "火锅牛肉卷 6 卷 60g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆芽",
+      "text": "豆芽 1 把 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蘑菇",
+      "text": "蘑菇 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "胡萝卜",
+      "text": "胡萝卜 1/4 根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "西葫芦",
+      "text": "西葫芦 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "韩式辣酱",
+      "text": "韩式辣酱 25ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "雪碧",
+      "text": "雪碧 2 瓶盖, 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻",
+      "text": "芝麻 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芝麻油",
+      "text": "芝麻油 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽",
+      "text": "生抽 15ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 米饭 1 碗 (400g)\r\n- 鸡蛋 1 颗\r\n- 火锅牛肉卷 6 卷 60g\r\n- 豆芽 1 把 80g\r\n- 蘑菇 50g\r\n- 胡萝卜 1/4 根\r\n- 西葫芦 50g\r\n- 韩式辣酱 25ml\r\n- 雪碧  2 瓶盖, 20ml\r\n- 芝麻 10g\r\n- 芝麻油 20ml\r\n- 生抽 15ml",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "蔬菜清洗 切丝 放锅中翻炒 食材变软 便可称出"
+    },
+    {
+      "kind": "step",
+      "description": "煮水 等沸腾时 焯牛肉卷 只需煮熟 大概三分钟即可捞出"
+    },
+    {
+      "kind": "step",
+      "description": "煎[溏心蛋](../../breakfast/溏心蛋.md)"
+    },
+    {
+      "kind": "step",
+      "description": "将[米饭](../../staple/米饭/电饭煲蒸米饭.md)放在一个碗里 然后倒扣在大碗"
+    },
+    {
+      "kind": "step",
+      "description": "将准备好的蔬菜和肉卷依次绕圈放在米饭上面 将煎蛋放中间"
+    },
+    {
+      "kind": "step",
+      "description": "备酱汁"
+    },
+    {
+      "kind": "step",
+      "description": "10ml 韩式辣酱（甜辣口）+ 5ml 生抽 + 两瓶盖雪碧（减肥的话 可以放无糖雪碧）+ 10g 芝麻 + 5ml 芝麻油"
+    },
+    {
+      "kind": "step",
+      "description": "搅拌上述酱汁，可以再加生抽和盐"
+    },
+    {
+      "kind": "step",
+      "description": "将备好的酱汁倒在摆好盘的碗中"
+    }
+  ],
+  "operationMarkdown": "1. 蔬菜清洗 切丝 放锅中翻炒 食材变软 便可称出\r\n2. 煮水 等沸腾时 焯牛肉卷 只需煮熟 大概三分钟即可捞出\r\n3. 煎[溏心蛋](../../breakfast/溏心蛋.md)\r\n4. 将[米饭](../../staple/米饭/电饭煲蒸米饭.md)放在一个碗里 然后倒扣在大碗\r\n5. 将准备好的蔬菜和肉卷依次绕圈放在米饭上面 将煎蛋放中间\r\n6. 备酱汁\r\n\r\n  - 10ml 韩式辣酱（甜辣口）+ 5ml 生抽 + 两瓶盖雪碧（减肥的话 可以放无糖雪碧）+ 10g 芝麻 + 5ml 芝麻油\r\n  - 搅拌上述酱汁，可以再加生抽和盐\r\n\r\n7. 将备好的酱汁倒在摆好盘的碗中",
+  "tips": "- 这是道非常简单的菜 过程会比较繁琐 但当将菜肉米饭酱汁搅拌起来吃会很满足\r\n- 如果对外观有一定要求 可以用砂锅代替普通碗\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 这是道非常简单的菜 过程会比较繁琐 但当将菜肉米饭酱汁搅拌起来吃会很满足\r\n- 如果对外观有一定要求 可以用砂锅代替普通碗\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/staple/b3e1edae-5f28-46c0-aa23-c220f5a194b9_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/staple/韩式拌饭/韩式拌饭.md"
+  },
+  "hash": "1e5a11caffb3ac77e17bf0bafde91b2f2e34ea7b7e1b59b6b8b8ff5646b96ada"
+}

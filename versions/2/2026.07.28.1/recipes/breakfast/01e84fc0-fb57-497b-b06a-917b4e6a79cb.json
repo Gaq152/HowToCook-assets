@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "id": "01e84fc0-fb57-497b-b06a-917b4e6a79cb",
+  "legacyIds": [
+    "breakfast_eb6189c2"
+  ],
+  "name": "美式炒蛋",
+  "description": "这是一道松软鲜嫩的美式家常蛋料理，加入牛奶后蛋花细密、口感绵润，富含优质蛋白和钙质。做法简单，对新手友好，从准备到出锅大约只需 20 分钟。",
+  "category": "breakfast",
+  "categoryName": "早餐",
+  "difficulty": 2,
+  "estimatedCaloriesKcal": 258,
+  "requirements": [
+    {
+      "text": "鸡蛋",
+      "markdown": "鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "全脂牛奶/奶油",
+      "markdown": "全脂牛奶/奶油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "黄油",
+      "markdown": "黄油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸡蛋\r\n- 全脂牛奶/奶油\r\n- 黄油\r\n- 盐",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "text": "鸡蛋 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "全脂牛奶/奶油",
+      "text": "全脂牛奶/奶油 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "黄油",
+      "text": "黄油 5 克",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 1 克",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鸡蛋 3 个\r\n- 全脂牛奶/奶油 10g\r\n- 黄油 5 克\r\n- 盐 1 克",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "鸡蛋打入大碗中，加盐搅打至起泡，静置 15 分钟"
+    },
+    {
+      "kind": "step",
+      "description": "黄油切小块入锅，倒入蛋液，开小火不断搅拌"
+    },
+    {
+      "kind": "step",
+      "description": "黄油一融化，就快速翻动蛋液，将其打碎成细密状，在蛋液大体凝固前关火"
+    },
+    {
+      "kind": "step",
+      "description": "加入牛奶搅拌 15 秒，至炒蛋湿润绵密，装盘"
+    }
+  ],
+  "operationMarkdown": "1. 鸡蛋打入大碗中，加盐搅打至起泡，静置 15 分钟\r\n2. 黄油切小块入锅，倒入蛋液，开小火不断搅拌\r\n3. 黄油一融化，就快速翻动蛋液，将其打碎成细密状，在蛋液大体凝固前关火\r\n4. 加入牛奶搅拌 15 秒，至炒蛋湿润绵密，装盘",
+  "tips": "- 想吃的更丰富可以在最后一步那里加上炒好的番茄丁，洋葱丁，培根丁，切好的芝士小丁，等等。(总之不会再出水的东东）\r\n- 使用平底锅（不粘锅）。\r\n- 考虑到很多人是一人食就炒一两个鸡蛋，口径比较小的锅或许更方便在锅中均匀搅拌。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 想吃的更丰富可以在最后一步那里加上炒好的番茄丁，洋葱丁，培根丁，切好的芝士小丁，等等。(总之不会再出水的东东）\r\n- 使用平底锅（不粘锅）。\r\n- 考虑到很多人是一人食就炒一两个鸡蛋，口径比较小的锅或许更方便在锅中均匀搅拌。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/breakfast/美式炒蛋.md"
+  },
+  "hash": "82eb8af1669e3523f61e426b092b6d3c5a2fd04766349250e95441b7cef990a6"
+}

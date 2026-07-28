@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "f8b4f227-35d3-4619-a122-f82164659313",
+  "legacyIds": [
+    "dessert_6b3856a6"
+  ],
+  "name": "提拉米苏",
+  "description": "这道意大利传统甜品无需烤箱，奶酪糊绵密轻盈，浸润咖啡液的手指饼干香醇柔软，属于入门级甜点。富含蛋白质和钙质，但糖分与热量较高，宜偶尔享用。操作简便，对烘焙新手十分友好，只需大约半 小时动手，再冷藏四小时即可成型品尝。",
+  "category": "dessert",
+  "categoryName": "甜品",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 809,
+  "requirements": [
+    {
+      "text": "马斯卡彭芝士",
+      "markdown": "马斯卡彭芝士",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "手指饼干",
+      "markdown": "手指饼干",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "放凉浓缩咖啡",
+      "markdown": "放凉浓缩咖啡",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "无菌鸡蛋",
+      "markdown": "无菌鸡蛋",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白砂糖",
+      "markdown": "白砂糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "可可粉",
+      "markdown": "可可粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "朗姆酒（不喜欢酒的朋友可省略，可按照自己口味调节）",
+      "markdown": "朗姆酒（不喜欢酒的朋友可省略，可按照自己口味调节）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "一个装成品的容器（这里用的是玻璃乐扣）",
+      "markdown": "一个装成品的容器（这里用的是玻璃乐扣）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "打蛋器（手劲儿大的朋友也可以锻炼臂力）",
+      "markdown": "打蛋器（手劲儿大的朋友也可以锻炼臂力）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 马斯卡彭芝士\r\n- 手指饼干\r\n- 放凉浓缩咖啡\r\n- 无菌鸡蛋\r\n- 白砂糖\r\n- 可可粉\r\n- 朗姆酒（不喜欢酒的朋友可省略，可按照自己口味调节）\r\n- 一个装成品的容器（这里用的是玻璃乐扣）\r\n- 打蛋器（手劲儿大的朋友也可以锻炼臂力）",
+  "ingredients": [
+    {
+      "name": "马斯卡彭芝士",
+      "text": "马斯卡彭芝士 450g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "手指饼干",
+      "text": "手指饼干 1 包",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "放凉浓缩咖啡",
+      "text": "放凉浓缩咖啡 350ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "无菌鸡蛋",
+      "text": "无菌鸡蛋 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白砂糖",
+      "text": "白砂糖 50g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "可可粉",
+      "text": "可可粉 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "朗姆酒",
+      "text": "朗姆酒 35ml",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 马斯卡彭芝士 450g\r\n- 手指饼干 1 包\r\n- 放凉浓缩咖啡 350ml\r\n- 无菌鸡蛋 4 个\r\n- 白砂糖 50g\r\n- 可可粉 10g\r\n- 朗姆酒 35ml",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "分离蛋黄蛋清"
+    },
+    {
+      "kind": "step",
+      "description": "盛有蛋白的碗中加 10g 白砂糖湿性打发"
+    },
+    {
+      "kind": "step",
+      "description": "盛有蛋黄的碗中将 40g 白砂糖分三次加入，搅拌至均匀"
+    },
+    {
+      "kind": "step",
+      "description": "蛋黄中分三次加入马斯卡彭芝士，搅拌至均匀"
+    },
+    {
+      "kind": "step",
+      "description": "蛋黄中最后加入朗姆酒，搅拌均匀"
+    },
+    {
+      "kind": "step",
+      "description": "将打发好的蛋白分三次加入蛋黄芝士液中"
+    },
+    {
+      "kind": "step",
+      "description": "手指饼干两面浸湿咖啡液，平铺入容器"
+    },
+    {
+      "kind": "step",
+      "description": "两层芝士液两层饼干交替放入容器（这一步按照大家意愿及容器高度酌情处理）"
+    },
+    {
+      "kind": "step",
+      "description": "放入冰箱冷藏四个小时（心急的小伙伴可以提早拿出来）"
+    },
+    {
+      "kind": "step",
+      "description": "取出后在表面筛上可可粉，即可享用啦"
+    }
+  ],
+  "operationMarkdown": "1. 分离蛋黄蛋清\r\n2. 盛有蛋白的碗中加 10g 白砂糖湿性打发\r\n3. 盛有蛋黄的碗中将 40g 白砂糖分三次加入，搅拌至均匀\r\n4. 蛋黄中分三次加入马斯卡彭芝士，搅拌至均匀\r\n5. 蛋黄中最后加入朗姆酒，搅拌均匀\r\n6. 将打发好的蛋白分三次加入蛋黄芝士液中\r\n7. 手指饼干两面浸湿咖啡液，平铺入容器\r\n8. 两层芝士液两层饼干交替放入容器（这一步按照大家意愿及容器高度酌情处理）\r\n9. 放入冰箱冷藏四个小时（心急的小伙伴可以提早拿出来）\r\n10. 取出后在表面筛上可可粉，即可享用啦",
+  "tips": "- [下厨房蛋白打发具体教程](https://www.xiachufang.com/recipe/101779500/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- [下厨房蛋白打发具体教程](https://www.xiachufang.com/recipe/101779500/)\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/dessert/f8b4f227-35d3-4619-a122-f82164659313_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/dessert/提拉米苏/提拉米苏.md"
+  },
+  "hash": "fc21159a56a994c13952038705d74cc3c0f25504bf53d57e2f6c754c7675db9f"
+}

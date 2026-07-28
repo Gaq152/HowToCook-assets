@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "id": "2fca4f32-1cac-4378-95d4-848568409a5e",
+  "legacyIds": [
+    "meat_dish_d5104e31"
+  ],
+  "name": "啤酒鸭",
+  "description": "这是一道风味独特的家常菜肴，鸭肉鲜香软烂，透着淡淡啤酒清香，热而不浮、香而不腻。鸭肉富含蛋白质，啤酒去腥增香，搭配食用更有滋味。做法对新手友好，从备料到出锅大约需要 1 小时。",
+  "category": "meat_dish",
+  "categoryName": "荤菜",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 170,
+  "requirements": [
+    {
+      "text": "鸭肉",
+      "markdown": "鸭肉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "啤酒",
+      "markdown": "啤酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "生抽酱油",
+      "markdown": "生抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "老抽酱油",
+      "markdown": "老抽酱油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "蒜",
+      "markdown": "蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "冰糖",
+      "markdown": "冰糖",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒",
+      "markdown": "干辣椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "盐",
+      "markdown": "盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "鸡精",
+      "markdown": "鸡精",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "丁香",
+      "markdown": "丁香",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 鸭肉\r\n- 啤酒\r\n- 生抽酱油\r\n- 老抽酱油\r\n- 姜\r\n- 蒜\r\n- 冰糖\r\n- 干辣椒\r\n- 料酒\r\n- 盐\r\n- 鸡精\r\n- 丁香\r\n- 八角\r\n- 香叶\r\n- 豆瓣酱",
+  "ingredients": [
+    {
+      "name": "鸭肉半只（约",
+      "text": "鸭肉半只（约 1kg）",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "啤酒",
+      "text": "啤酒 800ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "生抽酱油",
+      "text": "生抽酱油 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "老抽酱油",
+      "text": "老抽酱油 5-10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 5 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "蒜头",
+      "text": "蒜头 12 瓣",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "冰糖",
+      "text": "冰糖 10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒",
+      "text": "干辣椒 5 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 30ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "盐",
+      "text": "盐 8g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "鸡精",
+      "text": "鸡精 5g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "丁香",
+      "text": "丁香 4 颗",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角",
+      "text": "八角 3 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶",
+      "text": "香叶 3 片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "豆瓣酱",
+      "text": "豆瓣酱 20g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 鸭肉半只（约 1kg）\r\n- 啤酒 800ml\r\n- 生抽酱油 10-15ml\r\n- 老抽酱油 5-10ml\r\n- 姜 5 片\r\n- 蒜头 12 瓣\r\n- 冰糖 10g\r\n- 干辣椒 5 个\r\n- 料酒 30ml\r\n- 盐 8g\r\n- 鸡精 5g\r\n- 丁香 4 颗\r\n- 八角 3 个\r\n- 香叶 3 片\r\n- 豆瓣酱 20g",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "把鸭子切成 3 cm 小块，鸭肉冷水下锅，加姜片、料酒，焯一遍水，盛出沥干水分，备用。"
+    },
+    {
+      "kind": "step",
+      "description": "炒锅烧热，放入约 100ml 食用油，大火待油烧开，鸭肉入锅翻炒至上色。"
+    },
+    {
+      "kind": "step",
+      "description": "待鸭肉完全变色（肉眼可见泛白），将鸭肉拨到锅的一边，倒入豆瓣酱和糖，小火翻炒出香味和糖色。"
+    },
+    {
+      "kind": "step",
+      "description": "加入丁香、八角、香叶、干辣椒、生抽、老抽、蒜，翻炒出香味。"
+    },
+    {
+      "kind": "step",
+      "description": "倒入啤酒，没过鸭肉，加入盐、鸡精，然后中火将鸭子烧 30 分钟（牙口不好的话可以再多烧 5 分钟）。"
+    },
+    {
+      "kind": "step",
+      "description": "出锅盛盘，上桌食用。"
+    }
+  ],
+  "operationMarkdown": "1. 把鸭子切成 3 cm 小块，鸭肉冷水下锅，加姜片、料酒，焯一遍水，盛出沥干水分，备用。\r\n2. 炒锅烧热，放入约 100ml 食用油，大火待油烧开，鸭肉入锅翻炒至上色。\r\n3. 待鸭肉完全变色（肉眼可见泛白），将鸭肉拨到锅的一边，倒入豆瓣酱和糖，小火翻炒出香味和糖色。\r\n4. 加入丁香、八角、香叶、干辣椒、生抽、老抽、蒜，翻炒出香味。\r\n5. 倒入啤酒，没过鸭肉，加入盐、鸡精，然后中火将鸭子烧 30 分钟（牙口不好的话可以再多烧 5 分钟）。\r\n6. 出锅盛盘，上桌食用。",
+  "tips": "- 啤酒的量一定要足够把所有鸭肉没过，啤酒最好选择清香型的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 啤酒的量一定要足够把所有鸭肉没过，啤酒最好选择清香型的。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/meat_dish/2fca4f32-1cac-4378-95d4-848568409a5e_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/meat_dish/啤酒鸭/啤酒鸭.md"
+  },
+  "hash": "2c4a77a2b303c495cce08c8b40f14aba17f202bed2dc177cf53bdd36255f93fc"
+}

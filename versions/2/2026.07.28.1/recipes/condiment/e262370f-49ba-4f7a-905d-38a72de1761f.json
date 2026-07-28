@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "id": "e262370f-49ba-4f7a-905d-38a72de1761f",
+  "legacyIds": [
+    "condiment_231c5b16"
+  ],
+  "name": "葱油",
+  "description": "葱油是一道提香增鲜的家常调味油，带着浓郁的葱香和开洋的复合鲜味，用来拌馅、凉拌或热菜明油都很适合。主要提供油脂能量，葱姜等辛香料还含有植物活性成分，可辅助去腥开胃。做法简单，对新手友好，一般准备加熬制大约 30 分钟就能完成。",
+  "category": "condiment",
+  "categoryName": "调料",
+  "difficulty": 3,
+  "estimatedCaloriesKcal": 2069,
+  "requirements": [
+    {
+      "text": "油",
+      "markdown": "油",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "葱（大葱小葱都可以）",
+      "markdown": "葱（大葱小葱都可以）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "姜",
+      "markdown": "姜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜（可选）",
+      "markdown": "香菜（可选）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "开洋（可选）",
+      "markdown": "开洋（可选）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 油\r\n- 葱（大葱小葱都可以）\r\n- 姜\r\n- 洋葱\r\n- 料酒\r\n- 香菜（可选）\r\n- 开洋（可选）",
+  "ingredients": [
+    {
+      "name": "油",
+      "text": "油 200g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "葱",
+      "text": "葱 80g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "姜",
+      "text": "姜 20g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱",
+      "text": "洋葱 150g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "开洋",
+      "text": "开洋 50g",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "- 油 200g\r\n- 葱 80g\r\n- 姜 20g\r\n- 料酒 10ml\r\n- 洋葱 150g\r\n- 开洋 50g",
+  "calculationNotes": [],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "开洋泡入 50 度温水中，加入 10ml 料酒去腥，泡 10 分钟后取出沥干水分"
+    },
+    {
+      "kind": "step",
+      "description": "葱，香菜洗净，切成 5cm 长的段，擦干表面水份"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切成丝，在锅里用热水煮 5 分钟，取出沥干水份"
+    },
+    {
+      "kind": "step",
+      "description": "姜去皮，切成片"
+    },
+    {
+      "kind": "step",
+      "description": "锅里倒入全部油，放入上述预处理好的材料，开中小火炸 20 分钟"
+    }
+  ],
+  "operationMarkdown": "1. 开洋泡入 50 度温水中，加入 10ml 料酒去腥，泡 10 分钟后取出沥干水分\r\n2. 葱，香菜洗净，切成 5cm 长的段，擦干表面水份\r\n3. 洋葱切成丝，在锅里用热水煮 5 分钟，取出沥干水份\r\n4. 姜去皮，切成片\r\n5. 锅里倒入全部油，放入上述预处理好的材料，开中小火炸 20 分钟",
+  "tips": "- 渣后的开洋葱渣也可以食用，葱油可以滤掉这些料渣，也可以保留\r\n- 开洋可以极大提升葱油鲜香，并增加鲜甜风味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 渣后的开洋葱渣也可以食用，葱油可以滤掉这些料渣，也可以保留\r\n- 开洋可以极大提升葱油鲜香，并增加鲜甜风味\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/condiment/葱油.md"
+  },
+  "hash": "ed51282eb09315e46a671d6dcea31d96bc3988f470ad455cdd379e62e382c599"
+}

@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 2,
+  "id": "3d7c1fd1-af9b-48bb-8f1e-72979d560887",
+  "legacyIds": [
+    "aquatic_706ce316"
+  ],
+  "name": "烤鱼",
+  "description": "这道川味烤鱼麻辣鲜香，鱼肉外焦里嫩，配菜吸饱汤汁后格外下饭。草鱼富含优质蛋白，搭配多种蔬菜，营养均衡。做法看似复杂，但跟着步骤走其实不难，适合想挑战硬菜的新手。从备料到上桌大约需要一小时。",
+  "category": "aquatic",
+  "categoryName": "水产",
+  "difficulty": 4,
+  "estimatedCaloriesKcal": 2152,
+  "requirements": [
+    {
+      "text": "草鱼（农贸市场或者超市让店家杀掉，去除不要的器官）",
+      "markdown": "草鱼（农贸市场或者超市让店家杀掉，去除不要的器官）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大葱",
+      "markdown": "大葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "料酒",
+      "markdown": "料酒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白胡椒粉",
+      "markdown": "白胡椒粉",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "食用盐",
+      "markdown": "食用盐",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "大蒜",
+      "markdown": "大蒜",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "桂皮",
+      "markdown": "桂皮",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "八角",
+      "markdown": "八角",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香叶",
+      "markdown": "香叶",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "青花椒",
+      "markdown": "青花椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "干辣椒段",
+      "markdown": "干辣椒段",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "灯笼椒",
+      "markdown": "灯笼椒",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "火锅底料（随意）",
+      "markdown": "火锅底料（随意）",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "千张",
+      "markdown": "千张",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "绿豆芽",
+      "markdown": "绿豆芽",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "洋葱",
+      "markdown": "洋葱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "豆瓣酱",
+      "markdown": "豆瓣酱",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "芹菜段",
+      "markdown": "芹菜段",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "熟花生米",
+      "markdown": "熟花生米",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "白芝麻",
+      "markdown": "白芝麻",
+      "group": null,
+      "kind": "unknown"
+    },
+    {
+      "text": "香菜（放更好吃，根据个人口味可放可不放）",
+      "markdown": "香菜（放更好吃，根据个人口味可放可不放）",
+      "group": null,
+      "kind": "unknown"
+    }
+  ],
+  "requirementsMarkdown": "- 草鱼（农贸市场或者超市让店家杀掉，去除不要的器官）\r\n- 大葱\r\n- 料酒\r\n- 白胡椒粉\r\n- 食用盐\r\n- 大蒜\r\n- 桂皮\r\n- 八角\r\n- 香叶\r\n- 青花椒\r\n- 干辣椒段\r\n- 灯笼椒\r\n- 火锅底料（随意）\r\n- 千张\r\n- 绿豆芽\r\n- 洋葱\r\n- 豆瓣酱\r\n- 芹菜段\r\n- 熟花生米\r\n- 白芝麻\r\n- 香菜（放更好吃，根据个人口味可放可不放）",
+  "ingredients": [
+    {
+      "name": "草鱼 大约三斤",
+      "text": "草鱼 大约三斤",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大葱 半根",
+      "text": "大葱 半根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用油",
+      "text": "食用油 20ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "料酒",
+      "text": "料酒 10-15ml",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "食用盐",
+      "text": "食用盐 5-10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "白胡椒粉",
+      "text": "白胡椒粉 5g-10g",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "桂皮 一小片",
+      "text": "桂皮 一小片",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "八角 两个",
+      "text": "八角 两个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "大蒜粒 八个",
+      "text": "大蒜粒 八个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "香叶 两张",
+      "text": "香叶 两张",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "青花椒 一小把",
+      "text": "青花椒 一小把",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "干辣椒段",
+      "text": "干辣椒段 10 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "灯笼椒",
+      "text": "灯笼椒 4 个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "芹菜段 两根",
+      "text": "芹菜段 两根",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "洋葱 半个",
+      "text": "洋葱 半个",
+      "optional": false,
+      "source": "calculation-list"
+    },
+    {
+      "name": "千张 一张",
+      "text": "千张 一张",
+      "optional": false,
+      "source": "calculation-list"
+    }
+  ],
+  "tools": [],
+  "calculationMarkdown": "每份：\r\n\r\n- 草鱼 大约三斤\r\n- 大葱 半根\r\n- 食用油 20ml\r\n- 料酒 10-15ml\r\n- 食用盐 5-10g\r\n- 白胡椒粉 5g-10g\r\n- 桂皮 一小片\r\n- 八角 两个\r\n- 大蒜粒 八个\r\n- 香叶 两张\r\n- 青花椒 一小把\r\n- 干辣椒段 10 个\r\n- 灯笼椒 4 个\r\n- 芹菜段 两根\r\n- 洋葱 半个\r\n- 千张 一张",
+  "calculationNotes": [
+    "每份："
+  ],
+  "steps": [
+    {
+      "kind": "step",
+      "description": "草鱼（一般 3 斤 ）从背部切开，两面沿着鱼的背部往下划几刀，不要划到鱼肚皮，不然不易定型"
+    },
+    {
+      "kind": "step",
+      "description": "可以用热水浇在鱼身上洗去粘液或者用刷子在流动水龙头下面不停的刷洗，直到摸着没有黏糊糊的手感。"
+    },
+    {
+      "kind": "step",
+      "description": "把鱼放到容器中，加入料酒，10g 白胡椒粉，5g 食盐抹匀腌制二十分钟入味。"
+    },
+    {
+      "kind": "step",
+      "description": "把半根大葱切成一块一块，大蒜粒中间切开，和八角香叶桂皮放在一个容器中"
+    },
+    {
+      "kind": "step",
+      "description": "干辣椒段中间一分为二切开并和灯笼椒装在一个容器中"
+    },
+    {
+      "kind": "step",
+      "description": "芹菜切小段"
+    },
+    {
+      "kind": "step",
+      "description": "豆芽焯水"
+    },
+    {
+      "kind": "step",
+      "description": "千张焯水切成丝"
+    },
+    {
+      "kind": "step",
+      "description": "洋葱切成丝。"
+    },
+    {
+      "kind": "step",
+      "description": "烤制鱼"
+    },
+    {
+      "kind": "step",
+      "description": "家里有烤箱的可以在烤盘刷上底油，鱼皮朝下，直到烤制两面金黄，然后撒上孜然粉"
+    },
+    {
+      "kind": "step",
+      "description": "如果没有烤箱，可以热锅热油，锅的两边撒上 2g 食盐，下入草鱼开始煎，刚下入的时候不要着急翻动，等一面定型后再翻面，煎制两面金黄，撒上孜然粉，出锅装在盘子里准备。"
+    },
+    {
+      "kind": "step",
+      "description": "锅中撒上 20ml 食用油，等到油热后，把大葱大蒜八角香叶倒入炒香"
+    },
+    {
+      "kind": "step",
+      "description": "加上一包火锅底料的一半和 15-20g 豆瓣酱，炒出红油"
+    },
+    {
+      "kind": "step",
+      "description": "加入 5g 白糖，10g 食盐，5ml 生抽调味，倒入和食材齐平的清水煮开"
+    },
+    {
+      "kind": "step",
+      "description": "依次下入芹菜段，豆芽，千张丝，不用煮熟，稍微烫一下后铺上洋葱丝，放上烤鱼"
+    },
+    {
+      "kind": "step",
+      "description": "加入干辣椒，灯笼椒，青花椒"
+    },
+    {
+      "kind": "step",
+      "description": "另一个锅烧油，油热后浇在刚加入的辣椒上面激发出香味"
+    },
+    {
+      "kind": "step",
+      "description": "最后撒上熟花生米，葱花，白芝麻，香菜"
+    },
+    {
+      "kind": "step",
+      "description": "煮 5-6 分钟，美味即成。"
+    }
+  ],
+  "operationMarkdown": "1. 草鱼（一般 3 斤 ）从背部切开，两面沿着鱼的背部往下划几刀，不要划到鱼肚皮，不然不易定型\r\n\r\n  - 可以用热水浇在鱼身上洗去粘液或者用刷子在流动水龙头下面不停的刷洗，直到摸着没有黏糊糊的手感。\r\n\r\n2. 把鱼放到容器中，加入料酒，10g 白胡椒粉，5g 食盐抹匀腌制二十分钟入味。\r\n3. 把半根大葱切成一块一块，大蒜粒中间切开，和八角香叶桂皮放在一个容器中\r\n4. 干辣椒段中间一分为二切开并和灯笼椒装在一个容器中\r\n5. 芹菜切小段\r\n6. 豆芽焯水\r\n7. 千张焯水切成丝\r\n8. 洋葱切成丝。\r\n9. 烤制鱼\r\n\r\n  - 家里有烤箱的可以在烤盘刷上底油，鱼皮朝下，直到烤制两面金黄，然后撒上孜然粉\r\n  - 如果没有烤箱，可以热锅热油，锅的两边撒上 2g 食盐，下入草鱼开始煎，刚下入的时候不要着急翻动，等一面定型后再翻面，煎制两面金黄，撒上孜然粉，出锅装在盘子里准备。\r\n\r\n10. 锅中撒上 20ml 食用油，等到油热后，把大葱大蒜八角香叶倒入炒香\r\n11. 加上一包火锅底料的一半和 15-20g 豆瓣酱，炒出红油\r\n12. 加入 5g 白糖，10g 食盐，5ml 生抽调味，倒入和食材齐平的清水煮开\r\n13. 依次下入芹菜段，豆芽，千张丝，不用煮熟，稍微烫一下后铺上洋葱丝，放上烤鱼\r\n14. 加入干辣椒，灯笼椒，青花椒\r\n15. 另一个锅烧油，油热后浇在刚加入的辣椒上面激发出香味\r\n16. 最后撒上熟花生米，葱花，白芝麻，香菜\r\n17. 煮 5-6 分钟，美味即成。\r\n\r\n![烤鱼-预览图-1](./烤鱼.jpg)",
+  "tips": "- 技术总结：上述\r\n  - 这道菜的食盐，胡椒粉，孜然粉，食用油，生抽，白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "warnings": [],
+  "additionalMarkdown": "- 技术总结：上述\r\n  - 这道菜的食盐，胡椒粉，孜然粉，食用油，生抽，白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做。\r\n\r\n如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。",
+  "images": [
+    "images/aquatic/3d7c1fd1-af9b-48bb-8f1e-72979d560887_0.webp"
+  ],
+  "externalImages": [],
+  "source": {
+    "repository": "https://github.com/Gaq152/HowToCook",
+    "commit": "c05758fa661ac4efa0361a987b700a351a22159b",
+    "path": "dishes/aquatic/混合烤鱼/烤鱼.md"
+  },
+  "hash": "60f14454d515409216ceb313586a62360f4d05858053d753175cc594e0217f07"
+}
