@@ -4,7 +4,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "covers:plan": "node scripts/covers/generate.mjs",
+    "covers:generate": "node scripts/covers/generate.mjs --execute",
+    "covers:optimize": "node scripts/covers/optimize.mjs",
+    "covers:review": "node scripts/covers/review.mjs",
+    "covers:sync-app": "node scripts/covers/sync-app-covers.mjs",
+    "covers:validate": "node scripts/covers/validate.mjs",
+    "covers:publish": "node scripts/covers/publish.mjs"
   },
   "dependencies": {
     "mdast-util-to-string": "^4.0.0",

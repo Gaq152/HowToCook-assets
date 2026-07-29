@@ -37,6 +37,97 @@ https://gaq152.github.io/HowToCook-assets/channels/v2-stable.json
 
 构建器默认拒绝覆盖已存在的版本目录。只有在首次发布前验证可复现性时才可添加 `--rebuild`；已经推送的版本禁止重建后覆盖。
 
+## AI 封面生成（独立版本通道）
+
+AI 封面与 V2 菜谱数据分开发布，避免重生成封面时修改已经发布的不可变数据目录。封面按稳定 UUID 命名，生成过程先写入 `.staging/`，只有全量校验通过并人工审核后才切换 `channels/v2-covers-stable.json`。
+
+生成器使用 OpenAI Images 兼容接口，默认连接 `https://api.krill-ai.net/v1`，API Key 只从环境变量或已被 Git 忽略的仓库 `.env` 读取。可以复制 `.env.example` 后填写，也可以在当前终端设置：
+
+```powershell
+$env:KRILL_AI_API_KEY = '你的 API Key'
+```
+
+先生成完整计划，不会调用接口或消耗额度：
+
+```bash
+node scripts/covers/generate.mjs \
+  --data-version 2026.07.28.1 \
+  --cover-version 2026.07.29.1
+```
+
+生成器使用菜谱名称、简介和经过工具过滤的可食用食材进行文生图，不读取上游实拍图或操作步骤，也不会把 `tools` 字段及误混入食材列表的厨具传给模型。默认先处理当前 APP 中没有旧封面的菜谱，再按稳定 UUID 升序替换已有封面；输出统一压缩为适合移动端的 512×512 WebP（质量 80）。建议先选择少量菜谱试生成并审核风格：
+
+```bash
+node scripts/covers/generate.mjs \
+  --data-version 2026.07.28.1 \
+  --cover-version 2026.07.29.1 \
+  --limit 3 \
+  --execute
+```
+
+接口每天最多免费调用 100 次。生成器默认关闭单张图片的内部自动重试，并在暂存区追加记录每次调用；失败项会保留为待处理并在下次运行时优先重试。确认效果后去掉 `--limit`，脚本会自动使用当天剩余额度，最多调用 100 次：
+
+```bash
+node scripts/covers/generate.mjs \
+  --data-version 2026.07.28.1 \
+  --cover-version 2026.07.29.1 \
+  --execute
+```
+
+第二天再次执行相同命令即可从未完成项继续，不会重复调用已经成功的菜谱。脚本默认单并发，失败项记录在 `.staging/covers/2/{coverVersion}/errors/`，每日调用流水记录在 `attempts.jsonl`。可使用 `--category` 或重复传入 `--id` 精确选择菜谱，也可用 `--daily-quota` 设置小于 100 的本地日限额。
+
+每日批次结束后可先执行部分校验，并生成已有旧封面替换项的联系表做视觉审核：
+
+```bash
+node scripts/covers/validate.mjs --data-version 2026.07.28.1 --cover-version 2026.07.29.1 --allow-partial
+node scripts/covers/review.mjs --cover-version 2026.07.29.1 --only-replacements
+```
+
+如需只调整已经生成图片的移动端尺寸和压缩质量（不会调用接口），可执行：
+
+```bash
+node scripts/covers/optimize.mjs \
+  --cover-version 2026.07.29.1 \
+  --output-size 512 \
+  --webp-quality 80
+```
+
+审核通过并回写 Flutter 的 `assets/covers/` 后，可把 APP 当前完整封面快照同步到 GitHub Pages 兼容路径 `covers/{category}/{recipeName}.webp`：
+
+```bash
+node scripts/covers/sync-app-covers.mjs --data-version 2026.07.28.1
+```
+
+该同步命令会逐一校验 367 张图片均为正方形 WebP，不会切换尚未完成的 V2 UUID 封面稳定通道。
+
+全量完成后校验：
+
+```bash
+node scripts/covers/validate.mjs \
+  --data-version 2026.07.28.1 \
+  --cover-version 2026.07.29.1
+```
+
+审核完成后发布不可变封面版本并切换稳定通道：
+
+```bash
+node scripts/covers/publish.mjs \
+  --data-version 2026.07.28.1 \
+  --cover-version 2026.07.29.1 \
+  --update-channel
+```
+
+发布结构：
+
+```text
+channels/v2-covers-stable.json
+covers/2/{coverVersion}/
+  manifest.json
+  images/{category}/{recipeUuid}.webp
+```
+
+生成提示词使用菜谱名称、简介和可食用食材约束成品外观，并明确禁止把菜名中的成语、地名或神话词按字面画出来，也禁止厨具、文字、水印和标志。暂存区中的 `generation-plan.json` 保存每份菜谱的完整提示词、缺图优先级和当日额度状态，方便调用接口前审核。
+
 ## V1 旧转换方案（仅保留历史说明）
 
 以下内容描述旧版根目录数据和交互式 `scripts/cli.js`。该脚本不再用于构建 V2。

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gaq152.github.io/HowToCook-assets/schema/cover-channel-v2.schema.json",
+  "title": "HowToCook Recipe Cover Channel V2",
+  "type": "object",
+  "required": [
+    "schemaVersion", "channel", "mediaType", "coverVersion", "dataVersion",
+    "manifestPath", "publishedAt"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 2 },
+    "channel": { "const": "stable" },
+    "mediaType": { "const": "recipe-cover" },
+    "coverVersion": { "type": "string", "pattern": "^\\d{4}\\.\\d{2}\\.\\d{2}\\.\\d+$" },
+    "dataVersion": { "type": "string", "pattern": "^\\d{4}\\.\\d{2}\\.\\d{2}\\.\\d+$" },
+    "manifestPath": { "type": "string", "pattern": "^covers/2/.+/manifest\\.json$" },
+    "publishedAt": { "type": "string", "format": "date-time" }
+  },
+  "additionalProperties": false
+}
