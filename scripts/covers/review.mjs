@@ -9,15 +9,17 @@ const REPOSITORY_ROOT = path.resolve(import.meta.dirname, '../..');
 const VERSION_PATTERN = /^\d{4}\.\d{2}\.\d{2}\.\d+$/;
 
 function parseArgs(argv) {
-  const result = { coverVersion: null, onlyReplacements: false, output: null };
+  const result = { coverVersion: null, onlyReplacements: false, generatedOn: null, output: null };
   for (let index = 0; index < argv.length; index += 1) {
     const value = argv[index];
     if (value === '--cover-version') result.coverVersion = argv[++index];
     else if (value === '--only-replacements') result.onlyReplacements = true;
+    else if (value === '--generated-on') result.generatedOn = argv[++index];
     else if (value === '--output') result.output = path.resolve(argv[++index]);
     else throw new Error(`未知参数: ${value}`);
   }
   if (!VERSION_PATTERN.test(result.coverVersion ?? '')) throw new Error('必须提供 --cover-version YYYY.MM.DD.N');
+  if (result.generatedOn && !/^\d{4}-\d{2}-\d{2}$/.test(result.generatedOn)) throw new Error('--generated-on 必须是 YYYY-MM-DD');
   return result;
 }
 
@@ -39,6 +41,7 @@ export async function main(argv = process.argv.slice(2)) {
   let records = listJsonFiles(path.join(stagingRoot, 'records'))
     .map((recordPath) => JSON.parse(fs.readFileSync(recordPath, 'utf8')))
     .filter((record) => !args.onlyReplacements || record.replacedExistingCover)
+    .filter((record) => !args.generatedOn || record.generatedAt?.startsWith(args.generatedOn))
     .sort((left, right) => left.recipeId.localeCompare(right.recipeId));
   if (records.length === 0) throw new Error('没有可生成联系表的封面记录');
 
@@ -59,7 +62,8 @@ export async function main(argv = process.argv.slice(2)) {
     const label = Buffer.from(`<svg width="${imageSize}" height="${labelHeight}" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" fill="#111827"/><text x="${imageSize / 2}" y="22" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="16" fill="#ffffff">${escapeXml(record.recipeName)}</text></svg>`);
     composites.push({ input: image, left, top }, { input: label, left, top: top + imageSize });
   }
-  const output = args.output ?? path.join(stagingRoot, args.onlyReplacements ? 'review-replacements.webp' : 'review-all.webp');
+  const suffix = args.generatedOn ? `-${args.generatedOn}` : '';
+  const output = args.output ?? path.join(stagingRoot, args.onlyReplacements ? `review-replacements${suffix}.webp` : `review-all${suffix}.webp`);
   fs.mkdirSync(path.dirname(output), { recursive: true });
   await sharp({ create: { width, height, channels: 3, background: '#e5e7eb' } })
     .composite(composites)

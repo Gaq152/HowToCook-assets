@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 import { buildCoverPrompt, extractEdibleIngredients, hashPrompt } from '../scripts/covers/lib/prompt.mjs';
 import { KrillImagesClient } from '../scripts/covers/lib/krill-images.mjs';
+import { isEmptyImageResponseError, isProviderDailyQuotaError } from '../scripts/covers/generate.mjs';
 
 const recipe = {
   name: '朱雀汤',
@@ -54,4 +55,14 @@ test('文生图客户端兼容 b64_json 响应', async () => {
   assert.equal(request.url, 'https://api.krill-ai.net/v1/images/generations');
   assert.equal(request.init.headers.Authorization, 'Bearer test-key');
   assert.equal(JSON.parse(request.init.body).model, 'gpt-image-2');
+});
+
+test('识别服务端每日额度耗尽并停止后续请求', () => {
+  assert.equal(isProviderDailyQuotaError(new Error('今日免费生图次数已达上限')), true);
+  assert.equal(isProviderDailyQuotaError(new Error('临时服务异常')), false);
+});
+
+test('识别空图片响应以触发连续失败熔断', () => {
+  assert.equal(isEmptyImageResponseError(new Error('图片接口响应缺少 data[0].b64_json 或 data[0].url')), true);
+  assert.equal(isEmptyImageResponseError(new Error('图片接口返回 HTTP 500')), false);
 });

@@ -80,8 +80,10 @@ node scripts/covers/generate.mjs \
 
 ```bash
 node scripts/covers/validate.mjs --data-version 2026.07.28.1 --cover-version 2026.07.29.1 --allow-partial
-node scripts/covers/review.mjs --cover-version 2026.07.29.1 --only-replacements
+node scripts/covers/review.mjs --cover-version 2026.07.29.1 --only-replacements --generated-on 2026-07-30
 ```
+
+若第三方接口返回“今日免费生图次数已达上限”，生成器会立即停止尚未发出的请求；若连续 4 次返回空图片数据，也会临时熔断批次，避免接口波动时浪费整日额度。再次运行相同命令即可继续。
 
 如需只调整已经生成图片的移动端尺寸和压缩质量（不会调用接口），可执行：
 

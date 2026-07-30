@@ -136,6 +136,35 @@ async function runPool(items, concurrency, worker) {
   await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, run));
 }
 
+export function isProviderDailyQuotaError(error) {
+  const details = `${error?.message ?? ''} ${JSON.stringify(error?.body ?? {})}`;
+  return /今日.*(?:免费)?(?:生图)?(?:次数|额度).*(?:上限|用完|耗尽)|daily\s+(?:free\s+)?(?:image\s+)?(?:limit|quota)/i.test(details);
+}
+
+export function isEmptyImageResponseError(error) {
+  return /响应缺少\s+data\[0\]\.b64_json\s+或\s+data\[0\]\.url/.test(error?.message ?? '');
+}
+
+function reconcileDanglingAttempts(filePath, attempts) {
+  const completed = new Set(attempts.filter((item) => item.kind === 'result').map((item) => item.attemptId));
+  const dangling = attempts.filter((item) => item.kind === 'attempt' && !completed.has(item.attemptId));
+  for (const attempt of dangling) {
+    appendAttempt(filePath, {
+      kind: 'result',
+      attemptId: attempt.attemptId,
+      localDate: attempt.localDate,
+      completedAt: new Date().toISOString(),
+      recipeId: attempt.recipeId,
+      recipeName: attempt.recipeName,
+      success: false,
+      status: null,
+      message: '上次生成进程在请求完成前中断，保留为待处理',
+      model: attempt.model,
+    });
+  }
+  return dangling.length;
+}
+
 function isReusableRecord(record, plan) {
   return record
     && record.recipeHash === plan.recipeHash
@@ -216,7 +245,12 @@ export async function main(argv = process.argv.slice(2)) {
   const pending = plans.filter((item) => item.state === 'pending');
   const completed = plans.filter((item) => item.state === 'completed');
   const today = localDate();
-  const attempts = readAttempts(attemptsPath);
+  let attempts = readAttempts(attemptsPath);
+  const reconciledAttempts = reconcileDanglingAttempts(attemptsPath, attempts);
+  if (reconciledAttempts > 0) {
+    console.warn(`已补记 ${reconciledAttempts} 次中断请求，相关菜谱继续保留为待处理`);
+    attempts = readAttempts(attemptsPath);
+  }
   const usedToday = attempts.filter((item) => item.localDate === today && item.kind === 'attempt').length;
   const remainingToday = Math.max(0, args.dailyQuota - usedToday);
   const requestedBatchSize = args.limit ?? remainingToday;
@@ -253,6 +287,7 @@ export async function main(argv = process.argv.slice(2)) {
       inputFields: ['name', 'description', 'ingredients (edible only)'],
       generationMode: 'generate',
       automaticRetries: 0,
+      transientEmptyResponseCircuitBreaker: 4,
     },
     recipes: plans.map((item) => ({
       id: item.recipe.id,
@@ -297,13 +332,19 @@ export async function main(argv = process.argv.slice(2)) {
     timeoutMs: 180000,
   });
   let generated = 0;
+  let attempted = 0;
+  let stoppedByProviderQuota = false;
+  let stoppedByTransientFailures = false;
+  let consecutiveEmptyResponses = 0;
   const failures = [];
 
   await runPool(batch, args.concurrency, async (plan, index) => {
+    if (stoppedByProviderQuota || stoppedByTransientFailures) return;
     let success = false;
     let failure = null;
     const attemptedAt = new Date();
     const attemptId = crypto.randomUUID();
+    attempted += 1;
     // 在请求发出前占用一次本地额度，即使进程中断也不会在当天重复超额调用。
     appendAttempt(attemptsPath, {
       kind: 'attempt',
@@ -353,10 +394,18 @@ export async function main(argv = process.argv.slice(2)) {
       });
       fs.rmSync(plan.errorPath, { force: true });
       generated += 1;
+      consecutiveEmptyResponses = 0;
       success = true;
       console.log(`[${index + 1}/${batch.length}] 完成 ${plan.recipe.name}`);
     } catch (error) {
       failure = error;
+      if (isProviderDailyQuotaError(error)) stoppedByProviderQuota = true;
+      if (isEmptyImageResponseError(error)) {
+        consecutiveEmptyResponses += 1;
+        if (consecutiveEmptyResponses >= 4) stoppedByTransientFailures = true;
+      } else {
+        consecutiveEmptyResponses = 0;
+      }
       failures.push({ id: plan.recipe.id, name: plan.recipe.name, message: error.message });
       writeJson(plan.errorPath, {
         recipeId: plan.recipe.id,
@@ -383,13 +432,19 @@ export async function main(argv = process.argv.slice(2)) {
     }
   });
 
-  console.log(`本轮调用 ${batch.length} 次：成功 ${generated}，失败 ${failures.length}`);
-  console.log(`今日本机累计记录: ${usedToday + batch.length}/${args.dailyQuota}`);
+  console.log(`本轮调用 ${attempted} 次：成功 ${generated}，失败 ${failures.length}`);
+  console.log(`今日本机累计记录: ${usedToday + attempted}/${args.dailyQuota}`);
+  if (stoppedByProviderQuota && attempted < batch.length) {
+    console.warn(`服务端日额度已用完，已停止后续 ${batch.length - attempted} 项，未发出请求也未占用本地额度`);
+  }
+  if (stoppedByTransientFailures && attempted < batch.length) {
+    console.warn(`连续 ${consecutiveEmptyResponses} 次收到空图片响应，已熔断后续 ${batch.length - attempted} 项；稍后可再次运行继续`);
+  }
   if (failures.length > 0) {
     process.exitCode = 1;
     console.error(`失败项已记录，下一次运行会优先重试: ${relativeFromRoot(path.join(stagingRoot, 'errors'))}`);
   }
-  return { planned: plans.length, selected: batch.length, generated, completed: completed.length + generated, failed: failures.length };
+  return { planned: plans.length, selected: batch.length, attempted, generated, completed: completed.length + generated, failed: failures.length };
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
