@@ -97,10 +97,15 @@ node scripts/covers/optimize.mjs \
 审核通过并回写 Flutter 的 `assets/covers/` 后，可把 APP 当前完整封面快照同步到 GitHub Pages 兼容路径 `covers/{category}/{recipeName}.webp`：
 
 ```bash
-node scripts/covers/sync-app-covers.mjs --data-version 2026.07.28.1
+node scripts/covers/sync-app-covers.mjs \
+  --data-version 2026.07.28.1 \
+  --snapshot-version 2026.07.30.1 \
+  --ai-cover-version 2026.07.29.1
 ```
 
-该同步命令会逐一校验 367 张图片均为正方形 WebP，不会切换尚未完成的 V2 UUID 封面稳定通道。
+该同步命令会逐一校验 367 张图片均为正方形 WebP，并同时生成 `covers/manifest.json` 与 `channels/v2-covers-stable.json`。快照清单记录每张图片的 SHA-256，并只把当前暂存记录与 APP 图片哈希一致的条目标记为 AI 封面；客户端据此只清理或覆盖确实已有新 AI 图的旧缓存。它不会切换尚未完成的 V2 UUID 封面稳定通道。
+
+已经存在的快照只能使用更高的 `--snapshot-version` 更新；仅在当前版本尚未提交、需要重新验证时添加 `--rebuild`。
 
 全量完成后校验：
 
