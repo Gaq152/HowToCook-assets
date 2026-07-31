@@ -6,10 +6,36 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
 import { buildCoverPrompt, COVER_PROMPT_VERSION, hashPrompt } from './lib/prompt.mjs';
-import { KrillImagesClient } from './lib/krill-images.mjs';
+import { ImagesClient } from './lib/images-client.mjs';
 
 const REPOSITORY_ROOT = path.resolve(import.meta.dirname, '../..');
 const VERSION_PATTERN = /^\d{4}\.\d{2}\.\d{2}\.\d+$/;
+const PROVIDERS = {
+  krill: {
+    baseUrl: 'https://api.krill-ai.net/v1',
+    model: 'gpt-image-2',
+    requestMode: 'sync',
+    apiKeyNames: ['KRILL_AI_API_KEY'],
+    baseUrlNames: ['KRILL_AI_BASE_URL'],
+    modelNames: ['KRILL_AI_MODEL'],
+  },
+  aixoras: {
+    baseUrl: 'https://api.aixoras.com/v1',
+    model: 'gpt-image-2',
+    requestMode: 'sync',
+    apiKeyNames: ['AIXORAS_API_KEY', 'NEWAPI_TOKEN'],
+    baseUrlNames: ['AIXORAS_API_BASE_URL'],
+    modelNames: ['AIXORAS_API_MODEL'],
+  },
+  custom: {
+    baseUrl: null,
+    model: null,
+    requestMode: 'sync',
+    apiKeyNames: [],
+    baseUrlNames: [],
+    modelNames: [],
+  },
+};
 
 function loadLocalEnv() {
   const envPath = path.join(REPOSITORY_ROOT, '.env');
@@ -19,6 +45,14 @@ function loadLocalEnv() {
     if (!match || process.env[match[1]]) continue;
     process.env[match[1]] = match[2].replace(/^['"]|['"]$/g, '');
   }
+}
+
+function aspectRatioFromSize(size) {
+  const [width, height] = size.split('x').map(Number);
+  let left = width;
+  let right = height;
+  while (right !== 0) [left, right] = [right, left % right];
+  return `${width / left}:${height / left}`;
 }
 
 export function parseArgs(argv) {
@@ -31,10 +65,17 @@ export function parseArgs(argv) {
     dailyQuota: 100,
     concurrency: 1,
     existingCoverRoot: path.resolve(REPOSITORY_ROOT, '..', 'assets', 'covers'),
-    baseUrl: process.env.KRILL_AI_BASE_URL || 'https://api.krill-ai.net/v1',
-    model: process.env.KRILL_AI_MODEL || 'gpt-image-2',
+    provider: null,
+    baseUrl: null,
+    model: null,
+    requestMode: null,
     size: '1024x1024',
+    aspectRatio: null,
     quality: 'high',
+    responseFormat: null,
+    watermark: null,
+    pollIntervalMs: 3000,
+    taskTimeoutMs: 900000,
     outputSize: 512,
     webpQuality: 80,
     execute: false,
@@ -50,23 +91,69 @@ export function parseArgs(argv) {
     else if (value === '--daily-quota') result.dailyQuota = Number(argv[++index]);
     else if (value === '--concurrency') result.concurrency = Number(argv[++index]);
     else if (value === '--existing-cover-root') result.existingCoverRoot = path.resolve(argv[++index]);
+    else if (value === '--provider') result.provider = argv[++index];
     else if (value === '--base-url') result.baseUrl = argv[++index];
     else if (value === '--model') result.model = argv[++index];
+    else if (value === '--async') result.requestMode = 'async';
+    else if (value === '--sync') result.requestMode = 'sync';
     else if (value === '--size') result.size = argv[++index];
+    else if (value === '--aspect-ratio') result.aspectRatio = argv[++index];
     else if (value === '--quality') result.quality = argv[++index];
+    else if (value === '--response-format') result.responseFormat = argv[++index];
+    else if (value === '--watermark') result.watermark = true;
+    else if (value === '--no-watermark') result.watermark = false;
+    else if (value === '--poll-interval-ms') result.pollIntervalMs = Number(argv[++index]);
+    else if (value === '--task-timeout-ms') result.taskTimeoutMs = Number(argv[++index]);
     else if (value === '--output-size') result.outputSize = Number(argv[++index]);
     else if (value === '--webp-quality') result.webpQuality = Number(argv[++index]);
     else if (value === '--execute') result.execute = true;
     else if (value === '--overwrite') result.overwrite = true;
     else throw new Error(`未知参数: ${value}`);
   }
+
+  const configuredBaseUrl = result.baseUrl || process.env.IMAGE_API_BASE_URL || null;
+  if (!result.provider) {
+    result.provider = process.env.IMAGE_API_PROVIDER
+      || (configuredBaseUrl?.includes('aixoras.com') ? 'aixoras' : null)
+      || (process.env.AIXORAS_API_KEY && !process.env.KRILL_AI_API_KEY ? 'aixoras' : 'krill');
+  }
+  result.provider = result.provider.toLowerCase();
+  const profile = PROVIDERS[result.provider];
+  if (!profile) throw new Error(`--provider 仅支持 ${Object.keys(PROVIDERS).join('、')}`);
+  const firstEnvironmentValue = (names) => names.map((name) => process.env[name]).find(Boolean);
+  result.baseUrl = result.baseUrl
+    || process.env.IMAGE_API_BASE_URL
+    || firstEnvironmentValue(profile.baseUrlNames)
+    || profile.baseUrl;
+  result.model = result.model
+    || process.env.IMAGE_API_MODEL
+    || firstEnvironmentValue(profile.modelNames)
+    || profile.model;
+  result.apiKey = process.env.IMAGE_API_KEY || firstEnvironmentValue(profile.apiKeyNames) || null;
+  result.requestMode = result.requestMode
+    || process.env.IMAGE_API_MODE
+    || profile.requestMode;
+  result.aspectRatio ||= process.env.IMAGE_API_ASPECT_RATIO || aspectRatioFromSize(result.size);
+  result.responseFormat ||= process.env.IMAGE_API_RESPONSE_FORMAT || (result.provider === 'aixoras' ? 'url' : null);
+  if (result.watermark === null && process.env.IMAGE_API_WATERMARK) {
+    result.watermark = process.env.IMAGE_API_WATERMARK.toLowerCase() === 'true';
+  }
+  if (result.watermark === null && result.provider === 'aixoras') result.watermark = false;
+  if (!result.baseUrl) throw new Error('必须通过 --base-url 或 IMAGE_API_BASE_URL 提供图片接口地址');
+  if (!result.model) throw new Error('必须通过 --model 或 IMAGE_API_MODEL 提供图片模型名称');
+  try {
+    result.providerName = new URL(result.baseUrl).hostname;
+  } catch {
+    throw new Error('--base-url 必须是有效的 HTTP(S) URL');
+  }
+  if (!/^https?:\/\//.test(result.baseUrl)) throw new Error('--base-url 必须是 HTTP(S) URL');
   if (!VERSION_PATTERN.test(result.dataVersion ?? '')) throw new Error('必须提供 --data-version YYYY.MM.DD.N');
   if (!VERSION_PATTERN.test(result.coverVersion ?? '')) throw new Error('必须提供 --cover-version YYYY.MM.DD.N');
   if (result.limit !== null && (!Number.isInteger(result.limit) || result.limit < 1)) {
     throw new Error('--limit 必须是正整数');
   }
-  if (!Number.isInteger(result.dailyQuota) || result.dailyQuota < 1 || result.dailyQuota > 100) {
-    throw new Error('--daily-quota 必须是 1-100');
+  if (!Number.isInteger(result.dailyQuota) || result.dailyQuota < 1) {
+    throw new Error('--daily-quota 必须是正整数');
   }
   if (!Number.isInteger(result.concurrency) || result.concurrency < 1 || result.concurrency > 4) {
     throw new Error('--concurrency 必须是 1-4');
@@ -78,6 +165,17 @@ export function parseArgs(argv) {
     throw new Error('--webp-quality 必须是 1-100');
   }
   if (!/^\d+x\d+$/.test(result.size)) throw new Error('--size 格式必须是 WIDTHxHEIGHT');
+  if (!/^\d+:\d+$/.test(result.aspectRatio)) throw new Error('--aspect-ratio 格式必须是 WIDTH:HEIGHT');
+  if (!['sync', 'async'].includes(result.requestMode)) throw new Error('IMAGE_API_MODE 只能是 sync 或 async');
+  if (result.responseFormat && !['url', 'b64_json'].includes(result.responseFormat)) {
+    throw new Error('--response-format 只能是 url 或 b64_json');
+  }
+  if (!Number.isInteger(result.pollIntervalMs) || result.pollIntervalMs < 250) {
+    throw new Error('--poll-interval-ms 必须是不小于 250 的整数');
+  }
+  if (!Number.isInteger(result.taskTimeoutMs) || result.taskTimeoutMs < 1000) {
+    throw new Error('--task-timeout-ms 必须是不小于 1000 的整数');
+  }
   return result;
 }
 
@@ -142,13 +240,23 @@ export function isProviderDailyQuotaError(error) {
 }
 
 export function isEmptyImageResponseError(error) {
-  return /响应缺少\s+data\[0\]\.b64_json\s+或\s+data\[0\]\.url/.test(error?.message ?? '');
+  return /响应缺少\s+data\[0\]\.b64_json\s+或\s+data\[0\]\.url|image generation service unavailable|图片生成服务不可用/i.test(error?.message ?? '');
 }
 
 function reconcileDanglingAttempts(filePath, attempts) {
   const completed = new Set(attempts.filter((item) => item.kind === 'result').map((item) => item.attemptId));
+  const tasksByAttempt = new Map(
+    attempts.filter((item) => item.kind === 'task').map((item) => [item.attemptId, item]),
+  );
   const dangling = attempts.filter((item) => item.kind === 'attempt' && !completed.has(item.attemptId));
+  const resumable = [];
+  let abandoned = 0;
   for (const attempt of dangling) {
+    const task = tasksByAttempt.get(attempt.attemptId);
+    if (task?.taskId) {
+      resumable.push({ ...attempt, ...task });
+      continue;
+    }
     appendAttempt(filePath, {
       kind: 'result',
       attemptId: attempt.attemptId,
@@ -160,18 +268,17 @@ function reconcileDanglingAttempts(filePath, attempts) {
       status: null,
       message: '上次生成进程在请求完成前中断，保留为待处理',
       model: attempt.model,
+      provider: attempt.provider,
     });
+    abandoned += 1;
   }
-  return dangling.length;
+  return { abandoned, resumable };
 }
 
 function isReusableRecord(record, plan) {
   return record
     && record.recipeHash === plan.recipeHash
     && record.promptHash === plan.promptHash
-    && record.model === plan.model
-    && record.size === plan.size
-    && record.quality === plan.quality
     && record.outputSize === plan.outputSize
     && record.webpQuality === plan.webpQuality
     && record.generationMode === 'generate';
@@ -225,6 +332,8 @@ export async function main(argv = process.argv.slice(2)) {
       hadPreviousCover: index.hadPreviousCover,
       oldCoverPath: index.oldCoverPath,
       priorityOrder,
+      provider: args.providerName,
+      providerId: args.provider,
       model: args.model,
       size: args.size,
       quality: args.quality,
@@ -246,16 +355,45 @@ export async function main(argv = process.argv.slice(2)) {
   const completed = plans.filter((item) => item.state === 'completed');
   const today = localDate();
   let attempts = readAttempts(attemptsPath);
-  const reconciledAttempts = reconcileDanglingAttempts(attemptsPath, attempts);
-  if (reconciledAttempts > 0) {
-    console.warn(`已补记 ${reconciledAttempts} 次中断请求，相关菜谱继续保留为待处理`);
+  const reconciliation = reconcileDanglingAttempts(attemptsPath, attempts);
+  if (reconciliation.abandoned > 0) {
+    console.warn(`已补记 ${reconciliation.abandoned} 次未取得任务 ID 的中断请求，相关菜谱继续保留为待处理`);
     attempts = readAttempts(attemptsPath);
   }
-  const usedToday = attempts.filter((item) => item.localDate === today && item.kind === 'attempt').length;
+  const resumableByRecipe = new Map();
+  const heldByRecipe = new Map();
+  for (const attempt of reconciliation.resumable) {
+    const attemptProvider = attempt.provider ?? 'krill-ai.net';
+    const attemptMode = attempt.requestMode ?? 'sync';
+    if (attemptProvider === args.providerName
+      && attempt.model === args.model
+      && attemptMode === args.requestMode) {
+      resumableByRecipe.set(attempt.recipeId, attempt);
+    } else {
+      heldByRecipe.set(attempt.recipeId, attempt);
+    }
+  }
+  for (const plan of pending) {
+    plan.resumeAttempt = resumableByRecipe.get(plan.recipe.id) ?? null;
+    plan.heldAttempt = plan.resumeAttempt ? null : (heldByRecipe.get(plan.recipe.id) ?? null);
+  }
+  const usedToday = attempts.filter((item) => (
+    item.localDate === today
+    && item.kind === 'attempt'
+    && (item.provider ?? 'krill-ai.net') === args.providerName
+  )).length;
   const remainingToday = Math.max(0, args.dailyQuota - usedToday);
-  const requestedBatchSize = args.limit ?? remainingToday;
-  const batchSize = Math.min(requestedBatchSize, remainingToday, pending.length);
-  const batch = pending.slice(0, batchSize);
+  const resumablePending = pending.filter((item) => item.resumeAttempt);
+  const heldPending = pending.filter((item) => item.heldAttempt);
+  const newPending = pending.filter((item) => !item.resumeAttempt && !item.heldAttempt);
+  const requestedBatchSize = args.limit ?? (resumablePending.length + remainingToday);
+  const resumeBatch = resumablePending.slice(0, requestedBatchSize);
+  const newBatchSize = Math.min(
+    Math.max(0, requestedBatchSize - resumeBatch.length),
+    remainingToday,
+    newPending.length,
+  );
+  const batch = [...resumeBatch, ...newPending.slice(0, newBatchSize)];
 
   writeJson(path.join(stagingRoot, 'generation-plan.json'), {
     schemaVersion: 1,
@@ -274,19 +412,30 @@ export async function main(argv = process.argv.slice(2)) {
       used: usedToday,
       remaining: remainingToday,
       selected: batch.length,
+      resumedTasks: resumeBatch.length,
+      heldTasks: heldPending.length,
+      newRequests: newBatchSize,
     },
     settings: {
+      provider: args.provider,
+      providerName: args.providerName,
       baseUrl: args.baseUrl,
       model: args.model,
+      requestMode: args.requestMode,
       size: args.size,
+      aspectRatio: args.aspectRatio,
       quality: args.quality,
+      responseFormat: args.responseFormat,
+      watermark: args.watermark,
+      pollIntervalMs: args.pollIntervalMs,
+      taskTimeoutMs: args.taskTimeoutMs,
       outputSize: args.outputSize,
       webpQuality: args.webpQuality,
       promptVersion: COVER_PROMPT_VERSION,
       existingCoverRoot: args.existingCoverRoot,
       inputFields: ['name', 'description', 'ingredients (edible only)'],
       generationMode: 'generate',
-      automaticRetries: 0,
+      automaticSubmissionRetries: 0,
       transientEmptyResponseCircuitBreaker: 4,
     },
     recipes: plans.map((item) => ({
@@ -298,6 +447,10 @@ export async function main(argv = process.argv.slice(2)) {
       hadPreviousCover: item.hadPreviousCover,
       previousCoverPath: item.hadPreviousCover ? item.oldCoverPath : null,
       state: item.state,
+      resumeTaskId: item.resumeAttempt?.taskId ?? null,
+      heldTaskId: item.heldAttempt?.taskId ?? null,
+      heldTaskModel: item.heldAttempt?.model ?? null,
+      heldTaskMode: item.heldAttempt?.requestMode ?? null,
       selectedToday: batch.includes(item),
       promptHash: item.promptHash,
       prompt: item.prompt,
@@ -306,9 +459,10 @@ export async function main(argv = process.argv.slice(2)) {
 
   console.log(`封面版本: ${args.coverVersion}`);
   console.log(`数据版本: ${args.dataVersion}`);
+  console.log(`图片接口: ${args.providerName} (${args.requestMode})，模型 ${args.model}`);
   console.log(`总计 ${plans.length}：旧封面缺失 ${plans.filter((x) => !x.hadPreviousCover).length}，已有旧封面 ${plans.filter((x) => x.hadPreviousCover).length}`);
   console.log(`进度: 已完成 ${completed.length}，待生成 ${pending.length}`);
-  console.log(`今日额度: 已记录 ${usedToday}/${args.dailyQuota}，本轮最多调用 ${batch.length} 次`);
+  console.log(`今日额度: 已记录 ${usedToday}/${args.dailyQuota}，本轮新请求 ${newBatchSize} 次，续查异步任务 ${resumeBatch.length} 个，挂起其他配置任务 ${heldPending.length} 个`);
   console.log(`计划文件: ${relativeFromRoot(path.join(stagingRoot, 'generation-plan.json'))}`);
   if (!fs.existsSync(args.existingCoverRoot)) {
     console.warn(`警告: 旧封面目录不存在，无法判断缺图优先级: ${args.existingCoverRoot}`);
@@ -321,18 +475,31 @@ export async function main(argv = process.argv.slice(2)) {
     console.log('所有封面均已生成，无需调用接口。');
     return { planned: plans.length, selected: 0, generated: 0, completed: completed.length, failed: 0 };
   }
-  if (remainingToday === 0) throw new Error(`本机记录显示 ${today} 的 ${args.dailyQuota} 次额度已用完，请明天继续`);
+  if (remainingToday === 0 && resumeBatch.length === 0) {
+    throw new Error(`本机记录显示 ${today} 在 ${args.providerName} 的 ${args.dailyQuota} 次额度已用完，请明天继续`);
+  }
+  if (batch.length === 0 && heldPending.length > 0) {
+    throw new Error(`本轮没有可生成项目；${heldPending.length} 个菜谱仍有其他模型或模式的异步任务，请使用原参数续查`);
+  }
   if (batch.length === 0) throw new Error('本轮没有可生成项目');
 
-  const client = new KrillImagesClient({
-    apiKey: process.env.KRILL_AI_API_KEY,
+  const client = new ImagesClient({
+    apiKey: args.apiKey,
     baseUrl: args.baseUrl,
     model: args.model,
+    provider: args.provider,
+    asyncMode: args.requestMode === 'async',
+    aspectRatio: args.aspectRatio,
+    responseFormat: args.responseFormat,
+    watermark: args.watermark,
     maxAttempts: 1,
     timeoutMs: 180000,
+    pollIntervalMs: args.pollIntervalMs,
+    taskTimeoutMs: args.taskTimeoutMs,
   });
   let generated = 0;
   let attempted = 0;
+  let resumed = 0;
   let stoppedByProviderQuota = false;
   let stoppedByTransientFailures = false;
   let consecutiveEmptyResponses = 0;
@@ -342,21 +509,51 @@ export async function main(argv = process.argv.slice(2)) {
     if (stoppedByProviderQuota || stoppedByTransientFailures) return;
     let success = false;
     let failure = null;
-    const attemptedAt = new Date();
-    const attemptId = crypto.randomUUID();
-    attempted += 1;
-    // 在请求发出前占用一次本地额度，即使进程中断也不会在当天重复超额调用。
-    appendAttempt(attemptsPath, {
-      kind: 'attempt',
-      attemptId,
-      localDate: localDate(attemptedAt),
-      attemptedAt: attemptedAt.toISOString(),
-      recipeId: plan.recipe.id,
-      recipeName: plan.recipe.name,
-      model: args.model,
-    });
+    const attemptedAt = plan.resumeAttempt ? new Date(plan.resumeAttempt.attemptedAt) : new Date();
+    const attemptId = plan.resumeAttempt?.attemptId ?? crypto.randomUUID();
+    let taskId = plan.resumeAttempt?.taskId ?? null;
+    if (plan.resumeAttempt) {
+      resumed += 1;
+      console.log(`[${index + 1}/${batch.length}] 续查 ${plan.recipe.name}：${taskId}`);
+    } else {
+      attempted += 1;
+      // 在请求发出前占用一次本地额度，即使进程中断也不会在当天重复超额调用。
+      appendAttempt(attemptsPath, {
+        kind: 'attempt',
+        attemptId,
+        localDate: localDate(attemptedAt),
+        attemptedAt: attemptedAt.toISOString(),
+        recipeId: plan.recipe.id,
+        recipeName: plan.recipe.name,
+        model: args.model,
+        provider: args.providerName,
+        requestMode: args.requestMode,
+      });
+    }
     try {
-      const rawImage = await client.generate({ prompt: plan.prompt, size: args.size, quality: args.quality });
+      const rawImage = await client.generate({
+        prompt: plan.prompt,
+        size: args.size,
+        quality: args.quality,
+        resumeTaskId: taskId,
+        onTaskCreated: ({ taskId: createdTaskId, body }) => {
+          taskId = createdTaskId;
+          appendAttempt(attemptsPath, {
+            kind: 'task',
+            attemptId,
+            localDate: localDate(attemptedAt),
+            createdAt: new Date().toISOString(),
+            recipeId: plan.recipe.id,
+            recipeName: plan.recipe.name,
+            taskId,
+            taskStatus: body?.status ?? body?.raw_status ?? null,
+            model: args.model,
+            provider: args.providerName,
+            requestMode: args.requestMode,
+          });
+          console.log(`[${index + 1}/${batch.length}] 已创建 ${plan.recipe.name} 异步任务：${taskId}`);
+        },
+      });
       const output = await sharp(rawImage)
         .rotate()
         .resize(args.outputSize, args.outputSize, { fit: 'cover', position: 'attention' })
@@ -379,10 +576,16 @@ export async function main(argv = process.argv.slice(2)) {
         generationMode: 'generate',
         referenceImage: null,
         replacedExistingCover: plan.hadPreviousCover,
-        provider: 'krill-ai.net',
+        provider: args.providerName,
+        providerId: args.provider,
+        requestMode: args.requestMode,
+        taskId,
         model: args.model,
         size: args.size,
+        aspectRatio: args.aspectRatio,
         quality: args.quality,
+        responseFormat: args.responseFormat,
+        watermark: args.watermark,
         outputSize: args.outputSize,
         webpQuality: args.webpQuality,
         outputPath: relativeFromRoot(plan.imagePath),
@@ -413,27 +616,35 @@ export async function main(argv = process.argv.slice(2)) {
         occurredAt: new Date().toISOString(),
         message: error.message,
         status: error.status ?? null,
+        taskId: error.taskId ?? taskId,
+        recoverable: error.recoverable ?? false,
         body: error.body ?? null,
       });
       console.error(`[${index + 1}/${batch.length}] 失败 ${plan.recipe.name}: ${error.message}`);
     } finally {
-      appendAttempt(attemptsPath, {
-        kind: 'result',
-        attemptId,
-        localDate: localDate(attemptedAt),
-        completedAt: new Date().toISOString(),
-        recipeId: plan.recipe.id,
-        recipeName: plan.recipe.name,
-        success,
-        status: failure?.status ?? null,
-        message: failure?.message ?? null,
-        model: args.model,
-      });
+      // 仍在服务端执行的异步任务不结案，下次运行会用原 taskId 继续查询。
+      if (!(failure?.recoverable && taskId)) {
+        appendAttempt(attemptsPath, {
+          kind: 'result',
+          attemptId,
+          localDate: localDate(attemptedAt),
+          completedAt: new Date().toISOString(),
+          recipeId: plan.recipe.id,
+          recipeName: plan.recipe.name,
+          success,
+          status: failure?.status ?? null,
+          message: failure?.message ?? null,
+          taskId,
+          model: args.model,
+          provider: args.providerName,
+          requestMode: args.requestMode,
+        });
+      }
     }
   });
 
-  console.log(`本轮调用 ${attempted} 次：成功 ${generated}，失败 ${failures.length}`);
-  console.log(`今日本机累计记录: ${usedToday + attempted}/${args.dailyQuota}`);
+  console.log(`本轮新调用 ${attempted} 次、续查 ${resumed} 个任务：成功 ${generated}，失败 ${failures.length}`);
+  console.log(`${args.providerName} 今日本机累计记录: ${usedToday + attempted}/${args.dailyQuota}`);
   if (stoppedByProviderQuota && attempted < batch.length) {
     console.warn(`服务端日额度已用完，已停止后续 ${batch.length - attempted} 项，未发出请求也未占用本地额度`);
   }
@@ -444,7 +655,15 @@ export async function main(argv = process.argv.slice(2)) {
     process.exitCode = 1;
     console.error(`失败项已记录，下一次运行会优先重试: ${relativeFromRoot(path.join(stagingRoot, 'errors'))}`);
   }
-  return { planned: plans.length, selected: batch.length, attempted, generated, completed: completed.length + generated, failed: failures.length };
+  return {
+    planned: plans.length,
+    selected: batch.length,
+    attempted,
+    resumed,
+    generated,
+    completed: completed.length + generated,
+    failed: failures.length,
+  };
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {

@@ -41,11 +41,22 @@ https://gaq152.github.io/HowToCook-assets/channels/v2-stable.json
 
 AI 封面与 V2 菜谱数据分开发布，避免重生成封面时修改已经发布的不可变数据目录。封面按稳定 UUID 命名，生成过程先写入 `.staging/`，只有全量校验通过并人工审核后才切换 `channels/v2-covers-stable.json`。
 
-生成器使用 OpenAI Images 兼容接口，默认连接 `https://api.krill-ai.net/v1`，API Key 只从环境变量或已被 Git 忽略的仓库 `.env` 读取。可以复制 `.env.example` 后填写，也可以在当前终端设置：
+生成器使用 OpenAI Images 兼容接口，目前内置 Krill 与 Aixoras 两个供应商配置。默认仍连接 `https://api.krill-ai.net/v1`，因此原命令和 `KRILL_AI_*` 环境变量不受影响。API Key 只从环境变量或已被 Git 忽略的仓库 `.env` 读取。可以复制 `.env.example` 后填写，也可以在当前终端设置：
 
 ```powershell
 $env:KRILL_AI_API_KEY = '你的 API Key'
 ```
+
+切换到 Aixoras 时，在 `.env` 中填写：
+
+```dotenv
+IMAGE_API_PROVIDER=aixoras
+AIXORAS_API_KEY=你的_API_Key
+AIXORAS_API_BASE_URL=https://api.aixoras.com/v1
+AIXORAS_API_MODEL=gpt-image-2
+```
+
+Aixoras 默认使用已经实测可用的同步 `/images/generations`，请求同时携带 `size=1024x1024` 与 `aspect_ratio=1:1`，并设置 `response_format=url`、`watermark=false`。添加 `--async` 可改用 `/images/generations/async`，随后轮询 `/images/tasks/{taskId}`；异步模型名可通过 `--model` 指定。通用覆盖环境变量为 `IMAGE_API_KEY`、`IMAGE_API_BASE_URL`、`IMAGE_API_MODEL` 和 `IMAGE_API_MODE`，自定义兼容供应商可使用 `--provider custom --base-url ... --model ...`。
 
 先生成完整计划，不会调用接口或消耗额度：
 
@@ -74,7 +85,9 @@ node scripts/covers/generate.mjs \
   --execute
 ```
 
-第二天再次执行相同命令即可从未完成项继续，不会重复调用已经成功的菜谱。脚本默认单并发，失败项记录在 `.staging/covers/2/{coverVersion}/errors/`，每日调用流水记录在 `attempts.jsonl`。可使用 `--category` 或重复传入 `--id` 精确选择菜谱，也可用 `--daily-quota` 设置小于 100 的本地日限额。
+第二天再次执行相同命令即可从未完成项继续，不会重复调用已经成功的菜谱；更换供应商时，当前封面版本中已完成的图片也会直接复用。脚本默认单并发，失败项记录在 `.staging/covers/2/{coverVersion}/errors/`，每日调用流水记录在 `attempts.jsonl`。本地日额度按供应商分别统计，可使用 `--category` 或重复传入 `--id` 精确选择菜谱，也可用 `--daily-quota` 设置本地日限额。
+
+异步接口创建任务后会立即把 `taskId` 追加到 `attempts.jsonl`。若脚本退出、网络中断或等待超时，再次执行同一条命令会继续查询原任务，不会重新发起一笔生图请求。若后来切换供应商、模型或同步模式，仍有旧异步任务的菜谱会被挂起而不是重复生成；使用原供应商、模型和模式可继续查询。可用 `--poll-interval-ms` 和 `--task-timeout-ms` 调整轮询间隔与单次等待上限。
 
 每日批次结束后可先执行部分校验，并生成已有旧封面替换项的联系表做视觉审核：
 
@@ -83,7 +96,7 @@ node scripts/covers/validate.mjs --data-version 2026.07.28.1 --cover-version 202
 node scripts/covers/review.mjs --cover-version 2026.07.29.1 --only-replacements --generated-on 2026-07-30
 ```
 
-若第三方接口返回“今日免费生图次数已达上限”，生成器会立即停止尚未发出的请求；若连续 4 次返回空图片数据，也会临时熔断批次，避免接口波动时浪费整日额度。再次运行相同命令即可继续。
+若第三方接口返回“今日免费生图次数已达上限”，生成器会立即停止尚未发出的请求；若连续 4 次返回空图片数据，也会临时熔断批次，避免接口波动时浪费整日额度。再次运行相同命令即可继续。底层通用客户端同时兼容同步/异步图片编辑 `/images/edits`，但当前封面生成流程仍只使用文生图，不会读取旧封面或上游实拍图。
 
 如需只调整已经生成图片的移动端尺寸和压缩质量（不会调用接口），可执行：
 
